@@ -1,6 +1,15 @@
+# Audio originales y archivos intermedios del pipeline
 data/raw/
 separated/
+vocals_lista.txt
+
+# Entornos virtuales
 venv/
 .venv/
+
+# Python
 __pycache__/
 *.pyc
+
+# Metadata de Windows
+*.Identifier
