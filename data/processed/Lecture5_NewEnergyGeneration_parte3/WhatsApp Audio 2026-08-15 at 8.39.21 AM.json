@@ -1,0 +1,1772 @@
+[
+  {
+    "start": 0.0,
+    "end": 11.44,
+    "text": "China's space craft and also satellite, we all use gallium arsenide solar panels for power supply to the space."
+  },
+  {
+    "start": 13.62,
+    "end": 18.57,
+    "text": "For space PV, we also started cross-guide solar cells."
+  },
+  {
+    "start": 20.84,
+    "end": 29.44,
+    "text": "It has strong light absorption, long career diffusion length, and high defect tolerance, low temperature fabrication."
+  },
+  {
+    "start": 29.44,
+    "end": 37.48,
+    "text": "So it's around 100 centigrade or 150 centigrade that we can do the fabrication."
+  },
+  {
+    "start": 37.94,
+    "end": 40.76,
+    "text": "And tunable bandgap wire composition."
+  },
+  {
+    "start": 41.32,
+    "end": 49.44,
+    "text": "So for the bandgap it can from 1.5 to 2.6 around."
+  },
+  {
+    "start": 50.08,
+    "end": 54.08,
+    "text": "But it exists two main problems."
+  },
+  {
+    "start": 54.24,
+    "end": 55.58,
+    "text": "The first is poor stability."
+  },
+  {
+    "start": 55.58,
+    "end": 60.22,
+    "text": "Like, it is sensitive to moisture, heat, light, and bias."
+  },
+  {
+    "start": 61.02,
+    "end": 63.28,
+    "text": "So it's like a big problem, right?"
+  },
+  {
+    "start": 63.38,
+    "end": 65.96,
+    "text": "Because we put solar panels outside, right?"
+  },
+  {
+    "start": 66.2,
+    "end": 70.06,
+    "text": "So the second problem is like low, large area efficiency."
+  },
+  {
+    "start": 70.6,
+    "end": 79.32,
+    "text": "Now in my lab, we always fabricate the small area solar cells, devices."
+  },
+  {
+    "start": 79.32,
+    "end": 85.1,
+    "text": "So if we want to have a larger area, the efficiency is going to decrease very fast."
+  },
+  {
+    "start": 85.26,
+    "end": 88.12,
+    "text": "So it's really hard for this one."
+  },
+  {
+    "start": 88.32,
+    "end": 90.72,
+    "text": "So how are we going to solve all these problems?"
+  },
+  {
+    "start": 91.45,
+    "end": 93.17,
+    "text": "We have so many strategies."
+  },
+  {
+    "start": 93.73,
+    "end": 98.73,
+    "text": "The easiest one is the first one, compositional engineering."
+  },
+  {
+    "start": 99.57,
+    "end": 105.57,
+    "text": "That means when we fabricate or prepare the perovskite materials,"
+  },
+  {
+    "start": 105.57,
+    "end": 109.11,
+    "text": "we're going to change some molecules inside."
+  },
+  {
+    "start": 109.45,
+    "end": 112.47,
+    "text": "For perovskite, we have A site, B site, X site, right?"
+  },
+  {
+    "start": 112.59,
+    "end": 114.87,
+    "text": "So we're going to choose different molecules"
+  },
+  {
+    "start": 115.41,
+    "end": 118.89,
+    "text": "to have different stability and photovoltaic performance."
+  },
+  {
+    "start": 119.35,
+    "end": 123.01,
+    "text": "And second one is, after we have the perovskite filled,"
+  },
+  {
+    "start": 123.31,
+    "end": 124.37,
+    "text": "what are we going to do?"
+  },
+  {
+    "start": 124.51,
+    "end": 127.25,
+    "text": "We're going to do the passivation layer on the top."
+  },
+  {
+    "start": 127.53,
+    "end": 130.17,
+    "text": "This is interface passivation."
+  },
+  {
+    "start": 131.37,
+    "end": 132.91,
+    "text": "It can decrease the defect."
+  },
+  {
+    "start": 132.91,
+    "end": 141.37,
+    "text": "that and the third one is active engineering so we can put some materials or element inside of"
+  },
+  {
+    "start": 141.37,
+    "end": 148.45,
+    "text": "the precursor solution of perovskite as well and another one to increase the stability this is"
+  },
+  {
+    "start": 148.45,
+    "end": 155.05,
+    "text": "especially for stability we can get like low dimensional three-dimensional composite structures"
+  },
+  {
+    "start": 155.05,
+    "end": 161.13,
+    "text": "like 1D, 3D, or 2D, 3D to improve the stability."
+  },
+  {
+    "start": 161.97,
+    "end": 166.52,
+    "text": "And this one is for this problem."
+  },
+  {
+    "start": 166.76,
+    "end": 170.04,
+    "text": "So we are working on a large area fabrication process."
+  },
+  {
+    "start": 170.76,
+    "end": 183.37,
+    "text": "In this table on the right, this is about the space application project that happened before."
+  },
+  {
+    "start": 183.37,
+    "end": 190.03,
+    "text": "Like in the year of 2023, Honghu second satellite, we use single junction."
+  },
+  {
+    "start": 190.29,
+    "end": 197.18,
+    "text": "For all these single junction solar cells, the last one is, it's not showing very good."
+  },
+  {
+    "start": 197.4,
+    "end": 208.06,
+    "text": "For the last one is, I think it's, it should be opened by office software then it's gonna be right."
+  },
+  {
+    "start": 208.36,
+    "end": 209.76,
+    "text": "This is WKS probably."
+  },
+  {
+    "start": 210.38,
+    "end": 214.28,
+    "text": "So these are all for single junction PROMS guide."
+  },
+  {
+    "start": 214.28,
+    "end": 219.66,
+    "text": "we have it's like application in space and the last one we cannot see it here"
+  },
+  {
+    "start": 219.66,
+    "end": 227.22,
+    "text": "it's for tandem but I'm gonna talk about it quite soon now so for perovskite"
+  },
+  {
+    "start": 227.22,
+    "end": 232.48,
+    "text": "silicon tandem cells I mentioned earlier that we have two terminal and three"
+  },
+  {
+    "start": 232.48,
+    "end": 240.86,
+    "text": "terminal sorry four terminal and the efficiency is like 35, 30, 33 is pretty"
+  },
+  {
+    "start": 240.86,
+    "end": 241.52,
+    "text": "pretty high, right?"
+  },
+  {
+    "start": 241.7,
+    "end": 244.52,
+    "text": "This is like perovskite together with silicon."
+  },
+  {
+    "start": 244.88,
+    "end": 246.44,
+    "text": "This one is all perovskite."
+  },
+  {
+    "start": 246.64,
+    "end": 250.2,
+    "text": "On the top is white band gap perovskite."
+  },
+  {
+    "start": 250.5,
+    "end": 254.68,
+    "text": "The band gap is around 1.67 to 1.7."
+  },
+  {
+    "start": 255.0,
+    "end": 258.88,
+    "text": "And in the bottom is narrow band gap perovskite."
+  },
+  {
+    "start": 259.0,
+    "end": 259.86,
+    "text": "They are all perovskite."
+  },
+  {
+    "start": 260.02,
+    "end": 264.72,
+    "text": "And the band gap is around 1.2 to 1.26 probably."
+  },
+  {
+    "start": 265.2,
+    "end": 267.94,
+    "text": "And the last one is perovskite together"
+  },
+  {
+    "start": 267.94,
+    "end": 275.78,
+    "text": "with copper indium gallium selenide so why we do tender because it's beyond the"
+  },
+  {
+    "start": 275.78,
+    "end": 280.84,
+    "text": "single junction shock equation limiting right it can improve it has higher"
+  },
+  {
+    "start": 280.84,
+    "end": 286.86,
+    "text": "efficiency ceiling compatible with silicon photo industry and also strong"
+  },
+  {
+    "start": 286.86,
+    "end": 295.4,
+    "text": "potential for space and flexible applications so this year it's still"
+  },
+  {
+    "start": 295.4,
+    "end": 304.67,
+    "text": "like several months ago we had our shenzhou number 23 satellite magnet spacecraft launched into the"
+  },
+  {
+    "start": 304.67,
+    "end": 313.13,
+    "text": "space and we still use getting arsenide for the main power supply but we brought prospect solar"
+  },
+  {
+    "start": 313.13,
+    "end": 320.59,
+    "text": "cell to the space as well for the experiment we do real space and extreme experiment testing and"
+  },
+  {
+    "start": 320.59,
+    "end": 326.13,
+    "text": "also efficiency degradation data collection hopes that we can get good"
+  },
+  {
+    "start": 326.13,
+    "end": 334.01,
+    "text": "data in future and start space application for this another application"
+  },
+  {
+    "start": 334.01,
+    "end": 338.93,
+    "text": "for space TV is space solar power station and the wireless power"
+  },
+  {
+    "start": 338.93,
+    "end": 344.41,
+    "text": "transmission is divided into two type one is concentrating one another one is"
+  },
+  {
+    "start": 344.41,
+    "end": 379.5,
+    "text": "non-concentrated so actually it's pretty simple for for concentrated one it's"
+  },
+  {
+    "start": 379.5,
+    "end": 387.74,
+    "text": "pretty easy we just use a small common cheap lens right so put it on the top of"
+  },
+  {
+    "start": 387.74,
+    "end": 395.1,
+    "text": "our solar panel and then we can decrease the active area of solar panels and the non-concentrating"
+  },
+  {
+    "start": 395.1,
+    "end": 403.42,
+    "text": "one is very normal and general ones so these are advantagement and we have several different"
+  },
+  {
+    "start": 403.42,
+    "end": 412.83,
+    "text": "projects for this i don't have too much time left so for biomass i'm probably gonna"
+  },
+  {
+    "start": 412.83,
+    "end": 414.47,
+    "text": "I'm going to escape it, sorry."
+  },
+  {
+    "start": 416.38,
+    "end": 424.1,
+    "text": "For AI driving, for CASB, we have three steps for this."
+  },
+  {
+    "start": 424.36,
+    "end": 426.88,
+    "text": "The first one is we input data, right?"
+  },
+  {
+    "start": 427.06,
+    "end": 429.06,
+    "text": "We have all different types of data,"
+  },
+  {
+    "start": 429.14,
+    "end": 432.46,
+    "text": "like weather data, numerical weather prediction,"
+  },
+  {
+    "start": 432.78,
+    "end": 437.18,
+    "text": "and the plant operation data, spatial environmental data,"
+  },
+  {
+    "start": 437.36,
+    "end": 441.4,
+    "text": "for space use, grid operation data, market and load,"
+  },
+  {
+    "start": 441.4,
+    "end": 446.6,
+    "text": "for system, for market. We have all different types of data. We got this and input it."
+  },
+  {
+    "start": 446.84,
+    "end": 452.12,
+    "text": "And the second step is data fusion and cleaning. We first do data cleaning and"
+  },
+  {
+    "start": 452.12,
+    "end": 456.9,
+    "text": "then anomaly detection. Also, we're probably gonna have missing data, right?"
+  },
+  {
+    "start": 456.98,
+    "end": 464.32,
+    "text": "We do imputation as well and time synchronization and feature engineering."
+  },
+  {
+    "start": 464.76,
+    "end": 470.46,
+    "text": "In the third step, we have AI-ready features like time features. It's like"
+  },
+  {
+    "start": 470.46,
+    "end": 477.38,
+    "text": "hours, holiday, and the season, sunrise, sunset, and weather, like wind speed, cloud,"
+  },
+  {
+    "start": 477.58,
+    "end": 482.9,
+    "text": "cover, irradiation, temperature, and humidity. The last one is operation,"
+  },
+  {
+    "start": 483.18,
+    "end": 488.86,
+    "text": "operation features, it's like historic power, equipment features, and equipment features."
+  },
+  {
+    "start": 489.3,
+    "end": 499.08,
+    "text": "So we had all this data and put it into the machine, right, to calculate it, and we"
+  },
+  {
+    "start": 499.08,
+    "end": 501.1,
+    "text": "we can use all different models."
+  },
+  {
+    "start": 501.64,
+    "end": 506.64,
+    "text": "So we have too many AI models to use"
+  },
+  {
+    "start": 506.64,
+    "end": 509.36,
+    "text": "for forecasting for renewable energy."
+  },
+  {
+    "start": 509.6,
+    "end": 512.74,
+    "text": "We divide it into three types."
+  },
+  {
+    "start": 512.96,
+    "end": 515.5,
+    "text": "The first type is traditional machine learning,"
+  },
+  {
+    "start": 516.6,
+    "end": 517.22,
+    "text": "shadow models."
+  },
+  {
+    "start": 517.82,
+    "end": 520.32,
+    "text": "I'm gonna just talk about some of them."
+  },
+  {
+    "start": 520.44,
+    "end": 523.48,
+    "text": "Probably like, for example, ANNBP,"
+  },
+  {
+    "start": 523.48,
+    "end": 531.38,
+    "text": "like it's for non-linear mapping of wind speed power and irradiation power it is"
+  },
+  {
+    "start": 531.38,
+    "end": 538.58,
+    "text": "quite simple and easy to deploy and for example like the second one SVM SVR is"
+  },
+  {
+    "start": 538.58,
+    "end": 546.44,
+    "text": "for small sample wind and solar power prediction it's quite stable and there"
+  },
+  {
+    "start": 546.44,
+    "end": 553.7,
+    "text": "small data and we also have like random forest and the other the last one this"
+  },
+  {
+    "start": 553.7,
+    "end": 560.4,
+    "text": "one is combined diverse models so it can improve the robustness this is the first"
+  },
+  {
+    "start": 560.4,
+    "end": 565.22,
+    "text": "type the second type is like deep learning for temporal and spatial"
+  },
+  {
+    "start": 565.22,
+    "end": 576.61,
+    "text": "features for example like the first one LSTM it's for ultra short term and the"
+  },
+  {
+    "start": 576.61,
+    "end": 586.65,
+    "text": "short-term wind and photomotor forecasting it can handle time serious data but like the the other"
+  },
+  {
+    "start": 586.65,
+    "end": 593.85,
+    "text": "one the third one tcn it's for long term right long-term sequence prediction it has high parallel"
+  },
+  {
+    "start": 594.59,
+    "end": 605.52,
+    "text": "efficiency and the other one like transformer it's for multivariate and multi-step power prediction"
+  },
+  {
+    "start": 605.52,
+    "end": 614.14,
+    "text": "it is very strong modeling capability for long sequence so this is the first two different types"
+  },
+  {
+    "start": 614.14,
+    "end": 621.72,
+    "text": "and the third type we combine them together we choose some of them we call it hybrid models for"
+  },
+  {
+    "start": 621.72,
+    "end": 629.92,
+    "text": "example we combine LSTM together with transformer so it's for short-term day ahead wind or photovoltaic"
+  },
+  {
+    "start": 629.92,
+    "end": 636.88,
+    "text": "forecast and it has a short-term memory together with long sequence attention"
+  },
+  {
+    "start": 636.88,
+    "end": 643.84,
+    "text": "and for CNN together with LSTM and transformer it's for cloud charge and"
+  },
+  {
+    "start": 643.84,
+    "end": 649.74,
+    "text": "meteorology historical power fusion prediction as well so it's combined"
+  },
+  {
+    "start": 649.74,
+    "end": 656.86,
+    "text": "space time attention all together and the third one is like GNN and STGN"
+  },
+  {
+    "start": 656.86,
+    "end": 660.74,
+    "text": "And it's for multispatial and regional renewable energy"
+  },
+  {
+    "start": 660.74,
+    "end": 665.66,
+    "text": "forecasting and the modeling spatial correlation as well."
+  },
+  {
+    "start": 665.94,
+    "end": 668.14,
+    "text": "And the last one is PINN."
+  },
+  {
+    "start": 668.16,
+    "end": 672.24,
+    "text": "It's for wind or photomorphic physical integration"
+  },
+  {
+    "start": 672.24,
+    "end": 673.06,
+    "text": "prediction."
+  },
+  {
+    "start": 673.9,
+    "end": 680.96,
+    "text": "It can improve credibility and generalization ability."
+  },
+  {
+    "start": 681.86,
+    "end": 682.3,
+    "text": "Sorry."
+  },
+  {
+    "start": 683.1,
+    "end": 690.2,
+    "text": "Also, for artificial integrated drive and renewable power forecasting, it's also for"
+  },
+  {
+    "start": 690.2,
+    "end": 694.58,
+    "text": "engineering application, we can get the AI power forecasting results."
+  },
+  {
+    "start": 695.1,
+    "end": 702.28,
+    "text": "For example, for renewable energy grid integration and dispatch, also for energy storage optimization"
+  },
+  {
+    "start": 702.28,
+    "end": 709.78,
+    "text": "and control, virtual power plant aggregation, microgrid dynamic response, power electricity"
+  },
+  {
+    "start": 709.78,
+    "end": 715.92,
+    "text": "market training and also intelligent operation and maintenance and these are"
+  },
+  {
+    "start": 715.92,
+    "end": 725.72,
+    "text": "some projects in China like the first one is Quafu forecasting system for"
+  },
+  {
+    "start": 726.52,
+    "end": 732.02,
+    "text": "this one we mainly use high-risk numerical weather prediction together"
+  },
+  {
+    "start": 732.02,
+    "end": 739.52,
+    "text": "with artificial intelligence it can serve higher than 600 renewable plants"
+  },
+  {
+    "start": 739.52,
+    "end": 747.3,
+    "text": "and for wind or photovoltaic forecasting also for grid dispatch the second is"
+  },
+  {
+    "start": 747.3,
+    "end": 754.24,
+    "text": "from my hometown state grade Xinjiang AI forecasting system they mainly use multi"
+  },
+  {
+    "start": 754.24,
+    "end": 760.36,
+    "text": "algorithm AI forecasting and the forecast accuracy actually is pretty"
+  },
+  {
+    "start": 760.36,
+    "end": 768.56,
+    "text": "high for wind power is around 96% for photovoltaic is around 98% and for big"
+  },
+  {
+    "start": 768.56,
+    "end": 770.38,
+    "text": "big data renewable absorption as well."
+  },
+  {
+    "start": 770.66,
+    "end": 774.6,
+    "text": "And the third one is from this province, Fujian province."
+  },
+  {
+    "start": 775.5,
+    "end": 777.66,
+    "text": "It's for distributing PV models."
+  },
+  {
+    "start": 777.78,
+    "end": 779.92,
+    "text": "They use grid-based machine learning prediction"
+  },
+  {
+    "start": 780.62,
+    "end": 784.46,
+    "text": "and it's for country-level distributed photovoltaic"
+  },
+  {
+    "start": 784.46,
+    "end": 787.66,
+    "text": "distribution grid and lightweight machine learning."
+  },
+  {
+    "start": 790.73,
+    "end": 791.69,
+    "text": "Let's see."
+  },
+  {
+    "start": 792.17,
+    "end": 794.71,
+    "text": "This one is Shenzhen Energy, Huawei."
+  },
+  {
+    "start": 795.89,
+    "end": 798.15,
+    "text": "Probably you guys know this company, right?"
+  },
+  {
+    "start": 798.15,
+    "end": 807.59,
+    "text": "Huawei cloud forecasting system, they use Penghu, similar with Zantuan, this is a Huawei"
+  },
+  {
+    "start": 807.59,
+    "end": 813.69,
+    "text": "energy as well, sorry, Huawei company, in here as well they use Penghu based power forecast"
+  },
+  {
+    "start": 814.09,
+    "end": 821.73,
+    "text": "and it can increase prediction accuracy, it's like for wind, it can increase 10%, for photovoltaic,"
+  },
+  {
+    "start": 821.73,
+    "end": 827.41,
+    "text": "it can increase 2% is for cloud AI multi-energy forecast and for the other"
+  },
+  {
+    "start": 827.41,
+    "end": 834.51,
+    "text": "ones it's mainly like this one it's for power system and market forecasting and"
+  },
+  {
+    "start": 834.51,
+    "end": 840.65,
+    "text": "this weather big model together with AI is for prediction accuracy improvement"
+  },
+  {
+    "start": 840.65,
+    "end": 848.73,
+    "text": "around 3% to 5% the last one is power using power sector foundation model for"
+  },
+  {
+    "start": 848.73,
+    "end": 853.19,
+    "text": "For this one, the forecast accuracy can improve around 2.8%"
+  },
+  {
+    "start": 853.19,
+    "end": 857.65,
+    "text": "and for large model and 3D decision as well, okay?"
+  },
+  {
+    "start": 858.16,
+    "end": 862.25,
+    "text": "So now the third topic is about new power system"
+  },
+  {
+    "start": 862.25,
+    "end": 864.57,
+    "text": "integration and application."
+  },
+  {
+    "start": 865.77,
+    "end": 870.85,
+    "text": "Probably for this one, maybe you already have this topic,"
+  },
+  {
+    "start": 871.13,
+    "end": 872.79,
+    "text": "similar topic in the first day."
+  },
+  {
+    "start": 873.17,
+    "end": 874.67,
+    "text": "I'm not sure, okay."
+  },
+  {
+    "start": 874.67,
+    "end": 879.15,
+    "text": "Okay, so when we compare it for the traditional power system, right?"
+  },
+  {
+    "start": 879.27,
+    "end": 884.15,
+    "text": "So for traditional power system, it's like generation always follow load."
+  },
+  {
+    "start": 884.35,
+    "end": 889.79,
+    "text": "What kind of load we have, we're going to build what kind of power generation system, right?"
+  },
+  {
+    "start": 890.39,
+    "end": 892.71,
+    "text": "It's like one-way generation side."
+  },
+  {
+    "start": 892.99,
+    "end": 896.37,
+    "text": "But we have more and more renewable energies coming,"
+  },
+  {
+    "start": 896.53,
+    "end": 900.87,
+    "text": "so we're definitely going to build a new power system."
+  },
+  {
+    "start": 900.87,
+    "end": 907.81,
+    "text": "For this new power system, it has high renewable energy penetration and also multi-site coordinated"
+  },
+  {
+    "start": 908.33,
+    "end": 916.63,
+    "text": "flexibility management, and the most important one is interactive source grid load storage"
+  },
+  {
+    "start": 916.63,
+    "end": 917.37,
+    "text": "ecosystem."
+  },
+  {
+    "start": 917.83,
+    "end": 919.93,
+    "text": "We combine these four together."
+  },
+  {
+    "start": 920.31,
+    "end": 926.15,
+    "text": "I think in the first day's topic, Professor John also mentioned this, right?"
+  },
+  {
+    "start": 926.15,
+    "end": 935.81,
+    "text": "Okay, so I'm not going to very detail for this, for source grade load storage, but it's very important for new energy system."
+  },
+  {
+    "start": 936.15,
+    "end": 940.89,
+    "text": "So the key features is like source follows load, right?"
+  },
+  {
+    "start": 941.01,
+    "end": 946.59,
+    "text": "But load response to supply and storage balances fluctuation."
+  },
+  {
+    "start": 946.69,
+    "end": 951.97,
+    "text": "Remember what I mentioned earlier for PV power and wind power, right?"
+  },
+  {
+    "start": 952.03,
+    "end": 954.19,
+    "text": "It's like it's not stable."
+  },
+  {
+    "start": 954.19,
+    "end": 958.49,
+    "text": "and great friendly operation smart coordination control as well and key"
+  },
+  {
+    "start": 958.49,
+    "end": 964.85,
+    "text": "benefits is like it has more renewables inside we can combine PV, biomass, wind"
+  },
+  {
+    "start": 964.85,
+    "end": 972.39,
+    "text": "or maybe hydropower as well and it has lower costs and greater flexibility and"
+  },
+  {
+    "start": 972.39,
+    "end": 976.37,
+    "text": "and a very reliable supply, okay?"
+  },
+  {
+    "start": 978.84,
+    "end": 982.6,
+    "text": "For application, from generation side,"
+  },
+  {
+    "start": 984.02,
+    "end": 986.54,
+    "text": "I mentioned earlier about this, right?"
+  },
+  {
+    "start": 986.76,
+    "end": 989.26,
+    "text": "So for desert, for Gobi,"
+  },
+  {
+    "start": 989.88,
+    "end": 992.32,
+    "text": "bare land, ceiling, air-climbed land,"
+  },
+  {
+    "start": 992.66,
+    "end": 996.34,
+    "text": "for all these, we can use large-scale wind, solar bases."
+  },
+  {
+    "start": 997.08,
+    "end": 1000.28,
+    "text": "The advantagement is like, for all these places,"
+  },
+  {
+    "start": 1000.28,
+    "end": 1006.94,
+    "text": "says we have abundant wind and solar resources like my hometown and the lower land use constraints"
+  },
+  {
+    "start": 1007.64,
+    "end": 1015.54,
+    "text": "concentrated development conditions and suitable for long distance bulk power delivery and then"
+  },
+  {
+    "start": 1015.54,
+    "end": 1024.33,
+    "text": "in the right it's the projects for this generation side i'm not talking about all of these but this"
+  },
+  {
+    "start": 1024.33,
+    "end": 1032.15,
+    "text": "In the year of 2024, we had the first batch of large bases accelerated into operation."
+  },
+  {
+    "start": 1032.47,
+    "end": 1037.53,
+    "text": "This is very exciting, and we have a very important example in here."
+  },
+  {
+    "start": 1037.75,
+    "end": 1042.13,
+    "text": "It's in Ningxia province, it's Tanger Desert New Energy Base project."
+  },
+  {
+    "start": 1042.85,
+    "end": 1052.39,
+    "text": "We combined photovoltaic desert restoration, energy storage, and ultra-high voltage transmission"
+  },
+  {
+    "start": 1052.39,
+    "end": 1053.43,
+    "text": "mission all together."
+  },
+  {
+    "start": 1054.61,
+    "end": 1058.75,
+    "text": "This is a very important example."
+  },
+  {
+    "start": 1059.41,
+    "end": 1064.51,
+    "text": "And there's planned capacities, like around 13 gigawatts,"
+  },
+  {
+    "start": 1064.55,
+    "end": 1067.09,
+    "text": "and developed by Longyuan Power."
+  },
+  {
+    "start": 1067.39,
+    "end": 1068.59,
+    "text": "Longyuan Power, remember?"
+  },
+  {
+    "start": 1069.27,
+    "end": 1072.95,
+    "text": "Yesterday, when we visited there, we saw for the wind power."
+  },
+  {
+    "start": 1073.27,
+    "end": 1074.51,
+    "text": "OK, all right."
+  },
+  {
+    "start": 1074.65,
+    "end": 1075.33,
+    "text": "OK, thank you."
+  },
+  {
+    "start": 1075.51,
+    "end": 1080.39,
+    "text": "And the first three gigawatts of photovoltaic commission,"
+  },
+  {
+    "start": 1080.39,
+    "end": 1089.7,
+    "text": "like 295 megawatts okay I have less time but I still have many slides so for"
+  },
+  {
+    "start": 1089.7,
+    "end": 1095.28,
+    "text": "application sorry guys I will talk very fast from now sorry so another"
+  },
+  {
+    "start": 1095.28,
+    "end": 1100.26,
+    "text": "application from grid side we actually have the main two types the first type"
+  },
+  {
+    "start": 1100.26,
+    "end": 1107.22,
+    "text": "is like flexible high voltage direct current transmission technologies we"
+  },
+  {
+    "start": 1107.22,
+    "end": 1113.46,
+    "text": "have all these four different types and the second one is ultra high voltage direct transmission"
+  },
+  {
+    "start": 1113.46,
+    "end": 1121.76,
+    "text": "technology this is very suitable for my hometown like west of china and in the right it's the"
+  },
+  {
+    "start": 1121.76,
+    "end": 1129.24,
+    "text": "projects for this great site application and the other application is for the"
+  },
+  {
+    "start": 1129.24,
+    "end": 1136.71,
+    "text": "load side so we have many flexible load right for different load we can do the"
+  },
+  {
+    "start": 1136.71,
+    "end": 1143.79,
+    "text": "different work in here okay so I don't have time for the details sorry and from"
+  },
+  {
+    "start": 1143.79,
+    "end": 1149.53,
+    "text": "the energy storage side for this one I can talk very fast because we're gonna"
+  },
+  {
+    "start": 1149.53,
+    "end": 1155.65,
+    "text": "have presentation tomorrow and the day after tomorrow for visiting probably two"
+  },
+  {
+    "start": 1155.65,
+    "end": 1158.95,
+    "text": "Two types, the first one is short duration energy storage"
+  },
+  {
+    "start": 1159.27,
+    "end": 1162.01,
+    "text": "for frequency and the peak regulation."
+  },
+  {
+    "start": 1162.61,
+    "end": 1166.55,
+    "text": "Like we already familiar with lithium ion battery,"
+  },
+  {
+    "start": 1166.87,
+    "end": 1167.91,
+    "text": "sodium ion battery."
+  },
+  {
+    "start": 1168.13,
+    "end": 1170.45,
+    "text": "Also we have flywheel storage"
+  },
+  {
+    "start": 1170.71,
+    "end": 1174.49,
+    "text": "and together flywheel leads lithium ion."
+  },
+  {
+    "start": 1174.99,
+    "end": 1178.59,
+    "text": "If it's short term, we also have long duration"
+  },
+  {
+    "start": 1179.21,
+    "end": 1181.75,
+    "text": "energy storage like flow battery storage"
+  },
+  {
+    "start": 1181.75,
+    "end": 1190.01,
+    "text": "storage and other like compressed air energy storage okay this application is"
+  },
+  {
+    "start": 1190.01,
+    "end": 1199.98,
+    "text": "for smart micro grid and these are all about projects examples I will give talk"
+  },
+  {
+    "start": 1199.98,
+    "end": 1208.1,
+    "text": "about the first one in Beijing and we combined 1.8 megawatts distributed"
+  },
+  {
+    "start": 1208.1,
+    "end": 1215.08,
+    "text": "And for wind, it's like 4.8 megawatts, and for energy storage, 2.9."
+  },
+  {
+    "start": 1215.24,
+    "end": 1224.26,
+    "text": "Also, we have hydropower, like tube, 3-cylinder tube water storage and 0.7 megawatts micro tube, okay?"
+  },
+  {
+    "start": 1224.42,
+    "end": 1231.76,
+    "text": "And from virtual power plant application, we have four stages."
+  },
+  {
+    "start": 1231.76,
+    "end": 1238.04,
+    "text": "is the first one is exploration stage started with demand response and the commercial building load"
+  },
+  {
+    "start": 1238.04,
+    "end": 1244.24,
+    "text": "management the second is platform development and then we go to the marketing the third stage"
+  },
+  {
+    "start": 1244.24,
+    "end": 1251.7,
+    "text": "the last one is standardization and the scaling phase as well we improve the capacity like by"
+  },
+  {
+    "start": 1251.7,
+    "end": 1259.46,
+    "text": "By 2027, it's going to be higher than 20 gigawatts, and by 2030, higher than 50."
+  },
+  {
+    "start": 1261.77,
+    "end": 1266.35,
+    "text": "This application is also very important for green power direct connection."
+  },
+  {
+    "start": 1266.67,
+    "end": 1273.77,
+    "text": "It has dedicated lines, clear traceability, load-matched supply, and source-load storage"
+  },
+  {
+    "start": 1273.77,
+    "end": 1275.13,
+    "text": "coordination as well."
+  },
+  {
+    "start": 1275.13,
+    "end": 1283.01,
+    "text": "The first example also from China Energy, Donghua Steel, it's a very famous one."
+  },
+  {
+    "start": 1284.45,
+    "end": 1287.55,
+    "text": "And another one is Computing Power Coordination."
+  },
+  {
+    "start": 1287.87,
+    "end": 1291.79,
+    "text": "We have China Badian and the China Datong project."
+  },
+  {
+    "start": 1292.19,
+    "end": 1299.47,
+    "text": "Also we have it from Malaysia, Zhuhou Green Data Center Cluster, this is also a very good"
+  },
+  {
+    "start": 1299.47,
+    "end": 1299.71,
+    "text": "one."
+  },
+  {
+    "start": 1299.71,
+    "end": 1305.81,
+    "text": "And another one is from China, the EEC computing power center cluster."
+  },
+  {
+    "start": 1306.21,
+    "end": 1312.25,
+    "text": "It got the investment from Google, around 1 billion US dollars."
+  },
+  {
+    "start": 1312.49,
+    "end": 1313.81,
+    "text": "It's like a very good one."
+  },
+  {
+    "start": 1314.03,
+    "end": 1319.51,
+    "text": "And the capacity for IT load is higher than 500 megawatts."
+  },
+  {
+    "start": 1321.32,
+    "end": 1326.24,
+    "text": "This application is about system-friendly renewable energy station."
+  },
+  {
+    "start": 1327.66,
+    "end": 1336.58,
+    "text": "The example is from China's three gorges, Wulan Chabu, a grid-friendly green powder"
+  },
+  {
+    "start": 1337.19,
+    "end": 1343.18,
+    "text": "station demonstration project, and the energy storage is 30 percent of the installed capacity"
+  },
+  {
+    "start": 1343.18,
+    "end": 1345.12,
+    "text": "of wind and photovoltaic."
+  },
+  {
+    "start": 1345.26,
+    "end": 1353.0,
+    "text": "And another one is the first batch of, this is from National Energy Administration New"
+  },
+  {
+    "start": 1353.0,
+    "end": 1360.62,
+    "text": "power system pilots like in different cities. For this one is directly in this"
+  },
+  {
+    "start": 1360.62,
+    "end": 1367.31,
+    "text": "city, Fuzhou, Fujian, large-scale offshore wind power which like we visited"
+  },
+  {
+    "start": 1367.31,
+    "end": 1376.72,
+    "text": "yesterday. Okay sorry, almost done. Probably this one you guys are going to"
+  },
+  {
+    "start": 1376.72,
+    "end": 1382.9,
+    "text": "interested, right? But this one probably you will see it from tomorrow's presentation."
+  },
+  {
+    "start": 1382.9,
+    "end": 1400.04,
+    "text": "The last one is policy. I'm not going to talk about the policy. The policy is for new energy development and policies for new energy consumption and policies for new power system and also policies for electricity market."
+  },
+  {
+    "start": 1400.52,
+    "end": 1411.52,
+    "text": "So it's very complicated, right? And also we have some electricity market mechanism as well. We have like ancillary service market, sport market, medium and long term market."
+  },
+  {
+    "start": 1411.52,
+    "end": 1418.78,
+    "text": "So even for market we have so many different types and green electricity and green certificate"
+  },
+  {
+    "start": 1418.78,
+    "end": 1421.14,
+    "text": "market, this is a very important one."
+  },
+  {
+    "start": 1421.38,
+    "end": 1426.12,
+    "text": "So we have new energy electricity first and trading, right?"
+  },
+  {
+    "start": 1426.28,
+    "end": 1432.56,
+    "text": "And after that we have issuance and the trading, corporate green consumption as well under"
+  },
+  {
+    "start": 1432.56,
+    "end": 1434.36,
+    "text": "the carbon footprint."
+  },
+  {
+    "start": 1434.36,
+    "end": 1443.32,
+    "text": "print this is about the data for our green electricity and green certificate"
+  },
+  {
+    "start": 1443.32,
+    "end": 1450.02,
+    "text": "market the data from last year for power trading volume issue volume so what we"
+  },
+  {
+    "start": 1450.02,
+    "end": 1460.55,
+    "text": "get and the trading volume as well okay economic boundary okay that's a shame"
+  },
+  {
+    "start": 1460.55,
+    "end": 1464.83,
+    "text": "This is my research work that I also want to talk about."
+  },
+  {
+    "start": 1465.01,
+    "end": 1467.03,
+    "text": "So I will talk very fast."
+  },
+  {
+    "start": 1467.27,
+    "end": 1468.85,
+    "text": "Normal silicon solar cells."
+  },
+  {
+    "start": 1469.01,
+    "end": 1472.55,
+    "text": "Before, I worked on dye-sensitized solar cells"
+  },
+  {
+    "start": 1472.55,
+    "end": 1475.87,
+    "text": "and some photoelectric functional materials."
+  },
+  {
+    "start": 1476.31,
+    "end": 1479.87,
+    "text": "And now, I mainly work on perovskite solar cells,"
+  },
+  {
+    "start": 1480.01,
+    "end": 1483.75,
+    "text": "perovskite together with silicon, also on perovskite,"
+  },
+  {
+    "start": 1483.81,
+    "end": 1486.65,
+    "text": "tandem, and for charge-transporting layer"
+  },
+  {
+    "start": 1486.65,
+    "end": 1487.73,
+    "text": "and the passivation."
+  },
+  {
+    "start": 1487.73,
+    "end": 1496.95,
+    "text": "we use we also use some simulation using this method and this is what we do first"
+  },
+  {
+    "start": 1496.95,
+    "end": 1502.51,
+    "text": "theoretical calculation from simulation we calculate band structure charge density"
+  },
+  {
+    "start": 1502.51,
+    "end": 1507.39,
+    "text": "distribution and environmental stability in the first time to choose all the"
+  },
+  {
+    "start": 1507.39,
+    "end": 1512.57,
+    "text": "layers all materials and in the second time we do experiment to get fabricates"
+  },
+  {
+    "start": 1512.57,
+    "end": 1521.27,
+    "text": "the film and materials. This is like perovskite, normal three-dimensional and this one is what"
+  },
+  {
+    "start": 1521.27,
+    "end": 1527.89,
+    "text": "I mentioned we combined 2D and 3D together to improve the stability and that one is for"
+  },
+  {
+    "start": 1528.41,
+    "end": 1536.75,
+    "text": "charge transporting layer and in the last step we do device fabrication in here so we can see"
+  },
+  {
+    "start": 1536.75,
+    "end": 1543.29,
+    "text": "obviously this is a whole device from the bottom to the top to the electrode"
+  },
+  {
+    "start": 1543.29,
+    "end": 1552.5,
+    "text": "this is a mechanism and this is another device structure so my research field"
+  },
+  {
+    "start": 1553.2,
+    "end": 1558.28,
+    "text": "like the first one is even its prop guide we have different types right so"
+  },
+  {
+    "start": 1558.28,
+    "end": 1563.84,
+    "text": "first one is lead based prop guide I'm not going to the advantagement but I"
+  },
+  {
+    "start": 1563.84,
+    "end": 1566.42,
+    "text": "I mentioned the stability is a big problem."
+  },
+  {
+    "start": 1566.68,
+    "end": 1569.08,
+    "text": "So now we focus on stability study,"
+  },
+  {
+    "start": 1569.38,
+    "end": 1573.1,
+    "text": "and we design and fabricate the new devices,"
+  },
+  {
+    "start": 1573.3,
+    "end": 1576.2,
+    "text": "device optimization, new materials, deployment."
+  },
+  {
+    "start": 1577.16,
+    "end": 1580.48,
+    "text": "So like several years ago,"
+  },
+  {
+    "start": 1580.68,
+    "end": 1583.44,
+    "text": "we mainly used ALD for perovskite."
+  },
+  {
+    "start": 1583.64,
+    "end": 1587.78,
+    "text": "We can get very uniform and dense films"
+  },
+  {
+    "start": 1587.78,
+    "end": 1589.84,
+    "text": "and functional layers."
+  },
+  {
+    "start": 1589.84,
+    "end": 1599.54,
+    "text": "years. This is another one for teen lead-mixed probes gap. It's not stable as well. It even"
+  },
+  {
+    "start": 1599.54,
+    "end": 1607.28,
+    "text": "has very poor, very bad stability compared with the previous one. But why are we still"
+  },
+  {
+    "start": 1607.28,
+    "end": 1613.8,
+    "text": "working on it? Why? I don't want it. Ideal band gap, right? When we put teen inside,"
+  },
+  {
+    "start": 1613.8,
+    "end": 1619.92,
+    "text": "we can we can change the percentage of tin inside and then we can change the"
+  },
+  {
+    "start": 1619.92,
+    "end": 1625.7,
+    "text": "band gap from 1.2 like different and also it's suitable for tandem cells I"
+  },
+  {
+    "start": 1625.7,
+    "end": 1630.66,
+    "text": "mentioned that for bottom cell we use narrow band gap solar cells right so we"
+  },
+  {
+    "start": 1630.66,
+    "end": 1639.5,
+    "text": "use this one so for stability we have all these different strategies this is"
+  },
+  {
+    "start": 1639.5,
+    "end": 1640.96,
+    "text": "This is for solution strategy."
+  },
+  {
+    "start": 1641.52,
+    "end": 1644.42,
+    "text": "So for team lead, mixed PROWS guide,"
+  },
+  {
+    "start": 1644.64,
+    "end": 1647.0,
+    "text": "we also focus, the first thing is stability."
+  },
+  {
+    "start": 1647.46,
+    "end": 1649.82,
+    "text": "We are not focused on conversion efficiency."
+  },
+  {
+    "start": 1650.16,
+    "end": 1650.4,
+    "text": "Why?"
+  },
+  {
+    "start": 1650.62,
+    "end": 1654.42,
+    "text": "It's growing very fast and it's not that hard"
+  },
+  {
+    "start": 1654.42,
+    "end": 1656.68,
+    "text": "to get high efficiency, but for stability."
+  },
+  {
+    "start": 1657.2,
+    "end": 1660.64,
+    "text": "So that's why commercialization is not studied"
+  },
+  {
+    "start": 1661.04,
+    "end": 1663.94,
+    "text": "and we don't have market share until now for PROWS guide."
+  },
+  {
+    "start": 1664.54,
+    "end": 1666.16,
+    "text": "And this is some research work."
+  },
+  {
+    "start": 1666.36,
+    "end": 1667.78,
+    "text": "For example, like proper layer,"
+  },
+  {
+    "start": 1667.78,
+    "end": 1675.5,
+    "text": "I mentioned like we have in interface passivation right so we use here silicon"
+  },
+  {
+    "start": 1676.0,
+    "end": 1681.24,
+    "text": "aluminum oxide and silicon oxide together for the buffer layers this is"
+  },
+  {
+    "start": 1681.78,
+    "end": 1689.08,
+    "text": "process the whole process how we do it using ALD and passivation layer is very"
+  },
+  {
+    "start": 1689.08,
+    "end": 1695.92,
+    "text": "similar with buffer layer and also we use active materials this is tin lead"
+  },
+  {
+    "start": 1695.92,
+    "end": 1705.58,
+    "text": "So when we use materials, it can combine with lead irons or tin irons to stop the degradation."
+  },
+  {
+    "start": 1706.12,
+    "end": 1712.48,
+    "text": "And for the preservation layer, in that one, we also use magnesium oxide as well."
+  },
+  {
+    "start": 1712.86,
+    "end": 1716.36,
+    "text": "This is my academic achievements."
+  },
+  {
+    "start": 1716.44,
+    "end": 1724.1,
+    "text": "And for the books I wrote, even the title is in Chinese, but inside of the book, it's totally English."
+  },
+  {
+    "start": 1724.1,
+    "end": 1726.92,
+    "text": "It's an English book, but it's published in China."
+  },
+  {
+    "start": 1727.06,
+    "end": 1728.62,
+    "text": "So the title is in Chinese."
+  },
+  {
+    "start": 1729.5,
+    "end": 1731.28,
+    "text": "This is my research collaboration"
+  },
+  {
+    "start": 1731.28,
+    "end": 1732.64,
+    "text": "with different universities."
+  },
+  {
+    "start": 1734.04,
+    "end": 1735.48,
+    "text": "OK, thank you."
+  },
+  {
+    "start": 1740.44,
+    "end": 1742.81,
+    "text": "Feel free to raise a question."
+  },
+  {
+    "start": 1743.01,
+    "end": 1745.87,
+    "text": "Even if the professor may not talk so much,"
+  },
+  {
+    "start": 1746.03,
+    "end": 1748.67,
+    "text": "we still got time for the Q&A session."
+  },
+  {
+    "start": 1749.03,
+    "end": 1749.75,
+    "text": "No rush."
+  },
+  {
+    "start": 1750.37,
+    "end": 1750.93,
+    "text": "Anyone?"
+  },
+  {
+    "start": 1767.64,
+    "end": 1780.58,
+    "text": "I would like to ask, what is the minimum wind speed before we know it is visible to be a wind power plant in that area?"
+  },
+  {
+    "start": 1781.14,
+    "end": 1782.96,
+    "text": "You mean land, right?"
+  },
+  {
+    "start": 1784.16,
+    "end": 1794.8,
+    "text": "Minimum, probably around 40, because we need higher wind resources, right, for the wind power generation."
+  },
+  {
+    "start": 1794.8,
+    "end": 1802.23,
+    "text": "So normally, in the sea, it's higher, right, compared with the land."
+  },
+  {
+    "start": 1802.49,
+    "end": 1808.35,
+    "text": "So in the sea, it's around 48, 45, or even sometimes higher than that."
+  },
+  {
+    "start": 1808.51,
+    "end": 1815.67,
+    "text": "But it's like changeable. It's not stable. It's not like a stable wind speed."
+  },
+  {
+    "start": 1815.93,
+    "end": 1820.55,
+    "text": "So for land, probably around 40 or even 35 probably."
+  },
+  {
+    "start": 1820.55,
+    "end": 1827.05,
+    "text": "But not lower than that, because we need a higher wind resource to get power generation."
+  },
+  {
+    "start": 1827.61,
+    "end": 1833.12,
+    "text": "Thank you. All right. Any other questions?"
+  },
+  {
+    "start": 1833.6,
+    "end": 1841.84,
+    "text": "Thank you. I just have a few questions and clarification."
+  },
+  {
+    "start": 1842.26,
+    "end": 1851.64,
+    "text": "First, is typhoon-resistant winter lines part of the technological innovation, especially super typhoons are coming?"
+  },
+  {
+    "start": 1855.77,
+    "end": 1858.67,
+    "text": "Can you say it again? Sorry."
+  },
+  {
+    "start": 1858.67,
+    "end": 1875.11,
+    "text": "Is part of the technological innovation or the technologies being deployed with a typhoon-resistant wind turbines, especially super typhoons ranging from 300 kilometers per second?"
+  },
+  {
+    "start": 1876.38,
+    "end": 1882.46,
+    "text": "Okay, all right. Actually for this one, I think I'm not going to answer this question,"
+  },
+  {
+    "start": 1882.6,
+    "end": 1889.3,
+    "text": "because I'm not very professional for wind power generation, so I'm afraid that, yeah."
+  },
+  {
+    "start": 1889.64,
+    "end": 1897.38,
+    "text": "Yeah, see? Yeah. Thank you. Yeah, yeah. If you ask more about photomartic, I'm happy to answer."
+  },
+  {
+    "start": 1897.38,
+    "end": 1907.8,
+    "text": "Just also a clarification on the Dongshin Shinkan offshore, is it a wind, solar, and battery storage integration?"
+  },
+  {
+    "start": 1908.7,
+    "end": 1913.16,
+    "text": "Yes, wind, solar power, and also photovoltaic panels together."
+  },
+  {
+    "start": 1914.16,
+    "end": 1924.24,
+    "text": "And just a clarification also with regards to offshore technologies, whether solar or wind,"
+  },
+  {
+    "start": 1926.22,
+    "end": 1939.16,
+    "text": "Why does China have more of a floating structure offshore? Is it based on the water depth, or is there any consideration to that?"
+  },
+  {
+    "start": 1939.66,
+    "end": 1947.48,
+    "text": "I think probably it's easy to do, because I also mentioned it earlier, it's the first time we use the fixed one, right?"
+  },
+  {
+    "start": 1947.48,
+    "end": 1948.42,
+    "text": "but it's very major."
+  },
+  {
+    "start": 1948.66,
+    "end": 1951.76,
+    "text": "But for the fixed one, it's not flexible."
+  },
+  {
+    "start": 1952.56,
+    "end": 1956.34,
+    "text": "If we use floating, we have many other choices, options."
+  },
+  {
+    "start": 1956.78,
+    "end": 1962.12,
+    "text": "Because no matter for wind power, materials, or blades,"
+  },
+  {
+    "start": 1962.4,
+    "end": 1965.3,
+    "text": "and also for photovoltaic panels,"
+  },
+  {
+    "start": 1965.58,
+    "end": 1967.16,
+    "text": "we have many different choices."
+  },
+  {
+    "start": 1967.56,
+    "end": 1970.86,
+    "text": "So for floating one, probably it's easy to do, more easier."
+  },
+  {
+    "start": 1971.32,
+    "end": 1971.88,
+    "text": "Yeah."
+  },
+  {
+    "start": 1972.14,
+    "end": 1973.44,
+    "text": "Thank you, thank you so much."
+  },
+  {
+    "start": 1973.48,
+    "end": 1974.56,
+    "text": "Thank you, thank you."
+  },
+  {
+    "start": 1974.56,
+    "end": 1988.83,
+    "text": "Hello, my name is and I would like to know what is – what do you think"
+  },
+  {
+    "start": 1988.83,
+    "end": 1991.97,
+    "text": "about the future of the solar cells?"
+  },
+  {
+    "start": 1992.17,
+    "end": 1995.47,
+    "text": "Which technology will prevail in the next years?"
+  },
+  {
+    "start": 1995.71,
+    "end": 2005.73,
+    "text": "Will they – will this technology bring the levelized cost of energy from other systems"
+  },
+  {
+    "start": 2005.73,
+    "end": 2008.37,
+    "text": "it comes even lower than now and"
+  }
+]

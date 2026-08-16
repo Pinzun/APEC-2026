@@ -1,0 +1,3472 @@
+[
+  {
+    "start": 0.0,
+    "end": 5.36,
+    "text": "security and the low carbon transformation continuing from the previous session this"
+  },
+  {
+    "start": 5.36,
+    "end": 10.7,
+    "text": "lecture will focus on power grade security management supporting technical solutions"
+  },
+  {
+    "start": 10.7,
+    "end": 17.94,
+    "text": "for carbon emission reduction under high new energy penetration rate if you have industrial"
+  },
+  {
+    "start": 17.94,
+    "end": 23.94,
+    "text": "related questions please raise your hand for the q and a at the end of the lecture please welcome"
+  },
+  {
+    "start": 23.94,
+    "end": 24.64,
+    "text": "Welcome, Professor Zhang."
+  },
+  {
+    "start": 29.38,
+    "end": 32.22,
+    "text": "OK, I'm very glad to communicate with you."
+  },
+  {
+    "start": 32.66,
+    "end": 37.46,
+    "text": "And during my speech, if you have any questions,"
+  },
+  {
+    "start": 37.68,
+    "end": 41.85,
+    "text": "you can use any kind of questions."
+  },
+  {
+    "start": 44.52,
+    "end": 48.5,
+    "text": "OK, the next topic is for the new type of power system"
+  },
+  {
+    "start": 48.5,
+    "end": 51.28,
+    "text": "security and low carbon transformation."
+  },
+  {
+    "start": 51.78,
+    "end": 55.97,
+    "text": "And we will divide it into two parts."
+  },
+  {
+    "start": 56.31,
+    "end": 58.71,
+    "text": "The first part is for the security."
+  },
+  {
+    "start": 58.71,
+    "end": 63.37,
+    "text": "What kind of security we have to do this for the new kind of cloud system?"
+  },
+  {
+    "start": 63.73,
+    "end": 73.68,
+    "text": "And the next part is for the collaborative completion of the source network load, storage, and guest hub."
+  },
+  {
+    "start": 75.32,
+    "end": 80.32,
+    "text": "So this was the first part of the new cloud system security."
+  },
+  {
+    "start": 80.48,
+    "end": 82.3,
+    "text": "I don't understand that."
+  },
+  {
+    "start": 82.3,
+    "end": 94.92,
+    "text": "In the last section of the lecture, we have already summarized the characteristics of the new step of the power system."
+  },
+  {
+    "start": 95.26,
+    "end": 109.48,
+    "text": "That is how to convey efficient consumption and make a stable operation through high proportion of the renewable energy and high proportion of the power electronics."
+  },
+  {
+    "start": 109.48,
+    "end": 116.38,
+    "text": "How to operate it? How to make the power system to be operated, to be stable operation?"
+  },
+  {
+    "start": 116.9,
+    "end": 119.7,
+    "text": "This is one difficult problem."
+  },
+  {
+    "start": 120.56,
+    "end": 129.68,
+    "text": "And another difficult problem is that a large number of power electronic devices are widely integrated into the system."
+  },
+  {
+    "start": 129.68,
+    "end": 141.12,
+    "text": "And such kind of power electronic devices will be active very fast, in milliseconds or microseconds."
+  },
+  {
+    "start": 141.36,
+    "end": 150.02,
+    "text": "So fast regulation of the power electronics will make the power system initially become weaker and weaker."
+  },
+  {
+    "start": 150.54,
+    "end": 152.84,
+    "text": "So this is the second difficulty."
+  },
+  {
+    "start": 152.84,
+    "end": 160.03,
+    "text": "And then China will encounter another continuous load growth."
+  },
+  {
+    "start": 160.73,
+    "end": 170.45,
+    "text": "So our power, electricity consumption will be doubled compared with now, with 2035."
+  },
+  {
+    "start": 170.91,
+    "end": 177.53,
+    "text": "And it will be doubled until 2050. The total consumption will be doubled."
+  },
+  {
+    "start": 177.53,
+    "end": 191.0,
+    "text": "And this doubled power generation, maybe 100% of this double increased amount will be achieved by the renewable energy."
+  },
+  {
+    "start": 191.0,
+    "end": 209.49,
+    "text": "But for the remaining, for the stable remaining generation is still a lot of, a large percentage of the remaining power requirements also will be substituted by the new energy."
+  },
+  {
+    "start": 209.49,
+    "end": 218.63,
+    "text": "So how to meet the consumer's needs and how to meet the user requirements for the high quality of power plants."
+  },
+  {
+    "start": 219.03,
+    "end": 233.69,
+    "text": "So this is also a very difficult task for the next year because the durability and the power quality will affect the Chinese economy very, very seriously."
+  },
+  {
+    "start": 233.69,
+    "end": 241.88,
+    "text": "For example, last year, in Shanghai, there was a big company to produce chips."
+  },
+  {
+    "start": 243.62,
+    "end": 253.22,
+    "text": "It encountered a power set and encountered a lot of losses, economic damage for the production."
+  },
+  {
+    "start": 254.08,
+    "end": 262.63,
+    "text": "We think that such kind of enterprises, such kind of users will become, increasingly become"
+  },
+  {
+    "start": 262.63,
+    "end": 263.71,
+    "text": "larger and larger."
+  },
+  {
+    "start": 263.89,
+    "end": 270.33,
+    "text": "So the power quality, power reliability will be a very serious problem for China."
+  },
+  {
+    "start": 271.9,
+    "end": 277.5,
+    "text": "And the last difficulty is that in the conventional, coal-fired power plants are gradually reduced."
+  },
+  {
+    "start": 277.5,
+    "end": 284.6,
+    "text": "And finally, the power plant proportion, the coal-fired power plant proportion will reduce"
+  },
+  {
+    "start": 284.6,
+    "end": 287.2,
+    "text": "to 20%, or less than 20%."
+  },
+  {
+    "start": 287.2,
+    "end": 296.18,
+    "text": "And this 20% of coal-fired power plants will be reformed by the low carbon, will be reformed"
+  },
+  {
+    "start": 296.18,
+    "end": 300.38,
+    "text": "by the new technology, for example, the carbon capture, and so on."
+  },
+  {
+    "start": 300.38,
+    "end": 309.23,
+    "text": "So we encounter so many difficulties on how to make a reliable operation of the new power system."
+  },
+  {
+    "start": 309.59,
+    "end": 314.93,
+    "text": "And this is the security problem in the surveillance service."
+  },
+  {
+    "start": 315.09,
+    "end": 319.17,
+    "text": "So we summarize the six securities."
+  },
+  {
+    "start": 319.57,
+    "end": 321.93,
+    "text": "The first is for the system security."
+  },
+  {
+    "start": 322.29,
+    "end": 328.15,
+    "text": "That is how to prevent the large scale power outage for the power system."
+  },
+  {
+    "start": 328.15,
+    "end": 331.3,
+    "text": "This is the system security."
+  },
+  {
+    "start": 331.6,
+    "end": 335.06,
+    "text": "The second one is network and information security."
+  },
+  {
+    "start": 335.54,
+    "end": 339.26,
+    "text": "There's a cyber attack, how to prevent a cyber attack."
+  },
+  {
+    "start": 339.88,
+    "end": 343.86,
+    "text": "For example, in China, the authorities,"
+  },
+  {
+    "start": 344.61,
+    "end": 347.61,
+    "text": "when every year, the authorities will issue"
+  },
+  {
+    "start": 349.35,
+    "end": 354.79,
+    "text": "remote cyber attack to each substations,"
+  },
+  {
+    "start": 354.83,
+    "end": 357.65,
+    "text": "to each substations."
+  },
+  {
+    "start": 358.85,
+    "end": 365.73,
+    "text": "Every attack will defeat some transformational systems."
+  },
+  {
+    "start": 366.63,
+    "end": 368.93,
+    "text": "And the third one is personal safety."
+  },
+  {
+    "start": 369.43,
+    "end": 375.13,
+    "text": "That is, every year there is a personal death by the electricity."
+  },
+  {
+    "start": 375.57,
+    "end": 378.55,
+    "text": "And the fourth one is equipment safety."
+  },
+  {
+    "start": 378.91,
+    "end": 382.77,
+    "text": "How to maintain the equipment to be safely operating."
+  },
+  {
+    "start": 382.77,
+    "end": 391.82,
+    "text": "And another one is the electric, the so-called electrical systems, the environmental systems,"
+  },
+  {
+    "start": 392.02,
+    "end": 399.3,
+    "text": "and some low-voltage, low-voltage systems, that is the user, user-compatible, because"
+  },
+  {
+    "start": 399.3,
+    "end": 406.58,
+    "text": "a lot of distributed PV connected to the lower network, how to maintain the safety of the"
+  },
+  {
+    "start": 406.58,
+    "end": 407.78,
+    "text": "low-voltage systems."
+  },
+  {
+    "start": 407.78,
+    "end": 418.53,
+    "text": "So the sixth security system is encountered by our power system planners and power system creators."
+  },
+  {
+    "start": 419.57,
+    "end": 422.09,
+    "text": "And the first one is the system security."
+  },
+  {
+    "start": 422.7,
+    "end": 434.54,
+    "text": "So as what we said, we have encountered such a complex, such a complex, such a high proportion of renewable energy over the power system."
+  },
+  {
+    "start": 434.54,
+    "end": 441.42,
+    "text": "how to maintain the system to be operated with reliability and safety."
+  },
+  {
+    "start": 442.62,
+    "end": 449.63,
+    "text": "Because of the reliability and the intensity of the high proportion of the energy,"
+  },
+  {
+    "start": 450.07,
+    "end": 452.51,
+    "text": "we have to make a balance every time."
+  },
+  {
+    "start": 454.42,
+    "end": 460.64,
+    "text": "And the power electronics makes the system initial to be reduced very fast."
+  },
+  {
+    "start": 460.64,
+    "end": 468.4,
+    "text": "And then the load characteristics become changed to the power constant."
+  },
+  {
+    "start": 468.94,
+    "end": 475.26,
+    "text": "So the load is very sensitive to the voltage fluctuations."
+  },
+  {
+    "start": 476.7,
+    "end": 483.52,
+    "text": "So this means that the operation to maintain the voltage is quite difficult."
+  },
+  {
+    "start": 483.52,
+    "end": 491.8,
+    "text": "And the last one is that the proportion of the electricity received outside the urban,"
+  },
+  {
+    "start": 491.94,
+    "end": 494.34,
+    "text": "outside the big city, becomes larger and larger."
+  },
+  {
+    "start": 494.56,
+    "end": 499.46,
+    "text": "So the city, especially in Shanghai and Beijing, such a big city,"
+  },
+  {
+    "start": 499.6,
+    "end": 505.6,
+    "text": "encounters risk for the reactive power collapse, for the voltage collapse."
+  },
+  {
+    "start": 506.65,
+    "end": 513.49,
+    "text": "So this voltage has already occurred in the western countries,"
+  },
+  {
+    "start": 513.49,
+    "end": 518.27,
+    "text": "for example in London, in Paris, in the western of the United States,"
+  },
+  {
+    "start": 518.37,
+    "end": 525.31,
+    "text": "they encountered several system outages for the voltage collapse."
+  },
+  {
+    "start": 526.29,
+    "end": 531.61,
+    "text": "That is that you have less reactive power support,"
+  },
+  {
+    "start": 531.93,
+    "end": 538.05,
+    "text": "so that if there is a short circuit in the high voltage system,"
+  },
+  {
+    "start": 538.05,
+    "end": 543.87,
+    "text": "the reactive power becomes very, very, very short."
+  },
+  {
+    "start": 544.23,
+    "end": 546.51,
+    "text": "So the voltage becomes collapsed."
+  },
+  {
+    "start": 547.34,
+    "end": 555.96,
+    "text": "So just like London, like Paris, and the Western, the Silicon,"
+  },
+  {
+    "start": 556.64,
+    "end": 561.14,
+    "text": "the Western United States, all of these developed countries"
+  },
+  {
+    "start": 561.14,
+    "end": 563.28,
+    "text": "encounter the voltage collapse."
+  },
+  {
+    "start": 563.96,
+    "end": 566.68,
+    "text": "So this is our encounter."
+  },
+  {
+    "start": 566.68,
+    "end": 576.31,
+    "text": "So we have to pay more attention to the system security, and such a large-scale power outage"
+  },
+  {
+    "start": 576.97,
+    "end": 584.87,
+    "text": "occasionally occurs frequently, for example, in Brazil, I don't know if someone from Brazil"
+  },
+  {
+    "start": 585.41,
+    "end": 595.54,
+    "text": "experienced a major blackout in 2018, and due to the protection of sighting areas."
+  },
+  {
+    "start": 595.54,
+    "end": 602.84,
+    "text": "For example, Argentina, in 2019, they also encountered massive blackouts."
+  },
+  {
+    "start": 603.83,
+    "end": 608.83,
+    "text": "For example, in 2022, a large-scale power outage occurred in Taiwan."
+  },
+  {
+    "start": 609.47,
+    "end": 614.79,
+    "text": "And this also makes the user loss a lot of loads."
+  },
+  {
+    "start": 615.84,
+    "end": 623.8,
+    "text": "And the United Kingdom, and also typhoon, super typhoon, affect the Hainan province."
+  },
+  {
+    "start": 623.8,
+    "end": 633.08,
+    "text": "And such large-scale outage belongs to the system safety, because it belongs to the high"
+  },
+  {
+    "start": 633.08,
+    "end": 640.9,
+    "text": "outage, or over-high outage system, to encounter some short-scale, encounter some outage, and"
+  },
+  {
+    "start": 641.48,
+    "end": 645.2,
+    "text": "result in a large-scale outage of the users."
+  },
+  {
+    "start": 646.83,
+    "end": 654.05,
+    "text": "And we have to encounter such a problem, we have to use, to solve the power system security"
+  },
+  {
+    "start": 654.05,
+    "end": 660.13,
+    "text": "security through intelligent means. For example, in the state grid, we use a lot of intelligent"
+  },
+  {
+    "start": 661.13,
+    "end": 669.07,
+    "text": "dispatching for the power system. Just as what I said, we reduce the period of the decision,"
+  },
+  {
+    "start": 670.85,
+    "end": 677.91,
+    "text": "dispatching decisions, from 15 minutes to maybe 10 minutes to 5 minutes, and then we"
+  },
+  {
+    "start": 677.91,
+    "end": 682.95,
+    "text": "use the intelligent dispatching of power system to reduce the outage of the power system."
+  },
+  {
+    "start": 682.95,
+    "end": 694.31,
+    "text": "This is one. Technology uses the intelligent means to solve, to increase the power system, the system's security."
+  },
+  {
+    "start": 694.75,
+    "end": 701.13,
+    "text": "For example, we use the flexible dynamic adjustment of the source, storage and load."
+  },
+  {
+    "start": 701.41,
+    "end": 706.79,
+    "text": "And this is also another mean to avoid the system failure."
+  },
+  {
+    "start": 706.79,
+    "end": 710.84,
+    "text": "And we use the safety means of the energy storage system,"
+  },
+  {
+    "start": 711.02,
+    "end": 717.08,
+    "text": "energy storage, how to safely operate it for the storage."
+  },
+  {
+    "start": 717.66,
+    "end": 722.84,
+    "text": "And we use the rapid protection and self-hearing of the grid,"
+  },
+  {
+    "start": 723.02,
+    "end": 725.06,
+    "text": "especially for the distribution grid."
+  },
+  {
+    "start": 725.9,
+    "end": 730.5,
+    "text": "For example, the short-circuit characteristics have changed a lot."
+  },
+  {
+    "start": 731.26,
+    "end": 735.26,
+    "text": "In the past, the short-circuit just formed one side,"
+  },
+  {
+    "start": 735.26,
+    "end": 742.26,
+    "text": "from the power stations. But now there is a lot of distributed PV connected into the"
+  },
+  {
+    "start": 742.26,
+    "end": 747.58,
+    "text": "end of the power lines. So the sub-circuit characteristics become changed."
+  },
+  {
+    "start": 748.1,
+    "end": 753.84,
+    "text": "So the protection principle has already changed. So we have to make rapid protection."
+  },
+  {
+    "start": 754.42,
+    "end": 758.98,
+    "text": "We make the self-carrying of the grid, especially for the distribution grid."
+  },
+  {
+    "start": 758.98,
+    "end": 764.79,
+    "text": "And also we use the robots to operate with the electricity."
+  },
+  {
+    "start": 765.15,
+    "end": 774.47,
+    "text": "We use the helicopter, we use the robots to make the maintenance, to make the maintenance of the power lines."
+  },
+  {
+    "start": 775.34,
+    "end": 782.2,
+    "text": "We use the virtual power plants to make the balance between the source and the load,"
+  },
+  {
+    "start": 782.38,
+    "end": 787.54,
+    "text": "so that we can also make the balance of the system, to avoid the system outage."
+  },
+  {
+    "start": 787.54,
+    "end": 794.59,
+    "text": "and we also use the flexible interconnection between or among several"
+  },
+  {
+    "start": 795.21,
+    "end": 801.63,
+    "text": "distribution stations. We use the DC, flexible DC to connect each distribution"
+  },
+  {
+    "start": 801.63,
+    "end": 808.53,
+    "text": "to make the balance of each distribution stations. And this"
+  },
+  {
+    "start": 808.53,
+    "end": 816.05,
+    "text": "means, all of this means, aim to solve the power system security. So this one"
+  },
+  {
+    "start": 816.05,
+    "end": 818.23,
+    "text": "one kind of security program."
+  },
+  {
+    "start": 820.76,
+    "end": 824.31,
+    "text": "Another security program is a network,"
+  },
+  {
+    "start": 824.53,
+    "end": 828.87,
+    "text": "a network on information security in the system."
+  },
+  {
+    "start": 829.35,
+    "end": 830.89,
+    "text": "For example, in ,"
+  },
+  {
+    "start": 831.77,
+    "end": 836.77,
+    "text": "there is a big outage in for 2019."
+  },
+  {
+    "start": 838.31,
+    "end": 840.77,
+    "text": "There is a attack, information attack"
+  },
+  {
+    "start": 841.31,
+    "end": 845.45,
+    "text": "into a major hydroplot plant in this country,"
+  },
+  {
+    "start": 845.45,
+    "end": 849.33,
+    "text": "and then result in the outage of the whole country."
+  },
+  {
+    "start": 849.94,
+    "end": 857.24,
+    "text": "So after this outage, the Chinese government gave a lot of notice,"
+  },
+  {
+    "start": 857.4,
+    "end": 860.78,
+    "text": "a lot of attention to that kind of war."
+  },
+  {
+    "start": 863.9,
+    "end": 868.48,
+    "text": "So from that outage, from that time,"
+  },
+  {
+    "start": 868.74,
+    "end": 877.26,
+    "text": "the Chinese government asked the enterprises to take notice of the information security,"
+  },
+  {
+    "start": 877.26,
+    "end": 882.94,
+    "text": "to make isolation between the system information and the offline."
+  },
+  {
+    "start": 884.14,
+    "end": 890.8,
+    "text": "So that the power grid information security will direct or indirectly affect the whole power system,"
+  },
+  {
+    "start": 891.0,
+    "end": 893.9,
+    "text": "the whole security of the power system."
+  },
+  {
+    "start": 894.24,
+    "end": 902.52,
+    "text": "So we think that the information security threat may exist in every stage of the generation,"
+  },
+  {
+    "start": 902.52,
+    "end": 907.46,
+    "text": "distribution, transmission, distribution, transformation, and the users."
+  },
+  {
+    "start": 908.21,
+    "end": 917.45,
+    "text": "So once this kind of attack affects the power station, affects the power system, they make"
+  },
+  {
+    "start": 917.45,
+    "end": 918.81,
+    "text": "a very large disaster."
+  },
+  {
+    "start": 920.19,
+    "end": 930.77,
+    "text": "So we think every year, the Chinese government will issue a simulated attack to the stations."
+  },
+  {
+    "start": 930.77,
+    "end": 940.09,
+    "text": "stations, and every attack will destroy several stations. So this is a very serious problem."
+  },
+  {
+    "start": 942.91,
+    "end": 951.48,
+    "text": "So the information attack comes from two sides. One side comes from the external, comes from"
+  },
+  {
+    "start": 951.48,
+    "end": 957.84,
+    "text": "the outside of our system. For example, the hacker attack. For example, the virus infects."
+  },
+  {
+    "start": 957.84,
+    "end": 965.48,
+    "text": "For example, the social engineering attacks, that is, some enemies who ask to make some"
+  },
+  {
+    "start": 966.52,
+    "end": 968.0,
+    "text": "mis-operations."
+  },
+  {
+    "start": 968.4,
+    "end": 972.2,
+    "text": "This is from the outside, especially from hackers."
+  },
+  {
+    "start": 973.74,
+    "end": 981.32,
+    "text": "I think a lot of countries have already encountered such a hacker attack to the power system."
+  },
+  {
+    "start": 981.32,
+    "end": 992.66,
+    "text": "For example, in Russia, in many European countries, there is a hacker attack, in China also."
+  },
+  {
+    "start": 993.74,
+    "end": 999.64,
+    "text": "Another threat is from the inside, the internal information attack threat."
+  },
+  {
+    "start": 999.88,
+    "end": 1002.58,
+    "text": "That is, employees miss operations."
+  },
+  {
+    "start": 1003.3,
+    "end": 1011.41,
+    "text": "They close the switches and make the information miss operations."
+  },
+  {
+    "start": 1011.41,
+    "end": 1016.07,
+    "text": "So this kind of attack affects the information system."
+  },
+  {
+    "start": 1016.82,
+    "end": 1024.94,
+    "text": "So we have to make an optimized operation of the power system itself and the information system."
+  },
+  {
+    "start": 1025.77,
+    "end": 1031.17,
+    "text": "So this has to be coordinated, operated with each other."
+  },
+  {
+    "start": 1031.72,
+    "end": 1036.44,
+    "text": "So the power system integrated with the information system"
+  },
+  {
+    "start": 1036.44,
+    "end": 1041.64,
+    "text": "will support the conventional optimization of the source grid load and storage."
+  },
+  {
+    "start": 1042.52,
+    "end": 1049.9,
+    "text": "We use several technological innovation to promote the safety and stable operation."
+  },
+  {
+    "start": 1052.74,
+    "end": 1054.02,
+    "text": "How to solve this one?"
+  },
+  {
+    "start": 1054.68,
+    "end": 1059.44,
+    "text": "We have to strengthen the cyber security measures"
+  },
+  {
+    "start": 1059.44,
+    "end": 1063.12,
+    "text": "to ensure the security of the process network and information."
+  },
+  {
+    "start": 1063.12,
+    "end": 1075.48,
+    "text": "So, in China, the grid has developed specialized security chips, and these chips will be installed"
+  },
+  {
+    "start": 1075.9,
+    "end": 1084.66,
+    "text": "in each awareness devices, the data collected devices, in the following five years."
+  },
+  {
+    "start": 1084.66,
+    "end": 1094.12,
+    "text": "And each, for example, each meter, each wireless device, data collecting system, or SCAR system,"
+  },
+  {
+    "start": 1094.54,
+    "end": 1105.72,
+    "text": "and each device will be installed with such special security chips to make the information"
+  },
+  {
+    "start": 1105.72,
+    "end": 1106.5,
+    "text": "secure."
+  },
+  {
+    "start": 1106.86,
+    "end": 1110.89,
+    "text": "And this is one measure."
+  },
+  {
+    "start": 1110.89,
+    "end": 1118.87,
+    "text": "Another matter is to make the secondary system to be safely protected, for example, the information"
+  },
+  {
+    "start": 1118.87,
+    "end": 1122.23,
+    "text": "system, the communication system, the protection system."
+  },
+  {
+    "start": 1122.47,
+    "end": 1127.25,
+    "text": "We make the whole system to make a cascade of information security protection."
+  },
+  {
+    "start": 1128.18,
+    "end": 1137.08,
+    "text": "And also, every year we have a simulated attack to make us transfer for the information security"
+  },
+  {
+    "start": 1139.92,
+    "end": 1146.34,
+    "text": "to attack, to make a simulation attack, to check whether or not it is safe."
+  },
+  {
+    "start": 1147.3,
+    "end": 1152.55,
+    "text": "And the last measure is to make a training, to make a network security training."
+  },
+  {
+    "start": 1153.13,
+    "end": 1160.95,
+    "text": "Every year we make the information operators to be trained every year and to be security."
+  },
+  {
+    "start": 1160.95,
+    "end": 1167.22,
+    "text": "So this is a measure to strengthen cyber security."
+  },
+  {
+    "start": 1167.6,
+    "end": 1175.55,
+    "text": "The third safety problem is personal safety."
+  },
+  {
+    "start": 1176.03,
+    "end": 1184.35,
+    "text": "Personal safety is personal accidents that occur every year."
+  },
+  {
+    "start": 1184.35,
+    "end": 1195.61,
+    "text": "So, maybe last meeting we have a summary, every year the China power system maybe make a tax about 50 to 100."
+  },
+  {
+    "start": 1197.29,
+    "end": 1203.09,
+    "text": "So, for example, the tower collapse of the federal system, the equipment hazard,"
+  },
+  {
+    "start": 1203.37,
+    "end": 1211.67,
+    "text": "for example, the accident caused by electric leakage, for example, caused by the lands, and so on."
+  },
+  {
+    "start": 1211.67,
+    "end": 1219.47,
+    "text": "So, in our government, we pay a lot of attention to personal safety."
+  },
+  {
+    "start": 1219.97,
+    "end": 1229.8,
+    "text": "But how to ensure the personal safety, that is the strength and safety supervision for the personnel in the path of safety?"
+  },
+  {
+    "start": 1230.36,
+    "end": 1238.24,
+    "text": "We have a shift from the post-event to proactive prevention."
+  },
+  {
+    "start": 1238.53,
+    "end": 1247.09,
+    "text": "We have to make the supervision measures shift from rigid to flexible regulations."
+  },
+  {
+    "start": 1248.18,
+    "end": 1259.22,
+    "text": "We have to make the investment to shift from the administrative bottom land protection to the cost-reduced and efficient improvement."
+  },
+  {
+    "start": 1259.22,
+    "end": 1268.58,
+    "text": "We have to make a safety supervision the responsibility to shift from the being on vigor to a very"
+  },
+  {
+    "start": 1268.58,
+    "end": 1269.9,
+    "text": "clear determinant."
+  },
+  {
+    "start": 1270.7,
+    "end": 1279.82,
+    "text": "So this kind of technology could be used to prevent the personal death from the safety."
+  },
+  {
+    "start": 1280.28,
+    "end": 1285.56,
+    "text": "So we use the innovative technology means for the safety supervision."
+  },
+  {
+    "start": 1285.56,
+    "end": 1289.36,
+    "text": "For example, the Internet of Things."
+  },
+  {
+    "start": 1289.76,
+    "end": 1293.2,
+    "text": "We use this technology to process"
+  },
+  {
+    "start": 1293.76,
+    "end": 1297.53,
+    "text": "class, process algorithms, process the"
+  },
+  {
+    "start": 1297.53,
+    "end": 1301.01,
+    "text": "technical monitoring. So, they make the full process"
+  },
+  {
+    "start": 1301.01,
+    "end": 1305.87,
+    "text": "supervision for the front, middle, and back end"
+  },
+  {
+    "start": 1305.87,
+    "end": 1309.33,
+    "text": "of the project. So, every project in the Neon Science"
+  },
+  {
+    "start": 1310.07,
+    "end": 1312.97,
+    "text": "they install several monitoring"
+  },
+  {
+    "start": 1312.97,
+    "end": 1317.19,
+    "text": "monitoring, supervision to make the personal safety."
+  },
+  {
+    "start": 1317.79,
+    "end": 1326.81,
+    "text": "So this is in the Chinese power, power integrates,"
+  },
+  {
+    "start": 1327.13,
+    "end": 1332.19,
+    "text": "enterprises, we use to supervise,"
+  },
+  {
+    "start": 1332.19,
+    "end": 1334.8,
+    "text": "to monitor the personal safety."
+  },
+  {
+    "start": 1335.88,
+    "end": 1337.5,
+    "text": "So this is another one."
+  },
+  {
+    "start": 1337.86,
+    "end": 1340.82,
+    "text": "So we use a traditional manner inspection."
+  },
+  {
+    "start": 1340.82,
+    "end": 1350.08,
+    "text": "infection, this infection will be graduated, upgraded by automatic, visualized, intelligent"
+  },
+  {
+    "start": 1350.46,
+    "end": 1357.74,
+    "text": "operations and maintenance. By utilizing technologies such as artificial intelligence, the internet"
+  },
+  {
+    "start": 1357.74,
+    "end": 1367.8,
+    "text": "of things, digital tools, and augmented reality, we use such technologies to prevent, to make"
+  },
+  {
+    "start": 1367.8,
+    "end": 1378.1,
+    "text": "the personal safety become. And we have to through the frequent and comprehensive training"
+  },
+  {
+    "start": 1378.87,
+    "end": 1386.37,
+    "text": "and drills, the personal skill levels of our system operation and maintenance could be enhanced."
+  },
+  {
+    "start": 1386.77,
+    "end": 1394.39,
+    "text": "So every year we make a lot of training projects to enhance the operators,"
+  },
+  {
+    "start": 1394.39,
+    "end": 1402.79,
+    "text": "to change their safety manner, to change their safety still."
+  },
+  {
+    "start": 1403.03,
+    "end": 1408.36,
+    "text": "And the fourth one is for the equipment safety."
+  },
+  {
+    "start": 1409.08,
+    "end": 1416.62,
+    "text": "Every equipment safety is caused by fire, by earthquake, by another."
+  },
+  {
+    "start": 1416.82,
+    "end": 1423.78,
+    "text": "For example, our storage station, especially for the chemical storage station,"
+  },
+  {
+    "start": 1423.78,
+    "end": 1434.03,
+    "text": "will be constructed in the future, and how to defend, how to prevent the fire disaster."
+  },
+  {
+    "start": 1435.29,
+    "end": 1440.15,
+    "text": "So the fire disasters occur occasionally in the Chinese fire station."
+  },
+  {
+    "start": 1440.37,
+    "end": 1449.67,
+    "text": "For example, maybe in 2023, there is a fire and explosion accident at Shanxi Brunei"
+  },
+  {
+    "start": 1449.67,
+    "end": 1452.43,
+    "text": "for upper high voltage station."
+  },
+  {
+    "start": 1453.18,
+    "end": 1458.8,
+    "text": "And also, personally, the offshore wind power installation"
+  },
+  {
+    "start": 1458.8,
+    "end": 1463.34,
+    "text": "encountered many equipment collapse."
+  },
+  {
+    "start": 1463.87,
+    "end": 1470.59,
+    "text": "For example, in the offshore installation for the wind generators,"
+  },
+  {
+    "start": 1471.09,
+    "end": 1472.23,
+    "text": "this collapsed."
+  },
+  {
+    "start": 1473.32,
+    "end": 1476.42,
+    "text": "So how to maintain the safety for the equipment,"
+  },
+  {
+    "start": 1476.72,
+    "end": 1478.58,
+    "text": "this is a very serious problem."
+  },
+  {
+    "start": 1478.58,
+    "end": 1489.19,
+    "text": "So, we use the maintenance, the safety of the power system equipment through technological"
+  },
+  {
+    "start": 1489.19,
+    "end": 1490.07,
+    "text": "implementation."
+  },
+  {
+    "start": 1490.57,
+    "end": 1497.91,
+    "text": "For example, we make the accurate identification for the insulator defector defects."
+  },
+  {
+    "start": 1497.91,
+    "end": 1514.01,
+    "text": "We use a drone, air, ground monitor of the transmission land, helicopter, unmanned helicopter and associated with the unmanned operators."
+  },
+  {
+    "start": 1515.3,
+    "end": 1523.14,
+    "text": "Recently, the state government has issued a satellite, so we use the space, we use air"
+  },
+  {
+    "start": 1523.54,
+    "end": 1533.25,
+    "text": "and ground, the three divisions of the inspection to make the safety of the equipment."
+  },
+  {
+    "start": 1534.23,
+    "end": 1540.82,
+    "text": "We use the audio visual fusion monitoring for the equipment defects, for example the"
+  },
+  {
+    "start": 1540.82,
+    "end": 1548.04,
+    "text": "inside the transformer for the discharge."
+  },
+  {
+    "start": 1550.52,
+    "end": 1554.36,
+    "text": "For such kind of discharge, it is very difficult to be detected."
+  },
+  {
+    "start": 1554.9,
+    "end": 1562.58,
+    "text": "So we use audio-visual fusion technologies to check the discharge inside the transformer."
+  },
+  {
+    "start": 1563.56,
+    "end": 1571.6,
+    "text": "We use intelligent monitoring for the substations and infrared temperature measurement for the inspection."
+  },
+  {
+    "start": 1571.6,
+    "end": 1578.76,
+    "text": "And also, we use a radar modeling for the electrical equipment to make a safety maintenance."
+  },
+  {
+    "start": 1579.45,
+    "end": 1584.51,
+    "text": "And for the cable fault, we make a diagnosis, an intensive diagnosis,"
+  },
+  {
+    "start": 1585.08,
+    "end": 1594.98,
+    "text": "based on the online analysis of sulfur hexafluoride equipment first, based on the leakage of the SF6."
+  },
+  {
+    "start": 1595.9,
+    "end": 1603.66,
+    "text": "So, all of these measures are made to maintain the safety of the system equipment."
+  },
+  {
+    "start": 1604.2,
+    "end": 1606.8,
+    "text": "So, this is another kind of security."
+  },
+  {
+    "start": 1608.54,
+    "end": 1612.3,
+    "text": "And the fifth security is the low voltage system."
+  },
+  {
+    "start": 1613.5,
+    "end": 1619.46,
+    "text": "We can see that in the past, the low voltage is only a positive system."
+  },
+  {
+    "start": 1619.46,
+    "end": 1627.25,
+    "text": "But now it becomes active because there is a lot of distributed PV installed in the end"
+  },
+  {
+    "start": 1627.25,
+    "end": 1629.73,
+    "text": "of the low voltage system."
+  },
+  {
+    "start": 1630.31,
+    "end": 1634.49,
+    "text": "So this makes the personal security very serious."
+  },
+  {
+    "start": 1635.2,
+    "end": 1643.14,
+    "text": "So a lot of interconnected of the distributed PV to make the overvoltage of the low voltage"
+  },
+  {
+    "start": 1643.14,
+    "end": 1644.1,
+    "text": "system better."
+  },
+  {
+    "start": 1644.1,
+    "end": 1653.72,
+    "text": "For example, our voltage standard is 220 volts, but if there is distributed PV to be connected"
+  },
+  {
+    "start": 1653.72,
+    "end": 1665.54,
+    "text": "to the end of the low-voltage system, the highest voltage will be higher than 240 volts."
+  },
+  {
+    "start": 1665.54,
+    "end": 1674.02,
+    "text": "This becomes over-voltage for the appliance, for the personnel safety."
+  },
+  {
+    "start": 1675.96,
+    "end": 1686.22,
+    "text": "So the power quality issue such as voltage dip, voltage set, and harmonics will also cause the production stop or damage."
+  },
+  {
+    "start": 1687.14,
+    "end": 1693.26,
+    "text": "So this accident occurs very frequently in the Chinese power system."
+  },
+  {
+    "start": 1693.26,
+    "end": 1701.56,
+    "text": "And so we have to make the safety operational leakage protection for the low voltage systems."
+  },
+  {
+    "start": 1703.18,
+    "end": 1715.2,
+    "text": "So in Chinese they will research on the very cheap device to detect the low voltage systems."
+  },
+  {
+    "start": 1715.2,
+    "end": 1724.14,
+    "text": "security. So we transfer the high tech of the equipment, high technology of the"
+  },
+  {
+    "start": 1724.14,
+    "end": 1730.84,
+    "text": "measures to be shifted to the low voltage to make the monitor of the low voltage."
+  },
+  {
+    "start": 1731.88,
+    "end": 1740.78,
+    "text": "So this is another security program. So the last one, okay, so we have to"
+  },
+  {
+    "start": 1740.78,
+    "end": 1745.44,
+    "text": "strengthen the publication of the education of the electricity safety for"
+  },
+  {
+    "start": 1745.44,
+    "end": 1755.46,
+    "text": "for all citizens, and this is not the responsibility of the power system utility, but it is the"
+  },
+  {
+    "start": 1755.46,
+    "end": 1757.7,
+    "text": "social responsibility for this."
+  },
+  {
+    "start": 1758.52,
+    "end": 1767.44,
+    "text": "So the Chinese power utilities have the social responsibility to educate, to train the citizens"
+  },
+  {
+    "start": 1767.44,
+    "end": 1773.35,
+    "text": "to enhance their detection affairs."
+  },
+  {
+    "start": 1774.52,
+    "end": 1777.5,
+    "text": "And we have to develop the cost effective,"
+  },
+  {
+    "start": 1777.78,
+    "end": 1781.08,
+    "text": "the low cost, and the practical sensor chips"
+  },
+  {
+    "start": 1782.22,
+    "end": 1785.32,
+    "text": "to shift this high tech technology"
+  },
+  {
+    "start": 1785.84,
+    "end": 1788.46,
+    "text": "to the low voltage system."
+  },
+  {
+    "start": 1789.78,
+    "end": 1793.26,
+    "text": "So in China, I believe, we have to develop"
+  },
+  {
+    "start": 1793.26,
+    "end": 1795.48,
+    "text": "a lot of such kind of chips."
+  },
+  {
+    "start": 1795.51,
+    "end": 1807.36,
+    "text": "For example, this chip is only very low cost to be installed into the low voltage leakage"
+  },
+  {
+    "start": 1807.36,
+    "end": 1808.46,
+    "text": "and so on."
+  },
+  {
+    "start": 1809.5,
+    "end": 1819.58,
+    "text": "We have used several devices such as DVR, dynamic voltage regulator, and active filter"
+  },
+  {
+    "start": 1819.58,
+    "end": 1827.16,
+    "text": "to be used in the user side to change to improve the power quality. So all of"
+  },
+  {
+    "start": 1827.16,
+    "end": 1835.17,
+    "text": "this in fact is a means to solve the low voltage system. And the last one is the"
+  },
+  {
+    "start": 1835.17,
+    "end": 1843.13,
+    "text": "environmental safety. So we have some research and development for the"
+  },
+  {
+    "start": 1843.13,
+    "end": 1850.0,
+    "text": "environmental monitoring to develop some several chips to detect the leakage of"
+  },
+  {
+    "start": 1850.0,
+    "end": 1856.32,
+    "text": "the SF6 and the research and development of the new environmental friendly isolation materials"
+  },
+  {
+    "start": 1857.61,
+    "end": 1865.21,
+    "text": "to make some substitutions and also we make a monitor of the electromagnetic"
+  },
+  {
+    "start": 1866.03,
+    "end": 1871.71,
+    "text": "environmental programs and also we make a monitor and control the transformer noise"
+  },
+  {
+    "start": 1872.64,
+    "end": 1881.0,
+    "text": "and for the for the engineering side there is a noise and then dust how to prevent how to monitor"
+  },
+  {
+    "start": 1883.7,
+    "end": 1890.92,
+    "text": "This is also what we have noticed on the nuclear power system."
+  },
+  {
+    "start": 1893.51,
+    "end": 1908.77,
+    "text": "In 2020-2024, the CPC Central Committee held a collective study session on the new energy technology and how to maintain the Chinese nuclear safety."
+  },
+  {
+    "start": 1908.77,
+    "end": 1917.05,
+    "text": "And our professor from my university has been sent to give a lecture, give an explanation"
+  },
+  {
+    "start": 1917.05,
+    "end": 1927.77,
+    "text": "to the colleagues of the CPC to make them make a higher professional of the energy safety."
+  },
+  {
+    "start": 1929.24,
+    "end": 1935.46,
+    "text": "So he said that energy safety is closely tied to the overall development of the economy"
+  },
+  {
+    "start": 1935.46,
+    "end": 1941.92,
+    "text": "economy and the society. We must make the great efforts to promote the high quality"
+  },
+  {
+    "start": 1941.92,
+    "end": 1948.4,
+    "text": "development of the new energy and provide a safety and reliable energy guarantee for"
+  },
+  {
+    "start": 1948.4,
+    "end": 1955.22,
+    "text": "the Chinese-style modernization. So this is to become a very high level for the leaders"
+  },
+  {
+    "start": 1955.22,
+    "end": 1957.12,
+    "text": "to notice for the energy system."
+  },
+  {
+    "start": 1957.12,
+    "end": 1966.24,
+    "text": "Okay, so we summarized the six areas of the system to make the node case."
+  },
+  {
+    "start": 1966.38,
+    "end": 1973.32,
+    "text": "And the second part is that we have to make a collective operation of the source, network,"
+  },
+  {
+    "start": 1973.64,
+    "end": 1978.6,
+    "text": "the load, storage, and not the gas, the wiser, the gas."
+  },
+  {
+    "start": 1978.96,
+    "end": 1982.4,
+    "text": "Did I translate it? It's the wrong translation."
+  },
+  {
+    "start": 1982.4,
+    "end": 1991.96,
+    "text": "We have to make a collaborative operation of the source, load, grid, storage, and also"
+  },
+  {
+    "start": 1991.96,
+    "end": 1994.66,
+    "text": "plus weather and carbon."
+  },
+  {
+    "start": 1995.0,
+    "end": 2002.96,
+    "text": "So we think that weather and carbon is two very important things for the new power system"
+  },
+  {
+    "start": 2003.42,
+    "end": 2008.54,
+    "text": "to be noticed in the operation and in the planning of the maintenance."
+  },
+  {
+    "start": 2008.54,
+    "end": 2017.8,
+    "text": "First of all, the distribution network has already changed a lot."
+  },
+  {
+    "start": 2018.64,
+    "end": 2031.0,
+    "text": "The past positive distribution network has already changed to active distribution network,"
+  },
+  {
+    "start": 2031.8,
+    "end": 2040.08,
+    "text": "because a large scale of integration of the distributed PV has been connected into the power system,"
+  },
+  {
+    "start": 2040.08,
+    "end": 2046.82,
+    "text": "into the distribution of our system, and a lot of energy storage, distributed energy storage"
+  },
+  {
+    "start": 2046.82,
+    "end": 2050.36,
+    "text": "interconnected into the distribution system."
+  },
+  {
+    "start": 2050.92,
+    "end": 2059.7,
+    "text": "So the distribution system, the characteristics, the features of the distribution system have changed a lot."
+  },
+  {
+    "start": 2060.22,
+    "end": 2066.16,
+    "text": "In the past, this system, this distributed system is passive, has no source."
+  },
+  {
+    "start": 2066.16,
+    "end": 2071.84,
+    "text": "The system has no source. Only source is from the substation, from the big grid."
+  },
+  {
+    "start": 2072.26,
+    "end": 2084.78,
+    "text": "But the distributed PV and distributed storage have changed the operation scenario of the traditional distribution of systems."
+  },
+  {
+    "start": 2085.63,
+    "end": 2092.53,
+    "text": "So we call that the modern system is the active distribution network, that's ADN."
+  },
+  {
+    "start": 2092.53,
+    "end": 2103.11,
+    "text": "And ADN and microgrid and virtual power plants, based on energy internet, are driving the"
+  },
+  {
+    "start": 2103.11,
+    "end": 2110.99,
+    "text": "traditional distributed network to be transferred from the traditional into a new type of the"
+  },
+  {
+    "start": 2110.99,
+    "end": 2111.45,
+    "text": "system."
+  },
+  {
+    "start": 2112.0,
+    "end": 2115.08,
+    "text": "So we have encountered such transactions."
+  },
+  {
+    "start": 2115.08,
+    "end": 2129.8,
+    "text": "So this is a traditional, traditional, there is no distributed PV, no active control for"
+  },
+  {
+    "start": 2129.8,
+    "end": 2131.2,
+    "text": "such a distribution system."
+  },
+  {
+    "start": 2131.64,
+    "end": 2138.4,
+    "text": "So that in Chinese, a lot of Chinese distribution systems, they have no active dispatching,"
+  },
+  {
+    "start": 2138.6,
+    "end": 2146.32,
+    "text": "they have no process operation by means to maintain the distribution system to be operated"
+  },
+  {
+    "start": 2146.32,
+    "end": 2146.86,
+    "text": "seriously."
+  },
+  {
+    "start": 2146.86,
+    "end": 2153.46,
+    "text": "safety. But notice the system have already changed. It has already changed with"
+  },
+  {
+    "start": 2153.46,
+    "end": 2166.6,
+    "text": "distributed PV, with distributed storage system. And such kind of distributed system have to enhance their active control level."
+  },
+  {
+    "start": 2167.07,
+    "end": 2178.14,
+    "text": "So the system will gradually transfer from passive to active. So we gradually enter the high penetration of the"
+  },
+  {
+    "start": 2178.14,
+    "end": 2185.6,
+    "text": "PV, distributed PV, high penetration of the distributed storage, and we make active control"
+  },
+  {
+    "start": 2185.8,
+    "end": 2187.9,
+    "text": "for the power source and load."
+  },
+  {
+    "start": 2188.46,
+    "end": 2195.58,
+    "text": "So the modern distribution system becomes the active distribution system, ADN."
+  },
+  {
+    "start": 2196.38,
+    "end": 2206.49,
+    "text": "So the international organizations have already made ADN as a standard development, a future"
+  },
+  {
+    "start": 2206.49,
+    "end": 2208.51,
+    "text": "standard of the distribution system."
+  },
+  {
+    "start": 2208.51,
+    "end": 2222.05,
+    "text": "So this means that the smart equipment, smart control, automation, distribution automation and the user interaction inside the distributed system."
+  },
+  {
+    "start": 2222.58,
+    "end": 2231.04,
+    "text": "So we encountered a step in the new kind of modern distribution systems."
+  },
+  {
+    "start": 2231.85,
+    "end": 2238.09,
+    "text": "And such active distribution systems, how to manage them, how to operate."
+  },
+  {
+    "start": 2238.09,
+    "end": 2243.55,
+    "text": "So this is a very big problem for our new power system operators."
+  },
+  {
+    "start": 2244.07,
+    "end": 2253.93,
+    "text": "So a lot of hardware devices, such as relay protection, the type changes of the transformers,"
+  },
+  {
+    "start": 2254.38,
+    "end": 2261.49,
+    "text": "automatic voltage regulator for the distributed system, and stat cards, and power factor controllers,"
+  },
+  {
+    "start": 2261.49,
+    "end": 2270.09,
+    "text": "reactive power, adjusters, all of these devices are being installed, are being operated,"
+  },
+  {
+    "start": 2270.39,
+    "end": 2277.43,
+    "text": "cooperated with distributed PV, with the distributed storage system,"
+  },
+  {
+    "start": 2277.71,
+    "end": 2280.83,
+    "text": "and along with all of these modern devices,"
+  },
+  {
+    "start": 2281.17,
+    "end": 2285.91,
+    "text": "it can make the active distribution system to be operated safely."
+  },
+  {
+    "start": 2285.91,
+    "end": 2296.85,
+    "text": "So this is a very big group of people who made a lot of international standards for such hardware, automatic hardware."
+  },
+  {
+    "start": 2297.31,
+    "end": 2306.88,
+    "text": "So the second one is how to cooperate the operation and control of the main grid,"
+  },
+  {
+    "start": 2307.06,
+    "end": 2315.32,
+    "text": "that means the high voltage grid, and the distribution line, the medium voltage grid, and the microgrid, so the low voltage grid."
+  },
+  {
+    "start": 2315.39,
+    "end": 2319.71,
+    "text": "It makes the coordinate operation for the three kinds of grain."
+  },
+  {
+    "start": 2320.23,
+    "end": 2326.17,
+    "text": "In the past, the state grain, the Chinese power utilities only managed for the main grain"
+  },
+  {
+    "start": 2326.71,
+    "end": 2334.05,
+    "text": "and paid less attention to the distribution grain and paid no attention to the macro grain."
+  },
+  {
+    "start": 2334.42,
+    "end": 2337.48,
+    "text": "But nowadays, the idea has already changed."
+  },
+  {
+    "start": 2337.48,
+    "end": 2346.87,
+    "text": "So the city council has already issued a document to maintain the coordinate operation for the"
+  },
+  {
+    "start": 2346.87,
+    "end": 2349.87,
+    "text": "main grid, distributed grid, and the microgrid."
+  },
+  {
+    "start": 2351.01,
+    "end": 2360.31,
+    "text": "So how to interconnect the main grid and make the intergrids of the main distribution and"
+  },
+  {
+    "start": 2360.31,
+    "end": 2367.23,
+    "text": "micro upgrade to provide guarantee for the coordinated development of the power"
+  },
+  {
+    "start": 2367.23,
+    "end": 2373.67,
+    "text": "system. This is a big problem for our operations. For the main grid, we have to"
+  },
+  {
+    "start": 2373.67,
+    "end": 2378.59,
+    "text": "use interconnected centralized monitoring system for the new energy"
+  },
+  {
+    "start": 2378.59,
+    "end": 2384.41,
+    "text": "station for the concentrated wind power station, concentrated PV"
+  },
+  {
+    "start": 2384.41,
+    "end": 2390.42,
+    "text": "PV stations to make monitoring, to make the operation monitoring, to make the intelligent"
+  },
+  {
+    "start": 2390.9,
+    "end": 2396.92,
+    "text": "operations and the maintenance, to make the operational decision making, and so on."
+  },
+  {
+    "start": 2397.16,
+    "end": 2405.08,
+    "text": "So that the main power grid pays more attention to this one, and it has also paid attention"
+  },
+  {
+    "start": 2405.08,
+    "end": 2411.02,
+    "text": "to the lower level of the voltage system."
+  },
+  {
+    "start": 2411.38,
+    "end": 2414.38,
+    "text": "For example, the main grid dispatching system"
+  },
+  {
+    "start": 2414.38,
+    "end": 2416.86,
+    "text": "has to consider how the requirement"
+  },
+  {
+    "start": 2416.86,
+    "end": 2418.72,
+    "text": "from the distribution system."
+  },
+  {
+    "start": 2419.45,
+    "end": 2421.51,
+    "text": "What is the requirement from the micro grid?"
+  },
+  {
+    "start": 2423.12,
+    "end": 2426.96,
+    "text": "So we have to complete it for the three kinds of work."
+  },
+  {
+    "start": 2429.99,
+    "end": 2433.45,
+    "text": "And we have to develop a new distribution automation system."
+  },
+  {
+    "start": 2434.15,
+    "end": 2436.59,
+    "text": "So for the distributed grid,"
+  },
+  {
+    "start": 2436.59,
+    "end": 2442.39,
+    "text": "Our regional distribution network has to be transparently monitored."
+  },
+  {
+    "start": 2442.81,
+    "end": 2452.32,
+    "text": "We have installed a lot of awareness devices to collect data, operation data, from the end of the distribution network"
+  },
+  {
+    "start": 2452.32,
+    "end": 2459.24,
+    "text": "to achieve active balance control for the source, for the grid, for the load and storage."
+  },
+  {
+    "start": 2460.2,
+    "end": 2466.24,
+    "text": "So the transparent monitoring is very important for the distribution system."
+  },
+  {
+    "start": 2466.24,
+    "end": 2473.28,
+    "text": "So, based on the various types of equipment, we have developed a lot of devices, such as"
+  },
+  {
+    "start": 2473.28,
+    "end": 2480.94,
+    "text": "primary and secondary integrated terminals, intelligent terminals, and developed four"
+  },
+  {
+    "start": 2480.94,
+    "end": 2488.42,
+    "text": "project lines of the smart distribution terminals based on independently controllable technology."
+  },
+  {
+    "start": 2488.42,
+    "end": 2498.42,
+    "text": "So such kind of terminals have already installed or will be installed in the end of the distribution system"
+  },
+  {
+    "start": 2498.42,
+    "end": 2506.26,
+    "text": "to make the distribution system more transparently monitored, to make it more controllable."
+  },
+  {
+    "start": 2508.39,
+    "end": 2513.55,
+    "text": "And for the microgrid, the microgrid will be balanced for the load side."
+  },
+  {
+    "start": 2513.83,
+    "end": 2516.21,
+    "text": "The microgrid is also in the load side."
+  },
+  {
+    "start": 2516.21,
+    "end": 2523.75,
+    "text": "We have to ensure the balance, the stable, the efficient, the economic operation of the microgrid"
+  },
+  {
+    "start": 2523.75,
+    "end": 2531.01,
+    "text": "to promote the consumption of the utilization of the distributed PV."
+  },
+  {
+    "start": 2531.96,
+    "end": 2535.6,
+    "text": "So we think that the microgrid is a balanced manner."
+  },
+  {
+    "start": 2537.0,
+    "end": 2540.56,
+    "text": "So we use the intelligent microgrid to coordinate the devices"
+  },
+  {
+    "start": 2540.56,
+    "end": 2548.62,
+    "text": "devices, and the marketing energy monitoring and accessible terminals, such as the intelligent"
+  },
+  {
+    "start": 2548.62,
+    "end": 2556.72,
+    "text": "PV control, the energy storage, the charging and discharging control system for the electrical"
+  },
+  {
+    "start": 2556.72,
+    "end": 2558.5,
+    "text": "vehicles, and so on."
+  },
+  {
+    "start": 2559.12,
+    "end": 2566.8,
+    "text": "So we use these intelligent load devices to achieve the coordinated and optimized operation"
+  },
+  {
+    "start": 2567.04,
+    "end": 2568.12,
+    "text": "for the microgrid."
+  },
+  {
+    "start": 2568.12,
+    "end": 2577.84,
+    "text": "And we think that the microgrid, the distribution network grid and the main grid will be operated"
+  },
+  {
+    "start": 2578.22,
+    "end": 2579.66,
+    "text": "as a whole audit."
+  },
+  {
+    "start": 2580.86,
+    "end": 2589.86,
+    "text": "So contractual low voltage network data decision center to equip with internal terminal devices"
+  },
+  {
+    "start": 2590.24,
+    "end": 2598.16,
+    "text": "to carry out advanced applications and gradually achieve power supply automation transparently"
+  },
+  {
+    "start": 2598.16,
+    "end": 2605.98,
+    "text": "of the PV, storage, charging, and digital intelligence distribution and microgrid"
+  },
+  {
+    "start": 2605.98,
+    "end": 2609.8,
+    "text": "coordinated in the distribution transformer area."
+  },
+  {
+    "start": 2610.36,
+    "end": 2619.94,
+    "text": "So this is our consideration for the three kinds of grid to be operated into our main body."
+  },
+  {
+    "start": 2619.94,
+    "end": 2631.52,
+    "text": "For the distribution operation, we have developed a lot of intelligent operation maintenance means."
+  },
+  {
+    "start": 2631.74,
+    "end": 2639.54,
+    "text": "For example, intelligent sensing and the forward direction of the medium voltage distribution switch gap."
+  },
+  {
+    "start": 2640.86,
+    "end": 2645.7,
+    "text": "We have developed the operating space for the power distribution switch gap."
+  },
+  {
+    "start": 2645.7,
+    "end": 2653.96,
+    "text": "We use the robot to make an inspection, to make a maintenance for the"
+  },
+  {
+    "start": 2653.96,
+    "end": 2663.28,
+    "text": "huge number of the distribution substations. We make autonomous operations"
+  },
+  {
+    "start": 2663.28,
+    "end": 2671.16,
+    "text": "for the power distribution. We develop a lot of AI technologies to make space."
+  },
+  {
+    "start": 2671.16,
+    "end": 2679.04,
+    "text": "We make autonomous operation and maintenance systems for power distribution switchguides."
+  },
+  {
+    "start": 2679.43,
+    "end": 2685.57,
+    "text": "We use the robot to maintain the switch copies."
+  },
+  {
+    "start": 2686.63,
+    "end": 2697.64,
+    "text": "We have developed intelligent operation, maintenance, and expansion of power distribution switchguides by six degrees of freedom of robotic arms."
+  },
+  {
+    "start": 2697.64,
+    "end": 2709.54,
+    "text": "They use such kind of intelligent devices to make the maintenance, to make the operation of the huge number of distribution stations."
+  },
+  {
+    "start": 2709.96,
+    "end": 2714.79,
+    "text": "So that we can ensure the safety operation of the system."
+  },
+  {
+    "start": 2718.54,
+    "end": 2723.86,
+    "text": "So another phase is the fast protection and self-carrying of the distribution network."
+  },
+  {
+    "start": 2723.86,
+    "end": 2739.1,
+    "text": "Because, just as what I said in the last part of the lecture, the short-circuit current features, the characteristics of the short-circuit siren have already changed a lot."
+  },
+  {
+    "start": 2739.38,
+    "end": 2749.22,
+    "text": "Because of the distributed TV, because of the distributed storage, the system has already changed, so the short-circuit current has changed."
+  },
+  {
+    "start": 2749.22,
+    "end": 2760.22,
+    "text": "So in the past, the protection device based on the traditional operation of the distribution network has already changed."
+  },
+  {
+    "start": 2760.54,
+    "end": 2771.2,
+    "text": "So we have to develop new kinds of protection devices to protect the short circuit, to protect the outage of the distribution system."
+  },
+  {
+    "start": 2771.2,
+    "end": 2780.26,
+    "text": "So the first important thing is that we use synchronous measurement and feature extraction"
+  },
+  {
+    "start": 2780.96,
+    "end": 2789.71,
+    "text": "for the four transient signals for power systems, especially for the density power electronic"
+  },
+  {
+    "start": 2789.71,
+    "end": 2790.19,
+    "text": "devices."
+  },
+  {
+    "start": 2791.09,
+    "end": 2794.93,
+    "text": "So how to make the detection?"
+  },
+  {
+    "start": 2794.93,
+    "end": 2806.29,
+    "text": "So they come with a large scale integration of the distributed PVs to integrate with the distribution network."
+  },
+  {
+    "start": 2806.77,
+    "end": 2814.6,
+    "text": "So the forward transient signal of the short circuit current has already changed."
+  },
+  {
+    "start": 2814.99,
+    "end": 2825.27,
+    "text": "So it is urgent to investigate the influence mechanism of the distribution catalogues"
+  },
+  {
+    "start": 2825.27,
+    "end": 2827.74,
+    "text": "on the forward-transiting signal."
+  },
+  {
+    "start": 2828.46,
+    "end": 2834.3,
+    "text": "So this is very important to develop a new type of protection devices,"
+  },
+  {
+    "start": 2835.5,
+    "end": 2843.36,
+    "text": "because a lot of PV is connected to the system and the signal has changed."
+  },
+  {
+    "start": 2845.32,
+    "end": 2852.47,
+    "text": "And also, we have to develop very sensitive devices"
+  },
+  {
+    "start": 2852.47,
+    "end": 2860.19,
+    "text": "to make a precise location of the ground fault for the power component based distribution network."
+  },
+  {
+    "start": 2862.3,
+    "end": 2868.32,
+    "text": "You know that it is very difficult to detect the short circuit, one-phase short circuit,"
+  },
+  {
+    "start": 2868.4,
+    "end": 2874.22,
+    "text": "the circuit to the ground. Such kind of short circuit occurs in the middle of the week."
+  },
+  {
+    "start": 2874.36,
+    "end": 2878.44,
+    "text": "So it is very difficult to detect such a fault."
+  },
+  {
+    "start": 2879.52,
+    "end": 2885.82,
+    "text": "especially the large amount of distributed PV to be connected to the system."
+  },
+  {
+    "start": 2886.08,
+    "end": 2891.83,
+    "text": "So it's very difficult for the operators to develop such a device, such a form."
+  },
+  {
+    "start": 2892.58,
+    "end": 2900.5,
+    "text": "So how can we develop faster protection devices and self-hearing of the..."
+  },
+  {
+    "start": 2903.54,
+    "end": 2911.11,
+    "text": "And all of these devices are based on the information, on the modern communication technology."
+  },
+  {
+    "start": 2911.11,
+    "end": 2920.1,
+    "text": "So, we have to take a new intelligent power distribution terminal as a distributed agent."
+  },
+  {
+    "start": 2920.36,
+    "end": 2927.27,
+    "text": "Fast identification and fast isolation and power transfer."
+  },
+  {
+    "start": 2927.45,
+    "end": 2940.36,
+    "text": "We have to transfer the non-faulted areas of the supply area into the safety one and isolate the fault."
+  },
+  {
+    "start": 2940.36,
+    "end": 2945.28,
+    "text": "So all of this based on the new type of communication systems."
+  },
+  {
+    "start": 2950.03,
+    "end": 2955.87,
+    "text": "So in the third grade, we developed a lot of new type of power distribution terminals."
+  },
+  {
+    "start": 2956.5,
+    "end": 2967.36,
+    "text": "So such kind of new power distribution terminals include the new technology of Beidou satellite system, especially by the Chinese."
+  },
+  {
+    "start": 2967.36,
+    "end": 2973.17,
+    "text": "And we have developed chip-based protection."
+  },
+  {
+    "start": 2973.51,
+    "end": 2978.89,
+    "text": "We have integrated some algorithms into a chip."
+  },
+  {
+    "start": 2979.11,
+    "end": 2985.41,
+    "text": "And then this kind of protection device can be fast attacked for circuit."
+  },
+  {
+    "start": 2987.24,
+    "end": 2993.9,
+    "text": "We have developed a very advanced algorithm for the fault perception."
+  },
+  {
+    "start": 2993.9,
+    "end": 2998.94,
+    "text": "and we use 5th generation, 5th generation of the communication system,"
+  },
+  {
+    "start": 2999.14,
+    "end": 3003.84,
+    "text": "a fast communication system in the distribution system,"
+  },
+  {
+    "start": 3003.96,
+    "end": 3006.6,
+    "text": "to enable the rapid forward location,"
+  },
+  {
+    "start": 3006.88,
+    "end": 3011.59,
+    "text": "to ensure the isolation of the different types,"
+  },
+  {
+    "start": 3012.52,
+    "end": 3018.8,
+    "text": "and to ensure the transfer from the non-forward system,"
+  },
+  {
+    "start": 3019.6,
+    "end": 3022.16,
+    "text": "to fast resume the power supply."
+  },
+  {
+    "start": 3022.16,
+    "end": 3031.21,
+    "text": "So this picture, all of these pictures are the new devices for the distributed intelligence."
+  },
+  {
+    "start": 3032.79,
+    "end": 3042.7,
+    "text": "And also we have to ensure the secondary system to be simply operated in the distributed system."
+  },
+  {
+    "start": 3043.59,
+    "end": 3050.37,
+    "text": "So the secondary system includes the communication system, the protection system,"
+  },
+  {
+    "start": 3050.37,
+    "end": 3059.03,
+    "text": "the data awareness devices, and all of these systems, we call it the secondary system."
+  },
+  {
+    "start": 3060.08,
+    "end": 3068.06,
+    "text": "So the secondary system is in stock to aim to ensure the safety operation of the main system."
+  },
+  {
+    "start": 3068.46,
+    "end": 3072.82,
+    "text": "So that this is very, very important for the secondary system safety."
+  },
+  {
+    "start": 3079.32,
+    "end": 3083.3,
+    "text": "The fourth one is the internal monitoring of the substation and length."
+  },
+  {
+    "start": 3083.3,
+    "end": 3091.74,
+    "text": "And for the state grid and southern grid, the national grid has developed many inspection"
+  },
+  {
+    "start": 3092.04,
+    "end": 3100.34,
+    "text": "robots to make an intelligent inspection of the substation of the transmission lines to"
+  },
+  {
+    "start": 3100.34,
+    "end": 3106.46,
+    "text": "achieve the reduced manpower inspection and intelligent monitoring of the power grid."
+  },
+  {
+    "start": 3106.46,
+    "end": 3117.9,
+    "text": "to make the standardized process and to realize the safe and standardized operation for the maintenance, for the inspection, and for the control."
+  },
+  {
+    "start": 3119.28,
+    "end": 3131.0,
+    "text": "So if you come to the substations, you can see a lot of robots, unmanned inspection devices to be operated in the substations, especially for the high voltage."
+  },
+  {
+    "start": 3132.43,
+    "end": 3139.91,
+    "text": "And gradually, this kind of high technologies, gradually to be widespread used in the distribution"
+  },
+  {
+    "start": 3139.91,
+    "end": 3141.09,
+    "text": "subdivisions."
+  },
+  {
+    "start": 3141.57,
+    "end": 3148.65,
+    "text": "So this is the trend, this is the, maybe in the next 5 or 10 years, so this kind of technology"
+  },
+  {
+    "start": 3148.97,
+    "end": 3154.89,
+    "text": "will gradually change, gradually used in the lower voltage systems."
+  },
+  {
+    "start": 3154.89,
+    "end": 3165.22,
+    "text": "So we think that this is very important for the precise monitoring, the safety operation"
+  },
+  {
+    "start": 3165.96,
+    "end": 3171.34,
+    "text": "for the main power systems, for the distributor system, and finally for the microgrid."
+  },
+  {
+    "start": 3175.14,
+    "end": 3179.7,
+    "text": "For example, for the transformer, we have a very high attack for the transformer."
+  },
+  {
+    "start": 3180.02,
+    "end": 3183.26,
+    "text": "Inside the transformer there is a discharge."
+  },
+  {
+    "start": 3183.26,
+    "end": 3199.46,
+    "text": "So once there is a discharge, you can detect some voice, some change for the oils, several means to detect discharge inside the transformer."
+  },
+  {
+    "start": 3199.98,
+    "end": 3210.32,
+    "text": "Such a discharge, if we don't process such a fault, maybe the discharge will be suspended to the utilization of the transformer."
+  },
+  {
+    "start": 3211.25,
+    "end": 3216.31,
+    "text": "So the state grid pays more attention to the discharge inside the transformers."
+  },
+  {
+    "start": 3216.66,
+    "end": 3225.6,
+    "text": "So the new technology will support the imaging and voice recognition to detect the equipment,"
+  },
+  {
+    "start": 3225.9,
+    "end": 3229.46,
+    "text": "to detect the discharge inside the transformers."
+  },
+  {
+    "start": 3229.46,
+    "end": 3241.9,
+    "text": "And we use the M-type of the device to be installed in the outside of the transformer and to detect the mean fault of the discharge."
+  },
+  {
+    "start": 3243.87,
+    "end": 3254.25,
+    "text": "So the voice and the imaging and the recognition technologies could be mixed-used in the detection of the monitoring."
+  },
+  {
+    "start": 3254.25,
+    "end": 3272.84,
+    "text": "So it can ensure the transformer can be operated safely and to diagnose the minor faults and make the early warning for the transformer."
+  },
+  {
+    "start": 3277.1,
+    "end": 3291.02,
+    "text": "And for the low-voltage transmission areas, what is the problem we have encountered is that how to make the land loss to be reduced,"
+  },
+  {
+    "start": 3291.38,
+    "end": 3299.62,
+    "text": "because a lot of electricity transmission loss occurred in the low-voltage system."
+  },
+  {
+    "start": 3299.62,
+    "end": 3315.24,
+    "text": "For the high voltage, the loss is very low, 1% or 2%, but for the low or medium voltage, any loss becomes maybe 6% or 7%."
+  },
+  {
+    "start": 3315.24,
+    "end": 3327.36,
+    "text": "So how to reduce the land loss is a very serious problem to make the power system to be operated very efficiently."
+  },
+  {
+    "start": 3327.36,
+    "end": 3336.13,
+    "text": "So, within the same power supply area, we have to install an intelligent transformer"
+  },
+  {
+    "start": 3336.13,
+    "end": 3347.49,
+    "text": "to check the diagonal robot for each transformer to make the diagonal for the land loss, for"
+  },
+  {
+    "start": 3347.49,
+    "end": 3355.12,
+    "text": "the transformer loss, to reduce the loss, either to diagnose what kind of loss could"
+  },
+  {
+    "start": 3355.12,
+    "end": 3356.22,
+    "text": "occur in this area."
+  },
+  {
+    "start": 3356.22,
+    "end": 3360.65,
+    "text": "One reason is that in the unbalance of the three phase."
+  },
+  {
+    "start": 3360.97,
+    "end": 3365.35,
+    "text": "Another reason is that the low voltage line is too long, we have to transfer."
+  },
+  {
+    "start": 3365.92,
+    "end": 3370.2,
+    "text": "And maybe there is some stolen, the electrical stolen."
+  },
+  {
+    "start": 3370.75,
+    "end": 3378.93,
+    "text": "Maybe some many, many events maybe affect the land loss."
+  },
+  {
+    "start": 3379.35,
+    "end": 3388.14,
+    "text": "So we have to install the detections to detect, to diagnose what is the loss result for."
+  },
+  {
+    "start": 3388.14,
+    "end": 3401.77,
+    "text": "The fifth one is the flexible DC interconnection between or among the distributed stations."
+  },
+  {
+    "start": 3402.69,
+    "end": 3409.51,
+    "text": "You know that many distribution stations are working independently with each other."
+  },
+  {
+    "start": 3410.12,
+    "end": 3413.64,
+    "text": "They supply their own power supply areas."
+  },
+  {
+    "start": 3414.34,
+    "end": 3417.72,
+    "text": "They give them power supply to their own users."
+  },
+  {
+    "start": 3418.18,
+    "end": 3421.12,
+    "text": "So they do not interconnect with each other."
+  },
+  {
+    "start": 3421.12,
+    "end": 3432.79,
+    "text": "So some of the stations may be overload because of a load increase. So we have to"
+  },
+  {
+    "start": 3432.79,
+    "end": 3439.25,
+    "text": "increase the equipment to expand the capacity of the supply. But some of the"
+  },
+  {
+    "start": 3439.25,
+    "end": 3447.33,
+    "text": "stations, they're less load. But there are a lot of distributed PVs. So we"
+  },
+  {
+    "start": 3447.33,
+    "end": 3451.45,
+    "text": "Rewards transfer from the low voltage to the high voltage."
+  },
+  {
+    "start": 3451.71,
+    "end": 3455.59,
+    "text": "So this is forbidden for the power grid."
+  },
+  {
+    "start": 3456.9,
+    "end": 3460.3,
+    "text": "This is not allowed for the power flow"
+  },
+  {
+    "start": 3460.3,
+    "end": 3462.06,
+    "text": "from the low voltage to the high voltage"
+  },
+  {
+    "start": 3462.06,
+    "end": 3465.24,
+    "text": "because it makes the transformer overloaded"
+  },
+  {
+    "start": 3465.24,
+    "end": 3469.1,
+    "text": "to make the voltage to be much higher."
+  },
+  {
+    "start": 3470.26,
+    "end": 3471.66,
+    "text": "So we have to avoid this."
+  },
+  {
+    "start": 3472.37,
+    "end": 3473.71,
+    "text": "How to solve this problem?"
+  },
+  {
+    "start": 3474.46,
+    "end": 3477.32,
+    "text": "We use a flexible DC connection."
+  },
+  {
+    "start": 3478.51,
+    "end": 3481.93,
+    "text": "to link the several distributed stations."
+  },
+  {
+    "start": 3483.6,
+    "end": 3487.78,
+    "text": "For example, in the left hand, the top hand of the station,"
+  },
+  {
+    "start": 3488.08,
+    "end": 3495.64,
+    "text": "there are two stations."
+  },
+  {
+    "start": 3496.72,
+    "end": 3499.38,
+    "text": "This is a very successful example."
+  },
+  {
+    "start": 3500.2,
+    "end": 3503.34,
+    "text": "There are two stations, two turn-voltage stations."
+  },
+  {
+    "start": 3504.12,
+    "end": 3506.02,
+    "text": "One station is a production area."
+  },
+  {
+    "start": 3506.38,
+    "end": 3509.6,
+    "text": "They produce oil, oil."
+  },
+  {
+    "start": 3511.82,
+    "end": 3521.45,
+    "text": "Another substation surprise for the residential areas, there is a lot of distributed TV."
+  },
+  {
+    "start": 3521.87,
+    "end": 3524.89,
+    "text": "So in this station, there is power voltage."
+  },
+  {
+    "start": 3525.65,
+    "end": 3529.31,
+    "text": "So the power flow from the lower to the higher one."
+  },
+  {
+    "start": 3530.0,
+    "end": 3533.32,
+    "text": "For this substation, there is lack of capacity."
+  },
+  {
+    "start": 3533.32,
+    "end": 3539.1,
+    "text": "capacity. So they have to invest a lot of devices to increase their capacity, to expand"
+  },
+  {
+    "start": 3539.1,
+    "end": 3550.54,
+    "text": "their production to a business. So the two stations could be connected into one. So we"
+  },
+  {
+    "start": 3550.54,
+    "end": 3559.41,
+    "text": "use the interconnected flexible DC, DC to connect the two stations. So the distributed"
+  },
+  {
+    "start": 3559.41,
+    "end": 3567.23,
+    "text": "PV generation could be supplied to the another station to make the balance of the power stations"
+  },
+  {
+    "start": 3567.23,
+    "end": 3573.09,
+    "text": "to reduce the expansion investment for this substation."
+  },
+  {
+    "start": 3573.33,
+    "end": 3579.31,
+    "text": "And also we solved the discrete PV, they can make the balance of the two stations."
+  },
+  {
+    "start": 3580.44,
+    "end": 3588.98,
+    "text": "Other things, we use the DC bus bar to connect discharge, charge and discharging EV, electrical"
+  },
+  {
+    "start": 3588.98,
+    "end": 3598.12,
+    "text": "electrical vehicle, to connect the distributed storage to connect to this one, to connect"
+  },
+  {
+    "start": 3598.12,
+    "end": 3609.02,
+    "text": "the distributed TV to this DC bar, so that this is a very successful example for the"
+  },
+  {
+    "start": 3609.02,
+    "end": 3612.08,
+    "text": "change of the flexible DC connections."
+  },
+  {
+    "start": 3612.08,
+    "end": 3619.39,
+    "text": "So we use such kind of flexible DC interconnection to solve many problems."
+  },
+  {
+    "start": 3619.75,
+    "end": 3626.92,
+    "text": "For example, the overload of the distributed PV in one substation."
+  },
+  {
+    "start": 3627.18,
+    "end": 3638.64,
+    "text": "For example, there is a need for the DC busbar to be connected into some distributed PV,"
+  },
+  {
+    "start": 3638.64,
+    "end": 3647.32,
+    "text": "some distributed storage and also we use this kind of interconnected bus bar to"
+  },
+  {
+    "start": 3647.32,
+    "end": 3657.76,
+    "text": "set up a charging station to make a electrical vehicle to be charged or we"
+  },
+  {
+    "start": 3657.76,
+    "end": 3667.68,
+    "text": "have also make a control strategy to make it discharge, to make the charging station to discharge in the peak level."
+  },
+  {
+    "start": 3669.52,
+    "end": 3682.28,
+    "text": "So we think that the flexo-DC interconnection among the distributed power stations will be widely used in the eastern channel of the distribution network."
+  },
+  {
+    "start": 3683.17,
+    "end": 3690.87,
+    "text": "So this shows very many advantages for the operation of the distribution network."
+  },
+  {
+    "start": 3690.87,
+    "end": 3701.42,
+    "text": "Of course, there is a lot of technical problems to be solved for this in the connected distribution."
+  },
+  {
+    "start": 3701.78,
+    "end": 3707.22,
+    "text": "For example, the mechanism and the modeling, how to model to perform a flexible interconnection."
+  },
+  {
+    "start": 3707.22,
+    "end": 3711.18,
+    "text": "For example, the flex network control, how to control this flex network."
+  },
+  {
+    "start": 3711.38,
+    "end": 3719.19,
+    "text": "How to make a dynamic energy support to make the safety for the network with the flexible internet."
+  },
+  {
+    "start": 3720.13,
+    "end": 3730.09,
+    "text": "how to solve the cross-over, and all of this could be solved by the new technology."
+  },
+  {
+    "start": 3735.12,
+    "end": 3742.26,
+    "text": "So we have to pay more attention to the technical development for the artificial intelligence technologies."
+  },
+  {
+    "start": 3742.75,
+    "end": 3749.01,
+    "text": "For example, the AI is a very powerful engine for the production of research and development."
+  },
+  {
+    "start": 3749.01,
+    "end": 3757.46,
+    "text": "without unmanned helicopter vehicles to be inspected in our system."
+  },
+  {
+    "start": 3757.7,
+    "end": 3765.7,
+    "text": "The robot version, the AI computing, this AI algorithm to be integrated into the chips,"
+  },
+  {
+    "start": 3765.8,
+    "end": 3772.88,
+    "text": "in the one chip. For example, the application of machine tactile chips for file monitoring"
+  },
+  {
+    "start": 3772.88,
+    "end": 3780.03,
+    "text": "and for the end-story power to prevent the file disaster."
+  },
+  {
+    "start": 3780.46,
+    "end": 3787.14,
+    "text": "For example, the intelligent identification for the defects of the transmission and distribution lines,"
+  },
+  {
+    "start": 3787.49,
+    "end": 3793.93,
+    "text": "and imaging and adaptive fusion monitoring for the equipment defects,"
+  },
+  {
+    "start": 3794.27,
+    "end": 3797.38,
+    "text": "and for the power environment and so on."
+  },
+  {
+    "start": 3797.56,
+    "end": 3801.5,
+    "text": "So, so many AI products to be developed in the power system."
+  },
+  {
+    "start": 3801.5,
+    "end": 3811.61,
+    "text": "And also, we have to pay attention to the many, many applications for the system safety"
+  },
+  {
+    "start": 3812.03,
+    "end": 3814.57,
+    "text": "and prevention, disaster prevention."
+  },
+  {
+    "start": 3814.93,
+    "end": 3822.03,
+    "text": "For example, the intelligent robot inspection for substations, for example, the health status"
+  },
+  {
+    "start": 3822.03,
+    "end": 3828.66,
+    "text": "detection, and the risk early warning of the on-road chargers, and the early fire warnings"
+  },
+  {
+    "start": 3828.66,
+    "end": 3840.84,
+    "text": "and the file extinguish technology for transformers, for the cables, for the energy storage, and the internal technology for the safety tools."
+  },
+  {
+    "start": 3841.25,
+    "end": 3857.56,
+    "text": "And the anti-miss operation technology, for example, if someone with a miss, to go into the miss space, there's a warning to tell him that you are wrong."
+  },
+  {
+    "start": 3857.56,
+    "end": 3863.74,
+    "text": "wrong. So we use the human replacement for the high-risk operations without the"
+  },
+  {
+    "start": 3863.74,
+    "end": 3871.22,
+    "text": "overhead operation. We use the robot to replace the humans as well. So, so many AI"
+  },
+  {
+    "start": 3871.22,
+    "end": 3881.4,
+    "text": "technology to be used in the power system. And the last two things is that we have to pay more"
+  },
+  {
+    "start": 3881.4,
+    "end": 3887.14,
+    "text": "attention to the weather because the weather will affect the new power system"
+  },
+  {
+    "start": 3887.9,
+    "end": 3892.32,
+    "text": "And another thing is that we have to pay attention to the carbon."
+  },
+  {
+    "start": 3894.15,
+    "end": 3902.59,
+    "text": "So apart from the source, grid, load, and storage operations, apart from this one,"
+  },
+  {
+    "start": 3903.09,
+    "end": 3907.97,
+    "text": "we have to pay attention to the weather, we have to pay attention to the carbon,"
+  },
+  {
+    "start": 3908.17,
+    "end": 3915.79,
+    "text": "because the weather will affect the generation of the renewable energies."
+  },
+  {
+    "start": 3915.79,
+    "end": 3923.49,
+    "text": "This is a very, very serious program for the operators of the system."
+  },
+  {
+    "start": 3924.12,
+    "end": 3932.72,
+    "text": "And also, our final objective is to reduce the carbon emission,"
+  },
+  {
+    "start": 3932.92,
+    "end": 3936.7,
+    "text": "to make the power system to be carbon neutral."
+  },
+  {
+    "start": 3937.02,
+    "end": 3943.62,
+    "text": "So the electricity and the carbon neutralization become very important."
+  },
+  {
+    "start": 3943.62,
+    "end": 3949.04,
+    "text": "So we have to pay attention to the carbon production and electric carbon production."
+  },
+  {
+    "start": 3950.99,
+    "end": 3960.53,
+    "text": "So that the safe operation of the new power system would focus on interaction and coordination for the six elements."
+  },
+  {
+    "start": 3961.71,
+    "end": 3967.49,
+    "text": "The six elements include the source, grid, load, storage, and weather and carbon."
+  },
+  {
+    "start": 3968.64,
+    "end": 3976.26,
+    "text": "So we think the six elements will make the new type of power system to be operated very safe"
+  },
+  {
+    "start": 3976.26,
+    "end": 3986.94,
+    "text": "and very economical. You know, in the western China, there is a very complex weather."
+  },
+  {
+    "start": 3987.88,
+    "end": 3993.88,
+    "text": "For example, in Tibet, in Xinjiang, in the western, east-western, in Mongolia,"
+  },
+  {
+    "start": 3994.12,
+    "end": 4004.8,
+    "text": "there is a lot of different conditions, weather conditions, and very complex terrains and landforms."
+  },
+  {
+    "start": 4005.12,
+    "end": 4018.36,
+    "text": "And this kind of renewable energy generation path, their production, their generation varies very fast with the virus."
+  },
+  {
+    "start": 4018.8,
+    "end": 4025.26,
+    "text": "So we have to make a global climate change to be identified."
+  },
+  {
+    "start": 4026.04,
+    "end": 4030.55,
+    "text": "because this global climate change becomes normal."
+  },
+  {
+    "start": 4031.16,
+    "end": 4034.92,
+    "text": "So we have to count the money, a lot of these things."
+  },
+  {
+    "start": 4041.34,
+    "end": 4047.76,
+    "text": "So we think that integration of metrology and electric power,"
+  },
+  {
+    "start": 4048.06,
+    "end": 4054.9,
+    "text": "we named metrology power, is impoverished to the power production."
+  },
+  {
+    "start": 4056.31,
+    "end": 4065.58,
+    "text": "So, with the weather data, with the meteorological data and technology, to be closely linked"
+  },
+  {
+    "start": 4066.1,
+    "end": 4074.35,
+    "text": "with the renewable energy generation forecasting will make the decision of the power grid operation"
+  },
+  {
+    "start": 4074.73,
+    "end": 4075.53,
+    "text": "and the maintenance."
+  },
+  {
+    "start": 4075.87,
+    "end": 4077.57,
+    "text": "This is very important."
+  },
+  {
+    "start": 4079.93,
+    "end": 4083.45,
+    "text": "This is an accurate forecast of the renewable energy generation."
+  },
+  {
+    "start": 4083.45,
+    "end": 4089.57,
+    "text": "This depends on the accurate forecast of the weather, so this is quite important."
+  },
+  {
+    "start": 4090.36,
+    "end": 4096.66,
+    "text": "And specialized technology for disaster prevention, control, operation and maintenance."
+  },
+  {
+    "start": 4097.78,
+    "end": 4105.38,
+    "text": "So we have to develop different weather disasters,"
+  },
+  {
+    "start": 4105.62,
+    "end": 4110.75,
+    "text": "such as typhoon forecast, such as tower risk monitoring,"
+  },
+  {
+    "start": 4120.07,
+    "end": 4133.35,
+    "text": "So we have to set up an integrated decision making platform, it will achieve data integration"
+  },
+  {
+    "start": 4133.35,
+    "end": 4141.39,
+    "text": "and effective applications such as weather monitoring, wind, solar, hydropower forecasting"
+  },
+  {
+    "start": 4141.39,
+    "end": 4152.15,
+    "text": "to provide the power sector with 4% services from the early warning to the post-disaster assessment."
+  },
+  {
+    "start": 4153.02,
+    "end": 4159.33,
+    "text": "So all of these technologies are very urgently needed in the electric power system."
+  },
+  {
+    "start": 4160.46,
+    "end": 4168.8,
+    "text": "So nowadays we have set up a special committee to do special research on the weather and the electric power,"
+  },
+  {
+    "start": 4168.8,
+    "end": 4177.63,
+    "text": "how to research for the link with each other, especially for the future in the power market."
+  },
+  {
+    "start": 4178.02,
+    "end": 4184.1,
+    "text": "So if we set up a very complicated power market mechanism,"
+  },
+  {
+    "start": 4184.68,
+    "end": 4189.72,
+    "text": "so the price is very close with the forecast of the generation."
+  },
+  {
+    "start": 4190.12,
+    "end": 4198.0,
+    "text": "So if you make a missed result, if you make a result that is not very precise,"
+  },
+  {
+    "start": 4200.68,
+    "end": 4212.36,
+    "text": "So we think that deep coupling of the metrology and the electric power is a no-train for the"
+  },
+  {
+    "start": 4212.36,
+    "end": 4215.0,
+    "text": "power security and emergency response."
+  },
+  {
+    "start": 4216.66,
+    "end": 4223.81,
+    "text": "So in Chinese power system, we have developed some many mini-weather stations."
+  },
+  {
+    "start": 4224.87,
+    "end": 4232.38,
+    "text": "For example, in Jiangsu province, they are scheduled to install the mini weather stations"
+  },
+  {
+    "start": 4232.76,
+    "end": 4238.44,
+    "text": "every kilometer to detect the weather."
+  },
+  {
+    "start": 4239.86,
+    "end": 4248.02,
+    "text": "We use the unmanned helicopter with swarm, airborne, cooperative, 3D modeling, and imaging"
+  },
+  {
+    "start": 4248.02,
+    "end": 4252.18,
+    "text": "analysis to inspect the network."
+  },
+  {
+    "start": 4252.18,
+    "end": 4258.2,
+    "text": "We use emergency plan generation based on large language model."
+  },
+  {
+    "start": 4259.18,
+    "end": 4262.34,
+    "text": "We have set up a lot of planning."
+  },
+  {
+    "start": 4262.68,
+    "end": 4267.44,
+    "text": "The people train with the planning into the office."
+  },
+  {
+    "start": 4267.72,
+    "end": 4275.18,
+    "text": "But if there is an emergency occur, how can we very fast, very quickly,"
+  },
+  {
+    "start": 4275.18,
+    "end": 4285.32,
+    "text": "to respond, to make real, existent planning for the emergency process."
+  },
+  {
+    "start": 4286.18,
+    "end": 4290.74,
+    "text": "This is dependent on the large language."
+  },
+  {
+    "start": 4291.82,
+    "end": 4294.56,
+    "text": "We have to develop the emergency plan generation,"
+  },
+  {
+    "start": 4296.09,
+    "end": 4300.15,
+    "text": "automatically generate the emergency planning."
+  },
+  {
+    "start": 4300.49,
+    "end": 4307.73,
+    "text": "We have to research on the collaborative command"
+  },
+  {
+    "start": 4307.73,
+    "end": 4326.5,
+    "text": "How to organize team, how to organize material, emergency material transportation, and result based on S-train weather forecast."
+  },
+  {
+    "start": 4327.01,
+    "end": 4333.23,
+    "text": "So all of this is related to the real side of the weather forecast."
+  },
+  {
+    "start": 4333.67,
+    "end": 4336.65,
+    "text": "This is a very close thing with the policy."
+  },
+  {
+    "start": 4336.65,
+    "end": 4345.25,
+    "text": "Okay, the last one we have to pay more attention to is carbon."
+  },
+  {
+    "start": 4345.77,
+    "end": 4355.85,
+    "text": "So the carbon generated by electricity is very very important for the carbon neutral for the new power system."
+  },
+  {
+    "start": 4356.05,
+    "end": 4363.05,
+    "text": "Because the final organization, the final target of the new power system is to reduce the carbon emission."
+  },
+  {
+    "start": 4363.05,
+    "end": 4372.75,
+    "text": "So how to calculate the carbon emission for each kilowatt hour of electricity is very important."
+  },
+  {
+    "start": 4376.68,
+    "end": 4382.04,
+    "text": "So we have a new concept, that is, we make the path."
+  },
+  {
+    "start": 4382.99,
+    "end": 4387.13,
+    "text": "In the path, we make the source follow the load."
+  },
+  {
+    "start": 4388.08,
+    "end": 4394.74,
+    "text": "Because if the load changes, we have the order to change the output of the power plant."
+  },
+  {
+    "start": 4395.02,
+    "end": 4396.74,
+    "text": "This is the traditional operation."
+  },
+  {
+    "start": 4396.74,
+    "end": 4403.59,
+    "text": "But now this is changed. We changed the load moves with the source."
+  },
+  {
+    "start": 4404.0,
+    "end": 4407.5,
+    "text": "If the source fluctuates, we make the load to move."
+  },
+  {
+    "start": 4407.96,
+    "end": 4418.51,
+    "text": "We use our administration policies to encourage the load, the users, to take part in the adjustment."
+  },
+  {
+    "start": 4419.7,
+    "end": 4426.08,
+    "text": "So load moves with source is very important. This is the demand response."
+  },
+  {
+    "start": 4426.08,
+    "end": 4440.64,
+    "text": "And also, we promote that load moves with carbon, so through a precise time and region based electricity carbon accounting mechanism,"
+  },
+  {
+    "start": 4441.04,
+    "end": 4452.88,
+    "text": "it is possible to link up with the international carbon tariff system, and to respond to the government carbon reduction policy."
+  },
+  {
+    "start": 4452.88,
+    "end": 4471.92,
+    "text": "When we make the time-based carbon, each hour, we can track what of this kilowatt hour of electric power generation to be produced in when and where."
+  },
+  {
+    "start": 4472.08,
+    "end": 4475.51,
+    "text": "When and where the electricity is produced."
+  },
+  {
+    "start": 4475.51,
+    "end": 4482.86,
+    "text": "So, time-based is the guide to the load to shift to the low-carbon time period, and region-based"
+  },
+  {
+    "start": 4482.86,
+    "end": 4488.38,
+    "text": "is the guide to energy-consuming load to shift to the low-carbon areas."
+  },
+  {
+    "start": 4488.84,
+    "end": 4499.74,
+    "text": "For example, in the western part of China, there is very low carbon emissions, but our"
+  },
+  {
+    "start": 4499.74,
+    "end": 4506.28,
+    "text": "Our production center is located in the east, how to shift the east and the north to the west."
+  },
+  {
+    "start": 4507.02,
+    "end": 4508.44,
+    "text": "So this is very important."
+  },
+  {
+    "start": 4509.02,
+    "end": 4519.8,
+    "text": "So lower the force of carbon will inevitably lead to significant change in the planning, in the construction, in the operation of the power system."
+  },
+  {
+    "start": 4520.06,
+    "end": 4529.16,
+    "text": "And it will show an important impact on the great architecture, the safety operation of the west to east power transmission in China."
+  },
+  {
+    "start": 4531.24,
+    "end": 4541.04,
+    "text": "So we have another idea, we will transfer the lower centers, the lower consumption from the eastward, to the lower carbon area."
+  },
+  {
+    "start": 4544.34,
+    "end": 4560.36,
+    "text": "So the United States made a proposal that we make the carbon production calculations by time, from annually to hourly."
+  },
+  {
+    "start": 4560.36,
+    "end": 4575.47,
+    "text": "So each hour, they will publish, they will announce which of the electricity produced by what time, by where, where they are."
+  },
+  {
+    "start": 4575.75,
+    "end": 4583.81,
+    "text": "So this goes from Swiss, to country Swiss, to a balance space, to a load center, to a load zone."
+  },
+  {
+    "start": 4584.48,
+    "end": 4589.0,
+    "text": "So this is the United States' suggestion, the standard."
+  },
+  {
+    "start": 4589.0,
+    "end": 4596.72,
+    "text": "And also, the United Congress requires the EIA to publish hourly average carbon emission"
+  },
+  {
+    "start": 4597.15,
+    "end": 4600.22,
+    "text": "factors for each electric power utility."
+  },
+  {
+    "start": 4601.05,
+    "end": 4608.04,
+    "text": "So you can check in the website, you can check, for example, you can check the American utility,"
+  },
+  {
+    "start": 4608.04,
+    "end": 4621.09,
+    "text": "they will announce their electric power production produced in which area in what time."
+  },
+  {
+    "start": 4621.37,
+    "end": 4627.05,
+    "text": "So this is very important to track the carbon prints."
+  },
+  {
+    "start": 4628.76,
+    "end": 4638.04,
+    "text": "So we have focused first to establish an international recognized carbon footprint"
+  },
+  {
+    "start": 4638.04,
+    "end": 4649.7,
+    "text": "to print on the carbon standard certification system and to create a fair and equitable international carbon printing management."
+  },
+  {
+    "start": 4651.2,
+    "end": 4656.12,
+    "text": "This is very important for us to set up such a system."
+  },
+  {
+    "start": 4659.76,
+    "end": 4668.86,
+    "text": "For our side, for our team, we are now constructing a single electricity carbon map based on big data."
+  },
+  {
+    "start": 4668.86,
+    "end": 4677.64,
+    "text": "so the electricity carbon map this is a very very complex model from the"
+  },
+  {
+    "start": 4677.64,
+    "end": 4684.12,
+    "text": "electric power grid to the production data and then we calculate the carbon"
+  },
+  {
+    "start": 4684.12,
+    "end": 4693.08,
+    "text": "flow along with the network and finally we make each each point each electric"
+  },
+  {
+    "start": 4693.08,
+    "end": 4705.56,
+    "text": "point, they produce, they will supply the electricity, and we give index for each kilowatt"
+  },
+  {
+    "start": 4705.56,
+    "end": 4719.74,
+    "text": "hour. And finally we want to make every product a signal. If you scan the signal, you can"
+  },
+  {
+    "start": 4719.74,
+    "end": 4728.61,
+    "text": "know that how many carbon emissions come from this product and when and where this product is produced"
+  },
+  {
+    "start": 4729.09,
+    "end": 4736.78,
+    "text": "how many kilowatt hours consumed to produce this product so that we can make a very very detailed"
+  },
+  {
+    "start": 4737.64,
+    "end": 4749.51,
+    "text": "detection so we think the integrated map is very important so we make the optimize of the six"
+  },
+  {
+    "start": 4749.51,
+    "end": 4756.51,
+    "text": "elements, source, grid, load, storage and weather and carbon to support the safety"
+  },
+  {
+    "start": 4756.51,
+    "end": 4763.51,
+    "text": "operation of our city. To make a clean and low carbon production, to make a safety"
+  },
+  {
+    "start": 4763.51,
+    "end": 4770.49,
+    "text": "margin, to make a economic efficient operation, to make a supply-demand"
+  },
+  {
+    "start": 4770.49,
+    "end": 4780.93,
+    "text": "coordination and response, to make a flexible and smart operation. So this"
+  },
+  {
+    "start": 4780.93,
+    "end": 4785.36,
+    "text": "This is a simple description of our system."
+  },
+  {
+    "start": 4785.96,
+    "end": 4788.4,
+    "text": "First of all, we collect a lot of data."
+  },
+  {
+    "start": 4788.76,
+    "end": 4794.4,
+    "text": "Weather data, information data, detection data, and so on."
+  },
+  {
+    "start": 4794.54,
+    "end": 4799.32,
+    "text": "We make the knowledge base, we make the research center,"
+  },
+  {
+    "start": 4799.32,
+    "end": 4801.26,
+    "text": "enhance the generation, and so on."
+  },
+  {
+    "start": 4801.34,
+    "end": 4804.02,
+    "text": "We make the dark model for the detection center."
+  },
+  {
+    "start": 4804.85,
+    "end": 4810.34,
+    "text": "So that we can develop a predictive dark model."
+  },
+  {
+    "start": 4810.34,
+    "end": 4818.42,
+    "text": "and some weather large models, and so on."
+  },
+  {
+    "start": 4818.87,
+    "end": 4823.13,
+    "text": "And finally, we take a technological base"
+  },
+  {
+    "start": 4823.13,
+    "end": 4826.79,
+    "text": "based on the graph analysis, graph knowledge and calculations."
+  },
+  {
+    "start": 4827.63,
+    "end": 4830.25,
+    "text": "And we use this database to support"
+  },
+  {
+    "start": 4831.47,
+    "end": 4835.75,
+    "text": "source load prediction, to support carbon footprint"
+  },
+  {
+    "start": 4835.75,
+    "end": 4839.17,
+    "text": "measurement, to support the situation"
+  },
+  {
+    "start": 4839.17,
+    "end": 4843.27,
+    "text": "awareness, to support the planetary magnification,"
+  },
+  {
+    "start": 4843.27,
+    "end": 4851.05,
+    "text": "to support collaborative optimization, to support flexibility optimization, and so on."
+  },
+  {
+    "start": 4851.21,
+    "end": 4863.52,
+    "text": "So this kind of big data system is very useful for the future advanced operations of the new power system."
+  },
+  {
+    "start": 4863.52,
+    "end": 4870.49,
+    "text": "So we use this map, and we set up a graph technology foundation."
+  },
+  {
+    "start": 4870.99,
+    "end": 4874.25,
+    "text": "This is the support, this is the basic information."
+  },
+  {
+    "start": 4874.73,
+    "end": 4878.25,
+    "text": "And we make some AI-influenced decision making."
+  },
+  {
+    "start": 4878.59,
+    "end": 4879.59,
+    "text": "This is the software."
+  },
+  {
+    "start": 4880.86,
+    "end": 4884.88,
+    "text": "And finally, we make an electrical carbon coupling on that."
+  },
+  {
+    "start": 4885.45,
+    "end": 4886.99,
+    "text": "And how about carbon?"
+  },
+  {
+    "start": 4886.99,
+    "end": 4899.21,
+    "text": "carbon. You see, this kind of data system, for the power system operation, and for the comprehensive and accurate"
+  },
+  {
+    "start": 4899.21,
+    "end": 4910.18,
+    "text": "weather power generation, load forecasting, use this because of fused weather data, AI based process"
+  },
+  {
+    "start": 4910.18,
+    "end": 4918.07,
+    "text": "predictions. And for the online security assessment for the power system, with those great load storage,"
+  },
+  {
+    "start": 4918.07,
+    "end": 4935.78,
+    "text": "Why the carbon benefit? So that we can analyze, how about this power system, you have, whether there is a magic for the power system to expand, whether there is a magic to interconnect with the PVs and so on."
+  },
+  {
+    "start": 4935.78,
+    "end": 4945.94,
+    "text": "And also, we can make an analysis of grid adequacy and flexibility based on the six sectors."
+  },
+  {
+    "start": 4946.3,
+    "end": 4957.88,
+    "text": "For example, for this kind of a system, how to connect, how many distributed PV could be connected to the system."
+  },
+  {
+    "start": 4959.14,
+    "end": 4966.28,
+    "text": "So, finally, we make a report for the provincial detection contracts."
+  },
+  {
+    "start": 4966.28,
+    "end": 4975.7,
+    "text": "And these project centers integrate multi-source systems, including data type and intraday power generation plants,"
+  },
+  {
+    "start": 4975.96,
+    "end": 4981.66,
+    "text": "including new energy power and load forecasting, including virtual power plants,"
+  },
+  {
+    "start": 4981.8,
+    "end": 4987.72,
+    "text": "and to build an integrated automation platform in provincial infrastructure centers"
+  },
+  {
+    "start": 4988.08,
+    "end": 4992.58,
+    "text": "for the source with load storage devices and commons for the sector."
+  },
+  {
+    "start": 4994.13,
+    "end": 5010.39,
+    "text": "So this is our government support project, we are now setting up such a platform in Guangxi province."
+  },
+  {
+    "start": 5012.21,
+    "end": 5015.15,
+    "text": "Okay, thank you. Any questions?"
+  },
+  {
+    "start": 5015.63,
+    "end": 5031.97,
+    "text": "Any questions? No questions?"
+  },
+  {
+    "start": 5053.0,
+    "end": 5059.76,
+    "text": "I just want to know how long did it take you to implement all of those in China?"
+  },
+  {
+    "start": 5060.38,
+    "end": 5065.85,
+    "text": "This project is not ongoing. It's not completed."
+  },
+  {
+    "start": 5067.46,
+    "end": 5071.2,
+    "text": "Because the project is set up the year before last."
+  }
+]

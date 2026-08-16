@@ -1,0 +1,4 @@
+file '/home/pinzunza/proyectos/APEC-2026/separated/mdx_extra/parte_000/vocals.wav'
+file '/home/pinzunza/proyectos/APEC-2026/separated/mdx_extra/parte_001/vocals.wav'
+file '/home/pinzunza/proyectos/APEC-2026/separated/mdx_extra/parte_002/vocals.wav'
+file '/home/pinzunza/proyectos/APEC-2026/separated/mdx_extra/parte_003/vocals.wav'

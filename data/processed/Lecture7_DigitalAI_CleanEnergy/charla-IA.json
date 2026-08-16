@@ -1,0 +1,1152 @@
+[
+  {
+    "start": 0.0,
+    "end": 15.92,
+    "text": "I would like to discuss how digital and intelligence technology can help the clean energy system move from rapid expansion to more reliable, economical, and system-wide operations."
+  },
+  {
+    "start": 15.92,
+    "end": 21.58,
+    "text": "Now, let me first show you the logic of my lecture."
+  },
+  {
+    "start": 21.84,
+    "end": 25.8,
+    "text": "So, my lecture has five connected parts."
+  },
+  {
+    "start": 26.32,
+    "end": 34.28,
+    "text": "I will explain three structural challenges created by high renewable energy penetration,"
+  },
+  {
+    "start": 34.8,
+    "end": 59.28,
+    "text": "namely the volatility, inefficiency, and challenges from seeing the problem to seeing the whole energy system."
+  },
+  {
+    "start": 59.28,
+    "end": 67.04,
+    "text": "Now, let's begin with the background and the core core in the culture of clean energy."
+  },
+  {
+    "start": 69.78,
+    "end": 74.06,
+    "text": "The starting point I will begin with is counter-intuitive."
+  },
+  {
+    "start": 74.42,
+    "end": 82.48,
+    "text": "The biggest obstacle to clean energy is what?"
+  },
+  {
+    "start": 83.98,
+    "end": 87.12,
+    "text": "What's the first answer pop up in your mind?"
+  },
+  {
+    "start": 87.46,
+    "end": 94.68,
+    "text": "I think most of you would immediately answer fossil fuels."
+  },
+  {
+    "start": 95.7,
+    "end": 111.71,
+    "text": "That answer is really understandable. I would say that it's incomplete. Why? In fact, I would say the biggest obstacle to clean energy is clean energy itself."
+  },
+  {
+    "start": 112.07,
+    "end": 122.61,
+    "text": "Why I said that? Because when we talk about clean energy, we also said that we increase the capacity of clean energy."
+  },
+  {
+    "start": 122.61,
+    "end": 145.04,
+    "text": "But the capacity can never, if the brain cannot absorb it, then more capacity will become the stranded potentials, which means that clean energy itself has become the bottleneck for the whole."
+  },
+  {
+    "start": 146.92,
+    "end": 154.74,
+    "text": "So this paradox can be decomposed into three interconnected technical chapters."
+  },
+  {
+    "start": 154.74,
+    "end": 168.69,
+    "text": "I think I've just said that at high renewable energy penetration, the immediate operational consequence can be the clean energy sterile,"
+  },
+  {
+    "start": 168.91,
+    "end": 177.55,
+    "text": "which means that the bottleneck has shifted from the generation capacity to the power system coordination."
+  },
+  {
+    "start": 178.72,
+    "end": 186.16,
+    "text": "Why? Because the electricity generation can arrive at the runtime,"
+  },
+  {
+    "start": 186.16,
+    "end": 192.2,
+    "text": "which means that the supply and the demand cannot match."
+  },
+  {
+    "start": 192.56,
+    "end": 197.73,
+    "text": "We arrived in the wrong place."
+  },
+  {
+    "start": 197.87,
+    "end": 204.43,
+    "text": "We think the generation is far from the demand, which is a typical situation in China."
+  },
+  {
+    "start": 204.83,
+    "end": 212.53,
+    "text": "We know that the wind and solar power have great potential in the west part of China,"
+  },
+  {
+    "start": 213.06,
+    "end": 218.66,
+    "text": "but the most demand are located in the east part of China."
+  },
+  {
+    "start": 218.66,
+    "end": 227.76,
+    "text": "And finally, it would be enough right in the ground floor that the grid cannot safely store."
+  },
+  {
+    "start": 228.6,
+    "end": 239.35,
+    "text": "So the capacity and the increase of capacity and the usable energy are not the same."
+  },
+  {
+    "start": 239.35,
+    "end": 252.61,
+    "text": "If the grid, the storage, the demand side, and the market cannot properly respond, then the additional capacity can be stranded."
+  },
+  {
+    "start": 256.58,
+    "end": 268.54,
+    "text": "It's why we call digital and artificial intelligence matter electricity."
+  },
+  {
+    "start": 269.92,
+    "end": 280.06,
+    "text": "They improve to optimize the use of grid electricity."
+  },
+  {
+    "start": 280.06,
+    "end": 293.37,
+    "text": "With these tools, we can finally make the coordinated flexibility and we make more usable clean energy."
+  },
+  {
+    "start": 306.47,
+    "end": 319.59,
+    "text": "This figure shows renewable conditions which takes out all the street corners."
+  },
+  {
+    "start": 319.93,
+    "end": 330.59,
+    "text": "And we can change the natural profile."
+  },
+  {
+    "start": 367.02,
+    "end": 379.23,
+    "text": "The central paradox is that clean energy is both the solution and the challenge."
+  },
+  {
+    "start": 379.23,
+    "end": 394.82,
+    "text": "We are creating the problem as we saw for our I think constant energy transition is no longer enough."
+  },
+  {
+    "start": 395.41,
+    "end": 414.55,
+    "text": "We need implementation. Clean energy is on the other hand the main power."
+  },
+  {
+    "start": 416.12,
+    "end": 422.4,
+    "text": "Their inherent volatility poses enormous challenges to the power."
+  },
+  {
+    "start": 422.4,
+    "end": 453.1,
+    "text": "So it's like, I would say that it's like a level patch. And how is the clean energy? It's a core problem we must solve. We know that our impact economies differ greatly in resource development, in grid structure, in market design, and development stage."
+  },
+  {
+    "start": 453.1,
+    "end": 466.06,
+    "text": "Yet, we share the as clean and solar become the major authorities rather than the additions."
+  },
+  {
+    "start": 468.16,
+    "end": 481.45,
+    "text": "Operation must account for the simultaneous, the bi-directional, the bi-powerful, the new type of systems."
+  },
+  {
+    "start": 483.16,
+    "end": 486.46,
+    "text": "This creates a useful distinction."
+  },
+  {
+    "start": 486.46,
+    "end": 507.73,
+    "text": "Clean energy is the strategic answer to decarbonization, but its large-scale integration creates a new energy downfall."
+  },
+  {
+    "start": 507.73,
+    "end": 522.39,
+    "text": "This process, not only by the fixed solar capacity, but also by the flexibility of the"
+  },
+  {
+    "start": 523.99,
+    "end": 525.89,
+    "text": "condition, we avoided."
+  },
+  {
+    "start": 526.49,
+    "end": 536.87,
+    "text": "In the 2020 planning framework, we expressed this shift in measurable system."
+  },
+  {
+    "start": 537.37,
+    "end": 549.84,
+    "text": "We summarized the four 2030 targets in China's New High Power System Plan, which has just"
+  },
+  {
+    "start": 549.84,
+    "end": 558.8,
+    "text": "We just released several days ago, just at the beginning of this August, our government released these."
+  },
+  {
+    "start": 560.8,
+    "end": 569.78,
+    "text": "We heard that the known sources are expected to provide 50% of electricity generation."
+  },
+  {
+    "start": 570.46,
+    "end": 576.83,
+    "text": "So please pay attention here for the electricity generation."
+  },
+  {
+    "start": 576.83,
+    "end": 591.08,
+    "text": "In fact, we have already more than 50% of the renewable capacity added since the end of 2024."
+  },
+  {
+    "start": 592.46,
+    "end": 603.55,
+    "text": "And we need more than 2.8% renewable capacity to be integrated at a high level."
+  },
+  {
+    "start": 604.92,
+    "end": 610.94,
+    "text": "Electricity should reach 35% of final end consumption."
+  },
+  {
+    "start": 612.12,
+    "end": 625.96,
+    "text": "National Renewable Utilization should remain around 90% resources, great expense, flexibility."
+  },
+  {
+    "start": 629.22,
+    "end": 638.02,
+    "text": "This central question is no longer that how much renewable capacity can be built,"
+  },
+  {
+    "start": 638.22,
+    "end": 643.29,
+    "text": "but how much reliability the system can absorb."
+  },
+  {
+    "start": 643.81,
+    "end": 648.74,
+    "text": "To summarize the framework,"
+  },
+  {
+    "start": 648.74,
+    "end": 662.41,
+    "text": "These challenges can be summarized into three aspects, volatility, systemic efficiency, and systemic integration."
+  },
+  {
+    "start": 663.09,
+    "end": 672.77,
+    "text": "Well, the volatility leads to the wind, solar, curtailment, and rain instability."
+  },
+  {
+    "start": 672.77,
+    "end": 685.66,
+    "text": "instability. And the inefficiency stems from the equipment aging and outdated operation and"
+  },
+  {
+    "start": 685.66,
+    "end": 696.82,
+    "text": "maintenance models and resulting huge energy wastes. Systemic challenges arise from the inability of"
+  },
+  {
+    "start": 696.82,
+    "end": 703.22,
+    "text": "traditional power grids to adapt to the integration of distributed energy."
+  },
+  {
+    "start": 704.34,
+    "end": 712.3,
+    "text": "So these three major challenges are intertwined and form the bottleneck,"
+  },
+  {
+    "start": 712.44,
+    "end": 721.92,
+    "text": "restricting the development of clean energy."
+  },
+  {
+    "start": 722.24,
+    "end": 735.69,
+    "text": "These three challenges are independent, coarse, and curtailment."
+  },
+  {
+    "start": 735.69,
+    "end": 745.7,
+    "text": "Well, inefficiency can reduce flexibility for integration."
+  },
+  {
+    "start": 746.42,
+    "end": 755.77,
+    "text": "Integration and failures can amplify the local volatility into a system-wide risk."
+  },
+  {
+    "start": 756.44,
+    "end": 769.28,
+    "text": "So in terms of these challenges, it's why we call them isolated technology demonstrations are not sufficient."
+  },
+  {
+    "start": 769.28,
+    "end": 788.34,
+    "text": "We need a layered architecture in which intelligence, network intelligence, market intelligence and finer system intelligence reinforce each other to solve these challenges."
+  },
+  {
+    "start": 790.19,
+    "end": 796.49,
+    "text": "These results can be organized into five operational capabilities."
+  },
+  {
+    "start": 796.49,
+    "end": 807.06,
+    "text": "We use these five words to summarize the roadmap for the rest of my presentation."
+  },
+  {
+    "start": 807.78,
+    "end": 820.3,
+    "text": "First, with forecast, we use AI to predict the wind, the solar, the load, and the criteria"
+  },
+  {
+    "start": 820.3,
+    "end": 825.9,
+    "text": "of natural risk, which helps solve the volatility problem."
+  },
+  {
+    "start": 825.9,
+    "end": 837.78,
+    "text": "And by rehearse, we use digital planes, which simulate the assets and even the great responses to before this operation."
+  },
+  {
+    "start": 838.26,
+    "end": 847.5,
+    "text": "And then we use optimization. The AI dynamic dispatch makes every kilowatt count."
+  },
+  {
+    "start": 847.5,
+    "end": 865.8,
+    "text": "At Orchard Street, we're using virtual power plants, we use microgrids, and low-grade storage integration that coordinates all the distributed energy scale."
+  },
+  {
+    "start": 866.12,
+    "end": 875.16,
+    "text": "Our China practice would be possible to scale to impact economies."
+  },
+  {
+    "start": 875.91,
+    "end": 883.24,
+    "text": "And we can show how the data, the standards, the market, and the economy go."
+  },
+  {
+    "start": 885.73,
+    "end": 891.38,
+    "text": "So now let's begin with our first challenge, volatility."
+  },
+  {
+    "start": 894.45,
+    "end": 907.66,
+    "text": "This volatility, we will focus on how prediction and simulation improve our ability to operate a system with uncertain renewable output."
+  },
+  {
+    "start": 910.2,
+    "end": 914.76,
+    "text": "First, what does volatility mean operationally?"
+  },
+  {
+    "start": 914.76,
+    "end": 932.22,
+    "text": "When the weather changes, the system must always make sure it is not too evident for the data here."
+  },
+  {
+    "start": 932.54,
+    "end": 940.61,
+    "text": "You know that we cannot think the weather-dependent generation will always vary."
+  },
+  {
+    "start": 941.13,
+    "end": 948.95,
+    "text": "So our goal is to convert the uncertainty into manageable risks."
+  },
+  {
+    "start": 948.95,
+    "end": 979.06,
+    "text": "So, by forecast, we can allow the operators to reserve physical generation, and with digital tweets, we allow them to test the response before applying it to real physical systems."
+  },
+  {
+    "start": 979.54,
+    "end": 989.66,
+    "text": "So together, these technologies can help transform variable generation into reliable."
+  },
+  {
+    "start": 993.98,
+    "end": 1015.38,
+    "text": "Therefore, it is the system's limited value if it is not connected to dispatch and operational data."
+  },
+  {
+    "start": 1017.13,
+    "end": 1026.46,
+    "text": "In fact, the mismatch between renewable supply and demand has several visible consequences."
+  },
+  {
+    "start": 1027.1,
+    "end": 1033.01,
+    "text": "This slide shows the consequences of mismatch."
+  },
+  {
+    "start": 1033.65,
+    "end": 1064.21,
+    "text": "10. Rebels. The curtailment means that the technically available clean energy, the great instability refers to the frequency fluctuations, which will result in congestion and dynamic security risks."
+  },
+  {
+    "start": 1064.21,
+    "end": 1077.2,
+    "text": "operators need for the periods of low-renewable space."
+  },
+  {
+    "start": 1084.34,
+    "end": 1088.32,
+    "text": "In fact, they remain indispensable."
+  },
+  {
+    "start": 1090.24,
+    "end": 1096.34,
+    "text": "They can struggle with the non-linear weather interactions,"
+  },
+  {
+    "start": 1096.66,
+    "end": 1107.65,
+    "text": "with multiple errors, the rapidly change of distributed resources, devices."
+  },
+  {
+    "start": 1107.65,
+    "end": 1119.98,
+    "text": "So the strongest approach is usually we preserve the physical constraints and engineering knowledge."
+  },
+  {
+    "start": 1120.52,
+    "end": 1132.43,
+    "text": "Well, we're using machine learning, deep learning to extract patterns and update estimates, heterogeneous data streams."
+  },
+  {
+    "start": 1132.89,
+    "end": 1139.2,
+    "text": "Let's see what does AI forecasting systems have."
+  },
+  {
+    "start": 1139.2,
+    "end": 1157.55,
+    "text": "In this video, we can see that we use AI forecasting that combines historical generation, the numerical weather prediction."
+  },
+  {
+    "start": 1158.16,
+    "end": 1173.87,
+    "text": "We combine these models to develop these data from the numeric weather prediction,"
+  },
+  {
+    "start": 1179.34,
+    "end": 1188.68,
+    "text": "weather data, remote sensing information, and local sensors and stators."
+  },
+  {
+    "start": 1243.82,
+    "end": 1533.81,
+    "text": "It's also prediction and health."
+  },
+  {
+    "start": 1549.98,
+    "end": 1553.32,
+    "text": "We can change it in real time."
+  },
+  {
+    "start": 1554.49,
+    "end": 1556.33,
+    "text": "Capture the wind."
+  },
+  {
+    "start": 1556.69,
+    "end": 1560.95,
+    "text": "And all optimization of these pitch anchors."
+  },
+  {
+    "start": 1566.16,
+    "end": 1588.71,
+    "text": "That increase the whole production during this."
+  },
+  {
+    "start": 1588.91,
+    "end": 1590.25,
+    "text": "In the whole wind."
+  },
+  {
+    "start": 1590.47,
+    "end": 1618.88,
+    "text": "We will be able to make a great, friendly connection."
+  },
+  {
+    "start": 1630.5,
+    "end": 1632.9,
+    "text": "Finally, for the environment and sustainability."
+  },
+  {
+    "start": 1632.9,
+    "end": 1648.22,
+    "text": "We activate the channels behind the handle of the wind turbine, also to minimize the"
+  },
+  {
+    "start": 1648.22,
+    "end": 1648.62,
+    "text": "noise."
+  },
+  {
+    "start": 1649.06,
+    "end": 1680.76,
+    "text": "For the maintenance of the wind turbine, we use the sensors to monitor it in real time,"
+  },
+  {
+    "start": 1684.73,
+    "end": 1701.8,
+    "text": "monitoring the blades in the extreme weather conditions and some failures of the blades"
+  },
+  {
+    "start": 1701.8,
+    "end": 1702.64,
+    "text": "and cracks."
+  },
+  {
+    "start": 1702.64,
+    "end": 1719.56,
+    "text": "So this diagnostic and prognostic was analyzed as a waveform that will also have to counter the inhibition."
+  },
+  {
+    "start": 1719.82,
+    "end": 1738.36,
+    "text": "From this video, we can see how this live data updates the model and what conditions the operators can test on these digital things."
+  },
+  {
+    "start": 1738.36,
+    "end": 1746.72,
+    "text": "So we can also see that simply a three-dimensional model is not a digital twin."
+  },
+  {
+    "start": 1747.0,
+    "end": 1762.75,
+    "text": "A useful digital twin requires the first thing is the data connectivity, model application, decision making."
+  },
+  {
+    "start": 1763.65,
+    "end": 1772.26,
+    "text": "So these tools can become powerful if they are connected in this loop."
+  },
+  {
+    "start": 1772.26,
+    "end": 1780.22,
+    "text": "This slide will connect the previous concept."
+  },
+  {
+    "start": 1781.02,
+    "end": 1787.99,
+    "text": "So, by prototype, we estimate what may happen."
+  },
+  {
+    "start": 1788.19,
+    "end": 1796.37,
+    "text": "By simulation, we evaluate what could happen under different conditions."
+  },
+  {
+    "start": 1796.37,
+    "end": 1809.96,
+    "text": "And by optimization, we select what should be done under technical and control."
+  },
+  {
+    "start": 1811.22,
+    "end": 1818.58,
+    "text": "We implement these decisions and also produce new data."
+  },
+  {
+    "start": 1818.78,
+    "end": 1822.2,
+    "text": "So it comes to feedback."
+  },
+  {
+    "start": 1822.72,
+    "end": 1829.76,
+    "text": "This feedback then improves the next forecast and update."
+  },
+  {
+    "start": 1829.76,
+    "end": 1840.64,
+    "text": "This closed loop is a rare source of operational value."
+  },
+  {
+    "start": 1841.87,
+    "end": 1854.78,
+    "text": "Well, in research, we often optimize one such as we minimize the prediction error because it is measurable."
+  },
+  {
+    "start": 1854.78,
+    "end": 1874.96,
+    "text": "In the deployment, in the system level, the meaningful outcome is safer operation, lower balancing cost, and more renewable energy. So we need to consider it as a whole."
+  },
+  {
+    "start": 1877.55,
+    "end": 1887.99,
+    "text": "Our China's 2030 plan is similarly like this pipe can mix all these loops."
+  },
+  {
+    "start": 1888.21,
+    "end": 1896.31,
+    "text": "We require high precision for cooperative stimulation and also intelligent dispatch."
+  },
+  {
+    "start": 1896.71,
+    "end": 1899.31,
+    "text": "This must work in the loop."
+  },
+  {
+    "start": 1902.52,
+    "end": 1907.85,
+    "text": "Okay, so now we can conclude this section."
+  },
+  {
+    "start": 1907.85,
+    "end": 1919.75,
+    "text": "is that the actual lesson is that we can see the information infrastructure is not an add-on."
+  },
+  {
+    "start": 1919.89,
+    "end": 1925.85,
+    "text": "It's part of this energy infrastructure."
+  },
+  {
+    "start": 1927.65,
+    "end": 1939.32,
+    "text": "So the key takeaway from this section is that forecasting and simulation are foundation rather than option."
+  },
+  {
+    "start": 1939.32,
+    "end": 1946.61,
+    "text": "The high renewable penetration increases the value of weather stations, sensor networks,"
+  },
+  {
+    "start": 1947.32,
+    "end": 1954.79,
+    "text": "data infrastructure, communications, data governance, and the validated model."
+  },
+  {
+    "start": 1956.18,
+    "end": 1964.55,
+    "text": "Therefore, the data infrastructure should be planned alongside the generation and grade"
+  },
+  {
+    "start": 1964.55,
+    "end": 1974.63,
+    "text": "infrastructure with clear requirements for quality, for latency, for ownership, and cybersecurity."
+  },
+  {
+    "start": 1975.43,
+    "end": 1985.14,
+    "text": "We have seen that in prediction and rehearsing health uncertainty."
+  },
+  {
+    "start": 1985.7,
+    "end": 1992.62,
+    "text": "Now let's turn to a different problem, the hidden loss and inefficient operation."
+  },
+  {
+    "start": 1992.82,
+    "end": 2000.14,
+    "text": "What does these hidden losses well?"
+  },
+  {
+    "start": 2000.44,
+    "end": 2012.66,
+    "text": "So in fact, the systemic efficiency losses is accumulated across the entire value chain."
+  },
+  {
+    "start": 2013.2,
+    "end": 2028.94,
+    "text": "First, the equipment degradation or equipment faults that contains the dust, the well, the system aging, and misaligned reduce this."
+  },
+  {
+    "start": 2028.94,
+    "end": 2043.57,
+    "text": "And then the operational choices would also lead to inefficiency, such as the tracking, scheduling, and dispatch."
+  },
+  {
+    "start": 2044.03,
+    "end": 2051.17,
+    "text": "Of course, create additional loss."
+  },
+  {
+    "start": 2053.74,
+    "end": 2057.31,
+    "text": "We visited the offshore wind turbines."
+  },
+  {
+    "start": 2058.79,
+    "end": 2068.02,
+    "text": "You know that it takes us a whole day to visit one single offshore wind turbine, right?"
+  },
+  {
+    "start": 2068.02,
+    "end": 2088.65,
+    "text": "So it can, because the maintainers and operation costs are very high, so it also illustrates the economic importance of operations and it is too difficult."
+  },
+  {
+    "start": 2088.65,
+    "end": 2093.79,
+    "text": "which provides this expensing."
+  },
+  {
+    "start": 2097.06,
+    "end": 2102.55,
+    "text": "Shown here is just treated as a representative"
+  },
+  {
+    "start": 2103.07,
+    "end": 2108.96,
+    "text": "which they may vary by the technology and by the product."
+  },
+  {
+    "start": 2111.0,
+    "end": 2117.6,
+    "text": "So the essential point is that the invisible losses"
+  },
+  {
+    "start": 2118.02,
+    "end": 2122.18,
+    "text": "can be as important as these visible failures."
+  },
+  {
+    "start": 2123.08,
+    "end": 2132.54,
+    "text": "By digital, we can make gradual degradation measurable and allowing operators to enter"
+  },
+  {
+    "start": 2133.11,
+    "end": 2156.46,
+    "text": "before a small is scheduled to condition this."
+  },
+  {
+    "start": 2156.76,
+    "end": 2168.52,
+    "text": "From this video, we can do the predictive behavior."
+  },
+  {
+    "start": 2168.52,
+    "end": 2186.36,
+    "text": "by based on the sensor data, the thermal imaging, and the acoustic signals, the vibration, the"
+  },
+  {
+    "start": 2186.36,
+    "end": 2190.96,
+    "text": "all-year-old vision."
+  },
+  {
+    "start": 2192.1,
+    "end": 2204.2,
+    "text": "For the software, we use drones to scan the large areas, and the AI and computer vision"
+  },
+  {
+    "start": 2204.2,
+    "end": 2213.48,
+    "text": "can identify spots and disconnect its strings."
+  },
+  {
+    "start": 2213.48,
+    "end": 2225.69,
+    "text": "For wind turbines, the deviation in vibration, the temperature, the sound, the power curves,"
+  },
+  {
+    "start": 2228.4,
+    "end": 2233.48,
+    "text": "operational change is more important than the maintenance."
+  },
+  {
+    "start": 2235.02,
+    "end": 2245.32,
+    "text": "Maintainers can be scheduled during the low wind periods, and the spell cards can be prepared."
+  },
+  {
+    "start": 2245.32,
+    "end": 2261.55,
+    "text": "The detection prevents loss and optimization decides how to operate the remaining flexibility."
+  },
+  {
+    "start": 2264.53,
+    "end": 2270.29,
+    "text": "Now let's move on to another case."
+  },
+  {
+    "start": 2271.25,
+    "end": 2301.55,
+    "text": "Beyond diagnosis, AI can also dispatch real-time electricity prices, and the weather forecast dispatches the photovoltaic energy storage sources to find the operation."
+  },
+  {
+    "start": 2301.55,
+    "end": 2322.86,
+    "text": "Whether in a large energy dispatch center or just a single power plant, AI can help us maximize efficiency and make every unit of clean energy deliver has its greatest value."
+  },
+  {
+    "start": 2322.86,
+    "end": 2343.41,
+    "text": "So, this optimization seeks the best position under multiple constraints, like the energy output, the battery integration, the network limit, the market prices, the reserve requirements, equipment errors, etc."
+  },
+  {
+    "start": 2343.41,
+    "end": 2355.74,
+    "text": "In enforcement learning, we can sometimes describe it as a virtual class that is learning through repeated simulations."
+  },
+  {
+    "start": 2356.22,
+    "end": 2360.7,
+    "text": "This system requires strong safety boundaries."
+  },
+  {
+    "start": 2361.48,
+    "end": 2374.22,
+    "text": "Practical architectures often use random actions while the physical constraint layer verifies the feasibility."
+  },
+  {
+    "start": 2374.22,
+    "end": 2383.82,
+    "text": "These five examples illustrate the edge-cloud coordination and fast-forward detection."
+  },
+  {
+    "start": 2384.48,
+    "end": 2394.67,
+    "text": "The broader network combination must connect at the level of the system-level intelligence."
+  },
+  {
+    "start": 2395.34,
+    "end": 2404.04,
+    "text": "Maximizing one immortal or better would not be the best we've seen so far."
+  },
+  {
+    "start": 2410.26,
+    "end": 2415.53,
+    "text": "This leads to three practical conclusions about efficiency."
+  },
+  {
+    "start": 2415.53,
+    "end": 2431.31,
+    "text": "First, recovery loss efficiency is often faster and cheaper than building equivalent new capacity."
+  },
+  {
+    "start": 2432.21,
+    "end": 2443.12,
+    "text": "And the second, optimization depends on transparency and operability."
+  },
+  {
+    "start": 2443.7,
+    "end": 2451.18,
+    "text": "And the third, readiness and deployment readiness are different."
+  },
+  {
+    "start": 2451.18,
+    "end": 2459.75,
+    "text": "A strong algorithm cannot operate if manufacturers use incompatible interfaces."
+  },
+  {
+    "start": 2460.69,
+    "end": 2476.74,
+    "text": "And data, if data remains in there, responsibility for recurring patterns will become even more important."
+  },
+  {
+    "start": 2477.74,
+    "end": 2483.35,
+    "text": "When we move from individual methods of system integration,"
+  },
+  {
+    "start": 2483.35,
+    "end": 2495.39,
+    "text": "We entered to the most difficult and the highest level system integration."
+  },
+  {
+    "start": 2495.89,
+    "end": 2519.26,
+    "text": "In this part, we examined the coordination of power systems, including transmission, distribution, microgrid, distribution and resources, storage, electric vehicles, and flexible plants."
+  },
+  {
+    "start": 2524.09,
+    "end": 2555.44,
+    "text": "The traditional way that were designed for global generation distributed solar batteries, the storage, the vehicles, and these flexible loads create rapid energy."
+  },
+  {
+    "start": 2555.44,
+    "end": 2574.81,
+    "text": "change this is a we can see on this graph that the high solar lowers the next amount around the"
+  },
+  {
+    "start": 2574.81,
+    "end": 2608.21,
+    "text": "mid well even when solar declines but the demand remains high for visualization created the flexible"
+  },
+  {
+    "start": 2608.21,
+    "end": 2617.34,
+    "text": "amount the regional exchange improved forecasting and market signal it's not so we can see that it's"
+  },
+  {
+    "start": 2617.34,
+    "end": 2629.21,
+    "text": "not a single technology so this virtual power plants coordinate many small resources as one"
+  },
+  {
+    "start": 2629.83,
+    "end": 2654.53,
+    "text": "operational the concept of virtual power plant is very clear it connects the vehicles from"
+  },
+  {
+    "start": 2681.95,
+    "end": 2736.4,
+    "text": "This would be increased from 16.85 gigawatts at the end of 2025 to more than 50 gigawatts in 2030."
+  },
+  {
+    "start": 2736.92,
+    "end": 2740.56,
+    "text": "We can see that this increase is significant."
+  },
+  {
+    "start": 2740.56,
+    "end": 2747.92,
+    "text": "The scale should be understood through four steps."
+  },
+  {
+    "start": 2748.6,
+    "end": 2765.98,
+    "text": "First, the system must see their visibility, such as the rooftop electric vehicles."
+  },
+  {
+    "start": 2766.58,
+    "end": 2775.83,
+    "text": "Second, it must aggregate many heterogeneous devices."
+  },
+  {
+    "start": 2775.83,
+    "end": 2783.35,
+    "text": "And third, it must dispatch them reliably."
+  },
+  {
+    "start": 2783.91,
+    "end": 2794.98,
+    "text": "The flexibility must participate in the market and receive appropriate compensation."
+  },
+  {
+    "start": 2797.37,
+    "end": 2808.2,
+    "text": "The demand side of 2030 target of peak shaving capability is about 5% of maximum load,"
+  },
+  {
+    "start": 2808.2,
+    "end": 2814.18,
+    "text": "which shows that the consumers are becoming active system participants."
+  },
+  {
+    "start": 2814.52,
+    "end": 2829.05,
+    "text": "About APEC economies, the difficult questions are often the baseline qualification and consumer consent,"
+  },
+  {
+    "start": 2829.35,
+    "end": 2834.51,
+    "text": "the data access, and the allocation of the performance rates."
+  },
+  {
+    "start": 2834.51,
+    "end": 2840.54,
+    "text": "The virtual power plant has well-defined coordination."
+  },
+  {
+    "start": 2841.57,
+    "end": 2864.38,
+    "text": "The microgrid is a clear physical aggregate that achieves local energy."
+  },
+  {
+    "start": 2866.73,
+    "end": 2878.25,
+    "text": "They enable self-management for remote islands."
+  },
+  {
+    "start": 2880.96,
+    "end": 2914.35,
+    "text": "They enhance the future and controls and define the grid connectivity."
+  },
+  {
+    "start": 2918.22,
+    "end": 2925.26,
+    "text": "This model is the Salmon Island, which is located in the"
+  },
+  {
+    "start": 2925.26,
+    "end": 2937.68,
+    "text": "This example hides their resilience and realistic diesel originals"
+  },
+  {
+    "start": 2939.09,
+    "end": 2951.15,
+    "text": "We should see that the microgrid, their value can include the power,"
+  },
+  {
+    "start": 2962.32,
+    "end": 2979.26,
+    "text": "wider grid, great low storage integration,"
+  },
+  {
+    "start": 2979.26,
+    "end": 2993.91,
+    "text": "integration, integration, and those"
+  },
+  {
+    "start": 2993.91,
+    "end": 3032.78,
+    "text": "which includes distribution"
+  },
+  {
+    "start": 3032.78,
+    "end": 3061.23,
+    "text": "we need to"
+  },
+  {
+    "start": 3061.23,
+    "end": 3068.41,
+    "text": "we need to"
+  },
+  {
+    "start": 3068.41,
+    "end": 3080.11,
+    "text": "millions of centralized"
+  },
+  {
+    "start": 3080.11,
+    "end": 3098.81,
+    "text": "to optimize the original objective."
+  },
+  {
+    "start": 3103.82,
+    "end": 3105.76,
+    "text": "take away from this"
+  },
+  {
+    "start": 3105.76,
+    "end": 3127.17,
+    "text": "This is the system integration leverage of QNIC in a great level."
+  },
+  {
+    "start": 3131.85,
+    "end": 3137.7,
+    "text": "The repeated pre-request last year, the data sharing cybersecurity."
+  },
+  {
+    "start": 3146.2,
+    "end": 3162.6,
+    "text": "Without them, the resources are operationally inviolable."
+  },
+  {
+    "start": 3169.57,
+    "end": 3188.78,
+    "text": "The same will move to reflections and future outlooks."
+  },
+  {
+    "start": 3208.66,
+    "end": 3218.41,
+    "text": "This is an example of growing the smart energy platform."
+  },
+  {
+    "start": 3221.6,
+    "end": 3247.17,
+    "text": "Renewable capacity, reactive power, and carbon emissions."
+  },
+  {
+    "start": 3255.85,
+    "end": 3269.31,
+    "text": "I think it would be very powerful."
+  },
+  {
+    "start": 3276.23,
+    "end": 3290.16,
+    "text": "This is the world of state-grade that has achieved in the world of AI."
+  },
+  {
+    "start": 3293.23,
+    "end": 3303.15,
+    "text": "which should not be interpreted as a proof."
+  },
+  {
+    "start": 3304.38,
+    "end": 3307.24,
+    "text": "All capabilities are already deployed."
+  },
+  {
+    "start": 3308.66,
+    "end": 3315.96,
+    "text": "And then, the system."
+  },
+  {
+    "start": 3317.7,
+    "end": 3321.76,
+    "text": "This slide expands the vision."
+  },
+  {
+    "start": 3328.09,
+    "end": 3333.42,
+    "text": "This physical system includes smart buildings,"
+  },
+  {
+    "start": 3334.59,
+    "end": 3339.57,
+    "text": "the wind, solar, and storage,"
+  },
+  {
+    "start": 3339.57,
+    "end": 3360.04,
+    "text": "knowledge and logistics and sensing that embodied in the physical action where work represents"
+  },
+  {
+    "start": 3360.04,
+    "end": 3370.24,
+    "text": "system structure dynamics uncertainty and the research challenge is to combine general"
+  },
+  {
+    "start": 3370.24,
+    "end": 3378.37,
+    "text": "reasoning with strict physical constraints and real-time repair where a large dynamic model"
+  },
+  {
+    "start": 3378.37,
+    "end": 3382.69,
+    "text": "The model made support of Anne Hilden."
+  }
+]

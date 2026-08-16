@@ -1,0 +1,368 @@
+...capacity accelerated much further.
+Annual capacity exceeded 250 gigawatts,
+reaching 3,891 gigawatts by the end of 2021.
+The average annual growth rate for the past 15 years
+is nearly 10%.
+And this diagram shows the power capacity distribution in China.
+Over the past 10 years, China's power installation mix has undergone a historic shift from fossil
+energy dominance to green energy dominance.
+The share of solar power installed capacity has dropped substantially, while no fossil
+Also energy, particularly wind and solar power, has achieved explosive growth and become the core energy driving the green transition of energy structure.
+You can get two conclusions from this diagram.
+The first, the share of thermal power continuously decline.
+Here I said the thermal power means cold power because in China the thermal power mainly is cold power.
+You can see for the cold power fell from 67.3% in 2014 to 39.6% in 2035.
+This marks a notable reduction in the power system's reliance on the power.
+The second point is non-fossil energy becomes the mainstay.
+The share of installed non-fossil energy capacity, including hydropower, solar power, wind power, and nuclear power,
+Low steadily from 32.7% in 2014 to 40.4% in 2025, taking an outright leading position for the first time.
+And this diagram shows the proportion of power generation in China in 2024.
+And in the last slide, we know that coal power accounted for 43% of the total installed capacity.
+Lower than 48% of new energy.
+However, from this figure, we can find that coal power contributed about 63% of the total power generation.
+1.8 times that of new energy power.
+Which means in 2024, the installed capacity for coal power is only 43%,
+but the power generation is about 63%.
+Which means all the wind and solar power have registered rapid growth.
+their utilization rates remain relatively low.
+Hence, coal power remains the final safeguard for the secure operation of the power grid in China.
+From the above data, we can get the conclusion that coal power still plays a very important role in China.
+Therefore, this report focuses on the development and application of clinical power technology.
+The development of clinical power technology has gone through three stages in China.
+The 1970s to 1990s is the initial stage.
+This is focused on post-combustion full-gas deseparation and dust removal technology to
+address acid, rain, and dust pollution, leading the foundation for environmental governance.
+You can find in this period for nitrogen oxide or NOx, there is no limitation, there is only
+limitation standard for sox, silver oxides and dust. There is no limitation for sox.
+The second stage is 2000 to 2010. It is the development stage. This stage shifted
+towards improving power generation efficiency technologies such as
+super-gradable power generation technology and multi-protein control
+control technologies such as neutral low-emission technology.
+The third stage is 2020 to present.
+This stage is a deepening transformation stage.
+It focuses on synergistic reduction of pollutants and carbon,
+developing higher-efficiency technologies, flexibility
+and integration with CCUS for low-carbon transition.
+I use three sentences to summarize the China core position in China.
+The first sentence is the best store for energy security.
+China has built the world's largest clinical power system,
+contributing 60% of power generation and 80% of peak shipping capacity.
+It serves as a better storm for energy security and the stabilizer of the energy.
+Second sentence is a green benchmark for fossil power.
+By the end of 2025,
+In 1975, over 95% of coal-fired power units in China had achieved neutral emissions, reaching
+an international leading clean data.
+The third is the power energy for low-carbon upgrade.
+The average power supply co-consumption dropped to 301.6 grams per kilowatt in 2024, with
+thermal efficiency exceeding 50% for the world's first 630 Celsius-degree ultrasonic critical
+or USC unit.
+Chinese government has released some key documents to provide policy guidance for clean coal power.
+In this April, Chinese government issued opinions on energy conservation and carbon reduction.
+This document emphasizes strengthening energy saving, carbon reducing, and flexibility retrofitting of coal power,
+focusing on performance improvement of existing units.
+Second document is the 15th Five-Year Plan for Modern Energy System.
+It requires promoting clean and efficient utilization of coal and orderly reduction and substitution,
+setting a target of reducing the average power supply coal consumption to below 300 grams per kilowatt by 2025.
+The third document is an action plan for carbon peaking before 2030.
+And this problem is related to the Chinese double carbon goals, the dual carbon goals.
+I will talk about dual carbon goals in a moment.
+This problem requires strictly controlling new coal power projects
+projects, and promoting the triple retrofit energy-sealing, combined heat and power of
+CHP, flexibility retrofit of existing units.
+After the overview of the history, status, and supporting policies of China's clinical
+sector, now we will move on to Chapter 2, where we will detail the key clinical power
+technologies. Co-processing stages for clinical utilization include pre-, in- and after-combustion
+treatment processes. Pre-combustion or before combustion, co-quality is improved from the
+source through co-washing and co-blending technology. Co-washing technology can reduce
+use ash and sulfur through washing processes,
+China's low coal washing rate has reached 78.6% in 2020.
+And coal blending technology, it can scientifically
+blend different coal types for stable, efficient, and low
+pollution combustion.
+In combustion, or during combustion,
+Low nitrogen combustion technology is used to inhibit pollutant formation.
+Its principle is to inhibit nitrogen oxides, or NOx, formation through air staging, fuel staging, and low gas recirculation.
+And its effect can reduce NOx concentration at boiler outlet to 200-300 mg per m3, reducing
+the burden on subsequent SCR system post-combustion or after combustion.
+Through a major combination of flue gas purification technologies, including SCR, denitrification,
+wet desuferization, and high-efficiency dust removal, neutral emissions of pollutants are achieved.
+These figures show pre-combustion technologies, including cold washing, cold blending, cold
+brackets, and cold water slurry.
+Its core principle is to remove ash and sulfur by physical and chemical cold washing to improve
+cold quality, and mix different kinds of colds scientifically by cold blending to increase
+with combustion emissions.
+These have the advantages of improved efficiency.
+It can stabilize coal quality, increase boiler combustion
+efficiency greatly, reduce combustion fluctuations,
+and clean emissions.
+It can remove ash and sulfur from coal salts,
+greatly reduce dust and salt emissions,
+and reduce costs. It can blend low-price coal, optimize fuel structure, and reduce fuel costs effectively.
+During combustion, low-NOx combustion technology constitutes the first line of defense for NOx emission control.
+By adopting air staging and fuel staging methods combined with advanced low NOx burner, it can effectively inhibit NOx formation with an efficiency of more than 50%.
+For the in-combustion, there are several practical methods.
+First is air stage combustion.
+Air-stage combustion is the stage-supply of combustion air into the furnace,
+creates a fuel-rich, low-oxygen-reducing atmosphere in primary combustion soil,
+inhibiting the formation of thermal knocks at the source.
+And the second is fuel-stage combustion methods.
+The secondary fuel, or reburning fuel, is injected downstream of the primary combustion
+zone to form a storm reducing zone, which reduces the generated NOSGEN to harmless nitrogen.
+The third is full gas recirculation, or FGR.
+Extracted low temperature full gas is mixed with combustion air to reduce oxygen concentration
+concentration and flame temperature in combustion zone, effectively suppressing thermal NOx
+and block NOx.
+And the evaporation effect can reduce NOx by 50% substantially, lowering treatment load
+and operating costs of downstream denitrification facilities such as SCR facilities.
+These are the two mainstream playing patterns for low nitrogen combustion.
+The left is four-corner tangential finding, the right is front and rear wall-opposed finding.
+For the left method, it's mainly used for the low volatile and low heating value code.
+and for the front and rear finding is mainly for the high volatiles and high heating values.
+Technology is circulating fluidized bed of deep CRP technology.
+Its core principle lies in its unique circulating combustion method.
+It has closed-loop system of combustion separation reflux recombustion
+which greatly improves combating efficiency and fuel adaptability.
+This kind of combating method brings four core advantages.
+First is wide fuel adaptability, compatible with multiple fuel types.
+Second is stable operation with wide load, adapting to great peak shipping.
+because for CFB, its load regulation can be very wide, so it's adapting to a great big shift.
+The third is integration in furnace, including desilverization, low cost and high efficiency.
+The fourth is low temperature combustion inhibition,
+Because for CEP boiler, its combustion temperature is relatively low compared to the power riser
+cold boiler.
+So its thermal NOx concentration is low.
+So it has low NOx original emission.
+This is CEP boiler principle and structure.
+fuel and limestone is injected into the boiler's furnace.
+In the boiler furnace, they are fluidized by the primary air from the draft fan.
+And in the furnace, the coal, the fuel, is combusted completely.
+and the ash is separated by the separator and returned back to the furnace.
+Because in the boiler, it has a large amount of bad material,
+and the material has a large amount of heat.
+heat capacity. So the self-border is suitable for low heating value coal and high sulfur
+For CF border, it can even combust some such as the solid waste, municipal solid waste.
+And this is the CFB border and the power riser coil from Paris.
+You can see from this table also the power riser coil has a high thermal efficiency.
+its thermal efficiency is greater than 99%.
+And for the thermal efficiency,
+the combustion efficiency is greater than 99%.
+And for the thermal efficiency, or power efficiency,
+for neutral supercritical unit, it can be greater than 48%.
+But for CM boiler, its combustion efficiency is 98%,
+a little small, a little low than the parallelized coal.
+And its power efficiency can reach 45%,
+also a little low than the parallelized coal.
+But for parallelized coal,
+it usually combusts the high-quality coal.
+But for CFE coal, it combusts the low-quality
+or low-heating value coal.
+And for the coal consumption,
+consumption, because for coal consumption is related to the power efficiency. So, for
+the power-wise coal, its thermal efficiency, power efficiency is high, so its coal consumption
+is low. It's about 290 grams per kilowatt hour. While for the CF boiler, its coal consumption
+is a little higher. It's about 312 grams per hour.
+And for NOx emission, for power riser code, its NOx emission is
+800 to 200 milligrams per meter cube.
+Given that this is NOx concentration from the boiler
+outlet, not from the power plant emission.
+emission. And for self-boiler, because it is low nitrogen combustion, low nitrogen combustion,
+so its noise emission at the boiler outlet is 200 milligrams per meter cube. Its high
+efficiency in thermos desulfurization can reduce tail end fragility cost. It can reduce
+the cost of desulfurization facility. So from this table we can find all the
+polarized coal boilers are more efficient than burning high quality coal.
+CMB boilers have obvious advantages in burning low quality coal. Pollutant
+the levelized cost of energy for CFB is more competitive.
+And for the load regulation and life cycle cost,
+I forget to say just now.
+For the parallelized code, its load regulation
+is usually 50% to 100%.
+But for the CFB, its load regulation is 30% to 110%,
+which means it has better load regulation and it will be capital for the power grid.
+China is a technology leader in CFE border field with world's largest market share,
+especially achieving major breakthroughs in high parameter, high capacity of CFE technologies.
+This figure, the right figure, is the Pingshuo CRB Power Plant, located in Shanxi province,
+which is the world's first 660 megawatt CRB unit.
+Next core technology is neutral supercritical technology.
+Its core principle is to break through efficiency bottlenecks
+By increasing steam parameters breaking critical point, we know for the critical point, its
+critical pressure is 22 megapascals, and its critical temperature is 374 Celsius degrees.
+Both temperature and pressure increases bring efficiency gains, this temperature having
+a more significant impact.
+This chart, the right chart, shows the trend of efficiency improvement under different
+parameters, clearly indicating that higher parameters is the inevitable direction of
+technology development.
+From the right chart, we can find when they increase the temperature, this is the mixing
+temperature from 600 degree and this is the reheat temperature, this is the misting temperature.
+When we increase the misting temperature from 600 degree to 700 degree, the power efficiency
+efficiency can reach about 5-6%. That's why for the ultra-supercritical power plant, we
+will develop 700 temperature-misting Bitcoin, 700 plants in China. Then we increase the
+pressure, misting pressure. The horizontal axis is the misting pressure. When we increase
+the misting pressure, the power efficiency also increases, but it increases, it's a little
+small. It's a little small, not like the temperature, it is very obvious.
+years. Okay, compared to conventional supercritical unit,
+usual supercritical unit has a higher steam pressure and steam
+temperature. For conventional supercritical unit, its main
+steam pressure is between 23 to 27 MPa, and main steam
+temperature is between 540 to 560 Celsius degrees. But for
+For neutral supercritical unit, it's main steam pressure is greater than 27 mPa.
+And it's main steam temperature is between 508 to 600 degrees.
+And for conventional supercritical, it's power efficiency is about 2% higher than subcritical unit.
+and co-consumption is between 290 to 300 grams per kilowatt-hour.
+However, for neutral supercritical unit, our efficiency is about 5% higher than subcritical unit,
+and co-consumption is between 270 to 280 grams per kilowatt-hour.
+U-turn supercritical technology is currently the most efficient clean coal power generation technology.
+China has the world's largest application scale in this field and continues to lead in technology.
+By the end of 2024, installed capacity of U-SC units exceeded 320 GW,
+accounting for nearly 60% of the total coal-fired power plants in China.
+In June, the world's first 630°C double reheat USC million kilowatt units was put into operation
+with power generation efficiency exceeding 50% for the first time
+is setting a new world record.
+Next technology is deep peaking technology.
+Peak shielding technology is through the technical retrofits.
+The minimum operating load limit of generating units can be overcome.
+Units can maintain stable combustion and safe operating
+operating under operation conditions of 20% to 50% rated power, efficiency including unit
+flexibility and peak shearing capacity.
+By comprehensive retrofits of boiler, steam turbine, thermal power decoupling system and
+control system, units can operate stably at lower loads.
+This enabled them to better accommodate power grid fluctuations and create room for the
+integration of new engines such as wind and solar power.
+By the end of 2024, China has completed flexibility retrofits for coal-fired generating units
+with a total capacity of 210 gigawatts, which has greatly enhanced the power system's peak
+shipping capacity.
+For policy orientation, implement the requirement of retrofitting all eligible units, promote
+co-fired power from main power source to regulating power source, and support achievement of dual
+carbon goals.
+Next, we enter chapter 3, where I will introduce several advanced technologies for clean coal
+power generation, including neutral low-emission technology, CCUS technology, ORC technology,
+coal power integrated with renewable energy technology.
+The first advanced technology is flue gas neutral low-emission technology, which has
+has been widely popularized in China.
+It's not a single technology, but a set of combined processes,
+from the low nitrogen combustion inside boiler,
+to SCR denitrification, to high efficiency dust removal
+technology, to wet flue gas desuparization,
+and finally is the wet electrostatic precipitator.
+And by this series of methods, a completely pollutant control chain is formed
+to ensure emission and strict pollutant standards.
+And the effect of neutral low emission transformation is remarkable.
+This table shows the pollutant standard in 2004 and 2012.
+This is the 2004 standard, and this is the 2012 standard,
+and this is the newest emissions standard in China now.
+It's still in effect.
+Okay, you can see the change of dust, sulfur, it should be sulfur oxides, nitrogen oxides.
+For 2004 standard, its dust indication is 50 milligram per meter cube for the new power plant,
+for new power plant, and this is for the old power plant, it's 200.
+And for silver oxides, its emission is 400 mg per m3 for the new power plant,
+1200 for old power plant, NOx is 450 for new power plant, and 1100 for the old power plant.
+Well, for the 212 standard, you can find the emission limitation has been decreased greatly.
+Decreased greatly, which means it has a very strict standard.
+For the dust, its limitation is 20 mg per m3,
+for the clean regions such as Peking, Shanghai, Hebei province.
+and 30 for other regions, and for NOx, sulfur oxide is 50 for K regions and 200 for other regions.
+For NOx, it's 100 for K regions and 200 for other regions.
+And for the investment cost, the neutral emission retrofit for a single 600 megawatt unit costs
+about 150 to 250 million CNY, Chinese money, CNY.
+And for the life cycle cost, inside SCR catalysts with replacement,
+de-supervisor consumption, and station service power.
+For economic, social benefits, intelligent virtual feeding can reduce environmental chemical consumption by 8 to 15%.
+Chinese government has issued dual carbon goals, carbon peaking and carbon neutrality.
+Carbon peaking before 2030 and carbon neutrality before 2060.
+The roadmap is divided into three stages.
+First, from 2021 to 2030, we achieved carbon peaking.
+From 31 to 45, rapid reduced carbon emissions.
+From 46 to 60, deep decarbonization of carbon neutrality.
+And key measures to achieve the dual carbon goals include
+includes clean and efficient utilization of coal in the power industry,
+develop new and renewable energy sources,
+carbon reduction retrofits in key industries and fields,
+and last is carbon capture utilization and storage technology, or CCUS technology.
+CCUS technology is a key technology on the path to achieve geocarbon growth.
+It mainly has three paths.
+The first is post-combustion capture.
+This capacity is the most major.
+It directly separates carbon dioxide from the fuel gas
+with a simple process and easy transformation of achieved plants.
+The second is pre-combustion capture.
+First, gasified fuels provide thin gas, then generate high concentration of carbon oxides.
+Its concentration is 30 to 60 percent, and hydrogen reduces carbon dioxide separation
+energy consumption, such as the ICCC technology belongs to this method, belongs to the gray
+And this method has higher capacity, but it also has disadvantages, its investment cost
+is very huge.
+The last is oxygen fuel conductor, it uses pure oxygen fuel conductor, you get this kind
+carbon dioxide and vapour, yielding high percentage of carbon dioxide after condensation.
+This method also has a disadvantage of huge investment cost.
+Each part has its own advantages and disadvantages and need to be selected according to specific conditions.
+And this diagram shows the four technical frameworks of CCQS, including carbon dioxide
+source, capture, storage, utilization, and composition.
+First, carbon dioxide is produced from various emission sources, such as the power plant,
+such as the nature, such as the air, such as from the vehicle.
+Then carbon dioxide is captured and separated by multi-technologies such as chemical absorption, physical absorption, and biological method.
+After capture, carbon dioxide has two major directions, geological storage or further utilization.
+After capture, the carbon dioxide concentration is increased by two methods.
+First is storage, storage in the geologic deep sea or sea-line layer.
+Next is physical utilization and conversion, chemical conversion.
+And for these two methods, we can use carbon dioxide for some products such as fuels, encodes, and carbonates.
+Neutral emission technologies and CCUS technologies are the key to achieving near zero emissions from coal power by the end of 2024.
+24, or 1,050 gigawatts of co-fired power units in China
+has been graduated, accounting for over 94% in service units.
+And the right figure is the Chinese Zhening Power Plant.
+This parkland is located in the Shaanxi province.
+This project has been the world's largest coal-fired power carbon capture project,
+with an annual capture capacity of 1.5 million tonnes.
+But the high cost remains the main challenge for its promotion.
+ORC technology is a waste heat recovery technology.
+It uses special organic co-working fluids to convert medium and low temperature waste,
+such as exhaust gas from power plants and heat from circulating water.
+It has a simple system and the technology is safe and reliable.
+It is a power tool to improve energy utilization efficiency.
+All these core technical advantages include low temperature adaptability, high energy utilization efficiency,
+it can effectively utilize low-grade waste heat resources and greatly improve the compressive energy recovery rate.
+And this table compares the ORC technology with traditional steam cycle technology.
+Traditional steam cycle technology such as the power plant technology is the traditional steam technology.
+From this table we can see for the steam cycle, for steam cycle is habitable heat source is
+high temperature source is usually greater than 400 degree.
+And for organic cycle, its heat source is low or medium temperature source, its temperature
+between 90 degrees to 400 degrees. So it has a wide range of heat sources.
+And the system characteristics, for steam cycle, it is high pressure, it has large air
+on pipe. And for the organic cycle, it is low pressure, and it is compact, and it is
+modular and for the resource consumption for steam cycle it must use the water so it must have the
+water supply because there is high water consumption and for the organic cycle there
+is no water consumption so it can use air cooling air cooling method so for the organic
+In the organic cycle, it can be applied in different scenarios, such as industrial waste heat recovery for blue gas and circulating water.
+It can also be applied in some marine engineering, such as the wind tunnel of fuel for the waste utilization.
+The integration of coal power with renewable energy is an important direction for future
+energy development.
+Through various models such as wind-coal storage integration, flexibility retrofitting,
+multi-energy integration, and green hydrogen carbon, coal power can be set up to play its regulatory role and have built a more stable and low-carbon neon power system.
+This project, the LIFE project, is the peaking shearing coal-fired power supporting the large-scale
+new energy in the Baden Desert, located in Shanxi Province in western China.
+It contains four 1,000 megawatt high-efficiency neutral supercritical coal-fired power plants
+with deep peak shielding capability to accommodate local wind energy and solar energy.
+And this diagram shows a typical integrated energy system including PV, wind power, fuel cell and gas boiler as energy sources,
+PCS and batteries realize energy storage while EMS optimizes the whole system's electric heating, cooling, gas, and transformation loads.
+For this integrated energy system that has multiple energy supply,
+This is wind power, this is solar power, and this is fuel cell, this is thermal power boiler.
+And it's up that products also include multiple products, including electricity, heating,
+cooling, gas, and for the recharge of some vehicles.
+Okay, next is the last chapter, conclusion and suggestion.
+We will analyze industrial hot stores, costs, and policies, and put forward strategic outlook.
+look for the cost and investment for new built units the investment suggestion in
+neutral supercritical units is about 4 000 cmy per kilowatt with the best economic efficiency
+and for retrofit projects the flexibility retrofit cost is about 30 to 90 cmy per kilowatt
+In fact, the CCUS benefit cost is the highest, highly dependent on policy incentives.
+And for policy incentive safety, for existing safety, we've adopted mandatory standards,
+financial support, green finance, and market-based mechanisms.
+For future improvements, to improve the capacity price mechanism, improve the energy service
+market, stretching carbon market incentives, and for the strategic action guidelines, include
+deepening transformation and upgrading, focus on core technologies, promote energy hub transformation,
+steaming steaming days and generous motivation strengthen international cooperation and the
+current hotspots and outlook for green coal power technology are mainly reflected in four aspects
+first the demand for flexibility enhancement the second the integration of CCUS technology
+technology for deep decarbonization, third, the transformation for coal-fired power plants
+into integrated energy service, and finally, improving operation efficiencies through intelligence
+and digitalization.
+Okay.
+That's all for my report.
+Thank you for your attention.
+Question?

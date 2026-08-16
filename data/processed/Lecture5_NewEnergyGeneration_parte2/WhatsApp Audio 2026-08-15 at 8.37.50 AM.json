@@ -1,0 +1,1842 @@
+[
+  {
+    "start": 0.0,
+    "end": 2.5,
+    "text": "...capacity accelerated much further."
+  },
+  {
+    "start": 3.19,
+    "end": 8.03,
+    "text": "Annual capacity exceeded 250 gigawatts,"
+  },
+  {
+    "start": 9.08,
+    "end": 16.86,
+    "text": "reaching 3,891 gigawatts by the end of 2021."
+  },
+  {
+    "start": 18.14,
+    "end": 22.3,
+    "text": "The average annual growth rate for the past 15 years"
+  },
+  {
+    "start": 23.0,
+    "end": 25.22,
+    "text": "is nearly 10%."
+  },
+  {
+    "start": 26.2,
+    "end": 33.77,
+    "text": "And this diagram shows the power capacity distribution in China."
+  },
+  {
+    "start": 34.6,
+    "end": 44.57,
+    "text": "Over the past 10 years, China's power installation mix has undergone a historic shift from fossil"
+  },
+  {
+    "start": 44.57,
+    "end": 47.63,
+    "text": "energy dominance to green energy dominance."
+  },
+  {
+    "start": 48.21,
+    "end": 55.57,
+    "text": "The share of solar power installed capacity has dropped substantially, while no fossil"
+  },
+  {
+    "start": 55.57,
+    "end": 71.06,
+    "text": "Also energy, particularly wind and solar power, has achieved explosive growth and become the core energy driving the green transition of energy structure."
+  },
+  {
+    "start": 71.62,
+    "end": 75.32,
+    "text": "You can get two conclusions from this diagram."
+  },
+  {
+    "start": 75.76,
+    "end": 80.96,
+    "text": "The first, the share of thermal power continuously decline."
+  },
+  {
+    "start": 80.96,
+    "end": 90.92,
+    "text": "Here I said the thermal power means cold power because in China the thermal power mainly is cold power."
+  },
+  {
+    "start": 91.56,
+    "end": 106.12,
+    "text": "You can see for the cold power fell from 67.3% in 2014 to 39.6% in 2035."
+  },
+  {
+    "start": 106.12,
+    "end": 113.54,
+    "text": "This marks a notable reduction in the power system's reliance on the power."
+  },
+  {
+    "start": 114.54,
+    "end": 120.4,
+    "text": "The second point is non-fossil energy becomes the mainstay."
+  },
+  {
+    "start": 120.72,
+    "end": 132.16,
+    "text": "The share of installed non-fossil energy capacity, including hydropower, solar power, wind power, and nuclear power,"
+  },
+  {
+    "start": 132.16,
+    "end": 148.57,
+    "text": "Low steadily from 32.7% in 2014 to 40.4% in 2025, taking an outright leading position for the first time."
+  },
+  {
+    "start": 151.36,
+    "end": 159.08,
+    "text": "And this diagram shows the proportion of power generation in China in 2024."
+  },
+  {
+    "start": 159.08,
+    "end": 167.92,
+    "text": "And in the last slide, we know that coal power accounted for 43% of the total installed capacity."
+  },
+  {
+    "start": 168.55,
+    "end": 173.61,
+    "text": "Lower than 48% of new energy."
+  },
+  {
+    "start": 173.91,
+    "end": 185.17,
+    "text": "However, from this figure, we can find that coal power contributed about 63% of the total power generation."
+  },
+  {
+    "start": 185.17,
+    "end": 189.73,
+    "text": "1.8 times that of new energy power."
+  },
+  {
+    "start": 190.05,
+    "end": 198.18,
+    "text": "Which means in 2024, the installed capacity for coal power is only 43%,"
+  },
+  {
+    "start": 198.18,
+    "end": 203.44,
+    "text": "but the power generation is about 63%."
+  },
+  {
+    "start": 204.48,
+    "end": 211.47,
+    "text": "Which means all the wind and solar power have registered rapid growth."
+  },
+  {
+    "start": 211.47,
+    "end": 216.23,
+    "text": "their utilization rates remain relatively low."
+  },
+  {
+    "start": 216.49,
+    "end": 226.33,
+    "text": "Hence, coal power remains the final safeguard for the secure operation of the power grid in China."
+  },
+  {
+    "start": 227.68,
+    "end": 235.94,
+    "text": "From the above data, we can get the conclusion that coal power still plays a very important role in China."
+  },
+  {
+    "start": 235.94,
+    "end": 244.72,
+    "text": "Therefore, this report focuses on the development and application of clinical power technology."
+  },
+  {
+    "start": 248.61,
+    "end": 255.63,
+    "text": "The development of clinical power technology has gone through three stages in China."
+  },
+  {
+    "start": 256.21,
+    "end": 261.73,
+    "text": "The 1970s to 1990s is the initial stage."
+  },
+  {
+    "start": 261.73,
+    "end": 270.65,
+    "text": "This is focused on post-combustion full-gas deseparation and dust removal technology to"
+  },
+  {
+    "start": 270.65,
+    "end": 277.85,
+    "text": "address acid, rain, and dust pollution, leading the foundation for environmental governance."
+  },
+  {
+    "start": 278.11,
+    "end": 287.17,
+    "text": "You can find in this period for nitrogen oxide or NOx, there is no limitation, there is only"
+  },
+  {
+    "start": 287.17,
+    "end": 295.32,
+    "text": "limitation standard for sox, silver oxides and dust. There is no limitation for sox."
+  },
+  {
+    "start": 296.44,
+    "end": 305.86,
+    "text": "The second stage is 2000 to 2010. It is the development stage. This stage shifted"
+  },
+  {
+    "start": 305.86,
+    "end": 311.16,
+    "text": "towards improving power generation efficiency technologies such as"
+  },
+  {
+    "start": 311.16,
+    "end": 315.48,
+    "text": "super-gradable power generation technology and multi-protein control"
+  },
+  {
+    "start": 315.48,
+    "end": 319.54,
+    "text": "control technologies such as neutral low-emission technology."
+  },
+  {
+    "start": 320.41,
+    "end": 324.65,
+    "text": "The third stage is 2020 to present."
+  },
+  {
+    "start": 325.05,
+    "end": 328.57,
+    "text": "This stage is a deepening transformation stage."
+  },
+  {
+    "start": 329.01,
+    "end": 334.28,
+    "text": "It focuses on synergistic reduction of pollutants and carbon,"
+  },
+  {
+    "start": 334.58,
+    "end": 338.52,
+    "text": "developing higher-efficiency technologies, flexibility"
+  },
+  {
+    "start": 338.52,
+    "end": 344.84,
+    "text": "and integration with CCUS for low-carbon transition."
+  },
+  {
+    "start": 347.82,
+    "end": 355.2,
+    "text": "I use three sentences to summarize the China core position in China."
+  },
+  {
+    "start": 355.56,
+    "end": 361.87,
+    "text": "The first sentence is the best store for energy security."
+  },
+  {
+    "start": 362.64,
+    "end": 366.82,
+    "text": "China has built the world's largest clinical power system,"
+  },
+  {
+    "start": 366.82,
+    "end": 374.35,
+    "text": "contributing 60% of power generation and 80% of peak shipping capacity."
+  },
+  {
+    "start": 374.63,
+    "end": 381.59,
+    "text": "It serves as a better storm for energy security and the stabilizer of the energy."
+  },
+  {
+    "start": 382.13,
+    "end": 386.03,
+    "text": "Second sentence is a green benchmark for fossil power."
+  },
+  {
+    "start": 386.55,
+    "end": 388.93,
+    "text": "By the end of 2025,"
+  },
+  {
+    "start": 388.93,
+    "end": 399.48,
+    "text": "In 1975, over 95% of coal-fired power units in China had achieved neutral emissions, reaching"
+  },
+  {
+    "start": 399.48,
+    "end": 401.86,
+    "text": "an international leading clean data."
+  },
+  {
+    "start": 402.94,
+    "end": 407.4,
+    "text": "The third is the power energy for low-carbon upgrade."
+  },
+  {
+    "start": 407.4,
+    "end": 421.07,
+    "text": "The average power supply co-consumption dropped to 301.6 grams per kilowatt in 2024, with"
+  },
+  {
+    "start": 421.07,
+    "end": 431.11,
+    "text": "thermal efficiency exceeding 50% for the world's first 630 Celsius-degree ultrasonic critical"
+  },
+  {
+    "start": 431.11,
+    "end": 432.75,
+    "text": "or USC unit."
+  },
+  {
+    "start": 432.75,
+    "end": 444.28,
+    "text": "Chinese government has released some key documents to provide policy guidance for clean coal power."
+  },
+  {
+    "start": 445.02,
+    "end": 453.02,
+    "text": "In this April, Chinese government issued opinions on energy conservation and carbon reduction."
+  },
+  {
+    "start": 454.1,
+    "end": 463.86,
+    "text": "This document emphasizes strengthening energy saving, carbon reducing, and flexibility retrofitting of coal power,"
+  },
+  {
+    "start": 463.86,
+    "end": 468.96,
+    "text": "focusing on performance improvement of existing units."
+  },
+  {
+    "start": 469.86,
+    "end": 477.1,
+    "text": "Second document is the 15th Five-Year Plan for Modern Energy System."
+  },
+  {
+    "start": 478.03,
+    "end": 487.65,
+    "text": "It requires promoting clean and efficient utilization of coal and orderly reduction and substitution,"
+  },
+  {
+    "start": 487.65,
+    "end": 498.63,
+    "text": "setting a target of reducing the average power supply coal consumption to below 300 grams per kilowatt by 2025."
+  },
+  {
+    "start": 501.06,
+    "end": 507.76,
+    "text": "The third document is an action plan for carbon peaking before 2030."
+  },
+  {
+    "start": 508.59,
+    "end": 519.63,
+    "text": "And this problem is related to the Chinese double carbon goals, the dual carbon goals."
+  },
+  {
+    "start": 519.91,
+    "end": 524.53,
+    "text": "I will talk about dual carbon goals in a moment."
+  },
+  {
+    "start": 525.15,
+    "end": 530.29,
+    "text": "This problem requires strictly controlling new coal power projects"
+  },
+  {
+    "start": 530.29,
+    "end": 538.95,
+    "text": "projects, and promoting the triple retrofit energy-sealing, combined heat and power of"
+  },
+  {
+    "start": 538.95,
+    "end": 543.43,
+    "text": "CHP, flexibility retrofit of existing units."
+  },
+  {
+    "start": 546.94,
+    "end": 554.26,
+    "text": "After the overview of the history, status, and supporting policies of China's clinical"
+  },
+  {
+    "start": 554.26,
+    "end": 562.0,
+    "text": "sector, now we will move on to Chapter 2, where we will detail the key clinical power"
+  },
+  {
+    "start": 562.0,
+    "end": 574.15,
+    "text": "technologies. Co-processing stages for clinical utilization include pre-, in- and after-combustion"
+  },
+  {
+    "start": 574.15,
+    "end": 584.57,
+    "text": "treatment processes. Pre-combustion or before combustion, co-quality is improved from the"
+  },
+  {
+    "start": 584.57,
+    "end": 592.44,
+    "text": "source through co-washing and co-blending technology. Co-washing technology can reduce"
+  },
+  {
+    "start": 592.44,
+    "end": 595.18,
+    "text": "use ash and sulfur through washing processes,"
+  },
+  {
+    "start": 596.4,
+    "end": 604.08,
+    "text": "China's low coal washing rate has reached 78.6% in 2020."
+  },
+  {
+    "start": 605.49,
+    "end": 608.31,
+    "text": "And coal blending technology, it can scientifically"
+  },
+  {
+    "start": 608.31,
+    "end": 613.91,
+    "text": "blend different coal types for stable, efficient, and low"
+  },
+  {
+    "start": 613.91,
+    "end": 615.01,
+    "text": "pollution combustion."
+  },
+  {
+    "start": 616.87,
+    "end": 619.75,
+    "text": "In combustion, or during combustion,"
+  },
+  {
+    "start": 619.75,
+    "end": 626.49,
+    "text": "Low nitrogen combustion technology is used to inhibit pollutant formation."
+  },
+  {
+    "start": 627.1,
+    "end": 638.96,
+    "text": "Its principle is to inhibit nitrogen oxides, or NOx, formation through air staging, fuel staging, and low gas recirculation."
+  },
+  {
+    "start": 638.96,
+    "end": 654.64,
+    "text": "And its effect can reduce NOx concentration at boiler outlet to 200-300 mg per m3, reducing"
+  },
+  {
+    "start": 654.64,
+    "end": 663.3,
+    "text": "the burden on subsequent SCR system post-combustion or after combustion."
+  },
+  {
+    "start": 663.3,
+    "end": 675.24,
+    "text": "Through a major combination of flue gas purification technologies, including SCR, denitrification,"
+  },
+  {
+    "start": 675.76,
+    "end": 684.74,
+    "text": "wet desuferization, and high-efficiency dust removal, neutral emissions of pollutants are achieved."
+  },
+  {
+    "start": 685.96,
+    "end": 696.98,
+    "text": "These figures show pre-combustion technologies, including cold washing, cold blending, cold"
+  },
+  {
+    "start": 696.98,
+    "end": 699.9,
+    "text": "brackets, and cold water slurry."
+  },
+  {
+    "start": 702.34,
+    "end": 709.9,
+    "text": "Its core principle is to remove ash and sulfur by physical and chemical cold washing to improve"
+  },
+  {
+    "start": 709.9,
+    "end": 717.18,
+    "text": "cold quality, and mix different kinds of colds scientifically by cold blending to increase"
+  },
+  {
+    "start": 717.18,
+    "end": 719.02,
+    "text": "with combustion emissions."
+  },
+  {
+    "start": 719.9,
+    "end": 724.06,
+    "text": "These have the advantages of improved efficiency."
+  },
+  {
+    "start": 724.42,
+    "end": 729.26,
+    "text": "It can stabilize coal quality, increase boiler combustion"
+  },
+  {
+    "start": 729.26,
+    "end": 733.94,
+    "text": "efficiency greatly, reduce combustion fluctuations,"
+  },
+  {
+    "start": 735.07,
+    "end": 736.79,
+    "text": "and clean emissions."
+  },
+  {
+    "start": 737.17,
+    "end": 741.03,
+    "text": "It can remove ash and sulfur from coal salts,"
+  },
+  {
+    "start": 741.53,
+    "end": 745.23,
+    "text": "greatly reduce dust and salt emissions,"
+  },
+  {
+    "start": 745.23,
+    "end": 756.55,
+    "text": "and reduce costs. It can blend low-price coal, optimize fuel structure, and reduce fuel costs effectively."
+  },
+  {
+    "start": 757.96,
+    "end": 770.94,
+    "text": "During combustion, low-NOx combustion technology constitutes the first line of defense for NOx emission control."
+  },
+  {
+    "start": 770.94,
+    "end": 786.74,
+    "text": "By adopting air staging and fuel staging methods combined with advanced low NOx burner, it can effectively inhibit NOx formation with an efficiency of more than 50%."
+  },
+  {
+    "start": 787.13,
+    "end": 793.91,
+    "text": "For the in-combustion, there are several practical methods."
+  },
+  {
+    "start": 794.39,
+    "end": 796.35,
+    "text": "First is air stage combustion."
+  },
+  {
+    "start": 796.35,
+    "end": 804.75,
+    "text": "Air-stage combustion is the stage-supply of combustion air into the furnace,"
+  },
+  {
+    "start": 805.07,
+    "end": 812.21,
+    "text": "creates a fuel-rich, low-oxygen-reducing atmosphere in primary combustion soil,"
+  },
+  {
+    "start": 812.47,
+    "end": 816.91,
+    "text": "inhibiting the formation of thermal knocks at the source."
+  },
+  {
+    "start": 817.88,
+    "end": 821.9,
+    "text": "And the second is fuel-stage combustion methods."
+  },
+  {
+    "start": 821.9,
+    "end": 829.85,
+    "text": "The secondary fuel, or reburning fuel, is injected downstream of the primary combustion"
+  },
+  {
+    "start": 829.85,
+    "end": 837.73,
+    "text": "zone to form a storm reducing zone, which reduces the generated NOSGEN to harmless nitrogen."
+  },
+  {
+    "start": 838.8,
+    "end": 842.36,
+    "text": "The third is full gas recirculation, or FGR."
+  },
+  {
+    "start": 843.62,
+    "end": 850.42,
+    "text": "Extracted low temperature full gas is mixed with combustion air to reduce oxygen concentration"
+  },
+  {
+    "start": 850.42,
+    "end": 858.0,
+    "text": "concentration and flame temperature in combustion zone, effectively suppressing thermal NOx"
+  },
+  {
+    "start": 858.0,
+    "end": 859.72,
+    "text": "and block NOx."
+  },
+  {
+    "start": 861.18,
+    "end": 871.16,
+    "text": "And the evaporation effect can reduce NOx by 50% substantially, lowering treatment load"
+  },
+  {
+    "start": 871.16,
+    "end": 877.66,
+    "text": "and operating costs of downstream denitrification facilities such as SCR facilities."
+  },
+  {
+    "start": 877.66,
+    "end": 885.59,
+    "text": "These are the two mainstream playing patterns for low nitrogen combustion."
+  },
+  {
+    "start": 886.4,
+    "end": 893.64,
+    "text": "The left is four-corner tangential finding, the right is front and rear wall-opposed finding."
+  },
+  {
+    "start": 893.9,
+    "end": 904.94,
+    "text": "For the left method, it's mainly used for the low volatile and low heating value code."
+  },
+  {
+    "start": 904.94,
+    "end": 912.3,
+    "text": "and for the front and rear finding is mainly for the high volatiles and high heating values."
+  },
+  {
+    "start": 917.6,
+    "end": 922.06,
+    "text": "Technology is circulating fluidized bed of deep CRP technology."
+  },
+  {
+    "start": 922.8,
+    "end": 928.46,
+    "text": "Its core principle lies in its unique circulating combustion method."
+  },
+  {
+    "start": 928.68,
+    "end": 936.04,
+    "text": "It has closed-loop system of combustion separation reflux recombustion"
+  },
+  {
+    "start": 936.04,
+    "end": 940.76,
+    "text": "which greatly improves combating efficiency and fuel adaptability."
+  },
+  {
+    "start": 941.04,
+    "end": 945.1,
+    "text": "This kind of combating method brings four core advantages."
+  },
+  {
+    "start": 945.72,
+    "end": 952.36,
+    "text": "First is wide fuel adaptability, compatible with multiple fuel types."
+  },
+  {
+    "start": 953.14,
+    "end": 959.76,
+    "text": "Second is stable operation with wide load, adapting to great peak shipping."
+  },
+  {
+    "start": 959.76,
+    "end": 971.47,
+    "text": "because for CFB, its load regulation can be very wide, so it's adapting to a great big shift."
+  },
+  {
+    "start": 972.01,
+    "end": 979.76,
+    "text": "The third is integration in furnace, including desilverization, low cost and high efficiency."
+  },
+  {
+    "start": 980.12,
+    "end": 983.9,
+    "text": "The fourth is low temperature combustion inhibition,"
+  },
+  {
+    "start": 983.9,
+    "end": 992.76,
+    "text": "Because for CEP boiler, its combustion temperature is relatively low compared to the power riser"
+  },
+  {
+    "start": 992.76,
+    "end": 993.38,
+    "text": "cold boiler."
+  },
+  {
+    "start": 993.66,
+    "end": 998.6,
+    "text": "So its thermal NOx concentration is low."
+  },
+  {
+    "start": 998.76,
+    "end": 1002.44,
+    "text": "So it has low NOx original emission."
+  },
+  {
+    "start": 1005.0,
+    "end": 1008.1,
+    "text": "This is CEP boiler principle and structure."
+  },
+  {
+    "start": 1008.1,
+    "end": 1014.96,
+    "text": "fuel and limestone is injected into the boiler's furnace."
+  },
+  {
+    "start": 1015.66,
+    "end": 1025.5,
+    "text": "In the boiler furnace, they are fluidized by the primary air from the draft fan."
+  },
+  {
+    "start": 1025.76,
+    "end": 1031.18,
+    "text": "And in the furnace, the coal, the fuel, is combusted completely."
+  },
+  {
+    "start": 1031.18,
+    "end": 1043.78,
+    "text": "and the ash is separated by the separator and returned back to the furnace."
+  },
+  {
+    "start": 1044.3,
+    "end": 1053.28,
+    "text": "Because in the boiler, it has a large amount of bad material,"
+  },
+  {
+    "start": 1053.6,
+    "end": 1057.6,
+    "text": "and the material has a large amount of heat."
+  },
+  {
+    "start": 1057.6,
+    "end": 1073.72,
+    "text": "heat capacity. So the self-border is suitable for low heating value coal and high sulfur"
+  },
+  {
+    "start": 1076.08,
+    "end": 1086.12,
+    "text": "For CF border, it can even combust some such as the solid waste, municipal solid waste."
+  },
+  {
+    "start": 1086.58,
+    "end": 1099.86,
+    "text": "And this is the CFB border and the power riser coil from Paris."
+  },
+  {
+    "start": 1101.74,
+    "end": 1107.74,
+    "text": "You can see from this table also the power riser coil has a high thermal efficiency."
+  },
+  {
+    "start": 1107.74,
+    "end": 1112.52,
+    "text": "its thermal efficiency is greater than 99%."
+  },
+  {
+    "start": 1113.25,
+    "end": 1116.01,
+    "text": "And for the thermal efficiency,"
+  },
+  {
+    "start": 1116.35,
+    "end": 1120.47,
+    "text": "the combustion efficiency is greater than 99%."
+  },
+  {
+    "start": 1120.97,
+    "end": 1123.83,
+    "text": "And for the thermal efficiency, or power efficiency,"
+  },
+  {
+    "start": 1124.29,
+    "end": 1129.71,
+    "text": "for neutral supercritical unit, it can be greater than 48%."
+  },
+  {
+    "start": 1129.74,
+    "end": 1136.24,
+    "text": "But for CM boiler, its combustion efficiency is 98%,"
+  },
+  {
+    "start": 1136.24,
+    "end": 1141.24,
+    "text": "a little small, a little low than the parallelized coal."
+  },
+  {
+    "start": 1141.38,
+    "end": 1146.64,
+    "text": "And its power efficiency can reach 45%,"
+  },
+  {
+    "start": 1146.64,
+    "end": 1150.02,
+    "text": "also a little low than the parallelized coal."
+  },
+  {
+    "start": 1150.24,
+    "end": 1152.38,
+    "text": "But for parallelized coal,"
+  },
+  {
+    "start": 1152.56,
+    "end": 1156.2,
+    "text": "it usually combusts the high-quality coal."
+  },
+  {
+    "start": 1156.32,
+    "end": 1160.72,
+    "text": "But for CFE coal, it combusts the low-quality"
+  },
+  {
+    "start": 1160.72,
+    "end": 1162.6,
+    "text": "or low-heating value coal."
+  },
+  {
+    "start": 1163.06,
+    "end": 1165.56,
+    "text": "And for the coal consumption,"
+  },
+  {
+    "start": 1165.56,
+    "end": 1172.44,
+    "text": "consumption, because for coal consumption is related to the power efficiency. So, for"
+  },
+  {
+    "start": 1173.55,
+    "end": 1180.84,
+    "text": "the power-wise coal, its thermal efficiency, power efficiency is high, so its coal consumption"
+  },
+  {
+    "start": 1180.84,
+    "end": 1191.42,
+    "text": "is low. It's about 290 grams per kilowatt hour. While for the CF boiler, its coal consumption"
+  },
+  {
+    "start": 1191.42,
+    "end": 1195.92,
+    "text": "is a little higher. It's about 312 grams per hour."
+  },
+  {
+    "start": 1196.3,
+    "end": 1200.88,
+    "text": "And for NOx emission, for power riser code, its NOx emission is"
+  },
+  {
+    "start": 1201.82,
+    "end": 1206.04,
+    "text": "800 to 200 milligrams per meter cube."
+  },
+  {
+    "start": 1206.3,
+    "end": 1210.86,
+    "text": "Given that this is NOx concentration from the boiler"
+  },
+  {
+    "start": 1211.1,
+    "end": 1215.08,
+    "text": "outlet, not from the power plant emission."
+  },
+  {
+    "start": 1215.08,
+    "end": 1224.84,
+    "text": "emission. And for self-boiler, because it is low nitrogen combustion, low nitrogen combustion,"
+  },
+  {
+    "start": 1225.16,
+    "end": 1236.66,
+    "text": "so its noise emission at the boiler outlet is 200 milligrams per meter cube. Its high"
+  },
+  {
+    "start": 1236.66,
+    "end": 1244.34,
+    "text": "efficiency in thermos desulfurization can reduce tail end fragility cost. It can reduce"
+  },
+  {
+    "start": 1244.34,
+    "end": 1256.5,
+    "text": "the cost of desulfurization facility. So from this table we can find all the"
+  },
+  {
+    "start": 1256.5,
+    "end": 1261.6,
+    "text": "polarized coal boilers are more efficient than burning high quality coal."
+  },
+  {
+    "start": 1261.96,
+    "end": 1276.78,
+    "text": "CMB boilers have obvious advantages in burning low quality coal. Pollutant"
+  },
+  {
+    "start": 1276.78,
+    "end": 1282.48,
+    "text": "the levelized cost of energy for CFB is more competitive."
+  },
+  {
+    "start": 1283.0,
+    "end": 1287.72,
+    "text": "And for the load regulation and life cycle cost,"
+  },
+  {
+    "start": 1287.88,
+    "end": 1291.88,
+    "text": "I forget to say just now."
+  },
+  {
+    "start": 1292.1,
+    "end": 1295.48,
+    "text": "For the parallelized code, its load regulation"
+  },
+  {
+    "start": 1295.48,
+    "end": 1298.74,
+    "text": "is usually 50% to 100%."
+  },
+  {
+    "start": 1298.74,
+    "end": 1305.42,
+    "text": "But for the CFB, its load regulation is 30% to 110%,"
+  },
+  {
+    "start": 1305.42,
+    "end": 1316.22,
+    "text": "which means it has better load regulation and it will be capital for the power grid."
+  },
+  {
+    "start": 1322.04,
+    "end": 1329.2,
+    "text": "China is a technology leader in CFE border field with world's largest market share,"
+  },
+  {
+    "start": 1329.42,
+    "end": 1339.26,
+    "text": "especially achieving major breakthroughs in high parameter, high capacity of CFE technologies."
+  },
+  {
+    "start": 1339.26,
+    "end": 1347.12,
+    "text": "This figure, the right figure, is the Pingshuo CRB Power Plant, located in Shanxi province,"
+  },
+  {
+    "start": 1347.5,
+    "end": 1353.9,
+    "text": "which is the world's first 660 megawatt CRB unit."
+  },
+  {
+    "start": 1357.72,
+    "end": 1362.42,
+    "text": "Next core technology is neutral supercritical technology."
+  },
+  {
+    "start": 1362.96,
+    "end": 1367.68,
+    "text": "Its core principle is to break through efficiency bottlenecks"
+  },
+  {
+    "start": 1367.68,
+    "end": 1375.7,
+    "text": "By increasing steam parameters breaking critical point, we know for the critical point, its"
+  },
+  {
+    "start": 1375.7,
+    "end": 1385.49,
+    "text": "critical pressure is 22 megapascals, and its critical temperature is 374 Celsius degrees."
+  },
+  {
+    "start": 1386.78,
+    "end": 1395.39,
+    "text": "Both temperature and pressure increases bring efficiency gains, this temperature having"
+  },
+  {
+    "start": 1395.39,
+    "end": 1397.11,
+    "text": "a more significant impact."
+  },
+  {
+    "start": 1397.11,
+    "end": 1403.89,
+    "text": "This chart, the right chart, shows the trend of efficiency improvement under different"
+  },
+  {
+    "start": 1403.89,
+    "end": 1411.69,
+    "text": "parameters, clearly indicating that higher parameters is the inevitable direction of"
+  },
+  {
+    "start": 1411.69,
+    "end": 1413.11,
+    "text": "technology development."
+  },
+  {
+    "start": 1413.87,
+    "end": 1424.45,
+    "text": "From the right chart, we can find when they increase the temperature, this is the mixing"
+  },
+  {
+    "start": 1424.45,
+    "end": 1434.37,
+    "text": "temperature from 600 degree and this is the reheat temperature, this is the misting temperature."
+  },
+  {
+    "start": 1434.81,
+    "end": 1442.93,
+    "text": "When we increase the misting temperature from 600 degree to 700 degree, the power efficiency"
+  },
+  {
+    "start": 1442.93,
+    "end": 1452.35,
+    "text": "efficiency can reach about 5-6%. That's why for the ultra-supercritical power plant, we"
+  },
+  {
+    "start": 1452.35,
+    "end": 1464.83,
+    "text": "will develop 700 temperature-misting Bitcoin, 700 plants in China. Then we increase the"
+  },
+  {
+    "start": 1464.83,
+    "end": 1473.52,
+    "text": "pressure, misting pressure. The horizontal axis is the misting pressure. When we increase"
+  },
+  {
+    "start": 1473.52,
+    "end": 1484.48,
+    "text": "the misting pressure, the power efficiency also increases, but it increases, it's a little"
+  },
+  {
+    "start": 1485.4,
+    "end": 1490.76,
+    "text": "small. It's a little small, not like the temperature, it is very obvious."
+  },
+  {
+    "start": 1490.76,
+    "end": 1501.95,
+    "text": "years. Okay, compared to conventional supercritical unit,"
+  },
+  {
+    "start": 1502.27,
+    "end": 1506.51,
+    "text": "usual supercritical unit has a higher steam pressure and steam"
+  },
+  {
+    "start": 1506.51,
+    "end": 1511.77,
+    "text": "temperature. For conventional supercritical unit, its main"
+  },
+  {
+    "start": 1511.77,
+    "end": 1517.64,
+    "text": "steam pressure is between 23 to 27 MPa, and main steam"
+  },
+  {
+    "start": 1517.64,
+    "end": 1523.78,
+    "text": "temperature is between 540 to 560 Celsius degrees. But for"
+  },
+  {
+    "start": 1523.78,
+    "end": 1530.4,
+    "text": "For neutral supercritical unit, it's main steam pressure is greater than 27 mPa."
+  },
+  {
+    "start": 1530.7,
+    "end": 1537.66,
+    "text": "And it's main steam temperature is between 508 to 600 degrees."
+  },
+  {
+    "start": 1538.62,
+    "end": 1548.32,
+    "text": "And for conventional supercritical, it's power efficiency is about 2% higher than subcritical unit."
+  },
+  {
+    "start": 1548.32,
+    "end": 1554.76,
+    "text": "and co-consumption is between 290 to 300 grams per kilowatt-hour."
+  },
+  {
+    "start": 1555.9,
+    "end": 1565.84,
+    "text": "However, for neutral supercritical unit, our efficiency is about 5% higher than subcritical unit,"
+  },
+  {
+    "start": 1566.12,
+    "end": 1572.54,
+    "text": "and co-consumption is between 270 to 280 grams per kilowatt-hour."
+  },
+  {
+    "start": 1573.06,
+    "end": 1585.55,
+    "text": "U-turn supercritical technology is currently the most efficient clean coal power generation technology."
+  },
+  {
+    "start": 1585.97,
+    "end": 1594.09,
+    "text": "China has the world's largest application scale in this field and continues to lead in technology."
+  },
+  {
+    "start": 1594.49,
+    "end": 1604.75,
+    "text": "By the end of 2024, installed capacity of U-SC units exceeded 320 GW,"
+  },
+  {
+    "start": 1604.75,
+    "end": 1611.25,
+    "text": "accounting for nearly 60% of the total coal-fired power plants in China."
+  },
+  {
+    "start": 1612.17,
+    "end": 1626.31,
+    "text": "In June, the world's first 630°C double reheat USC million kilowatt units was put into operation"
+  },
+  {
+    "start": 1626.31,
+    "end": 1632.71,
+    "text": "with power generation efficiency exceeding 50% for the first time"
+  },
+  {
+    "start": 1632.71,
+    "end": 1635.47,
+    "text": "is setting a new world record."
+  },
+  {
+    "start": 1637.44,
+    "end": 1641.3,
+    "text": "Next technology is deep peaking technology."
+  },
+  {
+    "start": 1641.94,
+    "end": 1650.02,
+    "text": "Peak shielding technology is through the technical retrofits."
+  },
+  {
+    "start": 1650.26,
+    "end": 1655.62,
+    "text": "The minimum operating load limit of generating units can be overcome."
+  },
+  {
+    "start": 1655.98,
+    "end": 1660.28,
+    "text": "Units can maintain stable combustion and safe operating"
+  },
+  {
+    "start": 1660.28,
+    "end": 1669.42,
+    "text": "operating under operation conditions of 20% to 50% rated power, efficiency including unit"
+  },
+  {
+    "start": 1669.42,
+    "end": 1672.04,
+    "text": "flexibility and peak shearing capacity."
+  },
+  {
+    "start": 1678.04,
+    "end": 1685.1,
+    "text": "By comprehensive retrofits of boiler, steam turbine, thermal power decoupling system and"
+  },
+  {
+    "start": 1685.1,
+    "end": 1689.98,
+    "text": "control system, units can operate stably at lower loads."
+  },
+  {
+    "start": 1689.98,
+    "end": 1698.56,
+    "text": "This enabled them to better accommodate power grid fluctuations and create room for the"
+  },
+  {
+    "start": 1698.56,
+    "end": 1702.92,
+    "text": "integration of new engines such as wind and solar power."
+  },
+  {
+    "start": 1704.62,
+    "end": 1714.53,
+    "text": "By the end of 2024, China has completed flexibility retrofits for coal-fired generating units"
+  },
+  {
+    "start": 1714.53,
+    "end": 1722.71,
+    "text": "with a total capacity of 210 gigawatts, which has greatly enhanced the power system's peak"
+  },
+  {
+    "start": 1722.71,
+    "end": 1723.67,
+    "text": "shipping capacity."
+  },
+  {
+    "start": 1724.57,
+    "end": 1733.36,
+    "text": "For policy orientation, implement the requirement of retrofitting all eligible units, promote"
+  },
+  {
+    "start": 1733.36,
+    "end": 1742.42,
+    "text": "co-fired power from main power source to regulating power source, and support achievement of dual"
+  },
+  {
+    "start": 1742.42,
+    "end": 1743.42,
+    "text": "carbon goals."
+  },
+  {
+    "start": 1743.42,
+    "end": 1755.44,
+    "text": "Next, we enter chapter 3, where I will introduce several advanced technologies for clean coal"
+  },
+  {
+    "start": 1755.44,
+    "end": 1763.51,
+    "text": "power generation, including neutral low-emission technology, CCUS technology, ORC technology,"
+  },
+  {
+    "start": 1764.11,
+    "end": 1768.45,
+    "text": "coal power integrated with renewable energy technology."
+  },
+  {
+    "start": 1769.09,
+    "end": 1777.8,
+    "text": "The first advanced technology is flue gas neutral low-emission technology, which has"
+  },
+  {
+    "start": 1777.8,
+    "end": 1780.7,
+    "text": "has been widely popularized in China."
+  },
+  {
+    "start": 1781.21,
+    "end": 1785.3,
+    "text": "It's not a single technology, but a set of combined processes,"
+  },
+  {
+    "start": 1785.97,
+    "end": 1790.2,
+    "text": "from the low nitrogen combustion inside boiler,"
+  },
+  {
+    "start": 1790.48,
+    "end": 1797.1,
+    "text": "to SCR denitrification, to high efficiency dust removal"
+  },
+  {
+    "start": 1797.1,
+    "end": 1800.92,
+    "text": "technology, to wet flue gas desuparization,"
+  },
+  {
+    "start": 1800.92,
+    "end": 1807.48,
+    "text": "and finally is the wet electrostatic precipitator."
+  },
+  {
+    "start": 1808.44,
+    "end": 1818.36,
+    "text": "And by this series of methods, a completely pollutant control chain is formed"
+  },
+  {
+    "start": 1818.36,
+    "end": 1822.62,
+    "text": "to ensure emission and strict pollutant standards."
+  },
+  {
+    "start": 1824.0,
+    "end": 1832.8,
+    "text": "And the effect of neutral low emission transformation is remarkable."
+  },
+  {
+    "start": 1832.8,
+    "end": 1841.15,
+    "text": "This table shows the pollutant standard in 2004 and 2012."
+  },
+  {
+    "start": 1842.26,
+    "end": 1849.44,
+    "text": "This is the 2004 standard, and this is the 2012 standard,"
+  },
+  {
+    "start": 1849.68,
+    "end": 1854.32,
+    "text": "and this is the newest emissions standard in China now."
+  },
+  {
+    "start": 1854.48,
+    "end": 1858.8,
+    "text": "It's still in effect."
+  },
+  {
+    "start": 1858.89,
+    "end": 1867.65,
+    "text": "Okay, you can see the change of dust, sulfur, it should be sulfur oxides, nitrogen oxides."
+  },
+  {
+    "start": 1867.89,
+    "end": 1877.89,
+    "text": "For 2004 standard, its dust indication is 50 milligram per meter cube for the new power plant,"
+  },
+  {
+    "start": 1878.09,
+    "end": 1883.97,
+    "text": "for new power plant, and this is for the old power plant, it's 200."
+  },
+  {
+    "start": 1884.97,
+    "end": 1895.94,
+    "text": "And for silver oxides, its emission is 400 mg per m3 for the new power plant,"
+  },
+  {
+    "start": 1896.26,
+    "end": 1910.19,
+    "text": "1200 for old power plant, NOx is 450 for new power plant, and 1100 for the old power plant."
+  },
+  {
+    "start": 1910.19,
+    "end": 1917.95,
+    "text": "Well, for the 212 standard, you can find the emission limitation has been decreased greatly."
+  },
+  {
+    "start": 1918.19,
+    "end": 1923.55,
+    "text": "Decreased greatly, which means it has a very strict standard."
+  },
+  {
+    "start": 1924.13,
+    "end": 1932.09,
+    "text": "For the dust, its limitation is 20 mg per m3,"
+  },
+  {
+    "start": 1932.43,
+    "end": 1937.67,
+    "text": "for the clean regions such as Peking, Shanghai, Hebei province."
+  },
+  {
+    "start": 1937.67,
+    "end": 1950.21,
+    "text": "and 30 for other regions, and for NOx, sulfur oxide is 50 for K regions and 200 for other regions."
+  },
+  {
+    "start": 1950.41,
+    "end": 1955.43,
+    "text": "For NOx, it's 100 for K regions and 200 for other regions."
+  },
+  {
+    "start": 1955.43,
+    "end": 1974.85,
+    "text": "And for the investment cost, the neutral emission retrofit for a single 600 megawatt unit costs"
+  },
+  {
+    "start": 1975.17,
+    "end": 1984.87,
+    "text": "about 150 to 250 million CNY, Chinese money, CNY."
+  },
+  {
+    "start": 1984.87,
+    "end": 1991.89,
+    "text": "And for the life cycle cost, inside SCR catalysts with replacement,"
+  },
+  {
+    "start": 1992.41,
+    "end": 1998.23,
+    "text": "de-supervisor consumption, and station service power."
+  },
+  {
+    "start": 1998.8,
+    "end": 2008.76,
+    "text": "For economic, social benefits, intelligent virtual feeding can reduce environmental chemical consumption by 8 to 15%."
+  },
+  {
+    "start": 2008.76,
+    "end": 2020.76,
+    "text": "Chinese government has issued dual carbon goals, carbon peaking and carbon neutrality."
+  },
+  {
+    "start": 2021.56,
+    "end": 2028.24,
+    "text": "Carbon peaking before 2030 and carbon neutrality before 2060."
+  },
+  {
+    "start": 2028.92,
+    "end": 2032.12,
+    "text": "The roadmap is divided into three stages."
+  },
+  {
+    "start": 2032.12,
+    "end": 2039.32,
+    "text": "First, from 2021 to 2030, we achieved carbon peaking."
+  },
+  {
+    "start": 2039.48,
+    "end": 2044.04,
+    "text": "From 31 to 45, rapid reduced carbon emissions."
+  },
+  {
+    "start": 2044.48,
+    "end": 2050.32,
+    "text": "From 46 to 60, deep decarbonization of carbon neutrality."
+  },
+  {
+    "start": 2050.66,
+    "end": 2058.86,
+    "text": "And key measures to achieve the dual carbon goals include"
+  },
+  {
+    "start": 2058.86,
+    "end": 2063.38,
+    "text": "includes clean and efficient utilization of coal in the power industry,"
+  },
+  {
+    "start": 2063.66,
+    "end": 2066.86,
+    "text": "develop new and renewable energy sources,"
+  },
+  {
+    "start": 2067.36,
+    "end": 2071.64,
+    "text": "carbon reduction retrofits in key industries and fields,"
+  },
+  {
+    "start": 2071.86,
+    "end": 2079.67,
+    "text": "and last is carbon capture utilization and storage technology, or CCUS technology."
+  },
+  {
+    "start": 2086.3,
+    "end": 2093.28,
+    "text": "CCUS technology is a key technology on the path to achieve geocarbon growth."
+  },
+  {
+    "start": 2093.28,
+    "end": 2096.64,
+    "text": "It mainly has three paths."
+  },
+  {
+    "start": 2098.54,
+    "end": 2101.32,
+    "text": "The first is post-combustion capture."
+  },
+  {
+    "start": 2101.68,
+    "end": 2103.74,
+    "text": "This capacity is the most major."
+  },
+  {
+    "start": 2103.92,
+    "end": 2110.3,
+    "text": "It directly separates carbon dioxide from the fuel gas"
+  },
+  {
+    "start": 2110.3,
+    "end": 2115.26,
+    "text": "with a simple process and easy transformation of achieved plants."
+  },
+  {
+    "start": 2115.9,
+    "end": 2118.44,
+    "text": "The second is pre-combustion capture."
+  },
+  {
+    "start": 2118.44,
+    "end": 2127.44,
+    "text": "First, gasified fuels provide thin gas, then generate high concentration of carbon oxides."
+  },
+  {
+    "start": 2127.58,
+    "end": 2136.16,
+    "text": "Its concentration is 30 to 60 percent, and hydrogen reduces carbon dioxide separation"
+  },
+  {
+    "start": 2136.4,
+    "end": 2144.78,
+    "text": "energy consumption, such as the ICCC technology belongs to this method, belongs to the gray"
+  },
+  {
+    "start": 2146.52,
+    "end": 2157.44,
+    "text": "And this method has higher capacity, but it also has disadvantages, its investment cost"
+  },
+  {
+    "start": 2157.44,
+    "end": 2158.42,
+    "text": "is very huge."
+  },
+  {
+    "start": 2158.76,
+    "end": 2166.28,
+    "text": "The last is oxygen fuel conductor, it uses pure oxygen fuel conductor, you get this kind"
+  },
+  {
+    "start": 2166.28,
+    "end": 2173.08,
+    "text": "carbon dioxide and vapour, yielding high percentage of carbon dioxide after condensation."
+  },
+  {
+    "start": 2173.92,
+    "end": 2181.42,
+    "text": "This method also has a disadvantage of huge investment cost."
+  },
+  {
+    "start": 2182.83,
+    "end": 2193.62,
+    "text": "Each part has its own advantages and disadvantages and need to be selected according to specific conditions."
+  },
+  {
+    "start": 2193.62,
+    "end": 2204.2,
+    "text": "And this diagram shows the four technical frameworks of CCQS, including carbon dioxide"
+  },
+  {
+    "start": 2204.2,
+    "end": 2209.02,
+    "text": "source, capture, storage, utilization, and composition."
+  },
+  {
+    "start": 2209.78,
+    "end": 2217.56,
+    "text": "First, carbon dioxide is produced from various emission sources, such as the power plant,"
+  },
+  {
+    "start": 2217.86,
+    "end": 2222.8,
+    "text": "such as the nature, such as the air, such as from the vehicle."
+  },
+  {
+    "start": 2223.18,
+    "end": 2241.84,
+    "text": "Then carbon dioxide is captured and separated by multi-technologies such as chemical absorption, physical absorption, and biological method."
+  },
+  {
+    "start": 2243.39,
+    "end": 2252.5,
+    "text": "After capture, carbon dioxide has two major directions, geological storage or further utilization."
+  },
+  {
+    "start": 2252.5,
+    "end": 2264.82,
+    "text": "After capture, the carbon dioxide concentration is increased by two methods."
+  },
+  {
+    "start": 2265.12,
+    "end": 2273.58,
+    "text": "First is storage, storage in the geologic deep sea or sea-line layer."
+  },
+  {
+    "start": 2273.8,
+    "end": 2284.2,
+    "text": "Next is physical utilization and conversion, chemical conversion."
+  },
+  {
+    "start": 2284.2,
+    "end": 2299.22,
+    "text": "And for these two methods, we can use carbon dioxide for some products such as fuels, encodes, and carbonates."
+  },
+  {
+    "start": 2311.63,
+    "end": 2323.69,
+    "text": "Neutral emission technologies and CCUS technologies are the key to achieving near zero emissions from coal power by the end of 2024."
+  },
+  {
+    "start": 2323.69,
+    "end": 2330.81,
+    "text": "24, or 1,050 gigawatts of co-fired power units in China"
+  },
+  {
+    "start": 2330.81,
+    "end": 2337.39,
+    "text": "has been graduated, accounting for over 94% in service units."
+  },
+  {
+    "start": 2339.71,
+    "end": 2346.19,
+    "text": "And the right figure is the Chinese Zhening Power Plant."
+  },
+  {
+    "start": 2348.51,
+    "end": 2355.01,
+    "text": "This parkland is located in the Shaanxi province."
+  },
+  {
+    "start": 2356.29,
+    "end": 2362.18,
+    "text": "This project has been the world's largest coal-fired power carbon capture project,"
+  },
+  {
+    "start": 2362.46,
+    "end": 2368.06,
+    "text": "with an annual capture capacity of 1.5 million tonnes."
+  },
+  {
+    "start": 2368.64,
+    "end": 2373.6,
+    "text": "But the high cost remains the main challenge for its promotion."
+  },
+  {
+    "start": 2373.6,
+    "end": 2387.03,
+    "text": "ORC technology is a waste heat recovery technology."
+  },
+  {
+    "start": 2390.74,
+    "end": 2401.75,
+    "text": "It uses special organic co-working fluids to convert medium and low temperature waste,"
+  },
+  {
+    "start": 2402.03,
+    "end": 2407.93,
+    "text": "such as exhaust gas from power plants and heat from circulating water."
+  },
+  {
+    "start": 2407.93,
+    "end": 2414.64,
+    "text": "It has a simple system and the technology is safe and reliable."
+  },
+  {
+    "start": 2416.08,
+    "end": 2421.67,
+    "text": "It is a power tool to improve energy utilization efficiency."
+  },
+  {
+    "start": 2424.43,
+    "end": 2433.77,
+    "text": "All these core technical advantages include low temperature adaptability, high energy utilization efficiency,"
+  },
+  {
+    "start": 2433.77,
+    "end": 2443.09,
+    "text": "it can effectively utilize low-grade waste heat resources and greatly improve the compressive energy recovery rate."
+  },
+  {
+    "start": 2444.1,
+    "end": 2455.14,
+    "text": "And this table compares the ORC technology with traditional steam cycle technology."
+  },
+  {
+    "start": 2455.46,
+    "end": 2464.22,
+    "text": "Traditional steam cycle technology such as the power plant technology is the traditional steam technology."
+  },
+  {
+    "start": 2464.22,
+    "end": 2476.83,
+    "text": "From this table we can see for the steam cycle, for steam cycle is habitable heat source is"
+  },
+  {
+    "start": 2476.83,
+    "end": 2481.09,
+    "text": "high temperature source is usually greater than 400 degree."
+  },
+  {
+    "start": 2481.59,
+    "end": 2491.71,
+    "text": "And for organic cycle, its heat source is low or medium temperature source, its temperature"
+  },
+  {
+    "start": 2491.71,
+    "end": 2498.89,
+    "text": "between 90 degrees to 400 degrees. So it has a wide range of heat sources."
+  },
+  {
+    "start": 2499.33,
+    "end": 2506.11,
+    "text": "And the system characteristics, for steam cycle, it is high pressure, it has large air"
+  },
+  {
+    "start": 2506.43,
+    "end": 2513.97,
+    "text": "on pipe. And for the organic cycle, it is low pressure, and it is compact, and it is"
+  },
+  {
+    "start": 2513.97,
+    "end": 2522.54,
+    "text": "modular and for the resource consumption for steam cycle it must use the water so it must have the"
+  },
+  {
+    "start": 2523.02,
+    "end": 2529.9,
+    "text": "water supply because there is high water consumption and for the organic cycle there"
+  },
+  {
+    "start": 2529.9,
+    "end": 2544.14,
+    "text": "is no water consumption so it can use air cooling air cooling method so for the organic"
+  },
+  {
+    "start": 2545.16,
+    "end": 2557.16,
+    "text": "In the organic cycle, it can be applied in different scenarios, such as industrial waste heat recovery for blue gas and circulating water."
+  },
+  {
+    "start": 2557.6,
+    "end": 2571.36,
+    "text": "It can also be applied in some marine engineering, such as the wind tunnel of fuel for the waste utilization."
+  },
+  {
+    "start": 2571.42,
+    "end": 2585.9,
+    "text": "The integration of coal power with renewable energy is an important direction for future"
+  },
+  {
+    "start": 2585.9,
+    "end": 2586.84,
+    "text": "energy development."
+  },
+  {
+    "start": 2587.4,
+    "end": 2595.24,
+    "text": "Through various models such as wind-coal storage integration, flexibility retrofitting,"
+  },
+  {
+    "start": 2595.24,
+    "end": 2612.64,
+    "text": "multi-energy integration, and green hydrogen carbon, coal power can be set up to play its regulatory role and have built a more stable and low-carbon neon power system."
+  },
+  {
+    "start": 2612.64,
+    "end": 2621.48,
+    "text": "This project, the LIFE project, is the peaking shearing coal-fired power supporting the large-scale"
+  },
+  {
+    "start": 2621.48,
+    "end": 2631.59,
+    "text": "new energy in the Baden Desert, located in Shanxi Province in western China."
+  },
+  {
+    "start": 2632.27,
+    "end": 2641.03,
+    "text": "It contains four 1,000 megawatt high-efficiency neutral supercritical coal-fired power plants"
+  },
+  {
+    "start": 2641.03,
+    "end": 2650.81,
+    "text": "with deep peak shielding capability to accommodate local wind energy and solar energy."
+  },
+  {
+    "start": 2651.55,
+    "end": 2668.46,
+    "text": "And this diagram shows a typical integrated energy system including PV, wind power, fuel cell and gas boiler as energy sources,"
+  },
+  {
+    "start": 2669.82,
+    "end": 2685.33,
+    "text": "PCS and batteries realize energy storage while EMS optimizes the whole system's electric heating, cooling, gas, and transformation loads."
+  },
+  {
+    "start": 2685.59,
+    "end": 2691.11,
+    "text": "For this integrated energy system that has multiple energy supply,"
+  },
+  {
+    "start": 2691.11,
+    "end": 2706.48,
+    "text": "This is wind power, this is solar power, and this is fuel cell, this is thermal power boiler."
+  },
+  {
+    "start": 2706.48,
+    "end": 2715.68,
+    "text": "And it's up that products also include multiple products, including electricity, heating,"
+  },
+  {
+    "start": 2716.14,
+    "end": 2720.98,
+    "text": "cooling, gas, and for the recharge of some vehicles."
+  },
+  {
+    "start": 2722.56,
+    "end": 2731.5,
+    "text": "Okay, next is the last chapter, conclusion and suggestion."
+  },
+  {
+    "start": 2732.0,
+    "end": 2739.46,
+    "text": "We will analyze industrial hot stores, costs, and policies, and put forward strategic outlook."
+  },
+  {
+    "start": 2739.46,
+    "end": 2749.45,
+    "text": "look for the cost and investment for new built units the investment suggestion in"
+  },
+  {
+    "start": 2749.75,
+    "end": 2758.73,
+    "text": "neutral supercritical units is about 4 000 cmy per kilowatt with the best economic efficiency"
+  },
+  {
+    "start": 2759.27,
+    "end": 2769.43,
+    "text": "and for retrofit projects the flexibility retrofit cost is about 30 to 90 cmy per kilowatt"
+  },
+  {
+    "start": 2769.43,
+    "end": 2777.08,
+    "text": "In fact, the CCUS benefit cost is the highest, highly dependent on policy incentives."
+  },
+  {
+    "start": 2777.9,
+    "end": 2788.71,
+    "text": "And for policy incentive safety, for existing safety, we've adopted mandatory standards,"
+  },
+  {
+    "start": 2789.15,
+    "end": 2794.41,
+    "text": "financial support, green finance, and market-based mechanisms."
+  },
+  {
+    "start": 2794.41,
+    "end": 2804.04,
+    "text": "For future improvements, to improve the capacity price mechanism, improve the energy service"
+  },
+  {
+    "start": 2804.04,
+    "end": 2813.64,
+    "text": "market, stretching carbon market incentives, and for the strategic action guidelines, include"
+  },
+  {
+    "start": 2814.36,
+    "end": 2822.9,
+    "text": "deepening transformation and upgrading, focus on core technologies, promote energy hub transformation,"
+  },
+  {
+    "start": 2822.9,
+    "end": 2837.35,
+    "text": "steaming steaming days and generous motivation strengthen international cooperation and the"
+  },
+  {
+    "start": 2837.35,
+    "end": 2844.45,
+    "text": "current hotspots and outlook for green coal power technology are mainly reflected in four aspects"
+  },
+  {
+    "start": 2844.45,
+    "end": 2855.57,
+    "text": "first the demand for flexibility enhancement the second the integration of CCUS technology"
+  },
+  {
+    "start": 2855.57,
+    "end": 2863.83,
+    "text": "technology for deep decarbonization, third, the transformation for coal-fired power plants"
+  },
+  {
+    "start": 2863.83,
+    "end": 2872.24,
+    "text": "into integrated energy service, and finally, improving operation efficiencies through intelligence"
+  },
+  {
+    "start": 2872.24,
+    "end": 2873.58,
+    "text": "and digitalization."
+  },
+  {
+    "start": 2877.11,
+    "end": 2877.89,
+    "text": "Okay."
+  },
+  {
+    "start": 2878.03,
+    "end": 2880.33,
+    "text": "That's all for my report."
+  },
+  {
+    "start": 2880.51,
+    "end": 2881.35,
+    "text": "Thank you for your attention."
+  },
+  {
+    "start": 2881.95,
+    "end": 2882.89,
+    "text": "Question?"
+  }
+]

@@ -1,0 +1,2776 @@
+1
+00:00:00,000 --> 00:00:05,360
+security and the low carbon transformation continuing from the previous session this
+
+2
+00:00:05,360 --> 00:00:10,699
+lecture will focus on power grade security management supporting technical solutions
+
+3
+00:00:10,699 --> 00:00:17,940
+for carbon emission reduction under high new energy penetration rate if you have industrial
+
+4
+00:00:17,940 --> 00:00:23,940
+related questions please raise your hand for the q and a at the end of the lecture please welcome
+
+5
+00:00:23,940 --> 00:00:24,640
+Welcome, Professor Zhang.
+
+6
+00:00:29,379 --> 00:00:32,219
+OK, I'm very glad to communicate with you.
+
+7
+00:00:32,659 --> 00:00:37,460
+And during my speech, if you have any questions,
+
+8
+00:00:37,679 --> 00:00:41,850
+you can use any kind of questions.
+
+9
+00:00:44,520 --> 00:00:48,500
+OK, the next topic is for the new type of power system
+
+10
+00:00:48,500 --> 00:00:51,280
+security and low carbon transformation.
+
+11
+00:00:51,780 --> 00:00:55,969
+And we will divide it into two parts.
+
+12
+00:00:56,310 --> 00:00:58,710
+The first part is for the security.
+
+13
+00:00:58,710 --> 00:01:03,369
+What kind of security we have to do this for the new kind of cloud system?
+
+14
+00:01:03,729 --> 00:01:13,680
+And the next part is for the collaborative completion of the source network load, storage, and guest hub.
+
+15
+00:01:15,319 --> 00:01:20,319
+So this was the first part of the new cloud system security.
+
+16
+00:01:20,480 --> 00:01:22,299
+I don't understand that.
+
+17
+00:01:22,299 --> 00:01:34,920
+In the last section of the lecture, we have already summarized the characteristics of the new step of the power system.
+
+18
+00:01:35,260 --> 00:01:49,480
+That is how to convey efficient consumption and make a stable operation through high proportion of the renewable energy and high proportion of the power electronics.
+
+19
+00:01:49,480 --> 00:01:56,379
+How to operate it? How to make the power system to be operated, to be stable operation?
+
+20
+00:01:56,900 --> 00:01:59,700
+This is one difficult problem.
+
+21
+00:02:00,560 --> 00:02:09,680
+And another difficult problem is that a large number of power electronic devices are widely integrated into the system.
+
+22
+00:02:09,680 --> 00:02:21,120
+And such kind of power electronic devices will be active very fast, in milliseconds or microseconds.
+
+23
+00:02:21,360 --> 00:02:30,020
+So fast regulation of the power electronics will make the power system initially become weaker and weaker.
+
+24
+00:02:30,539 --> 00:02:32,840
+So this is the second difficulty.
+
+25
+00:02:32,840 --> 00:02:40,030
+And then China will encounter another continuous load growth.
+
+26
+00:02:40,729 --> 00:02:50,449
+So our power, electricity consumption will be doubled compared with now, with 2035.
+
+27
+00:02:50,909 --> 00:02:57,530
+And it will be doubled until 2050. The total consumption will be doubled.
+
+28
+00:02:57,530 --> 00:03:11,000
+And this doubled power generation, maybe 100% of this double increased amount will be achieved by the renewable energy.
+
+29
+00:03:11,000 --> 00:03:29,490
+But for the remaining, for the stable remaining generation is still a lot of, a large percentage of the remaining power requirements also will be substituted by the new energy.
+
+30
+00:03:29,490 --> 00:03:38,629
+So how to meet the consumer's needs and how to meet the user requirements for the high quality of power plants.
+
+31
+00:03:39,030 --> 00:03:53,689
+So this is also a very difficult task for the next year because the durability and the power quality will affect the Chinese economy very, very seriously.
+
+32
+00:03:53,689 --> 00:04:01,879
+For example, last year, in Shanghai, there was a big company to produce chips.
+
+33
+00:04:03,620 --> 00:04:13,219
+It encountered a power set and encountered a lot of losses, economic damage for the production.
+
+34
+00:04:14,080 --> 00:04:22,629
+We think that such kind of enterprises, such kind of users will become, increasingly become
+
+35
+00:04:22,629 --> 00:04:23,709
+larger and larger.
+
+36
+00:04:23,889 --> 00:04:30,329
+So the power quality, power reliability will be a very serious problem for China.
+
+37
+00:04:31,899 --> 00:04:37,500
+And the last difficulty is that in the conventional, coal-fired power plants are gradually reduced.
+
+38
+00:04:37,500 --> 00:04:44,600
+And finally, the power plant proportion, the coal-fired power plant proportion will reduce
+
+39
+00:04:44,600 --> 00:04:47,199
+to 20%, or less than 20%.
+
+40
+00:04:47,199 --> 00:04:56,180
+And this 20% of coal-fired power plants will be reformed by the low carbon, will be reformed
+
+41
+00:04:56,180 --> 00:05:00,379
+by the new technology, for example, the carbon capture, and so on.
+
+42
+00:05:00,379 --> 00:05:09,230
+So we encounter so many difficulties on how to make a reliable operation of the new power system.
+
+43
+00:05:09,589 --> 00:05:14,930
+And this is the security problem in the surveillance service.
+
+44
+00:05:15,089 --> 00:05:19,170
+So we summarize the six securities.
+
+45
+00:05:19,569 --> 00:05:21,930
+The first is for the system security.
+
+46
+00:05:22,290 --> 00:05:28,149
+That is how to prevent the large scale power outage for the power system.
+
+47
+00:05:28,149 --> 00:05:31,300
+This is the system security.
+
+48
+00:05:31,600 --> 00:05:35,060
+The second one is network and information security.
+
+49
+00:05:35,540 --> 00:05:39,259
+There's a cyber attack, how to prevent a cyber attack.
+
+50
+00:05:39,879 --> 00:05:43,860
+For example, in China, the authorities,
+
+51
+00:05:44,610 --> 00:05:47,610
+when every year, the authorities will issue
+
+52
+00:05:49,350 --> 00:05:54,790
+remote cyber attack to each substations,
+
+53
+00:05:54,829 --> 00:05:57,649
+to each substations.
+
+54
+00:05:58,850 --> 00:06:05,730
+Every attack will defeat some transformational systems.
+
+55
+00:06:06,629 --> 00:06:08,930
+And the third one is personal safety.
+
+56
+00:06:09,430 --> 00:06:15,129
+That is, every year there is a personal death by the electricity.
+
+57
+00:06:15,569 --> 00:06:18,550
+And the fourth one is equipment safety.
+
+58
+00:06:18,910 --> 00:06:22,769
+How to maintain the equipment to be safely operating.
+
+59
+00:06:22,769 --> 00:06:31,819
+And another one is the electric, the so-called electrical systems, the environmental systems,
+
+60
+00:06:32,019 --> 00:06:39,300
+and some low-voltage, low-voltage systems, that is the user, user-compatible, because
+
+61
+00:06:39,300 --> 00:06:46,579
+a lot of distributed PV connected to the lower network, how to maintain the safety of the
+
+62
+00:06:46,579 --> 00:06:47,779
+low-voltage systems.
+
+63
+00:06:47,779 --> 00:06:58,529
+So the sixth security system is encountered by our power system planners and power system creators.
+
+64
+00:06:59,569 --> 00:07:02,089
+And the first one is the system security.
+
+65
+00:07:02,699 --> 00:07:14,540
+So as what we said, we have encountered such a complex, such a complex, such a high proportion of renewable energy over the power system.
+
+66
+00:07:14,540 --> 00:07:21,420
+how to maintain the system to be operated with reliability and safety.
+
+67
+00:07:22,620 --> 00:07:29,629
+Because of the reliability and the intensity of the high proportion of the energy,
+
+68
+00:07:30,069 --> 00:07:32,509
+we have to make a balance every time.
+
+69
+00:07:34,420 --> 00:07:40,639
+And the power electronics makes the system initial to be reduced very fast.
+
+70
+00:07:40,639 --> 00:07:48,399
+And then the load characteristics become changed to the power constant.
+
+71
+00:07:48,939 --> 00:07:55,259
+So the load is very sensitive to the voltage fluctuations.
+
+72
+00:07:56,699 --> 00:08:03,519
+So this means that the operation to maintain the voltage is quite difficult.
+
+73
+00:08:03,519 --> 00:08:11,800
+And the last one is that the proportion of the electricity received outside the urban,
+
+74
+00:08:11,939 --> 00:08:14,339
+outside the big city, becomes larger and larger.
+
+75
+00:08:14,560 --> 00:08:19,459
+So the city, especially in Shanghai and Beijing, such a big city,
+
+76
+00:08:19,600 --> 00:08:25,600
+encounters risk for the reactive power collapse, for the voltage collapse.
+
+77
+00:08:26,649 --> 00:08:33,490
+So this voltage has already occurred in the western countries,
+
+78
+00:08:33,490 --> 00:08:38,269
+for example in London, in Paris, in the western of the United States,
+
+79
+00:08:38,370 --> 00:08:45,309
+they encountered several system outages for the voltage collapse.
+
+80
+00:08:46,289 --> 00:08:51,610
+That is that you have less reactive power support,
+
+81
+00:08:51,929 --> 00:08:58,049
+so that if there is a short circuit in the high voltage system,
+
+82
+00:08:58,049 --> 00:09:03,870
+the reactive power becomes very, very, very short.
+
+83
+00:09:04,230 --> 00:09:06,509
+So the voltage becomes collapsed.
+
+84
+00:09:07,340 --> 00:09:15,960
+So just like London, like Paris, and the Western, the Silicon,
+
+85
+00:09:16,639 --> 00:09:21,139
+the Western United States, all of these developed countries
+
+86
+00:09:21,139 --> 00:09:23,279
+encounter the voltage collapse.
+
+87
+00:09:23,960 --> 00:09:26,679
+So this is our encounter.
+
+88
+00:09:26,679 --> 00:09:36,309
+So we have to pay more attention to the system security, and such a large-scale power outage
+
+89
+00:09:36,970 --> 00:09:44,870
+occasionally occurs frequently, for example, in Brazil, I don't know if someone from Brazil
+
+90
+00:09:45,409 --> 00:09:55,539
+experienced a major blackout in 2018, and due to the protection of sighting areas.
+
+91
+00:09:55,539 --> 00:10:02,840
+For example, Argentina, in 2019, they also encountered massive blackouts.
+
+92
+00:10:03,830 --> 00:10:08,830
+For example, in 2022, a large-scale power outage occurred in Taiwan.
+
+93
+00:10:09,470 --> 00:10:14,789
+And this also makes the user loss a lot of loads.
+
+94
+00:10:15,840 --> 00:10:23,799
+And the United Kingdom, and also typhoon, super typhoon, affect the Hainan province.
+
+95
+00:10:23,799 --> 00:10:33,080
+And such large-scale outage belongs to the system safety, because it belongs to the high
+
+96
+00:10:33,080 --> 00:10:40,899
+outage, or over-high outage system, to encounter some short-scale, encounter some outage, and
+
+97
+00:10:41,480 --> 00:10:45,200
+result in a large-scale outage of the users.
+
+98
+00:10:46,830 --> 00:10:54,049
+And we have to encounter such a problem, we have to use, to solve the power system security
+
+99
+00:10:54,049 --> 00:11:00,129
+security through intelligent means. For example, in the state grid, we use a lot of intelligent
+
+100
+00:11:01,129 --> 00:11:09,070
+dispatching for the power system. Just as what I said, we reduce the period of the decision,
+
+101
+00:11:10,850 --> 00:11:17,909
+dispatching decisions, from 15 minutes to maybe 10 minutes to 5 minutes, and then we
+
+102
+00:11:17,909 --> 00:11:22,950
+use the intelligent dispatching of power system to reduce the outage of the power system.
+
+103
+00:11:22,950 --> 00:11:34,309
+This is one. Technology uses the intelligent means to solve, to increase the power system, the system's security.
+
+104
+00:11:34,750 --> 00:11:41,129
+For example, we use the flexible dynamic adjustment of the source, storage and load.
+
+105
+00:11:41,409 --> 00:11:46,789
+And this is also another mean to avoid the system failure.
+
+106
+00:11:46,789 --> 00:11:50,840
+And we use the safety means of the energy storage system,
+
+107
+00:11:51,019 --> 00:11:57,080
+energy storage, how to safely operate it for the storage.
+
+108
+00:11:57,659 --> 00:12:02,840
+And we use the rapid protection and self-hearing of the grid,
+
+109
+00:12:03,019 --> 00:12:05,059
+especially for the distribution grid.
+
+110
+00:12:05,899 --> 00:12:10,500
+For example, the short-circuit characteristics have changed a lot.
+
+111
+00:12:11,259 --> 00:12:15,259
+In the past, the short-circuit just formed one side,
+
+112
+00:12:15,259 --> 00:12:22,259
+from the power stations. But now there is a lot of distributed PV connected into the
+
+113
+00:12:22,259 --> 00:12:27,580
+end of the power lines. So the sub-circuit characteristics become changed.
+
+114
+00:12:28,100 --> 00:12:33,840
+So the protection principle has already changed. So we have to make rapid protection.
+
+115
+00:12:34,419 --> 00:12:38,980
+We make the self-carrying of the grid, especially for the distribution grid.
+
+116
+00:12:38,980 --> 00:12:44,789
+And also we use the robots to operate with the electricity.
+
+117
+00:12:45,149 --> 00:12:54,470
+We use the helicopter, we use the robots to make the maintenance, to make the maintenance of the power lines.
+
+118
+00:12:55,340 --> 00:13:02,200
+We use the virtual power plants to make the balance between the source and the load,
+
+119
+00:13:02,379 --> 00:13:07,539
+so that we can also make the balance of the system, to avoid the system outage.
+
+120
+00:13:07,539 --> 00:13:14,590
+and we also use the flexible interconnection between or among several
+
+121
+00:13:15,210 --> 00:13:21,629
+distribution stations. We use the DC, flexible DC to connect each distribution
+
+122
+00:13:21,629 --> 00:13:28,529
+to make the balance of each distribution stations. And this
+
+123
+00:13:28,529 --> 00:13:36,049
+means, all of this means, aim to solve the power system security. So this one
+
+124
+00:13:36,049 --> 00:13:38,230
+one kind of security program.
+
+125
+00:13:40,759 --> 00:13:44,309
+Another security program is a network,
+
+126
+00:13:44,529 --> 00:13:48,870
+a network on information security in the system.
+
+127
+00:13:49,350 --> 00:13:50,889
+For example, in ,
+
+128
+00:13:51,769 --> 00:13:56,769
+there is a big outage in for 2019.
+
+129
+00:13:58,309 --> 00:14:00,769
+There is a attack, information attack
+
+130
+00:14:01,309 --> 00:14:05,450
+into a major hydroplot plant in this country,
+
+131
+00:14:05,450 --> 00:14:09,330
+and then result in the outage of the whole country.
+
+132
+00:14:09,940 --> 00:14:17,240
+So after this outage, the Chinese government gave a lot of notice,
+
+133
+00:14:17,399 --> 00:14:20,779
+a lot of attention to that kind of war.
+
+134
+00:14:23,899 --> 00:14:28,480
+So from that outage, from that time,
+
+135
+00:14:28,740 --> 00:14:37,259
+the Chinese government asked the enterprises to take notice of the information security,
+
+136
+00:14:37,259 --> 00:14:42,940
+to make isolation between the system information and the offline.
+
+137
+00:14:44,139 --> 00:14:50,799
+So that the power grid information security will direct or indirectly affect the whole power system,
+
+138
+00:14:51,000 --> 00:14:53,899
+the whole security of the power system.
+
+139
+00:14:54,240 --> 00:15:02,519
+So we think that the information security threat may exist in every stage of the generation,
+
+140
+00:15:02,519 --> 00:15:07,460
+distribution, transmission, distribution, transformation, and the users.
+
+141
+00:15:08,210 --> 00:15:17,450
+So once this kind of attack affects the power station, affects the power system, they make
+
+142
+00:15:17,450 --> 00:15:18,809
+a very large disaster.
+
+143
+00:15:20,190 --> 00:15:30,769
+So we think every year, the Chinese government will issue a simulated attack to the stations.
+
+144
+00:15:30,769 --> 00:15:40,090
+stations, and every attack will destroy several stations. So this is a very serious problem.
+
+145
+00:15:42,909 --> 00:15:51,480
+So the information attack comes from two sides. One side comes from the external, comes from
+
+146
+00:15:51,480 --> 00:15:57,840
+the outside of our system. For example, the hacker attack. For example, the virus infects.
+
+147
+00:15:57,840 --> 00:16:05,480
+For example, the social engineering attacks, that is, some enemies who ask to make some
+
+148
+00:16:06,519 --> 00:16:08,000
+mis-operations.
+
+149
+00:16:08,399 --> 00:16:12,200
+This is from the outside, especially from hackers.
+
+150
+00:16:13,740 --> 00:16:21,320
+I think a lot of countries have already encountered such a hacker attack to the power system.
+
+151
+00:16:21,320 --> 00:16:32,659
+For example, in Russia, in many European countries, there is a hacker attack, in China also.
+
+152
+00:16:33,740 --> 00:16:39,639
+Another threat is from the inside, the internal information attack threat.
+
+153
+00:16:39,879 --> 00:16:42,580
+That is, employees miss operations.
+
+154
+00:16:43,299 --> 00:16:51,409
+They close the switches and make the information miss operations.
+
+155
+00:16:51,409 --> 00:16:56,070
+So this kind of attack affects the information system.
+
+156
+00:16:56,820 --> 00:17:04,940
+So we have to make an optimized operation of the power system itself and the information system.
+
+157
+00:17:05,769 --> 00:17:11,170
+So this has to be coordinated, operated with each other.
+
+158
+00:17:11,720 --> 00:17:16,440
+So the power system integrated with the information system
+
+159
+00:17:16,440 --> 00:17:21,640
+will support the conventional optimization of the source grid load and storage.
+
+160
+00:17:22,519 --> 00:17:29,900
+We use several technological innovation to promote the safety and stable operation.
+
+161
+00:17:32,740 --> 00:17:34,019
+How to solve this one?
+
+162
+00:17:34,680 --> 00:17:39,440
+We have to strengthen the cyber security measures
+
+163
+00:17:39,440 --> 00:17:43,119
+to ensure the security of the process network and information.
+
+164
+00:17:43,119 --> 00:17:55,480
+So, in China, the grid has developed specialized security chips, and these chips will be installed
+
+165
+00:17:55,900 --> 00:18:04,660
+in each awareness devices, the data collected devices, in the following five years.
+
+166
+00:18:04,660 --> 00:18:14,119
+And each, for example, each meter, each wireless device, data collecting system, or SCAR system,
+
+167
+00:18:14,539 --> 00:18:25,720
+and each device will be installed with such special security chips to make the information
+
+168
+00:18:25,720 --> 00:18:26,500
+secure.
+
+169
+00:18:26,859 --> 00:18:30,890
+And this is one measure.
+
+170
+00:18:30,890 --> 00:18:38,869
+Another matter is to make the secondary system to be safely protected, for example, the information
+
+171
+00:18:38,869 --> 00:18:42,230
+system, the communication system, the protection system.
+
+172
+00:18:42,470 --> 00:18:47,250
+We make the whole system to make a cascade of information security protection.
+
+173
+00:18:48,180 --> 00:18:57,079
+And also, every year we have a simulated attack to make us transfer for the information security
+
+174
+00:18:59,920 --> 00:19:06,339
+to attack, to make a simulation attack, to check whether or not it is safe.
+
+175
+00:19:07,299 --> 00:19:12,549
+And the last measure is to make a training, to make a network security training.
+
+176
+00:19:13,130 --> 00:19:20,950
+Every year we make the information operators to be trained every year and to be security.
+
+177
+00:19:20,950 --> 00:19:27,220
+So this is a measure to strengthen cyber security.
+
+178
+00:19:27,599 --> 00:19:35,549
+The third safety problem is personal safety.
+
+179
+00:19:36,029 --> 00:19:44,349
+Personal safety is personal accidents that occur every year.
+
+180
+00:19:44,349 --> 00:19:55,609
+So, maybe last meeting we have a summary, every year the China power system maybe make a tax about 50 to 100.
+
+181
+00:19:57,289 --> 00:20:03,089
+So, for example, the tower collapse of the federal system, the equipment hazard,
+
+182
+00:20:03,369 --> 00:20:11,670
+for example, the accident caused by electric leakage, for example, caused by the lands, and so on.
+
+183
+00:20:11,670 --> 00:20:19,470
+So, in our government, we pay a lot of attention to personal safety.
+
+184
+00:20:19,970 --> 00:20:29,799
+But how to ensure the personal safety, that is the strength and safety supervision for the personnel in the path of safety?
+
+185
+00:20:30,359 --> 00:20:38,240
+We have a shift from the post-event to proactive prevention.
+
+186
+00:20:38,529 --> 00:20:47,089
+We have to make the supervision measures shift from rigid to flexible regulations.
+
+187
+00:20:48,180 --> 00:20:59,220
+We have to make the investment to shift from the administrative bottom land protection to the cost-reduced and efficient improvement.
+
+188
+00:20:59,220 --> 00:21:08,579
+We have to make a safety supervision the responsibility to shift from the being on vigor to a very
+
+189
+00:21:08,579 --> 00:21:09,900
+clear determinant.
+
+190
+00:21:10,700 --> 00:21:19,819
+So this kind of technology could be used to prevent the personal death from the safety.
+
+191
+00:21:20,279 --> 00:21:25,559
+So we use the innovative technology means for the safety supervision.
+
+192
+00:21:25,559 --> 00:21:29,359
+For example, the Internet of Things.
+
+193
+00:21:29,759 --> 00:21:33,200
+We use this technology to process
+
+194
+00:21:33,759 --> 00:21:37,529
+class, process algorithms, process the
+
+195
+00:21:37,529 --> 00:21:41,009
+technical monitoring. So, they make the full process
+
+196
+00:21:41,009 --> 00:21:45,869
+supervision for the front, middle, and back end
+
+197
+00:21:45,869 --> 00:21:49,329
+of the project. So, every project in the Neon Science
+
+198
+00:21:50,069 --> 00:21:52,970
+they install several monitoring
+
+199
+00:21:52,970 --> 00:21:57,190
+monitoring, supervision to make the personal safety.
+
+200
+00:21:57,789 --> 00:22:06,809
+So this is in the Chinese power, power integrates,
+
+201
+00:22:07,130 --> 00:22:12,190
+enterprises, we use to supervise,
+
+202
+00:22:12,190 --> 00:22:14,799
+to monitor the personal safety.
+
+203
+00:22:15,880 --> 00:22:17,500
+So this is another one.
+
+204
+00:22:17,859 --> 00:22:20,819
+So we use a traditional manner inspection.
+
+205
+00:22:20,819 --> 00:22:30,079
+infection, this infection will be graduated, upgraded by automatic, visualized, intelligent
+
+206
+00:22:30,460 --> 00:22:37,740
+operations and maintenance. By utilizing technologies such as artificial intelligence, the internet
+
+207
+00:22:37,740 --> 00:22:47,799
+of things, digital tools, and augmented reality, we use such technologies to prevent, to make
+
+208
+00:22:47,799 --> 00:22:58,099
+the personal safety become. And we have to through the frequent and comprehensive training
+
+209
+00:22:58,869 --> 00:23:06,369
+and drills, the personal skill levels of our system operation and maintenance could be enhanced.
+
+210
+00:23:06,769 --> 00:23:14,390
+So every year we make a lot of training projects to enhance the operators,
+
+211
+00:23:14,390 --> 00:23:22,789
+to change their safety manner, to change their safety still.
+
+212
+00:23:23,029 --> 00:23:28,359
+And the fourth one is for the equipment safety.
+
+213
+00:23:29,079 --> 00:23:36,619
+Every equipment safety is caused by fire, by earthquake, by another.
+
+214
+00:23:36,819 --> 00:23:43,779
+For example, our storage station, especially for the chemical storage station,
+
+215
+00:23:43,779 --> 00:23:54,029
+will be constructed in the future, and how to defend, how to prevent the fire disaster.
+
+216
+00:23:55,289 --> 00:24:00,150
+So the fire disasters occur occasionally in the Chinese fire station.
+
+217
+00:24:00,369 --> 00:24:09,670
+For example, maybe in 2023, there is a fire and explosion accident at Shanxi Brunei
+
+218
+00:24:09,670 --> 00:24:12,430
+for upper high voltage station.
+
+219
+00:24:13,180 --> 00:24:18,799
+And also, personally, the offshore wind power installation
+
+220
+00:24:18,799 --> 00:24:23,339
+encountered many equipment collapse.
+
+221
+00:24:23,869 --> 00:24:30,589
+For example, in the offshore installation for the wind generators,
+
+222
+00:24:31,089 --> 00:24:32,230
+this collapsed.
+
+223
+00:24:33,319 --> 00:24:36,420
+So how to maintain the safety for the equipment,
+
+224
+00:24:36,720 --> 00:24:38,579
+this is a very serious problem.
+
+225
+00:24:38,579 --> 00:24:49,190
+So, we use the maintenance, the safety of the power system equipment through technological
+
+226
+00:24:49,190 --> 00:24:50,069
+implementation.
+
+227
+00:24:50,569 --> 00:24:57,910
+For example, we make the accurate identification for the insulator defector defects.
+
+228
+00:24:57,910 --> 00:25:14,009
+We use a drone, air, ground monitor of the transmission land, helicopter, unmanned helicopter and associated with the unmanned operators.
+
+229
+00:25:15,299 --> 00:25:23,140
+Recently, the state government has issued a satellite, so we use the space, we use air
+
+230
+00:25:23,539 --> 00:25:33,250
+and ground, the three divisions of the inspection to make the safety of the equipment.
+
+231
+00:25:34,230 --> 00:25:40,819
+We use the audio visual fusion monitoring for the equipment defects, for example the
+
+232
+00:25:40,819 --> 00:25:48,039
+inside the transformer for the discharge.
+
+233
+00:25:50,519 --> 00:25:54,359
+For such kind of discharge, it is very difficult to be detected.
+
+234
+00:25:54,900 --> 00:26:02,579
+So we use audio-visual fusion technologies to check the discharge inside the transformer.
+
+235
+00:26:03,559 --> 00:26:11,599
+We use intelligent monitoring for the substations and infrared temperature measurement for the inspection.
+
+236
+00:26:11,599 --> 00:26:18,759
+And also, we use a radar modeling for the electrical equipment to make a safety maintenance.
+
+237
+00:26:19,450 --> 00:26:24,509
+And for the cable fault, we make a diagnosis, an intensive diagnosis,
+
+238
+00:26:25,079 --> 00:26:34,980
+based on the online analysis of sulfur hexafluoride equipment first, based on the leakage of the SF6.
+
+239
+00:26:35,900 --> 00:26:43,660
+So, all of these measures are made to maintain the safety of the system equipment.
+
+240
+00:26:44,200 --> 00:26:46,799
+So, this is another kind of security.
+
+241
+00:26:48,539 --> 00:26:52,299
+And the fifth security is the low voltage system.
+
+242
+00:26:53,500 --> 00:26:59,460
+We can see that in the past, the low voltage is only a positive system.
+
+243
+00:26:59,460 --> 00:27:07,250
+But now it becomes active because there is a lot of distributed PV installed in the end
+
+244
+00:27:07,250 --> 00:27:09,730
+of the low voltage system.
+
+245
+00:27:10,309 --> 00:27:14,490
+So this makes the personal security very serious.
+
+246
+00:27:15,200 --> 00:27:23,140
+So a lot of interconnected of the distributed PV to make the overvoltage of the low voltage
+
+247
+00:27:23,140 --> 00:27:24,099
+system better.
+
+248
+00:27:24,099 --> 00:27:33,720
+For example, our voltage standard is 220 volts, but if there is distributed PV to be connected
+
+249
+00:27:33,720 --> 00:27:45,539
+to the end of the low-voltage system, the highest voltage will be higher than 240 volts.
+
+250
+00:27:45,539 --> 00:27:54,019
+This becomes over-voltage for the appliance, for the personnel safety.
+
+251
+00:27:55,960 --> 00:28:06,220
+So the power quality issue such as voltage dip, voltage set, and harmonics will also cause the production stop or damage.
+
+252
+00:28:07,140 --> 00:28:13,259
+So this accident occurs very frequently in the Chinese power system.
+
+253
+00:28:13,259 --> 00:28:21,559
+And so we have to make the safety operational leakage protection for the low voltage systems.
+
+254
+00:28:23,180 --> 00:28:35,200
+So in Chinese they will research on the very cheap device to detect the low voltage systems.
+
+255
+00:28:35,200 --> 00:28:44,140
+security. So we transfer the high tech of the equipment, high technology of the
+
+256
+00:28:44,140 --> 00:28:50,839
+measures to be shifted to the low voltage to make the monitor of the low voltage.
+
+257
+00:28:51,880 --> 00:29:00,779
+So this is another security program. So the last one, okay, so we have to
+
+258
+00:29:00,779 --> 00:29:05,440
+strengthen the publication of the education of the electricity safety for
+
+259
+00:29:05,440 --> 00:29:15,460
+for all citizens, and this is not the responsibility of the power system utility, but it is the
+
+260
+00:29:15,460 --> 00:29:17,700
+social responsibility for this.
+
+261
+00:29:18,519 --> 00:29:27,440
+So the Chinese power utilities have the social responsibility to educate, to train the citizens
+
+262
+00:29:27,440 --> 00:29:33,349
+to enhance their detection affairs.
+
+263
+00:29:34,519 --> 00:29:37,500
+And we have to develop the cost effective,
+
+264
+00:29:37,779 --> 00:29:41,079
+the low cost, and the practical sensor chips
+
+265
+00:29:42,220 --> 00:29:45,319
+to shift this high tech technology
+
+266
+00:29:45,839 --> 00:29:48,460
+to the low voltage system.
+
+267
+00:29:49,779 --> 00:29:53,259
+So in China, I believe, we have to develop
+
+268
+00:29:53,259 --> 00:29:55,480
+a lot of such kind of chips.
+
+269
+00:29:55,509 --> 00:30:07,359
+For example, this chip is only very low cost to be installed into the low voltage leakage
+
+270
+00:30:07,359 --> 00:30:08,460
+and so on.
+
+271
+00:30:09,500 --> 00:30:19,579
+We have used several devices such as DVR, dynamic voltage regulator, and active filter
+
+272
+00:30:19,579 --> 00:30:27,160
+to be used in the user side to change to improve the power quality. So all of
+
+273
+00:30:27,160 --> 00:30:35,170
+this in fact is a means to solve the low voltage system. And the last one is the
+
+274
+00:30:35,170 --> 00:30:43,130
+environmental safety. So we have some research and development for the
+
+275
+00:30:43,130 --> 00:30:50,000
+environmental monitoring to develop some several chips to detect the leakage of
+
+276
+00:30:50,000 --> 00:30:56,319
+the SF6 and the research and development of the new environmental friendly isolation materials
+
+277
+00:30:57,609 --> 00:31:05,210
+to make some substitutions and also we make a monitor of the electromagnetic
+
+278
+00:31:06,029 --> 00:31:11,710
+environmental programs and also we make a monitor and control the transformer noise
+
+279
+00:31:12,640 --> 00:31:21,000
+and for the for the engineering side there is a noise and then dust how to prevent how to monitor
+
+280
+00:31:23,700 --> 00:31:30,920
+This is also what we have noticed on the nuclear power system.
+
+281
+00:31:33,509 --> 00:31:48,769
+In 2020-2024, the CPC Central Committee held a collective study session on the new energy technology and how to maintain the Chinese nuclear safety.
+
+282
+00:31:48,769 --> 00:31:57,049
+And our professor from my university has been sent to give a lecture, give an explanation
+
+283
+00:31:57,049 --> 00:32:07,769
+to the colleagues of the CPC to make them make a higher professional of the energy safety.
+
+284
+00:32:09,240 --> 00:32:15,460
+So he said that energy safety is closely tied to the overall development of the economy
+
+285
+00:32:15,460 --> 00:32:21,920
+economy and the society. We must make the great efforts to promote the high quality
+
+286
+00:32:21,920 --> 00:32:28,400
+development of the new energy and provide a safety and reliable energy guarantee for
+
+287
+00:32:28,400 --> 00:32:35,220
+the Chinese-style modernization. So this is to become a very high level for the leaders
+
+288
+00:32:35,220 --> 00:32:37,119
+to notice for the energy system.
+
+289
+00:32:37,119 --> 00:32:46,240
+Okay, so we summarized the six areas of the system to make the node case.
+
+290
+00:32:46,380 --> 00:32:53,319
+And the second part is that we have to make a collective operation of the source, network,
+
+291
+00:32:53,640 --> 00:32:58,599
+the load, storage, and not the gas, the wiser, the gas.
+
+292
+00:32:58,960 --> 00:33:02,400
+Did I translate it? It's the wrong translation.
+
+293
+00:33:02,400 --> 00:33:11,960
+We have to make a collaborative operation of the source, load, grid, storage, and also
+
+294
+00:33:11,960 --> 00:33:14,660
+plus weather and carbon.
+
+295
+00:33:15,000 --> 00:33:22,960
+So we think that weather and carbon is two very important things for the new power system
+
+296
+00:33:23,420 --> 00:33:28,539
+to be noticed in the operation and in the planning of the maintenance.
+
+297
+00:33:28,539 --> 00:33:37,799
+First of all, the distribution network has already changed a lot.
+
+298
+00:33:38,640 --> 00:33:51,000
+The past positive distribution network has already changed to active distribution network,
+
+299
+00:33:51,799 --> 00:34:00,079
+because a large scale of integration of the distributed PV has been connected into the power system,
+
+300
+00:34:00,079 --> 00:34:06,819
+into the distribution of our system, and a lot of energy storage, distributed energy storage
+
+301
+00:34:06,819 --> 00:34:10,360
+interconnected into the distribution system.
+
+302
+00:34:10,920 --> 00:34:19,699
+So the distribution system, the characteristics, the features of the distribution system have changed a lot.
+
+303
+00:34:20,219 --> 00:34:26,159
+In the past, this system, this distributed system is passive, has no source.
+
+304
+00:34:26,159 --> 00:34:31,840
+The system has no source. Only source is from the substation, from the big grid.
+
+305
+00:34:32,260 --> 00:34:44,780
+But the distributed PV and distributed storage have changed the operation scenario of the traditional distribution of systems.
+
+306
+00:34:45,630 --> 00:34:52,530
+So we call that the modern system is the active distribution network, that's ADN.
+
+307
+00:34:52,530 --> 00:35:03,110
+And ADN and microgrid and virtual power plants, based on energy internet, are driving the
+
+308
+00:35:03,110 --> 00:35:10,989
+traditional distributed network to be transferred from the traditional into a new type of the
+
+309
+00:35:10,989 --> 00:35:11,449
+system.
+
+310
+00:35:12,000 --> 00:35:15,079
+So we have encountered such transactions.
+
+311
+00:35:15,079 --> 00:35:29,800
+So this is a traditional, traditional, there is no distributed PV, no active control for
+
+312
+00:35:29,800 --> 00:35:31,199
+such a distribution system.
+
+313
+00:35:31,639 --> 00:35:38,400
+So that in Chinese, a lot of Chinese distribution systems, they have no active dispatching,
+
+314
+00:35:38,599 --> 00:35:46,320
+they have no process operation by means to maintain the distribution system to be operated
+
+315
+00:35:46,320 --> 00:35:46,860
+seriously.
+
+316
+00:35:46,860 --> 00:35:53,460
+safety. But notice the system have already changed. It has already changed with
+
+317
+00:35:53,460 --> 00:36:06,599
+distributed PV, with distributed storage system. And such kind of distributed system have to enhance their active control level.
+
+318
+00:36:07,070 --> 00:36:18,139
+So the system will gradually transfer from passive to active. So we gradually enter the high penetration of the
+
+319
+00:36:18,139 --> 00:36:25,599
+PV, distributed PV, high penetration of the distributed storage, and we make active control
+
+320
+00:36:25,800 --> 00:36:27,900
+for the power source and load.
+
+321
+00:36:28,460 --> 00:36:35,579
+So the modern distribution system becomes the active distribution system, ADN.
+
+322
+00:36:36,380 --> 00:36:46,489
+So the international organizations have already made ADN as a standard development, a future
+
+323
+00:36:46,489 --> 00:36:48,510
+standard of the distribution system.
+
+324
+00:36:48,510 --> 00:37:02,050
+So this means that the smart equipment, smart control, automation, distribution automation and the user interaction inside the distributed system.
+
+325
+00:37:02,579 --> 00:37:11,039
+So we encountered a step in the new kind of modern distribution systems.
+
+326
+00:37:11,849 --> 00:37:18,090
+And such active distribution systems, how to manage them, how to operate.
+
+327
+00:37:18,090 --> 00:37:23,550
+So this is a very big problem for our new power system operators.
+
+328
+00:37:24,070 --> 00:37:33,929
+So a lot of hardware devices, such as relay protection, the type changes of the transformers,
+
+329
+00:37:34,380 --> 00:37:41,489
+automatic voltage regulator for the distributed system, and stat cards, and power factor controllers,
+
+330
+00:37:41,489 --> 00:37:50,090
+reactive power, adjusters, all of these devices are being installed, are being operated,
+
+331
+00:37:50,389 --> 00:37:57,429
+cooperated with distributed PV, with the distributed storage system,
+
+332
+00:37:57,710 --> 00:38:00,829
+and along with all of these modern devices,
+
+333
+00:38:01,170 --> 00:38:05,909
+it can make the active distribution system to be operated safely.
+
+334
+00:38:05,909 --> 00:38:16,849
+So this is a very big group of people who made a lot of international standards for such hardware, automatic hardware.
+
+335
+00:38:17,309 --> 00:38:26,880
+So the second one is how to cooperate the operation and control of the main grid,
+
+336
+00:38:27,059 --> 00:38:35,320
+that means the high voltage grid, and the distribution line, the medium voltage grid, and the microgrid, so the low voltage grid.
+
+337
+00:38:35,389 --> 00:38:39,710
+It makes the coordinate operation for the three kinds of grain.
+
+338
+00:38:40,230 --> 00:38:46,170
+In the past, the state grain, the Chinese power utilities only managed for the main grain
+
+339
+00:38:46,710 --> 00:38:54,050
+and paid less attention to the distribution grain and paid no attention to the macro grain.
+
+340
+00:38:54,420 --> 00:38:57,480
+But nowadays, the idea has already changed.
+
+341
+00:38:57,480 --> 00:39:06,869
+So the city council has already issued a document to maintain the coordinate operation for the
+
+342
+00:39:06,869 --> 00:39:09,869
+main grid, distributed grid, and the microgrid.
+
+343
+00:39:11,010 --> 00:39:20,309
+So how to interconnect the main grid and make the intergrids of the main distribution and
+
+344
+00:39:20,309 --> 00:39:27,230
+micro upgrade to provide guarantee for the coordinated development of the power
+
+345
+00:39:27,230 --> 00:39:33,670
+system. This is a big problem for our operations. For the main grid, we have to
+
+346
+00:39:33,670 --> 00:39:38,590
+use interconnected centralized monitoring system for the new energy
+
+347
+00:39:38,590 --> 00:39:44,409
+station for the concentrated wind power station, concentrated PV
+
+348
+00:39:44,409 --> 00:39:50,420
+PV stations to make monitoring, to make the operation monitoring, to make the intelligent
+
+349
+00:39:50,900 --> 00:39:56,920
+operations and the maintenance, to make the operational decision making, and so on.
+
+350
+00:39:57,159 --> 00:40:05,079
+So that the main power grid pays more attention to this one, and it has also paid attention
+
+351
+00:40:05,079 --> 00:40:11,019
+to the lower level of the voltage system.
+
+352
+00:40:11,380 --> 00:40:14,380
+For example, the main grid dispatching system
+
+353
+00:40:14,380 --> 00:40:16,860
+has to consider how the requirement
+
+354
+00:40:16,860 --> 00:40:18,719
+from the distribution system.
+
+355
+00:40:19,449 --> 00:40:21,510
+What is the requirement from the micro grid?
+
+356
+00:40:23,119 --> 00:40:26,960
+So we have to complete it for the three kinds of work.
+
+357
+00:40:29,989 --> 00:40:33,449
+And we have to develop a new distribution automation system.
+
+358
+00:40:34,150 --> 00:40:36,590
+So for the distributed grid,
+
+359
+00:40:36,590 --> 00:40:42,389
+Our regional distribution network has to be transparently monitored.
+
+360
+00:40:42,809 --> 00:40:52,320
+We have installed a lot of awareness devices to collect data, operation data, from the end of the distribution network
+
+361
+00:40:52,320 --> 00:40:59,239
+to achieve active balance control for the source, for the grid, for the load and storage.
+
+362
+00:41:00,199 --> 00:41:06,239
+So the transparent monitoring is very important for the distribution system.
+
+363
+00:41:06,239 --> 00:41:13,280
+So, based on the various types of equipment, we have developed a lot of devices, such as
+
+364
+00:41:13,280 --> 00:41:20,940
+primary and secondary integrated terminals, intelligent terminals, and developed four
+
+365
+00:41:20,940 --> 00:41:28,420
+project lines of the smart distribution terminals based on independently controllable technology.
+
+366
+00:41:28,420 --> 00:41:38,420
+So such kind of terminals have already installed or will be installed in the end of the distribution system
+
+367
+00:41:38,420 --> 00:41:46,260
+to make the distribution system more transparently monitored, to make it more controllable.
+
+368
+00:41:48,389 --> 00:41:53,550
+And for the microgrid, the microgrid will be balanced for the load side.
+
+369
+00:41:53,829 --> 00:41:56,210
+The microgrid is also in the load side.
+
+370
+00:41:56,210 --> 00:42:03,750
+We have to ensure the balance, the stable, the efficient, the economic operation of the microgrid
+
+371
+00:42:03,750 --> 00:42:11,010
+to promote the consumption of the utilization of the distributed PV.
+
+372
+00:42:11,960 --> 00:42:15,599
+So we think that the microgrid is a balanced manner.
+
+373
+00:42:17,000 --> 00:42:20,559
+So we use the intelligent microgrid to coordinate the devices
+
+374
+00:42:20,559 --> 00:42:28,619
+devices, and the marketing energy monitoring and accessible terminals, such as the intelligent
+
+375
+00:42:28,619 --> 00:42:36,719
+PV control, the energy storage, the charging and discharging control system for the electrical
+
+376
+00:42:36,719 --> 00:42:38,500
+vehicles, and so on.
+
+377
+00:42:39,119 --> 00:42:46,800
+So we use these intelligent load devices to achieve the coordinated and optimized operation
+
+378
+00:42:47,039 --> 00:42:48,119
+for the microgrid.
+
+379
+00:42:48,119 --> 00:42:57,840
+And we think that the microgrid, the distribution network grid and the main grid will be operated
+
+380
+00:42:58,219 --> 00:42:59,659
+as a whole audit.
+
+381
+00:43:00,860 --> 00:43:09,860
+So contractual low voltage network data decision center to equip with internal terminal devices
+
+382
+00:43:10,239 --> 00:43:18,159
+to carry out advanced applications and gradually achieve power supply automation transparently
+
+383
+00:43:18,159 --> 00:43:25,980
+of the PV, storage, charging, and digital intelligence distribution and microgrid
+
+384
+00:43:25,980 --> 00:43:29,800
+coordinated in the distribution transformer area.
+
+385
+00:43:30,360 --> 00:43:39,940
+So this is our consideration for the three kinds of grid to be operated into our main body.
+
+386
+00:43:39,940 --> 00:43:51,519
+For the distribution operation, we have developed a lot of intelligent operation maintenance means.
+
+387
+00:43:51,739 --> 00:43:59,539
+For example, intelligent sensing and the forward direction of the medium voltage distribution switch gap.
+
+388
+00:44:00,860 --> 00:44:05,699
+We have developed the operating space for the power distribution switch gap.
+
+389
+00:44:05,699 --> 00:44:13,960
+We use the robot to make an inspection, to make a maintenance for the
+
+390
+00:44:13,960 --> 00:44:23,280
+huge number of the distribution substations. We make autonomous operations
+
+391
+00:44:23,280 --> 00:44:31,159
+for the power distribution. We develop a lot of AI technologies to make space.
+
+392
+00:44:31,159 --> 00:44:39,039
+We make autonomous operation and maintenance systems for power distribution switchguides.
+
+393
+00:44:39,429 --> 00:44:45,570
+We use the robot to maintain the switch copies.
+
+394
+00:44:46,630 --> 00:44:57,639
+We have developed intelligent operation, maintenance, and expansion of power distribution switchguides by six degrees of freedom of robotic arms.
+
+395
+00:44:57,639 --> 00:45:09,539
+They use such kind of intelligent devices to make the maintenance, to make the operation of the huge number of distribution stations.
+
+396
+00:45:09,960 --> 00:45:14,789
+So that we can ensure the safety operation of the system.
+
+397
+00:45:18,539 --> 00:45:23,860
+So another phase is the fast protection and self-carrying of the distribution network.
+
+398
+00:45:23,860 --> 00:45:39,099
+Because, just as what I said in the last part of the lecture, the short-circuit current features, the characteristics of the short-circuit siren have already changed a lot.
+
+399
+00:45:39,380 --> 00:45:49,219
+Because of the distributed TV, because of the distributed storage, the system has already changed, so the short-circuit current has changed.
+
+400
+00:45:49,219 --> 00:46:00,219
+So in the past, the protection device based on the traditional operation of the distribution network has already changed.
+
+401
+00:46:00,539 --> 00:46:11,199
+So we have to develop new kinds of protection devices to protect the short circuit, to protect the outage of the distribution system.
+
+402
+00:46:11,199 --> 00:46:20,260
+So the first important thing is that we use synchronous measurement and feature extraction
+
+403
+00:46:20,960 --> 00:46:29,710
+for the four transient signals for power systems, especially for the density power electronic
+
+404
+00:46:29,710 --> 00:46:30,190
+devices.
+
+405
+00:46:31,090 --> 00:46:34,929
+So how to make the detection?
+
+406
+00:46:34,929 --> 00:46:46,289
+So they come with a large scale integration of the distributed PVs to integrate with the distribution network.
+
+407
+00:46:46,769 --> 00:46:54,599
+So the forward transient signal of the short circuit current has already changed.
+
+408
+00:46:54,989 --> 00:47:05,269
+So it is urgent to investigate the influence mechanism of the distribution catalogues
+
+409
+00:47:05,269 --> 00:47:07,739
+on the forward-transiting signal.
+
+410
+00:47:08,460 --> 00:47:14,300
+So this is very important to develop a new type of protection devices,
+
+411
+00:47:15,500 --> 00:47:23,360
+because a lot of PV is connected to the system and the signal has changed.
+
+412
+00:47:25,320 --> 00:47:32,469
+And also, we have to develop very sensitive devices
+
+413
+00:47:32,469 --> 00:47:40,190
+to make a precise location of the ground fault for the power component based distribution network.
+
+414
+00:47:42,300 --> 00:47:48,320
+You know that it is very difficult to detect the short circuit, one-phase short circuit,
+
+415
+00:47:48,400 --> 00:47:54,219
+the circuit to the ground. Such kind of short circuit occurs in the middle of the week.
+
+416
+00:47:54,360 --> 00:47:58,440
+So it is very difficult to detect such a fault.
+
+417
+00:47:59,519 --> 00:48:05,820
+especially the large amount of distributed PV to be connected to the system.
+
+418
+00:48:06,079 --> 00:48:11,829
+So it's very difficult for the operators to develop such a device, such a form.
+
+419
+00:48:12,579 --> 00:48:20,500
+So how can we develop faster protection devices and self-hearing of the...
+
+420
+00:48:23,539 --> 00:48:31,110
+And all of these devices are based on the information, on the modern communication technology.
+
+421
+00:48:31,110 --> 00:48:40,099
+So, we have to take a new intelligent power distribution terminal as a distributed agent.
+
+422
+00:48:40,360 --> 00:48:47,269
+Fast identification and fast isolation and power transfer.
+
+423
+00:48:47,449 --> 00:49:00,360
+We have to transfer the non-faulted areas of the supply area into the safety one and isolate the fault.
+
+424
+00:49:00,360 --> 00:49:05,280
+So all of this based on the new type of communication systems.
+
+425
+00:49:10,030 --> 00:49:15,869
+So in the third grade, we developed a lot of new type of power distribution terminals.
+
+426
+00:49:16,500 --> 00:49:27,360
+So such kind of new power distribution terminals include the new technology of Beidou satellite system, especially by the Chinese.
+
+427
+00:49:27,360 --> 00:49:33,170
+And we have developed chip-based protection.
+
+428
+00:49:33,510 --> 00:49:38,889
+We have integrated some algorithms into a chip.
+
+429
+00:49:39,110 --> 00:49:45,409
+And then this kind of protection device can be fast attacked for circuit.
+
+430
+00:49:47,239 --> 00:49:53,900
+We have developed a very advanced algorithm for the fault perception.
+
+431
+00:49:53,900 --> 00:49:58,940
+and we use 5th generation, 5th generation of the communication system,
+
+432
+00:49:59,139 --> 00:50:03,840
+a fast communication system in the distribution system,
+
+433
+00:50:03,960 --> 00:50:06,599
+to enable the rapid forward location,
+
+434
+00:50:06,880 --> 00:50:11,590
+to ensure the isolation of the different types,
+
+435
+00:50:12,519 --> 00:50:18,800
+and to ensure the transfer from the non-forward system,
+
+436
+00:50:19,599 --> 00:50:22,159
+to fast resume the power supply.
+
+437
+00:50:22,159 --> 00:50:31,210
+So this picture, all of these pictures are the new devices for the distributed intelligence.
+
+438
+00:50:32,789 --> 00:50:42,699
+And also we have to ensure the secondary system to be simply operated in the distributed system.
+
+439
+00:50:43,590 --> 00:50:50,369
+So the secondary system includes the communication system, the protection system,
+
+440
+00:50:50,369 --> 00:50:59,030
+the data awareness devices, and all of these systems, we call it the secondary system.
+
+441
+00:51:00,079 --> 00:51:08,059
+So the secondary system is in stock to aim to ensure the safety operation of the main system.
+
+442
+00:51:08,460 --> 00:51:12,820
+So that this is very, very important for the secondary system safety.
+
+443
+00:51:19,320 --> 00:51:23,300
+The fourth one is the internal monitoring of the substation and length.
+
+444
+00:51:23,300 --> 00:51:31,739
+And for the state grid and southern grid, the national grid has developed many inspection
+
+445
+00:51:32,039 --> 00:51:40,340
+robots to make an intelligent inspection of the substation of the transmission lines to
+
+446
+00:51:40,340 --> 00:51:46,460
+achieve the reduced manpower inspection and intelligent monitoring of the power grid.
+
+447
+00:51:46,460 --> 00:51:57,900
+to make the standardized process and to realize the safe and standardized operation for the maintenance, for the inspection, and for the control.
+
+448
+00:51:59,280 --> 00:52:11,000
+So if you come to the substations, you can see a lot of robots, unmanned inspection devices to be operated in the substations, especially for the high voltage.
+
+449
+00:52:12,429 --> 00:52:19,909
+And gradually, this kind of high technologies, gradually to be widespread used in the distribution
+
+450
+00:52:19,909 --> 00:52:21,090
+subdivisions.
+
+451
+00:52:21,570 --> 00:52:28,650
+So this is the trend, this is the, maybe in the next 5 or 10 years, so this kind of technology
+
+452
+00:52:28,969 --> 00:52:34,889
+will gradually change, gradually used in the lower voltage systems.
+
+453
+00:52:34,889 --> 00:52:45,219
+So we think that this is very important for the precise monitoring, the safety operation
+
+454
+00:52:45,960 --> 00:52:51,340
+for the main power systems, for the distributor system, and finally for the microgrid.
+
+455
+00:52:55,139 --> 00:52:59,699
+For example, for the transformer, we have a very high attack for the transformer.
+
+456
+00:53:00,019 --> 00:53:03,260
+Inside the transformer there is a discharge.
+
+457
+00:53:03,260 --> 00:53:19,460
+So once there is a discharge, you can detect some voice, some change for the oils, several means to detect discharge inside the transformer.
+
+458
+00:53:19,980 --> 00:53:30,320
+Such a discharge, if we don't process such a fault, maybe the discharge will be suspended to the utilization of the transformer.
+
+459
+00:53:31,250 --> 00:53:36,309
+So the state grid pays more attention to the discharge inside the transformers.
+
+460
+00:53:36,659 --> 00:53:45,599
+So the new technology will support the imaging and voice recognition to detect the equipment,
+
+461
+00:53:45,900 --> 00:53:49,460
+to detect the discharge inside the transformers.
+
+462
+00:53:49,460 --> 00:54:01,900
+And we use the M-type of the device to be installed in the outside of the transformer and to detect the mean fault of the discharge.
+
+463
+00:54:03,869 --> 00:54:14,250
+So the voice and the imaging and the recognition technologies could be mixed-used in the detection of the monitoring.
+
+464
+00:54:14,250 --> 00:54:32,840
+So it can ensure the transformer can be operated safely and to diagnose the minor faults and make the early warning for the transformer.
+
+465
+00:54:37,099 --> 00:54:51,019
+And for the low-voltage transmission areas, what is the problem we have encountered is that how to make the land loss to be reduced,
+
+466
+00:54:51,380 --> 00:54:59,619
+because a lot of electricity transmission loss occurred in the low-voltage system.
+
+467
+00:54:59,619 --> 00:55:15,239
+For the high voltage, the loss is very low, 1% or 2%, but for the low or medium voltage, any loss becomes maybe 6% or 7%.
+
+468
+00:55:15,239 --> 00:55:27,360
+So how to reduce the land loss is a very serious problem to make the power system to be operated very efficiently.
+
+469
+00:55:27,360 --> 00:55:36,130
+So, within the same power supply area, we have to install an intelligent transformer
+
+470
+00:55:36,130 --> 00:55:47,489
+to check the diagonal robot for each transformer to make the diagonal for the land loss, for
+
+471
+00:55:47,489 --> 00:55:55,119
+the transformer loss, to reduce the loss, either to diagnose what kind of loss could
+
+472
+00:55:55,119 --> 00:55:56,219
+occur in this area.
+
+473
+00:55:56,219 --> 00:56:00,650
+One reason is that in the unbalance of the three phase.
+
+474
+00:56:00,969 --> 00:56:05,349
+Another reason is that the low voltage line is too long, we have to transfer.
+
+475
+00:56:05,920 --> 00:56:10,199
+And maybe there is some stolen, the electrical stolen.
+
+476
+00:56:10,750 --> 00:56:18,929
+Maybe some many, many events maybe affect the land loss.
+
+477
+00:56:19,349 --> 00:56:28,139
+So we have to install the detections to detect, to diagnose what is the loss result for.
+
+478
+00:56:28,139 --> 00:56:41,769
+The fifth one is the flexible DC interconnection between or among the distributed stations.
+
+479
+00:56:42,690 --> 00:56:49,510
+You know that many distribution stations are working independently with each other.
+
+480
+00:56:50,119 --> 00:56:53,639
+They supply their own power supply areas.
+
+481
+00:56:54,340 --> 00:56:57,719
+They give them power supply to their own users.
+
+482
+00:56:58,179 --> 00:57:01,119
+So they do not interconnect with each other.
+
+483
+00:57:01,119 --> 00:57:12,789
+So some of the stations may be overload because of a load increase. So we have to
+
+484
+00:57:12,789 --> 00:57:19,250
+increase the equipment to expand the capacity of the supply. But some of the
+
+485
+00:57:19,250 --> 00:57:27,329
+stations, they're less load. But there are a lot of distributed PVs. So we
+
+486
+00:57:27,329 --> 00:57:31,449
+Rewards transfer from the low voltage to the high voltage.
+
+487
+00:57:31,710 --> 00:57:35,590
+So this is forbidden for the power grid.
+
+488
+00:57:36,900 --> 00:57:40,300
+This is not allowed for the power flow
+
+489
+00:57:40,300 --> 00:57:42,059
+from the low voltage to the high voltage
+
+490
+00:57:42,059 --> 00:57:45,239
+because it makes the transformer overloaded
+
+491
+00:57:45,239 --> 00:57:49,099
+to make the voltage to be much higher.
+
+492
+00:57:50,260 --> 00:57:51,659
+So we have to avoid this.
+
+493
+00:57:52,369 --> 00:57:53,710
+How to solve this problem?
+
+494
+00:57:54,460 --> 00:57:57,320
+We use a flexible DC connection.
+
+495
+00:57:58,510 --> 00:58:01,929
+to link the several distributed stations.
+
+496
+00:58:03,599 --> 00:58:07,780
+For example, in the left hand, the top hand of the station,
+
+497
+00:58:08,079 --> 00:58:15,639
+there are two stations.
+
+498
+00:58:16,719 --> 00:58:19,380
+This is a very successful example.
+
+499
+00:58:20,199 --> 00:58:23,340
+There are two stations, two turn-voltage stations.
+
+500
+00:58:24,119 --> 00:58:26,019
+One station is a production area.
+
+501
+00:58:26,380 --> 00:58:29,599
+They produce oil, oil.
+
+502
+00:58:31,820 --> 00:58:41,449
+Another substation surprise for the residential areas, there is a lot of distributed TV.
+
+503
+00:58:41,869 --> 00:58:44,889
+So in this station, there is power voltage.
+
+504
+00:58:45,650 --> 00:58:49,309
+So the power flow from the lower to the higher one.
+
+505
+00:58:50,000 --> 00:58:53,320
+For this substation, there is lack of capacity.
+
+506
+00:58:53,320 --> 00:58:59,099
+capacity. So they have to invest a lot of devices to increase their capacity, to expand
+
+507
+00:58:59,099 --> 00:59:10,539
+their production to a business. So the two stations could be connected into one. So we
+
+508
+00:59:10,539 --> 00:59:19,409
+use the interconnected flexible DC, DC to connect the two stations. So the distributed
+
+509
+00:59:19,409 --> 00:59:27,230
+PV generation could be supplied to the another station to make the balance of the power stations
+
+510
+00:59:27,230 --> 00:59:33,090
+to reduce the expansion investment for this substation.
+
+511
+00:59:33,329 --> 00:59:39,309
+And also we solved the discrete PV, they can make the balance of the two stations.
+
+512
+00:59:40,440 --> 00:59:48,980
+Other things, we use the DC bus bar to connect discharge, charge and discharging EV, electrical
+
+513
+00:59:48,980 --> 00:59:58,119
+electrical vehicle, to connect the distributed storage to connect to this one, to connect
+
+514
+00:59:58,119 --> 01:00:09,019
+the distributed TV to this DC bar, so that this is a very successful example for the
+
+515
+01:00:09,019 --> 01:00:12,079
+change of the flexible DC connections.
+
+516
+01:00:12,079 --> 01:00:19,389
+So we use such kind of flexible DC interconnection to solve many problems.
+
+517
+01:00:19,750 --> 01:00:26,920
+For example, the overload of the distributed PV in one substation.
+
+518
+01:00:27,179 --> 01:00:38,639
+For example, there is a need for the DC busbar to be connected into some distributed PV,
+
+519
+01:00:38,639 --> 01:00:47,320
+some distributed storage and also we use this kind of interconnected bus bar to
+
+520
+01:00:47,320 --> 01:00:57,760
+set up a charging station to make a electrical vehicle to be charged or we
+
+521
+01:00:57,760 --> 01:01:07,679
+have also make a control strategy to make it discharge, to make the charging station to discharge in the peak level.
+
+522
+01:01:09,519 --> 01:01:22,280
+So we think that the flexo-DC interconnection among the distributed power stations will be widely used in the eastern channel of the distribution network.
+
+523
+01:01:23,170 --> 01:01:30,869
+So this shows very many advantages for the operation of the distribution network.
+
+524
+01:01:30,869 --> 01:01:41,420
+Of course, there is a lot of technical problems to be solved for this in the connected distribution.
+
+525
+01:01:41,780 --> 01:01:47,219
+For example, the mechanism and the modeling, how to model to perform a flexible interconnection.
+
+526
+01:01:47,219 --> 01:01:51,179
+For example, the flex network control, how to control this flex network.
+
+527
+01:01:51,380 --> 01:01:59,190
+How to make a dynamic energy support to make the safety for the network with the flexible internet.
+
+528
+01:02:00,130 --> 01:02:10,090
+how to solve the cross-over, and all of this could be solved by the new technology.
+
+529
+01:02:15,119 --> 01:02:22,260
+So we have to pay more attention to the technical development for the artificial intelligence technologies.
+
+530
+01:02:22,750 --> 01:02:29,010
+For example, the AI is a very powerful engine for the production of research and development.
+
+531
+01:02:29,010 --> 01:02:37,460
+without unmanned helicopter vehicles to be inspected in our system.
+
+532
+01:02:37,699 --> 01:02:45,699
+The robot version, the AI computing, this AI algorithm to be integrated into the chips,
+
+533
+01:02:45,800 --> 01:02:52,880
+in the one chip. For example, the application of machine tactile chips for file monitoring
+
+534
+01:02:52,880 --> 01:03:00,030
+and for the end-story power to prevent the file disaster.
+
+535
+01:03:00,460 --> 01:03:07,139
+For example, the intelligent identification for the defects of the transmission and distribution lines,
+
+536
+01:03:07,489 --> 01:03:13,929
+and imaging and adaptive fusion monitoring for the equipment defects,
+
+537
+01:03:14,269 --> 01:03:17,380
+and for the power environment and so on.
+
+538
+01:03:17,559 --> 01:03:21,500
+So, so many AI products to be developed in the power system.
+
+539
+01:03:21,500 --> 01:03:31,610
+And also, we have to pay attention to the many, many applications for the system safety
+
+540
+01:03:32,030 --> 01:03:34,570
+and prevention, disaster prevention.
+
+541
+01:03:34,929 --> 01:03:42,030
+For example, the intelligent robot inspection for substations, for example, the health status
+
+542
+01:03:42,030 --> 01:03:48,659
+detection, and the risk early warning of the on-road chargers, and the early fire warnings
+
+543
+01:03:48,659 --> 01:04:00,840
+and the file extinguish technology for transformers, for the cables, for the energy storage, and the internal technology for the safety tools.
+
+544
+01:04:01,250 --> 01:04:17,559
+And the anti-miss operation technology, for example, if someone with a miss, to go into the miss space, there's a warning to tell him that you are wrong.
+
+545
+01:04:17,559 --> 01:04:23,739
+wrong. So we use the human replacement for the high-risk operations without the
+
+546
+01:04:23,739 --> 01:04:31,219
+overhead operation. We use the robot to replace the humans as well. So, so many AI
+
+547
+01:04:31,219 --> 01:04:41,400
+technology to be used in the power system. And the last two things is that we have to pay more
+
+548
+01:04:41,400 --> 01:04:47,139
+attention to the weather because the weather will affect the new power system
+
+549
+01:04:47,900 --> 01:04:52,320
+And another thing is that we have to pay attention to the carbon.
+
+550
+01:04:54,150 --> 01:05:02,590
+So apart from the source, grid, load, and storage operations, apart from this one,
+
+551
+01:05:03,090 --> 01:05:07,969
+we have to pay attention to the weather, we have to pay attention to the carbon,
+
+552
+01:05:08,170 --> 01:05:15,789
+because the weather will affect the generation of the renewable energies.
+
+553
+01:05:15,789 --> 01:05:23,489
+This is a very, very serious program for the operators of the system.
+
+554
+01:05:24,119 --> 01:05:32,719
+And also, our final objective is to reduce the carbon emission,
+
+555
+01:05:32,920 --> 01:05:36,699
+to make the power system to be carbon neutral.
+
+556
+01:05:37,019 --> 01:05:43,619
+So the electricity and the carbon neutralization become very important.
+
+557
+01:05:43,619 --> 01:05:49,039
+So we have to pay attention to the carbon production and electric carbon production.
+
+558
+01:05:50,989 --> 01:06:00,530
+So that the safe operation of the new power system would focus on interaction and coordination for the six elements.
+
+559
+01:06:01,710 --> 01:06:07,489
+The six elements include the source, grid, load, storage, and weather and carbon.
+
+560
+01:06:08,639 --> 01:06:16,260
+So we think the six elements will make the new type of power system to be operated very safe
+
+561
+01:06:16,260 --> 01:06:26,940
+and very economical. You know, in the western China, there is a very complex weather.
+
+562
+01:06:27,880 --> 01:06:33,880
+For example, in Tibet, in Xinjiang, in the western, east-western, in Mongolia,
+
+563
+01:06:34,119 --> 01:06:44,800
+there is a lot of different conditions, weather conditions, and very complex terrains and landforms.
+
+564
+01:06:45,119 --> 01:06:58,360
+And this kind of renewable energy generation path, their production, their generation varies very fast with the virus.
+
+565
+01:06:58,800 --> 01:07:05,260
+So we have to make a global climate change to be identified.
+
+566
+01:07:06,039 --> 01:07:10,550
+because this global climate change becomes normal.
+
+567
+01:07:11,159 --> 01:07:14,920
+So we have to count the money, a lot of these things.
+
+568
+01:07:21,340 --> 01:07:27,760
+So we think that integration of metrology and electric power,
+
+569
+01:07:28,059 --> 01:07:34,900
+we named metrology power, is impoverished to the power production.
+
+570
+01:07:36,309 --> 01:07:45,579
+So, with the weather data, with the meteorological data and technology, to be closely linked
+
+571
+01:07:46,099 --> 01:07:54,349
+with the renewable energy generation forecasting will make the decision of the power grid operation
+
+572
+01:07:54,730 --> 01:07:55,530
+and the maintenance.
+
+573
+01:07:55,869 --> 01:07:57,570
+This is very important.
+
+574
+01:07:59,929 --> 01:08:03,449
+This is an accurate forecast of the renewable energy generation.
+
+575
+01:08:03,449 --> 01:08:09,570
+This depends on the accurate forecast of the weather, so this is quite important.
+
+576
+01:08:10,360 --> 01:08:16,659
+And specialized technology for disaster prevention, control, operation and maintenance.
+
+577
+01:08:17,779 --> 01:08:25,380
+So we have to develop different weather disasters,
+
+578
+01:08:25,619 --> 01:08:30,750
+such as typhoon forecast, such as tower risk monitoring,
+
+579
+01:08:40,069 --> 01:08:53,350
+So we have to set up an integrated decision making platform, it will achieve data integration
+
+580
+01:08:53,350 --> 01:09:01,390
+and effective applications such as weather monitoring, wind, solar, hydropower forecasting
+
+581
+01:09:01,390 --> 01:09:12,149
+to provide the power sector with 4% services from the early warning to the post-disaster assessment.
+
+582
+01:09:13,020 --> 01:09:19,329
+So all of these technologies are very urgently needed in the electric power system.
+
+583
+01:09:20,460 --> 01:09:28,800
+So nowadays we have set up a special committee to do special research on the weather and the electric power,
+
+584
+01:09:28,800 --> 01:09:37,630
+how to research for the link with each other, especially for the future in the power market.
+
+585
+01:09:38,020 --> 01:09:44,100
+So if we set up a very complicated power market mechanism,
+
+586
+01:09:44,680 --> 01:09:49,720
+so the price is very close with the forecast of the generation.
+
+587
+01:09:50,119 --> 01:09:58,000
+So if you make a missed result, if you make a result that is not very precise,
+
+588
+01:10:00,680 --> 01:10:12,359
+So we think that deep coupling of the metrology and the electric power is a no-train for the
+
+589
+01:10:12,359 --> 01:10:15,000
+power security and emergency response.
+
+590
+01:10:16,659 --> 01:10:23,810
+So in Chinese power system, we have developed some many mini-weather stations.
+
+591
+01:10:24,869 --> 01:10:32,380
+For example, in Jiangsu province, they are scheduled to install the mini weather stations
+
+592
+01:10:32,760 --> 01:10:38,439
+every kilometer to detect the weather.
+
+593
+01:10:39,859 --> 01:10:48,020
+We use the unmanned helicopter with swarm, airborne, cooperative, 3D modeling, and imaging
+
+594
+01:10:48,020 --> 01:10:52,180
+analysis to inspect the network.
+
+595
+01:10:52,180 --> 01:10:58,199
+We use emergency plan generation based on large language model.
+
+596
+01:10:59,180 --> 01:11:02,340
+We have set up a lot of planning.
+
+597
+01:11:02,680 --> 01:11:07,439
+The people train with the planning into the office.
+
+598
+01:11:07,720 --> 01:11:15,180
+But if there is an emergency occur, how can we very fast, very quickly,
+
+599
+01:11:15,180 --> 01:11:25,319
+to respond, to make real, existent planning for the emergency process.
+
+600
+01:11:26,180 --> 01:11:30,739
+This is dependent on the large language.
+
+601
+01:11:31,819 --> 01:11:34,560
+We have to develop the emergency plan generation,
+
+602
+01:11:36,090 --> 01:11:40,149
+automatically generate the emergency planning.
+
+603
+01:11:40,489 --> 01:11:47,729
+We have to research on the collaborative command
+
+604
+01:11:47,729 --> 01:12:06,500
+How to organize team, how to organize material, emergency material transportation, and result based on S-train weather forecast.
+
+605
+01:12:07,010 --> 01:12:13,229
+So all of this is related to the real side of the weather forecast.
+
+606
+01:12:13,670 --> 01:12:16,649
+This is a very close thing with the policy.
+
+607
+01:12:16,649 --> 01:12:25,250
+Okay, the last one we have to pay more attention to is carbon.
+
+608
+01:12:25,770 --> 01:12:35,850
+So the carbon generated by electricity is very very important for the carbon neutral for the new power system.
+
+609
+01:12:36,050 --> 01:12:43,050
+Because the final organization, the final target of the new power system is to reduce the carbon emission.
+
+610
+01:12:43,050 --> 01:12:52,750
+So how to calculate the carbon emission for each kilowatt hour of electricity is very important.
+
+611
+01:12:56,680 --> 01:13:02,039
+So we have a new concept, that is, we make the path.
+
+612
+01:13:02,989 --> 01:13:07,130
+In the path, we make the source follow the load.
+
+613
+01:13:08,079 --> 01:13:14,739
+Because if the load changes, we have the order to change the output of the power plant.
+
+614
+01:13:15,020 --> 01:13:16,739
+This is the traditional operation.
+
+615
+01:13:16,739 --> 01:13:23,590
+But now this is changed. We changed the load moves with the source.
+
+616
+01:13:24,000 --> 01:13:27,500
+If the source fluctuates, we make the load to move.
+
+617
+01:13:27,960 --> 01:13:38,510
+We use our administration policies to encourage the load, the users, to take part in the adjustment.
+
+618
+01:13:39,699 --> 01:13:46,079
+So load moves with source is very important. This is the demand response.
+
+619
+01:13:46,079 --> 01:14:00,640
+And also, we promote that load moves with carbon, so through a precise time and region based electricity carbon accounting mechanism,
+
+620
+01:14:01,039 --> 01:14:12,880
+it is possible to link up with the international carbon tariff system, and to respond to the government carbon reduction policy.
+
+621
+01:14:12,880 --> 01:14:31,920
+When we make the time-based carbon, each hour, we can track what of this kilowatt hour of electric power generation to be produced in when and where.
+
+622
+01:14:32,079 --> 01:14:35,510
+When and where the electricity is produced.
+
+623
+01:14:35,510 --> 01:14:42,859
+So, time-based is the guide to the load to shift to the low-carbon time period, and region-based
+
+624
+01:14:42,859 --> 01:14:48,380
+is the guide to energy-consuming load to shift to the low-carbon areas.
+
+625
+01:14:48,840 --> 01:14:59,739
+For example, in the western part of China, there is very low carbon emissions, but our
+
+626
+01:14:59,739 --> 01:15:06,279
+Our production center is located in the east, how to shift the east and the north to the west.
+
+627
+01:15:07,020 --> 01:15:08,439
+So this is very important.
+
+628
+01:15:09,020 --> 01:15:19,800
+So lower the force of carbon will inevitably lead to significant change in the planning, in the construction, in the operation of the power system.
+
+629
+01:15:20,060 --> 01:15:29,159
+And it will show an important impact on the great architecture, the safety operation of the west to east power transmission in China.
+
+630
+01:15:31,239 --> 01:15:41,039
+So we have another idea, we will transfer the lower centers, the lower consumption from the eastward, to the lower carbon area.
+
+631
+01:15:44,340 --> 01:16:00,359
+So the United States made a proposal that we make the carbon production calculations by time, from annually to hourly.
+
+632
+01:16:00,359 --> 01:16:15,470
+So each hour, they will publish, they will announce which of the electricity produced by what time, by where, where they are.
+
+633
+01:16:15,750 --> 01:16:23,810
+So this goes from Swiss, to country Swiss, to a balance space, to a load center, to a load zone.
+
+634
+01:16:24,479 --> 01:16:29,000
+So this is the United States' suggestion, the standard.
+
+635
+01:16:29,000 --> 01:16:36,720
+And also, the United Congress requires the EIA to publish hourly average carbon emission
+
+636
+01:16:37,149 --> 01:16:40,220
+factors for each electric power utility.
+
+637
+01:16:41,050 --> 01:16:48,039
+So you can check in the website, you can check, for example, you can check the American utility,
+
+638
+01:16:48,039 --> 01:17:01,090
+they will announce their electric power production produced in which area in what time.
+
+639
+01:17:01,369 --> 01:17:07,050
+So this is very important to track the carbon prints.
+
+640
+01:17:08,760 --> 01:17:18,039
+So we have focused first to establish an international recognized carbon footprint
+
+641
+01:17:18,039 --> 01:17:29,699
+to print on the carbon standard certification system and to create a fair and equitable international carbon printing management.
+
+642
+01:17:31,199 --> 01:17:36,119
+This is very important for us to set up such a system.
+
+643
+01:17:39,760 --> 01:17:48,859
+For our side, for our team, we are now constructing a single electricity carbon map based on big data.
+
+644
+01:17:48,859 --> 01:17:57,640
+so the electricity carbon map this is a very very complex model from the
+
+645
+01:17:57,640 --> 01:18:04,119
+electric power grid to the production data and then we calculate the carbon
+
+646
+01:18:04,119 --> 01:18:13,079
+flow along with the network and finally we make each each point each electric
+
+647
+01:18:13,079 --> 01:18:25,560
+point, they produce, they will supply the electricity, and we give index for each kilowatt
+
+648
+01:18:25,560 --> 01:18:39,739
+hour. And finally we want to make every product a signal. If you scan the signal, you can
+
+649
+01:18:39,739 --> 01:18:48,609
+know that how many carbon emissions come from this product and when and where this product is produced
+
+650
+01:18:49,090 --> 01:18:56,779
+how many kilowatt hours consumed to produce this product so that we can make a very very detailed
+
+651
+01:18:57,640 --> 01:19:09,510
+detection so we think the integrated map is very important so we make the optimize of the six
+
+652
+01:19:09,510 --> 01:19:16,510
+elements, source, grid, load, storage and weather and carbon to support the safety
+
+653
+01:19:16,510 --> 01:19:23,510
+operation of our city. To make a clean and low carbon production, to make a safety
+
+654
+01:19:23,510 --> 01:19:30,489
+margin, to make a economic efficient operation, to make a supply-demand
+
+655
+01:19:30,489 --> 01:19:40,930
+coordination and response, to make a flexible and smart operation. So this
+
+656
+01:19:40,930 --> 01:19:45,359
+This is a simple description of our system.
+
+657
+01:19:45,960 --> 01:19:48,399
+First of all, we collect a lot of data.
+
+658
+01:19:48,760 --> 01:19:54,399
+Weather data, information data, detection data, and so on.
+
+659
+01:19:54,539 --> 01:19:59,319
+We make the knowledge base, we make the research center,
+
+660
+01:19:59,319 --> 01:20:01,260
+enhance the generation, and so on.
+
+661
+01:20:01,340 --> 01:20:04,020
+We make the dark model for the detection center.
+
+662
+01:20:04,850 --> 01:20:10,340
+So that we can develop a predictive dark model.
+
+663
+01:20:10,340 --> 01:20:18,420
+and some weather large models, and so on.
+
+664
+01:20:18,869 --> 01:20:23,130
+And finally, we take a technological base
+
+665
+01:20:23,130 --> 01:20:26,789
+based on the graph analysis, graph knowledge and calculations.
+
+666
+01:20:27,630 --> 01:20:30,250
+And we use this database to support
+
+667
+01:20:31,470 --> 01:20:35,750
+source load prediction, to support carbon footprint
+
+668
+01:20:35,750 --> 01:20:39,170
+measurement, to support the situation
+
+669
+01:20:39,170 --> 01:20:43,270
+awareness, to support the planetary magnification,
+
+670
+01:20:43,270 --> 01:20:51,050
+to support collaborative optimization, to support flexibility optimization, and so on.
+
+671
+01:20:51,210 --> 01:21:03,520
+So this kind of big data system is very useful for the future advanced operations of the new power system.
+
+672
+01:21:03,520 --> 01:21:10,489
+So we use this map, and we set up a graph technology foundation.
+
+673
+01:21:10,989 --> 01:21:14,250
+This is the support, this is the basic information.
+
+674
+01:21:14,729 --> 01:21:18,250
+And we make some AI-influenced decision making.
+
+675
+01:21:18,590 --> 01:21:19,590
+This is the software.
+
+676
+01:21:20,859 --> 01:21:24,880
+And finally, we make an electrical carbon coupling on that.
+
+677
+01:21:25,449 --> 01:21:26,989
+And how about carbon?
+
+678
+01:21:26,989 --> 01:21:39,210
+carbon. You see, this kind of data system, for the power system operation, and for the comprehensive and accurate
+
+679
+01:21:39,210 --> 01:21:50,180
+weather power generation, load forecasting, use this because of fused weather data, AI based process
+
+680
+01:21:50,180 --> 01:21:58,069
+predictions. And for the online security assessment for the power system, with those great load storage,
+
+681
+01:21:58,069 --> 01:22:15,779
+Why the carbon benefit? So that we can analyze, how about this power system, you have, whether there is a magic for the power system to expand, whether there is a magic to interconnect with the PVs and so on.
+
+682
+01:22:15,779 --> 01:22:25,939
+And also, we can make an analysis of grid adequacy and flexibility based on the six sectors.
+
+683
+01:22:26,300 --> 01:22:37,880
+For example, for this kind of a system, how to connect, how many distributed PV could be connected to the system.
+
+684
+01:22:39,140 --> 01:22:46,279
+So, finally, we make a report for the provincial detection contracts.
+
+685
+01:22:46,279 --> 01:22:55,699
+And these project centers integrate multi-source systems, including data type and intraday power generation plants,
+
+686
+01:22:55,960 --> 01:23:01,659
+including new energy power and load forecasting, including virtual power plants,
+
+687
+01:23:01,800 --> 01:23:07,720
+and to build an integrated automation platform in provincial infrastructure centers
+
+688
+01:23:08,079 --> 01:23:12,579
+for the source with load storage devices and commons for the sector.
+
+689
+01:23:14,130 --> 01:23:30,390
+So this is our government support project, we are now setting up such a platform in Guangxi province.
+
+690
+01:23:32,210 --> 01:23:35,149
+Okay, thank you. Any questions?
+
+691
+01:23:35,630 --> 01:23:51,970
+Any questions? No questions?
+
+692
+01:24:13,000 --> 01:24:19,760
+I just want to know how long did it take you to implement all of those in China?
+
+693
+01:24:20,380 --> 01:24:25,850
+This project is not ongoing. It's not completed.
+
+694
+01:24:27,460 --> 01:24:31,199
+Because the project is set up the year before last.
+

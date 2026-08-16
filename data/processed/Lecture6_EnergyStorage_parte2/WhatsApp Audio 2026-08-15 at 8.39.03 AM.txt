@@ -1,0 +1,696 @@
+It is limited both by the power capacity and also the energy capacity.
+That's the difference.
+And that's the first time I would like to kind of introduce why we need energy storage,
+and how about the situation that is changing in China and I think also in other regions or in other countries.
+And part two, I would like to kind of briefly introduce the mainstream energy storage technologies
+and their characteristics it's only kind of like a quick review because there are
+so many types of energy storage technologies and for this tree it is
+kind of like only not a full view and I cannot like give you the major categories
+usually we call electric energy storage we think of electric chemical storage
+system for batteries.
+And there are also kind of mechanical engineering.
+For example, I just mentioned trans-hydro storage.
+And we also have the compressed air storage.
+And also, that one in the top is newly added.
+It's gravity and storage.
+And I think in several countries,
+they are kind of developing this kind of new type of storage.
+It is also a very interesting storage type.
+And for the kinetic energy storage, we have FlyView,
+which I also will introduce.
+In the low side, we have electromagnetic energy storage.
+For example, superconducting magnetic energy storage.
+It is kind of like an energy storage system that
+has been researched for decades, but its application
+is still kind of very hard.
+And we also have kind of a capacitors and .
+First, I would like to kind of introduce
+some kind of several types of large-scale storage.
+But the large-scale means that it
+can be developed for several hundred networks,
+and even to gigawatt scale.
+The first one is the pump hydro storage.
+The principle is actually quite simple.
+We have two reservoirs, one is high, the other is low,
+and we have to capture the potential energy.
+It is very mature, and it can operate for more than 50 years,
+and it can be very large.
+In China we have kind of like one pump hydro storage state power plant more than one gigawatt.
+It is huge.
+But the problem is that they have the requirement for the size, right?
+You need kind of large reservoir, at least one reservoir.
+The other one can be kind of the sea water or can be near the river, but you must need one.
+This is one problem. Another problem is kind of like the construction cost.
+Actually, the cost counts even more difficult to reduce, to be reduced, because of not only the kind of like the generators,
+it's also kind of regarding of the land it will kind of occupy and also kind of the other problems.
+So the price is kind of like very stable.
+And another one is the compressed air and its storage.
+This is kind of like a very interesting type of large-scale air storage.
+When we want to save energy, we compress the air into high pressure
+And it's stored in a tube, or we use the caves on the ground.
+And the memories is that the capacity can be very large,
+and the energy capacity can also be very large.
+and has long operating life and low kilowatt hour investment.
+Kilowatt hour investment means that because the cycle numbers or lifetime is very long,
+so even if it's kind of like investment is higher,
+but for the kilowatt hour investment is relatively low.
+And for conventional, we call it a compressed air energy storage, we call it CAES.
+Conventional CAES system has no solar storage subsystem.
+So the heat of compression is discarded, resulting in low efficiency, around 50%.
+And also consumption of natural gas for generation, when generating electricity.
+And advanced CIES incorporates thermal storage, eliminating the need to burn fossil fuels
+during this time, so the combustion chamber can be removed and improving the efficiency.
+For the first commercial, CIES was built in Germany in 1978, and the system efficiency
+efficiency is about 42%. It is not high. And in 1991, the United States built the McIntosh
+plant. And because it recovers some heat, so the efficiency rise to 54%. And this kind
+kind of like long-term story, before 2000,
+worldwide, only two large-scale commercial compressed air
+and storage systems in operation.
+And starting from 2000, some Chinese research institutes
+and also universities, they kind of
+start to research advanced CAES system.
+And in China we have two institutes, the Institute of Engineering and Thermophysics of CES,
+and another group is from Tsinghua University.
+They began to research large-scale non-combustion CES systems.
+And in 2021, a Qingtan CES project was commissioned in Jiangsu province in China.
+China. The scale is 60 megawatts and 300 megawatts. And now, for Jintang, for this project, it
+is building the second phase. The second phase, the scale is more higher, several hundred
+scale. This is the compressed air. And in China, we think that now there are more than
+more than 10 projects that have been planned in building for the large-scale compressed air energy storage.
+Another one is CSP, concentrated solar power plants.
+I think many of you have seen this picture.
+It is kind of amazing for the large-scale CSP.
+and for the the relation of this between the storage is that it's usually used
+molten salt storage so it collects the the energy in the daytime and stored the
+energy is stored in the molten salt and it can be kind of like generation
+during the evening even in the night when the load is high so for this kind
+of like a storage for molten storage operates the temperature about from 240 to 560 so it's kind of
+like a big uh temperature difference so make it and kind of absorb a large capacity of energy
+so for for this storage system it can reach capacity to people at our scale it is also a kind
+of like a large scale kind of storage and the the problem now is that this kind of like a
+system because the system is kind of like complex it's it also needs the traditional kind of like
+generation system it needs this system and this the modern storage system so the investment is
+high. The per kilowatt hour electricity price is much higher than the other kind of generation.
+It has different types. This one is the first type and we also have other types. It's called
+linear Fresnel and the parabolic dish. And this is kind of like about 12 years ago I
+I visited Italia, I saw this system for demonstration.
+For this one, the scale is not so large,
+but it's convenient for deployments.
+And another type of large-scale air storage
+is the flow battery, the flow battery.
+So we have a guest from the United States,
+and the United States DOE kind of
+of consider flow battery as long duration and storage time.
+And it is also kind of like, it is safe and long life.
+The long life means that the cycle times
+can be much higher, for example, than the lithium battery.
+So in China, we also have some institutes
+we are working on this.
+For example, in Dalian, there's an institute.
+They have commissioned large-scale flow battery.
+It's about 100 megawatt and 400 megawatt power.
+And for this project, they are still building the second phase.
+And another big project that is completed at the end of last
+Last year, the project's scale is 200 megawatts and one gigawatt hour.
+This is kind of huge.
+That is kind of like in Xinjiang province.
+Because in Xinjiang, they have kind of that wind and also large-scale solar power generation.
+Another one is lithium battery.
+battery, most of you are very familiar with this kind of storage, and it is the most widely
+deployed new type storage system.
+The merit is that it is high edge density and high charge and discharge efficiency and
+also faster response capability.
+And also, another reason is that for the lithium-ion battery, it is kind of like be built in for
+a lot, even for example, project more than 100 megawatts, it can be built in several
+months.
+So because it is kind of like we have many units, so many units kind of like put together
+become kind of formed into a very large scale storage project.
+And by the end of last year, the accumulated in-store capacity of battery storage worldwide
+reached about 315 kWh.
+So the capacity is huge, and the increasing rate is also very fast.
+But last year, it was nearly 50%.
+And for the batteries, we have small batteries for this year.
+It can be used in electronic devices, and also in Tesla.
+And we have also a big one, for example, for wine cell.
+And the last kind of large-scale storage I would like to discuss with you is the hydrogen.
+It is anticipated because we can't find any other better long-duration storage.
+storage. So hydrogen storage is anticipated to become an important option for long duration
+high scale storage. For hydrogen storage, it can store surplus electricity from intermittent
+renewables. Because in China and I think in many other regions, if the penetration of
+renewable is higher the problem is that how to consume the electricity generated
+by the renewables so hydrogen storage can be one of the big option and the the
+merits of hydrogen is that is the energy density so the energy density of this
+time is kind of like much higher than lithium-ion and flow batteries but the other kind of like
+the other parameters for example the efficiency is quite low that's kind of like the problem
+okay that's the several types of technologies for large scale and storage
+storage. And another one is the flywheel. It is not large scale, but it is also a type
+of energy storage system that has been kind of like attracted many companies to research
+and also to produce flywheel. The future is that it has high power density, not energy
+density, power density, and high number of charges in the second circuit.
+So it's kind of like, in China we call it a power type story, because the Maryse has
+kind of high power, but the duration is usually several minutes.
+And now for only one unit, this is the picture I took from one company, a Chinese company
+for building FlyView.
+And for one unit, it can up to one megawatt and more than 100 kilowatt-hours electricity.
+So, in China and also in other regions, it's usually used for kind of like a flixi support
+deposits.
+Okay, that's, I think that's the main technologies, so here we have kind of just some summaries
+to compare them, and this picture gives the response time, and as I kind of mentioned,
+mentioned, for a new type of storage system,
+usually they have very fast response timing, which
+is why they are widely used.
+And also, for the run efficiency,
+this is a big question.
+For the hydrogen, we thought the efficiency is relatively low.
+And for other storage systems, usually they
+their round trip efficiency is more than 8% and even 90%.
+And another problem is lifetime.
+This is also kind of like a big issue,
+because in the past, for the traditional power plants,
+their lifetime is usually more than 30 years.
+More than 30 years.
+But for the renewables and also for the new type energy
+storage. It has not been proven how long it can operate, how
+many years. Usually we think that it is lower than 20 years,
+and even lower than 15 years. So for a power generation power
+plant, it is still working, but we need to kind of renew the
+end storage system, maybe once, maybe twice. So this is the
+the problem, how we can kind of build long duration,
+have longer lifetime end storage systems also important for us.
+And here, we give a whole picture
+of the scale of the global storage project.
+And by the end of last year, the total stock asset
+it reached almost 500 gigawatts. This is kind of like, the increased percentage is about 33%,
+so the increase rate is very fast. And for the new type storage, the new type means that
+that the crisis is except for the palm tider.
+It is kind of like more than half of the total
+this sort of test.
+This is kind of like a changing situation.
+If we look at the mix in China, it's more obvious.
+For example, 10 years ago, here, only more than five years ago,
+So at the end of the 13th five-year plan in China,
+the pumped hydro storage accounts about 19%.
+But after five years, it only accounts about 31%.
+And the recent year accounts for 65%.
+This is kind of like a very increased changing situation.
+situation. And worldwide, about 10 years ago, worldwide, about 95% of the installed
+energy storage is pumped hydro. But now, it is lower than 50%. In China, this is increasing
+increasing much faster.
+And this picture shows the cumulative new type
+storage capacity in the past 10 years.
+And for last year, the capacity is more than 100 gigawatts.
+And more than 100 gigawatts is not only 100.
+is 144, so the increasing rate is very fast.
+And the other situation is about the scale
+of the antistory system.
+Here we give the percentage.
+And for this part, about 90% is the capacity
+of higher than 50 network.
+So, more and more, on a large scale, new type of storage projects are abused.
+This is the situation of last year.
+We can see that the number of projects with capacity is more than 100 and even more than 500 as well.
+So, this is kind of like the trend.
+And this is the situation that is very interesting.
+in last year, I will introduce, and because of the policy change, so there is kind of
+like a peak in the May of last year. I will introduce this peak because of the report
+May 31. In China, that is kind of like time point, the policy change. Okay, that's the
+overview of the energy technologies and their kind of like development and now I
+would like to kind of like give you a brief introduction about the applications
+in our system. For energy storage it is very interesting. It is different from the
+other types of devices or equipment. It can be installed in almost every sector
+of the policies this is this picture it's kind of illustration and the first
+part the first part is the coordination is traditional generating unit I do I'm
+not sure if you have enough code about this kind of application installing new
+type of any storage within the traditional power plants do you have
+come up with any ideas of about this kind of application coordinate with the
+traditional profile of compliance in China. So for this
+type of usage, it is usually kind of like coordinate with the
+generation unit to provide a federal service, especially for
+the friction regulations. Because the friction regulation
+requires fast and accurate response. But for the
+traditional generation, their response time or their ranking
+rate is slow, relatively slow. So if they want to cut off more revenue from
+providing friction regulation, so they need better response speeds and accuracy
+so that's why in some power plants they install battery storage. Actually this
+This type of application, for example, five or eight years ago, it is kind of like the
+only type of application for large-scale anti-storage in China.
+They can kind of like earn money for their investments.
+Okay, if you are interested, I would like to discuss in details.
+And the other types of application, it is kind of like more kind of like HOMA, for example,
+for coordinate coordination is renewable generation. This is
+quite kind of easy to understand for substation and storage is
+also kind of like kind of like use in different regions. And
+we also have the transmission district assess optimization.
+For example, we have kind of like the corridor that is
+limited or the capacity is limited that we can view any
+storage to defer the investment of the operators. And the last one is discrete storage.
+It's installed at the load side or customer side. It's usually kind of like
+cash revenue from the price, usually price from charge. And because of the distribution PV or
+distributed means can also be used to absorb the renewable generation.
+So these are two main types of the distributed and storage utilization scenario.
+And I would like to give you kind of like a view of the application scenarios.
+This picture, these two pictures shows the difference of the new type storage by type
+by application at the end of the 13th five-year plan and at the end of the 14th five-year plan.
+For the 13th five-year plan, we can see for this one, the customer side accounts for the
+most high ratio, about 35%, and the next one is the renewable collocated.
+it. But at the end of the 14th five year plan, the first one
+that the independent end story. So it is kind of like more as
+the two applications, the substation and transmission
+distribution assets optimization. And the renewable
+collected kind of like is stable, but it keeps stable.
+The other one is that I just introduced
+that the storage installed in the traditional power plants.
+So in this 13 five-year plan, it accounts for percentage
+not given here.
+But it is kind of like almost the third time.
+But now, it costs more and more independent energy storage.
+For independent energy storage, it can kind of like provide a fixed regulation with higher
+performance.
+So that's why that one comes not attractive.
+Okay.
+OK, so next, I will give you the introduction one by one
+for the five types of application scenario,
+especially in China.
+The first one is the storage deployed
+at a renewable power plant.
+So the usage can be kind of like smoothing the flat-18
+renewable generation, right?
+This is kind of easy to understand.
+stands and another one is to reduce the containment this one is kind of like it
+is interesting but it also can be used for water regulation because for any storage it is kind of
+like we called inverter connected to the power system right so it's kind of like ibr right resources
+resources. So it can also kind of regulate the voltage. And it
+can use the pacific in great operation or electricity markets
+to reduce the risk of the renewable power plants. And the
+situation in China is that by the end of 2024, the year before
+last year. The year before the policy changes, the collocated storage capacity
+was about 30 gigawatt, account for 42 percentage of all the storage capacity.
+So it is almost the largest kind of usage. And it's mainly located in the
+the northwest or north China, because for this part of this region, the renewables are
+very high, but the load is relatively low. So the containment capacity is much higher.
+And, okay, I would like to introduce the policy changes. Last year, the government issued
+issued a notice on deep market-oriented reform
+of renewable feed-in carriers to promote high-quality development
+of renewables.
+The document, the number, we also call it 136.
+So for these documents, it's explicitly stating
+that any storage must not be a precondition for the approval,
+a connection or approximation of new renewable projects.
+This means that in the past, in a number of provinces
+or regions in China, because of renewable containment,
+so if you want to build new renewable power plants,
+you need to install a specific percentage of energy storage.
+Then you can connect to the property.
+This is kind of like a requirement for the investment of renewables.
+But this policy abolished this.
+And this policy actually caused a very large impact on both the investment of renewable power plants
+and also the energy storage producers, and for the electricity market is another story.
+So in order to kind of also support the development of energy storage, because when this policy
+issued, the energy storage producers for factories think that the installed capacity view cannot
+decrease faster because the renewable power plants are not required to install
+any storage system. So the government kind of like give another kind of like
+policy or kind of like incentive for the construction of new type storage and for
+For the generation side, storage applications in China,
+now we have kind of many four types.
+The first one is that we promote the deployment of storage
+at the renewable basis.
+I think maybe the lectures in the last two or three days,
+they have introduced this.
+In China, because of the wind
+and solar, the natural resources are usually in the west and north part of China, so we
+developed a large renewable basis. The base is usually generation-based. So if they want
+the generation transmitted to the load center, they need storage to reduce the fluctuations
+generation size. This is the first type. Another type is that we are not kind of like
+require you to the renewable plants to build any storage but you can choose to build by yourself
+and the power capacity and energy capacity you can kind of like calculate which types of any storage
+storage and what's the size of the antistorage you can determine by your decision for the
+market decision.
+And this one is the start of the joint operation and co-fired units with new type of storage.
+This one I mentioned.
+Another one is that because in the future some of the traditional power plants will
+will retire because of the years in operation or because of the initial requirements.
+So for these retired power plants, there are signs that transmission lines can be used
+to build the energy storage stations.
+The second type is the development of independent storage systems.
+For this type of storage system, I just mentioned at the end of the 14th five-year plan, actually
+it's the last year, it becomes the first type of the storage application.
+And now the cumulative share is exceeding 50%.
+percentage. And we can have different types of revenues. We can kind of pick value, price
+upcharge, we can provide considerate service, and in more and more provinces, we can get
+capacity compensation. This is also very important. And the situation is that we can summarize
+we have three kind of like futures. The first one is larger thinker stations. More than
+70% of the projects, they are sized for more than 100 megawatts. The storage duration is
+about two to four hours, and for the technology, lithium batteries still dominate. It accounts
+for about 96% and these are their kind of like reviews, the price of trash and
+cigarette service, capacity compensation and this for capacity leasing, leasing
+this is before the capacity compensation, for example in Shandong province in the past
+In the past years, if you build independent energy storage, or we call it shale energy storage,
+you can lease to the renewable power plants to get revenue.
+And here we give an example that is 100 MWh independent storage station in Hebei province.
+When they invest in this storage system, they have an economic calculation.
+For example, for price of charge, it's estimated it can earn about 35 million RMB per year.
+And we can get the best compensation of about 10 million per year.
+and we want to participate as a service for more.
+And another situation is that in Shaanxi province.
+It is very interesting that if you are working on processing for frequency regulation,
+we have primary frequency regulation and secondary frequency regulation.
+So for primary frequency regulation is actually,
+actually, in many countries it is compulsory, it's kind of an obligation, you must provide
+primary frequency regulation.
+This is in the past, but nowadays because of the fluctuations of the renewables, the
+frequency quality actually is deteriorating in many areas, also in China, in many provinces
+we can see this so they want to build primary frequency regulation markets for
+anti-storage system and they tried last year the result is that if you use more
+anti-storage for primary frequency supports then the support from the
+the traditional units will decrease.
+So they give their statistics.
+It fails about 30% and 40% respectively.
+But in other provinces, you don't have this kind of a trend
+yet.
+And for the trend of grid size storage allocation,
+The government promotes the construction of independent storage at the key grid nodes,
+such as the node center, large-scale rehabilitation, or high capacity of HVDC feed-in.
+This is because in China we have long-distance corridors to transmit electricity generation
+from the northwest part to the central China or to the east part of China, and we have
+built a lot of HPDC lines.
+So for this HPDC, it needs the support, and the storage system is kind of an option.
+options. And also a demonstration of grid forming storage, grid forming. And another
+one we call grid substitution storage, which means that if you invest, storage is much
+cheaper than invest the lines or substations when you can invest. And the third type is
+is the deployment of distributed anti-storage.
+The watch level is low, and the capacity, the size is smaller.
+And what is distributed anti-storage
+refers to storage connected to a public distribution network,
+either with stationary or mobile storage.
+So I have listed several kind of like typical applications.
+For example, anti-storage supporting distribution system.
+It can be deployed in distribution line or besides the distribution transformer.
+Or anti-storage coordinate with DG, especially for PV, distributed PV.
+And the last type is mobile anti-storage.
+This picture shows the mobile one.
+and a truck can carry any storage system more than one megawatt hour.
+So it can promote integration of DG and it can also operate in emergency or supply or distribution network recovery.
+So you can use it as a new operation.
+I need to change the settings.
+For the distribution average storage, in recent years, in China, a very hot kind of application
+scenario is that deploy the average storage just beside the distribution transformer.
+The distribution transformer.
+Because for the low-voltage distribution system, more and more PV are connected to the system.
+and it will cause the higher voltage and the reverse
+power flows.
+But if you cannot put any storage beside the transformer,
+you don't need to change this transformer,
+and you can also make more balance for this power flow.
+And another one is mobile storage.
+I would like to mention is that because in my team,
+we did some research on this one.
+And we think it will be kind of like more economical to build, for example, in a utility you can kind of like invest, for example, five or ten mobile and storage systems.
+In normal conditions, you can kind of like ultimately deploy the storage at kind of proper size.
+But in the emergency conditions, you can kind of collect them to support the broken area
+or recovering the power distribution network that is kind of like because of the hurricane,
+because of the flooding, or other situations.
+And the fourth type of application is the demand side and storage.
+At least three scenarios for the usage, storage at the charging stations, storage in the industrial
+park and commercial buildings, and storage in communities or homes.
+So for this scenario, usually you put the storage and the storage actually behind the
+meter.
+behind the meter. Because for the disputed storage items, we just talked, it is usually kind of
+before the meter. And for this type of storage, it should be properly operated by the customers
+to reduce their electricity bills. The first one is storage at charter stations. As you know,
+that's the the charging power for a single ev are increasing very fast so several years ago we called
+the fast charging maybe the power is more than 50 kilos is fast charging but now we have kind of
+super fast charging we have kind of an ultra high speed charging so for for this
+charging for a single EV, the charging power can be several hundreds.
+Several hundreds. For example, for a private EV you can
+come up to 300. And for commercial electric vehicles, maybe to more than 500
+and even 800. So the charging power is increasing very fast. And for this
+This higher charging power, it will bring impacts to the power system and also requires
+high capacity.
+If you put some energy storage within the charging station, then it can kind of reduce
+the required capacity and also reduce the power fluctuations.
+And also you can absorb some electricity generated from the local PV system.
+So it can come up as multiple usage.
+And the second one is in industrial park or commercial
+buildings, this is kind of like quite simple to imagine.
+If the customer come up with a TOU price, fix the TOU price,
+then the operation of the storage is quite simple.
+You just set the price of your discharge at the higher price
+period and the charge at low price period. But if the customer the
+electricity price is determined by the electricity market, it fluctuates, it's
+changing day by day, then you need kind of like intelligence control
+algorithms to properly control the charge and discharge of the storage system.
+And the third one is the community and storage.
+Actually, as I know, the community and storage is first used in the UK distribution network.
+For the UK distribution network operator, they want some storage installed at home or at the community.
+And for each home, it can share a percent of the energy storage capacity.
+And the other capacity is operated by the network operator.
+So they can come up with both benefits to the home and to the distribution power network.
+And the last duration is the residential energy storage.
+and in China as you may know that for the residential electricity price is
+relatively low and usually fixed so it is very difficult to kind of install
+residential storage in China so some companies they have this product
+that they are exported to other regions.
+And for the residential storage, it
+depends mainly on electricity prices and also PV.
+If you have high electricity price,
+and also you have a rooftop PV system,
+then you may consider to install a home storage system.
+And the operating strategies for residential,
+venture. Yeah, you need kind of maybe some companies will
+develop this system, like home and management system. So you
+need to kind of like forecast the PV generation, forecast the
+the home electricity usage, and then you can kind of manage the
+charging and discharging of the storage system properly. And I
+don't have kind of come show the Tesla's home power as their
+their usage and you can if you are interested you can check the details and the the last type i would
+like to share is the electrical ev development and storage resources as you know i did some research
+work on on this area for electric vehicles we consider is for power system side we consider
+consider as new type of load or new type of distributed and storage system.
+If the EV connects to the power grid, it is actually kind of like a battery storage system.
+So it can be kind of like incorporated into demand side management,
+persistent dispatch, and also coordinate with the renewable generation.
+And even now in some regions, if you have kind of like home storage,
+You have home rooftop TV, you have EV, you can kind of combine them together to make it more grid-friendly and reduce the severe.
+To control the EV loads or EV power, we have two types of technologies.
+The first one we call smart charging.
+charging, so it only controls the charging power and the charging time, so then maybe
+it can reduce the charging fees and it can also turn out like more rate friendly.
+And furthermore, if we want to discharging back, then we usually call it as V2G technology.
+technology. Then, EVs act as distribution storage units, but it can participate in grid regulation through China and Australia.
+And here I give the sales of EVs in China, and actually it's increasing very fast.
+and last year the battery EV, the number is more than 30 million and for the
+topic we discussed today, we look at the capacity, battery capacity. The total
+battery capacity is a conservative estimation more than 1,200 kWh
+on. And this capacity is higher than the total storage capacity of all the other end storage
+systems in China. So the potential is huge. But how to utilize it is a problem. And for
+EV acting as a storage system, it can discharge back to the power system. And for V2G, we
+have the basic premise is that we do not affect the use of EVs or if we
+want the EV to discharge back we give enough compensation for the EV owners so
+if you will be an EV owner if in your region there will be kind of like great
+the grid incentives, you can kind of participate, maybe you can, kind of like, in some places,
+maybe we call it, if you participate in Victor Grids, you will kind of like use the electric
+rigs for free. You don't need to, if it is kind of like controlled more properly, you
+don't need to pay the electricity bills. And for V2G, it's like, just like the energy storage
+storage system. It can be used to keep shaving, value filling,
+friction regulation, water support, and reserve. All these
+types of functions. And in
+recent years, we do have some kind of
+vehicle grid stations built, and we have
+also, we have friction regulation
+pilot projects. And the
+The last thing is that about the second life utilization of retired EV battery, this is
+also kind of an area, the retired battery, how to use them, because for EV usage, usually
+we think that if the SOH or the residue capacity of the battery on EV reduced to 80% of the
+rated capacity it should be replaced when it is replaced uh replaced actually the battery can be
+used for a great supporting services because a lot of kind of like public uh considering the
+second one utilization okay that's uh i think almost the time and uh conclude my my conclusion
+Maybe it's not kind of like I would like to discuss with you.
+And the summary is that the current development, new type of storage led by lithium batteries has developed rapidly.
+And the cost falling sharply.
+Exactly. The cost in the, maybe for example, in the past 10 or 15 years, almost reduced
+90%, almost in many regions. 90%. It is out of our expectation. And another one is that
+large capacity storage applications, except for lithium-ion battery, that by compressed
+press air and flow batteries have also achieved breakthroughs in the past.
+So this is kind of like another aspect of storage system development.
+And in China, the government also kind of like incentive the pump to hydro storage.
+So the capacity is also increasing very fast.
+And the fourth one is that some large independent storage stations and
+and unit-plus storage.
+Joint projects have already achieved good returns.
+They have come up with an economic situation that
+is favorable to the investors.
+As the electricity market development develops,
+storage can now compete in multiple electricity markets.
+That's the situation.
+I think that's the situation in China and also
+in other regions.
+But we still have challenges.
+One of the challenges is that even I just mentioned that
+the battery storage, the cost decreased about 90%.
+But in many cases, we still think that the cost is still high, right?
+It is still kind of expensive to invest or install storage systems.
+So it still requires the techniques, the companies to reduce the cost.
+And the second one is that both the policies and technologies for any storage stations
+to participate in electricity markets need further strengthening.
+This is the situation, I think, in many regions.
+Because the electricity market is not designed for any storage system, it is designed for
+the traditional generation units.
+So how to make the market more friendly to any storage system is also a challenge.
+And the third one is the investment operation model for grid-side storage needs further development.
+I think this may be the situation in some regions.
+For example, in China, we have some time that the power grid company is not allowed to invest in storage systems.
+This is kind of like an argument for a while.
+because if you for the great company we have kind of likely these storage system
+we we can also come up like doing price of charge and it is not an independent
+kind of like system operator so this that will be the file problems and also
+we kind of like to consider we need a unified design for storage capacity
+market. The capacity market. We learned a lot from like PGM, the capacity market is mature and the designs are very fancy, but in China it's still in a starting stage. The capacity is far from mature.
+you. And the last one I would like to mention is the large
+capacity long duration storage, the long duration. Maybe I
+mentioned that for for DOE content, consider that the flow
+battery is a long duration. And many kind of like many
+researchers or many companies, they think that hydrogen is the
+future long duration storage but it is not approved and at the current stage large scale
+hydrogen storage is still a big issue and the price is quite quite high and the security problem
+it's not being fully kind of like on code so so for this one long duration storage
+storage, we really need it for the transformation of the power system from the fossil fuel kind
+of like to almost a fully renewable one. But if we don't have long duration
+and storage, we can't do it. We still need many backups from the traditional generation.
+So this problem is another issue.
+Okay, that's all my introduction. Thank you.
+Is there any question?
+Thank you for your sharing.
+It's very insightful for the leading country in battery energy storage system.
+So I have a question on capacity leasing.
+Can you please explain further on what is actually the requirement needed to participate in the capacity leasing
+and who can enter this type of program or platform?
+Thank you. I think this is a policy in several provinces in China in past years.
+and the requisition is that in the past in some provinces the renewable power
+plants are required to install and storage system so if we don't install
+and storage system itself it can lease some capacities from the shared and
+storage system for the independent and storage system yeah that's the big
+The policy is still ongoing after the changes of the whole policy.
+I ask a further question, for the leasing condition, do the renewable energy power producers
+need to have a certain distance that they need to lease from the certain independent storage system?
+or they can just how actually the agreement between the independent battery storage developer
+with the renewable energy power producer.
+Okay, very good question.
+I think first for the distance, I think in the provinces that have leasing policies,
+they have no specific requirement for distance.
+And I think they have kind of like the requirements for the operation of the anti-storage system.
+If you lease your capacity to the renewable power plants, you need to kind of like make your storage station properly operation in daily power system operation.
+You can't kind of shut down. If you miss your pass and you shut down, your anti-story system is not allowed.
+So for this, if the contract between the renewable power plants and the anti-story system operator,
+you need kind of like the contract that is kind of registered for the power system operator.
+the policy operator needs to know that your capacity has been
+leased and then it has kind of like communications with the storage station
+to make sure that we will charge and discharge in daily operation. So that's
+the requirement for this and storage stations. Thank you professor for that
+comprehensive discussion. Well this clarification question is related to the
+The document 136 commented on them, so last February 2025.
+So this is somehow in contrast with the Philippine economy.
+So what we have now is that we require variable
+deaths for new or upcoming power plants
+for at least 20% of the installed capacity.
+So with regards to that, is there an industry practice
+of that 20% cap?
+And what does China, how do they come up with this decision
+to remove the ?
+Yeah, yeah, yeah.
+I understand this.
+It's also a very good question, a very interesting question.
+Maybe I don't know the full considering
+of the government, but the thing is that because the installed renewable capacity is much higher,
+and in the past, for power plants and solar power plants, they have the kind of like the
+merits that the government give them, the, for example, you can generate first, and you
+you can have higher electricity fitting prices.
+So the governments, another situation
+is that because the cost of wind and solar is reducing,
+but you have still high price.
+So the governments don't want to pay much more
+to the renewable power plant investors.
+So they want that the electricity generated
+but the renewable power plants can enter the market.
+They compete with other types of plants to earn their revenue.
+I think this is a starting point.
+So they want the renewable power plants more competitive,
+but it's still required to invest in anti-storage,
+so the investment for the renewable power plants will be higher.
+So the government puts this to the market, you can make your decision by yourself.
+If you think that installing battery is more economical for you, you can choose to install.
+But it's not a requirement for that.
+If you think that I don't need the battery, I just cannot get the contract or compete in the sport market to earn the revenue,
+value of that, which is also fine. I think this is the reasons, the major reasons.
+I can definitely agree with that, yes. Thank you.
+For the lecture, and how you evaluate the future market share for Natri-Ion batteries
+in terms of market share, for example, on the horizon, nearest 10 years?
+What is the market share of Natri-ion technology?
+For the all types of storage technologies?
+Of applications in the energy markets.
+What is the potential of Natri-ion technology?
+Batteries, sodium, in comparison of the water market.
+What is the future market share of Natri-ion?
+Maybe this is kind of like a very challenging question for me, and it depends on the application scenarios, yeah.
+First, I think that for the market of any storage, we have kind of like the power-dominated market,
+for example, like the FlyView I just mentioned.
+And the intermediate is about hours of storage,
+and then the long duration storage system.
+So the most competitive part is the hours,
+the kind of storage technologies that can
+durate for several hours.
+And for this kind of storage technology
+technology or application scenarios, for me first I think that battery will still
+dominate. And I'm not kind of like a researcher on battery technologies, but in China you may kind of like, or I think in other regions or countries, we also have kind of like new type of battery. For example, we do not use
+We use lithium, we use kind of like liquids.
+Now, N-A, you know that's from the salt, and N-A...
+Oh, sodium.
+No, no.
+Sodium, no.
+Sodium.
+Sodium.
+Sodium.
+Sodium.
+Yeah, yeah.
+Sodium.
+Sodium.
+Sodium.
+Sodium.
+Sodium.
+Sodium.
+Sodium.
+If this kind of battery will mature in the following years,
+the cost will also reduce,
+and it can be deployed in large scale.
+So for batteries, it will also dominate in the following
+years, but we still have other kind of large scale usage.
+It is also, they are also very competitive,
+like flow batteries and compressed air storage systems.
+systems. So I think the first one still will be the battery, a new type of battery, and
+the other can be kind of like low battery and low resistance.
+Thank you.
+Hello, this is Moises from Mexico. Thank you for your lecture. So regarding the same question
+as my colleague here in front of me, in Mexico we still have this 30% requirement for renewables
+for battery energy stores. So I'm pretty sure it took many years for China to
+transition into a new order to remove that requirement. Do you think
+emerging economies, this is something that they need to go through this
+requirement 30% before transitioning, to remove it and just leave it as stand-alone?
+I think we can consider this problem in different ways, and why we kind of like put the requirement
+for renewable power plant to install any storage, the reason is that the renewable are fluctuates
+and the power system can't kind of consume or absorb the electricity generated by renewables.
+Yeah, that's why we put these requirements.
+But if we can kind of do it as a kind of a worktube mode, this means that not only leasing
+or from the market competition, the independent or share-only storage can also take these
+roles to kind of like to smooth the fluctuating and to absorb the kind of like the electricity
+that can't be absorbed by loan, then it is another way.
+So I think there is no one-way solution.
+It can be done by both ways.
+Yeah, I think that's the question.
+And we have another sector that we will discuss more about.
+We have a question for you, and I
+I think we have different groups and we will have discussions to share your ideas and we can kind of like, we will also summarize the views from all the groups and we will have candidates to discuss further in the next session.
+OK, that's about the second session.
+Thank you, Professor Hu, for your silent sharing.
+Ladies and gentlemen, it's now time for a coffee break.
+Take a rest now.
+The following seminars with Professor Hu Zetun
+will start at 5 o'clock.

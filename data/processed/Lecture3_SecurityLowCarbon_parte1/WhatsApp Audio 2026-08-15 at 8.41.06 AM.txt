@@ -1,0 +1,694 @@
+security and the low carbon transformation continuing from the previous session this
+lecture will focus on power grade security management supporting technical solutions
+for carbon emission reduction under high new energy penetration rate if you have industrial
+related questions please raise your hand for the q and a at the end of the lecture please welcome
+Welcome, Professor Zhang.
+OK, I'm very glad to communicate with you.
+And during my speech, if you have any questions,
+you can use any kind of questions.
+OK, the next topic is for the new type of power system
+security and low carbon transformation.
+And we will divide it into two parts.
+The first part is for the security.
+What kind of security we have to do this for the new kind of cloud system?
+And the next part is for the collaborative completion of the source network load, storage, and guest hub.
+So this was the first part of the new cloud system security.
+I don't understand that.
+In the last section of the lecture, we have already summarized the characteristics of the new step of the power system.
+That is how to convey efficient consumption and make a stable operation through high proportion of the renewable energy and high proportion of the power electronics.
+How to operate it? How to make the power system to be operated, to be stable operation?
+This is one difficult problem.
+And another difficult problem is that a large number of power electronic devices are widely integrated into the system.
+And such kind of power electronic devices will be active very fast, in milliseconds or microseconds.
+So fast regulation of the power electronics will make the power system initially become weaker and weaker.
+So this is the second difficulty.
+And then China will encounter another continuous load growth.
+So our power, electricity consumption will be doubled compared with now, with 2035.
+And it will be doubled until 2050. The total consumption will be doubled.
+And this doubled power generation, maybe 100% of this double increased amount will be achieved by the renewable energy.
+But for the remaining, for the stable remaining generation is still a lot of, a large percentage of the remaining power requirements also will be substituted by the new energy.
+So how to meet the consumer's needs and how to meet the user requirements for the high quality of power plants.
+So this is also a very difficult task for the next year because the durability and the power quality will affect the Chinese economy very, very seriously.
+For example, last year, in Shanghai, there was a big company to produce chips.
+It encountered a power set and encountered a lot of losses, economic damage for the production.
+We think that such kind of enterprises, such kind of users will become, increasingly become
+larger and larger.
+So the power quality, power reliability will be a very serious problem for China.
+And the last difficulty is that in the conventional, coal-fired power plants are gradually reduced.
+And finally, the power plant proportion, the coal-fired power plant proportion will reduce
+to 20%, or less than 20%.
+And this 20% of coal-fired power plants will be reformed by the low carbon, will be reformed
+by the new technology, for example, the carbon capture, and so on.
+So we encounter so many difficulties on how to make a reliable operation of the new power system.
+And this is the security problem in the surveillance service.
+So we summarize the six securities.
+The first is for the system security.
+That is how to prevent the large scale power outage for the power system.
+This is the system security.
+The second one is network and information security.
+There's a cyber attack, how to prevent a cyber attack.
+For example, in China, the authorities,
+when every year, the authorities will issue
+remote cyber attack to each substations,
+to each substations.
+Every attack will defeat some transformational systems.
+And the third one is personal safety.
+That is, every year there is a personal death by the electricity.
+And the fourth one is equipment safety.
+How to maintain the equipment to be safely operating.
+And another one is the electric, the so-called electrical systems, the environmental systems,
+and some low-voltage, low-voltage systems, that is the user, user-compatible, because
+a lot of distributed PV connected to the lower network, how to maintain the safety of the
+low-voltage systems.
+So the sixth security system is encountered by our power system planners and power system creators.
+And the first one is the system security.
+So as what we said, we have encountered such a complex, such a complex, such a high proportion of renewable energy over the power system.
+how to maintain the system to be operated with reliability and safety.
+Because of the reliability and the intensity of the high proportion of the energy,
+we have to make a balance every time.
+And the power electronics makes the system initial to be reduced very fast.
+And then the load characteristics become changed to the power constant.
+So the load is very sensitive to the voltage fluctuations.
+So this means that the operation to maintain the voltage is quite difficult.
+And the last one is that the proportion of the electricity received outside the urban,
+outside the big city, becomes larger and larger.
+So the city, especially in Shanghai and Beijing, such a big city,
+encounters risk for the reactive power collapse, for the voltage collapse.
+So this voltage has already occurred in the western countries,
+for example in London, in Paris, in the western of the United States,
+they encountered several system outages for the voltage collapse.
+That is that you have less reactive power support,
+so that if there is a short circuit in the high voltage system,
+the reactive power becomes very, very, very short.
+So the voltage becomes collapsed.
+So just like London, like Paris, and the Western, the Silicon,
+the Western United States, all of these developed countries
+encounter the voltage collapse.
+So this is our encounter.
+So we have to pay more attention to the system security, and such a large-scale power outage
+occasionally occurs frequently, for example, in Brazil, I don't know if someone from Brazil
+experienced a major blackout in 2018, and due to the protection of sighting areas.
+For example, Argentina, in 2019, they also encountered massive blackouts.
+For example, in 2022, a large-scale power outage occurred in Taiwan.
+And this also makes the user loss a lot of loads.
+And the United Kingdom, and also typhoon, super typhoon, affect the Hainan province.
+And such large-scale outage belongs to the system safety, because it belongs to the high
+outage, or over-high outage system, to encounter some short-scale, encounter some outage, and
+result in a large-scale outage of the users.
+And we have to encounter such a problem, we have to use, to solve the power system security
+security through intelligent means. For example, in the state grid, we use a lot of intelligent
+dispatching for the power system. Just as what I said, we reduce the period of the decision,
+dispatching decisions, from 15 minutes to maybe 10 minutes to 5 minutes, and then we
+use the intelligent dispatching of power system to reduce the outage of the power system.
+This is one. Technology uses the intelligent means to solve, to increase the power system, the system's security.
+For example, we use the flexible dynamic adjustment of the source, storage and load.
+And this is also another mean to avoid the system failure.
+And we use the safety means of the energy storage system,
+energy storage, how to safely operate it for the storage.
+And we use the rapid protection and self-hearing of the grid,
+especially for the distribution grid.
+For example, the short-circuit characteristics have changed a lot.
+In the past, the short-circuit just formed one side,
+from the power stations. But now there is a lot of distributed PV connected into the
+end of the power lines. So the sub-circuit characteristics become changed.
+So the protection principle has already changed. So we have to make rapid protection.
+We make the self-carrying of the grid, especially for the distribution grid.
+And also we use the robots to operate with the electricity.
+We use the helicopter, we use the robots to make the maintenance, to make the maintenance of the power lines.
+We use the virtual power plants to make the balance between the source and the load,
+so that we can also make the balance of the system, to avoid the system outage.
+and we also use the flexible interconnection between or among several
+distribution stations. We use the DC, flexible DC to connect each distribution
+to make the balance of each distribution stations. And this
+means, all of this means, aim to solve the power system security. So this one
+one kind of security program.
+Another security program is a network,
+a network on information security in the system.
+For example, in ,
+there is a big outage in for 2019.
+There is a attack, information attack
+into a major hydroplot plant in this country,
+and then result in the outage of the whole country.
+So after this outage, the Chinese government gave a lot of notice,
+a lot of attention to that kind of war.
+So from that outage, from that time,
+the Chinese government asked the enterprises to take notice of the information security,
+to make isolation between the system information and the offline.
+So that the power grid information security will direct or indirectly affect the whole power system,
+the whole security of the power system.
+So we think that the information security threat may exist in every stage of the generation,
+distribution, transmission, distribution, transformation, and the users.
+So once this kind of attack affects the power station, affects the power system, they make
+a very large disaster.
+So we think every year, the Chinese government will issue a simulated attack to the stations.
+stations, and every attack will destroy several stations. So this is a very serious problem.
+So the information attack comes from two sides. One side comes from the external, comes from
+the outside of our system. For example, the hacker attack. For example, the virus infects.
+For example, the social engineering attacks, that is, some enemies who ask to make some
+mis-operations.
+This is from the outside, especially from hackers.
+I think a lot of countries have already encountered such a hacker attack to the power system.
+For example, in Russia, in many European countries, there is a hacker attack, in China also.
+Another threat is from the inside, the internal information attack threat.
+That is, employees miss operations.
+They close the switches and make the information miss operations.
+So this kind of attack affects the information system.
+So we have to make an optimized operation of the power system itself and the information system.
+So this has to be coordinated, operated with each other.
+So the power system integrated with the information system
+will support the conventional optimization of the source grid load and storage.
+We use several technological innovation to promote the safety and stable operation.
+How to solve this one?
+We have to strengthen the cyber security measures
+to ensure the security of the process network and information.
+So, in China, the grid has developed specialized security chips, and these chips will be installed
+in each awareness devices, the data collected devices, in the following five years.
+And each, for example, each meter, each wireless device, data collecting system, or SCAR system,
+and each device will be installed with such special security chips to make the information
+secure.
+And this is one measure.
+Another matter is to make the secondary system to be safely protected, for example, the information
+system, the communication system, the protection system.
+We make the whole system to make a cascade of information security protection.
+And also, every year we have a simulated attack to make us transfer for the information security
+to attack, to make a simulation attack, to check whether or not it is safe.
+And the last measure is to make a training, to make a network security training.
+Every year we make the information operators to be trained every year and to be security.
+So this is a measure to strengthen cyber security.
+The third safety problem is personal safety.
+Personal safety is personal accidents that occur every year.
+So, maybe last meeting we have a summary, every year the China power system maybe make a tax about 50 to 100.
+So, for example, the tower collapse of the federal system, the equipment hazard,
+for example, the accident caused by electric leakage, for example, caused by the lands, and so on.
+So, in our government, we pay a lot of attention to personal safety.
+But how to ensure the personal safety, that is the strength and safety supervision for the personnel in the path of safety?
+We have a shift from the post-event to proactive prevention.
+We have to make the supervision measures shift from rigid to flexible regulations.
+We have to make the investment to shift from the administrative bottom land protection to the cost-reduced and efficient improvement.
+We have to make a safety supervision the responsibility to shift from the being on vigor to a very
+clear determinant.
+So this kind of technology could be used to prevent the personal death from the safety.
+So we use the innovative technology means for the safety supervision.
+For example, the Internet of Things.
+We use this technology to process
+class, process algorithms, process the
+technical monitoring. So, they make the full process
+supervision for the front, middle, and back end
+of the project. So, every project in the Neon Science
+they install several monitoring
+monitoring, supervision to make the personal safety.
+So this is in the Chinese power, power integrates,
+enterprises, we use to supervise,
+to monitor the personal safety.
+So this is another one.
+So we use a traditional manner inspection.
+infection, this infection will be graduated, upgraded by automatic, visualized, intelligent
+operations and maintenance. By utilizing technologies such as artificial intelligence, the internet
+of things, digital tools, and augmented reality, we use such technologies to prevent, to make
+the personal safety become. And we have to through the frequent and comprehensive training
+and drills, the personal skill levels of our system operation and maintenance could be enhanced.
+So every year we make a lot of training projects to enhance the operators,
+to change their safety manner, to change their safety still.
+And the fourth one is for the equipment safety.
+Every equipment safety is caused by fire, by earthquake, by another.
+For example, our storage station, especially for the chemical storage station,
+will be constructed in the future, and how to defend, how to prevent the fire disaster.
+So the fire disasters occur occasionally in the Chinese fire station.
+For example, maybe in 2023, there is a fire and explosion accident at Shanxi Brunei
+for upper high voltage station.
+And also, personally, the offshore wind power installation
+encountered many equipment collapse.
+For example, in the offshore installation for the wind generators,
+this collapsed.
+So how to maintain the safety for the equipment,
+this is a very serious problem.
+So, we use the maintenance, the safety of the power system equipment through technological
+implementation.
+For example, we make the accurate identification for the insulator defector defects.
+We use a drone, air, ground monitor of the transmission land, helicopter, unmanned helicopter and associated with the unmanned operators.
+Recently, the state government has issued a satellite, so we use the space, we use air
+and ground, the three divisions of the inspection to make the safety of the equipment.
+We use the audio visual fusion monitoring for the equipment defects, for example the
+inside the transformer for the discharge.
+For such kind of discharge, it is very difficult to be detected.
+So we use audio-visual fusion technologies to check the discharge inside the transformer.
+We use intelligent monitoring for the substations and infrared temperature measurement for the inspection.
+And also, we use a radar modeling for the electrical equipment to make a safety maintenance.
+And for the cable fault, we make a diagnosis, an intensive diagnosis,
+based on the online analysis of sulfur hexafluoride equipment first, based on the leakage of the SF6.
+So, all of these measures are made to maintain the safety of the system equipment.
+So, this is another kind of security.
+And the fifth security is the low voltage system.
+We can see that in the past, the low voltage is only a positive system.
+But now it becomes active because there is a lot of distributed PV installed in the end
+of the low voltage system.
+So this makes the personal security very serious.
+So a lot of interconnected of the distributed PV to make the overvoltage of the low voltage
+system better.
+For example, our voltage standard is 220 volts, but if there is distributed PV to be connected
+to the end of the low-voltage system, the highest voltage will be higher than 240 volts.
+This becomes over-voltage for the appliance, for the personnel safety.
+So the power quality issue such as voltage dip, voltage set, and harmonics will also cause the production stop or damage.
+So this accident occurs very frequently in the Chinese power system.
+And so we have to make the safety operational leakage protection for the low voltage systems.
+So in Chinese they will research on the very cheap device to detect the low voltage systems.
+security. So we transfer the high tech of the equipment, high technology of the
+measures to be shifted to the low voltage to make the monitor of the low voltage.
+So this is another security program. So the last one, okay, so we have to
+strengthen the publication of the education of the electricity safety for
+for all citizens, and this is not the responsibility of the power system utility, but it is the
+social responsibility for this.
+So the Chinese power utilities have the social responsibility to educate, to train the citizens
+to enhance their detection affairs.
+And we have to develop the cost effective,
+the low cost, and the practical sensor chips
+to shift this high tech technology
+to the low voltage system.
+So in China, I believe, we have to develop
+a lot of such kind of chips.
+For example, this chip is only very low cost to be installed into the low voltage leakage
+and so on.
+We have used several devices such as DVR, dynamic voltage regulator, and active filter
+to be used in the user side to change to improve the power quality. So all of
+this in fact is a means to solve the low voltage system. And the last one is the
+environmental safety. So we have some research and development for the
+environmental monitoring to develop some several chips to detect the leakage of
+the SF6 and the research and development of the new environmental friendly isolation materials
+to make some substitutions and also we make a monitor of the electromagnetic
+environmental programs and also we make a monitor and control the transformer noise
+and for the for the engineering side there is a noise and then dust how to prevent how to monitor
+This is also what we have noticed on the nuclear power system.
+In 2020-2024, the CPC Central Committee held a collective study session on the new energy technology and how to maintain the Chinese nuclear safety.
+And our professor from my university has been sent to give a lecture, give an explanation
+to the colleagues of the CPC to make them make a higher professional of the energy safety.
+So he said that energy safety is closely tied to the overall development of the economy
+economy and the society. We must make the great efforts to promote the high quality
+development of the new energy and provide a safety and reliable energy guarantee for
+the Chinese-style modernization. So this is to become a very high level for the leaders
+to notice for the energy system.
+Okay, so we summarized the six areas of the system to make the node case.
+And the second part is that we have to make a collective operation of the source, network,
+the load, storage, and not the gas, the wiser, the gas.
+Did I translate it? It's the wrong translation.
+We have to make a collaborative operation of the source, load, grid, storage, and also
+plus weather and carbon.
+So we think that weather and carbon is two very important things for the new power system
+to be noticed in the operation and in the planning of the maintenance.
+First of all, the distribution network has already changed a lot.
+The past positive distribution network has already changed to active distribution network,
+because a large scale of integration of the distributed PV has been connected into the power system,
+into the distribution of our system, and a lot of energy storage, distributed energy storage
+interconnected into the distribution system.
+So the distribution system, the characteristics, the features of the distribution system have changed a lot.
+In the past, this system, this distributed system is passive, has no source.
+The system has no source. Only source is from the substation, from the big grid.
+But the distributed PV and distributed storage have changed the operation scenario of the traditional distribution of systems.
+So we call that the modern system is the active distribution network, that's ADN.
+And ADN and microgrid and virtual power plants, based on energy internet, are driving the
+traditional distributed network to be transferred from the traditional into a new type of the
+system.
+So we have encountered such transactions.
+So this is a traditional, traditional, there is no distributed PV, no active control for
+such a distribution system.
+So that in Chinese, a lot of Chinese distribution systems, they have no active dispatching,
+they have no process operation by means to maintain the distribution system to be operated
+seriously.
+safety. But notice the system have already changed. It has already changed with
+distributed PV, with distributed storage system. And such kind of distributed system have to enhance their active control level.
+So the system will gradually transfer from passive to active. So we gradually enter the high penetration of the
+PV, distributed PV, high penetration of the distributed storage, and we make active control
+for the power source and load.
+So the modern distribution system becomes the active distribution system, ADN.
+So the international organizations have already made ADN as a standard development, a future
+standard of the distribution system.
+So this means that the smart equipment, smart control, automation, distribution automation and the user interaction inside the distributed system.
+So we encountered a step in the new kind of modern distribution systems.
+And such active distribution systems, how to manage them, how to operate.
+So this is a very big problem for our new power system operators.
+So a lot of hardware devices, such as relay protection, the type changes of the transformers,
+automatic voltage regulator for the distributed system, and stat cards, and power factor controllers,
+reactive power, adjusters, all of these devices are being installed, are being operated,
+cooperated with distributed PV, with the distributed storage system,
+and along with all of these modern devices,
+it can make the active distribution system to be operated safely.
+So this is a very big group of people who made a lot of international standards for such hardware, automatic hardware.
+So the second one is how to cooperate the operation and control of the main grid,
+that means the high voltage grid, and the distribution line, the medium voltage grid, and the microgrid, so the low voltage grid.
+It makes the coordinate operation for the three kinds of grain.
+In the past, the state grain, the Chinese power utilities only managed for the main grain
+and paid less attention to the distribution grain and paid no attention to the macro grain.
+But nowadays, the idea has already changed.
+So the city council has already issued a document to maintain the coordinate operation for the
+main grid, distributed grid, and the microgrid.
+So how to interconnect the main grid and make the intergrids of the main distribution and
+micro upgrade to provide guarantee for the coordinated development of the power
+system. This is a big problem for our operations. For the main grid, we have to
+use interconnected centralized monitoring system for the new energy
+station for the concentrated wind power station, concentrated PV
+PV stations to make monitoring, to make the operation monitoring, to make the intelligent
+operations and the maintenance, to make the operational decision making, and so on.
+So that the main power grid pays more attention to this one, and it has also paid attention
+to the lower level of the voltage system.
+For example, the main grid dispatching system
+has to consider how the requirement
+from the distribution system.
+What is the requirement from the micro grid?
+So we have to complete it for the three kinds of work.
+And we have to develop a new distribution automation system.
+So for the distributed grid,
+Our regional distribution network has to be transparently monitored.
+We have installed a lot of awareness devices to collect data, operation data, from the end of the distribution network
+to achieve active balance control for the source, for the grid, for the load and storage.
+So the transparent monitoring is very important for the distribution system.
+So, based on the various types of equipment, we have developed a lot of devices, such as
+primary and secondary integrated terminals, intelligent terminals, and developed four
+project lines of the smart distribution terminals based on independently controllable technology.
+So such kind of terminals have already installed or will be installed in the end of the distribution system
+to make the distribution system more transparently monitored, to make it more controllable.
+And for the microgrid, the microgrid will be balanced for the load side.
+The microgrid is also in the load side.
+We have to ensure the balance, the stable, the efficient, the economic operation of the microgrid
+to promote the consumption of the utilization of the distributed PV.
+So we think that the microgrid is a balanced manner.
+So we use the intelligent microgrid to coordinate the devices
+devices, and the marketing energy monitoring and accessible terminals, such as the intelligent
+PV control, the energy storage, the charging and discharging control system for the electrical
+vehicles, and so on.
+So we use these intelligent load devices to achieve the coordinated and optimized operation
+for the microgrid.
+And we think that the microgrid, the distribution network grid and the main grid will be operated
+as a whole audit.
+So contractual low voltage network data decision center to equip with internal terminal devices
+to carry out advanced applications and gradually achieve power supply automation transparently
+of the PV, storage, charging, and digital intelligence distribution and microgrid
+coordinated in the distribution transformer area.
+So this is our consideration for the three kinds of grid to be operated into our main body.
+For the distribution operation, we have developed a lot of intelligent operation maintenance means.
+For example, intelligent sensing and the forward direction of the medium voltage distribution switch gap.
+We have developed the operating space for the power distribution switch gap.
+We use the robot to make an inspection, to make a maintenance for the
+huge number of the distribution substations. We make autonomous operations
+for the power distribution. We develop a lot of AI technologies to make space.
+We make autonomous operation and maintenance systems for power distribution switchguides.
+We use the robot to maintain the switch copies.
+We have developed intelligent operation, maintenance, and expansion of power distribution switchguides by six degrees of freedom of robotic arms.
+They use such kind of intelligent devices to make the maintenance, to make the operation of the huge number of distribution stations.
+So that we can ensure the safety operation of the system.
+So another phase is the fast protection and self-carrying of the distribution network.
+Because, just as what I said in the last part of the lecture, the short-circuit current features, the characteristics of the short-circuit siren have already changed a lot.
+Because of the distributed TV, because of the distributed storage, the system has already changed, so the short-circuit current has changed.
+So in the past, the protection device based on the traditional operation of the distribution network has already changed.
+So we have to develop new kinds of protection devices to protect the short circuit, to protect the outage of the distribution system.
+So the first important thing is that we use synchronous measurement and feature extraction
+for the four transient signals for power systems, especially for the density power electronic
+devices.
+So how to make the detection?
+So they come with a large scale integration of the distributed PVs to integrate with the distribution network.
+So the forward transient signal of the short circuit current has already changed.
+So it is urgent to investigate the influence mechanism of the distribution catalogues
+on the forward-transiting signal.
+So this is very important to develop a new type of protection devices,
+because a lot of PV is connected to the system and the signal has changed.
+And also, we have to develop very sensitive devices
+to make a precise location of the ground fault for the power component based distribution network.
+You know that it is very difficult to detect the short circuit, one-phase short circuit,
+the circuit to the ground. Such kind of short circuit occurs in the middle of the week.
+So it is very difficult to detect such a fault.
+especially the large amount of distributed PV to be connected to the system.
+So it's very difficult for the operators to develop such a device, such a form.
+So how can we develop faster protection devices and self-hearing of the...
+And all of these devices are based on the information, on the modern communication technology.
+So, we have to take a new intelligent power distribution terminal as a distributed agent.
+Fast identification and fast isolation and power transfer.
+We have to transfer the non-faulted areas of the supply area into the safety one and isolate the fault.
+So all of this based on the new type of communication systems.
+So in the third grade, we developed a lot of new type of power distribution terminals.
+So such kind of new power distribution terminals include the new technology of Beidou satellite system, especially by the Chinese.
+And we have developed chip-based protection.
+We have integrated some algorithms into a chip.
+And then this kind of protection device can be fast attacked for circuit.
+We have developed a very advanced algorithm for the fault perception.
+and we use 5th generation, 5th generation of the communication system,
+a fast communication system in the distribution system,
+to enable the rapid forward location,
+to ensure the isolation of the different types,
+and to ensure the transfer from the non-forward system,
+to fast resume the power supply.
+So this picture, all of these pictures are the new devices for the distributed intelligence.
+And also we have to ensure the secondary system to be simply operated in the distributed system.
+So the secondary system includes the communication system, the protection system,
+the data awareness devices, and all of these systems, we call it the secondary system.
+So the secondary system is in stock to aim to ensure the safety operation of the main system.
+So that this is very, very important for the secondary system safety.
+The fourth one is the internal monitoring of the substation and length.
+And for the state grid and southern grid, the national grid has developed many inspection
+robots to make an intelligent inspection of the substation of the transmission lines to
+achieve the reduced manpower inspection and intelligent monitoring of the power grid.
+to make the standardized process and to realize the safe and standardized operation for the maintenance, for the inspection, and for the control.
+So if you come to the substations, you can see a lot of robots, unmanned inspection devices to be operated in the substations, especially for the high voltage.
+And gradually, this kind of high technologies, gradually to be widespread used in the distribution
+subdivisions.
+So this is the trend, this is the, maybe in the next 5 or 10 years, so this kind of technology
+will gradually change, gradually used in the lower voltage systems.
+So we think that this is very important for the precise monitoring, the safety operation
+for the main power systems, for the distributor system, and finally for the microgrid.
+For example, for the transformer, we have a very high attack for the transformer.
+Inside the transformer there is a discharge.
+So once there is a discharge, you can detect some voice, some change for the oils, several means to detect discharge inside the transformer.
+Such a discharge, if we don't process such a fault, maybe the discharge will be suspended to the utilization of the transformer.
+So the state grid pays more attention to the discharge inside the transformers.
+So the new technology will support the imaging and voice recognition to detect the equipment,
+to detect the discharge inside the transformers.
+And we use the M-type of the device to be installed in the outside of the transformer and to detect the mean fault of the discharge.
+So the voice and the imaging and the recognition technologies could be mixed-used in the detection of the monitoring.
+So it can ensure the transformer can be operated safely and to diagnose the minor faults and make the early warning for the transformer.
+And for the low-voltage transmission areas, what is the problem we have encountered is that how to make the land loss to be reduced,
+because a lot of electricity transmission loss occurred in the low-voltage system.
+For the high voltage, the loss is very low, 1% or 2%, but for the low or medium voltage, any loss becomes maybe 6% or 7%.
+So how to reduce the land loss is a very serious problem to make the power system to be operated very efficiently.
+So, within the same power supply area, we have to install an intelligent transformer
+to check the diagonal robot for each transformer to make the diagonal for the land loss, for
+the transformer loss, to reduce the loss, either to diagnose what kind of loss could
+occur in this area.
+One reason is that in the unbalance of the three phase.
+Another reason is that the low voltage line is too long, we have to transfer.
+And maybe there is some stolen, the electrical stolen.
+Maybe some many, many events maybe affect the land loss.
+So we have to install the detections to detect, to diagnose what is the loss result for.
+The fifth one is the flexible DC interconnection between or among the distributed stations.
+You know that many distribution stations are working independently with each other.
+They supply their own power supply areas.
+They give them power supply to their own users.
+So they do not interconnect with each other.
+So some of the stations may be overload because of a load increase. So we have to
+increase the equipment to expand the capacity of the supply. But some of the
+stations, they're less load. But there are a lot of distributed PVs. So we
+Rewards transfer from the low voltage to the high voltage.
+So this is forbidden for the power grid.
+This is not allowed for the power flow
+from the low voltage to the high voltage
+because it makes the transformer overloaded
+to make the voltage to be much higher.
+So we have to avoid this.
+How to solve this problem?
+We use a flexible DC connection.
+to link the several distributed stations.
+For example, in the left hand, the top hand of the station,
+there are two stations.
+This is a very successful example.
+There are two stations, two turn-voltage stations.
+One station is a production area.
+They produce oil, oil.
+Another substation surprise for the residential areas, there is a lot of distributed TV.
+So in this station, there is power voltage.
+So the power flow from the lower to the higher one.
+For this substation, there is lack of capacity.
+capacity. So they have to invest a lot of devices to increase their capacity, to expand
+their production to a business. So the two stations could be connected into one. So we
+use the interconnected flexible DC, DC to connect the two stations. So the distributed
+PV generation could be supplied to the another station to make the balance of the power stations
+to reduce the expansion investment for this substation.
+And also we solved the discrete PV, they can make the balance of the two stations.
+Other things, we use the DC bus bar to connect discharge, charge and discharging EV, electrical
+electrical vehicle, to connect the distributed storage to connect to this one, to connect
+the distributed TV to this DC bar, so that this is a very successful example for the
+change of the flexible DC connections.
+So we use such kind of flexible DC interconnection to solve many problems.
+For example, the overload of the distributed PV in one substation.
+For example, there is a need for the DC busbar to be connected into some distributed PV,
+some distributed storage and also we use this kind of interconnected bus bar to
+set up a charging station to make a electrical vehicle to be charged or we
+have also make a control strategy to make it discharge, to make the charging station to discharge in the peak level.
+So we think that the flexo-DC interconnection among the distributed power stations will be widely used in the eastern channel of the distribution network.
+So this shows very many advantages for the operation of the distribution network.
+Of course, there is a lot of technical problems to be solved for this in the connected distribution.
+For example, the mechanism and the modeling, how to model to perform a flexible interconnection.
+For example, the flex network control, how to control this flex network.
+How to make a dynamic energy support to make the safety for the network with the flexible internet.
+how to solve the cross-over, and all of this could be solved by the new technology.
+So we have to pay more attention to the technical development for the artificial intelligence technologies.
+For example, the AI is a very powerful engine for the production of research and development.
+without unmanned helicopter vehicles to be inspected in our system.
+The robot version, the AI computing, this AI algorithm to be integrated into the chips,
+in the one chip. For example, the application of machine tactile chips for file monitoring
+and for the end-story power to prevent the file disaster.
+For example, the intelligent identification for the defects of the transmission and distribution lines,
+and imaging and adaptive fusion monitoring for the equipment defects,
+and for the power environment and so on.
+So, so many AI products to be developed in the power system.
+And also, we have to pay attention to the many, many applications for the system safety
+and prevention, disaster prevention.
+For example, the intelligent robot inspection for substations, for example, the health status
+detection, and the risk early warning of the on-road chargers, and the early fire warnings
+and the file extinguish technology for transformers, for the cables, for the energy storage, and the internal technology for the safety tools.
+And the anti-miss operation technology, for example, if someone with a miss, to go into the miss space, there's a warning to tell him that you are wrong.
+wrong. So we use the human replacement for the high-risk operations without the
+overhead operation. We use the robot to replace the humans as well. So, so many AI
+technology to be used in the power system. And the last two things is that we have to pay more
+attention to the weather because the weather will affect the new power system
+And another thing is that we have to pay attention to the carbon.
+So apart from the source, grid, load, and storage operations, apart from this one,
+we have to pay attention to the weather, we have to pay attention to the carbon,
+because the weather will affect the generation of the renewable energies.
+This is a very, very serious program for the operators of the system.
+And also, our final objective is to reduce the carbon emission,
+to make the power system to be carbon neutral.
+So the electricity and the carbon neutralization become very important.
+So we have to pay attention to the carbon production and electric carbon production.
+So that the safe operation of the new power system would focus on interaction and coordination for the six elements.
+The six elements include the source, grid, load, storage, and weather and carbon.
+So we think the six elements will make the new type of power system to be operated very safe
+and very economical. You know, in the western China, there is a very complex weather.
+For example, in Tibet, in Xinjiang, in the western, east-western, in Mongolia,
+there is a lot of different conditions, weather conditions, and very complex terrains and landforms.
+And this kind of renewable energy generation path, their production, their generation varies very fast with the virus.
+So we have to make a global climate change to be identified.
+because this global climate change becomes normal.
+So we have to count the money, a lot of these things.
+So we think that integration of metrology and electric power,
+we named metrology power, is impoverished to the power production.
+So, with the weather data, with the meteorological data and technology, to be closely linked
+with the renewable energy generation forecasting will make the decision of the power grid operation
+and the maintenance.
+This is very important.
+This is an accurate forecast of the renewable energy generation.
+This depends on the accurate forecast of the weather, so this is quite important.
+And specialized technology for disaster prevention, control, operation and maintenance.
+So we have to develop different weather disasters,
+such as typhoon forecast, such as tower risk monitoring,
+So we have to set up an integrated decision making platform, it will achieve data integration
+and effective applications such as weather monitoring, wind, solar, hydropower forecasting
+to provide the power sector with 4% services from the early warning to the post-disaster assessment.
+So all of these technologies are very urgently needed in the electric power system.
+So nowadays we have set up a special committee to do special research on the weather and the electric power,
+how to research for the link with each other, especially for the future in the power market.
+So if we set up a very complicated power market mechanism,
+so the price is very close with the forecast of the generation.
+So if you make a missed result, if you make a result that is not very precise,
+So we think that deep coupling of the metrology and the electric power is a no-train for the
+power security and emergency response.
+So in Chinese power system, we have developed some many mini-weather stations.
+For example, in Jiangsu province, they are scheduled to install the mini weather stations
+every kilometer to detect the weather.
+We use the unmanned helicopter with swarm, airborne, cooperative, 3D modeling, and imaging
+analysis to inspect the network.
+We use emergency plan generation based on large language model.
+We have set up a lot of planning.
+The people train with the planning into the office.
+But if there is an emergency occur, how can we very fast, very quickly,
+to respond, to make real, existent planning for the emergency process.
+This is dependent on the large language.
+We have to develop the emergency plan generation,
+automatically generate the emergency planning.
+We have to research on the collaborative command
+How to organize team, how to organize material, emergency material transportation, and result based on S-train weather forecast.
+So all of this is related to the real side of the weather forecast.
+This is a very close thing with the policy.
+Okay, the last one we have to pay more attention to is carbon.
+So the carbon generated by electricity is very very important for the carbon neutral for the new power system.
+Because the final organization, the final target of the new power system is to reduce the carbon emission.
+So how to calculate the carbon emission for each kilowatt hour of electricity is very important.
+So we have a new concept, that is, we make the path.
+In the path, we make the source follow the load.
+Because if the load changes, we have the order to change the output of the power plant.
+This is the traditional operation.
+But now this is changed. We changed the load moves with the source.
+If the source fluctuates, we make the load to move.
+We use our administration policies to encourage the load, the users, to take part in the adjustment.
+So load moves with source is very important. This is the demand response.
+And also, we promote that load moves with carbon, so through a precise time and region based electricity carbon accounting mechanism,
+it is possible to link up with the international carbon tariff system, and to respond to the government carbon reduction policy.
+When we make the time-based carbon, each hour, we can track what of this kilowatt hour of electric power generation to be produced in when and where.
+When and where the electricity is produced.
+So, time-based is the guide to the load to shift to the low-carbon time period, and region-based
+is the guide to energy-consuming load to shift to the low-carbon areas.
+For example, in the western part of China, there is very low carbon emissions, but our
+Our production center is located in the east, how to shift the east and the north to the west.
+So this is very important.
+So lower the force of carbon will inevitably lead to significant change in the planning, in the construction, in the operation of the power system.
+And it will show an important impact on the great architecture, the safety operation of the west to east power transmission in China.
+So we have another idea, we will transfer the lower centers, the lower consumption from the eastward, to the lower carbon area.
+So the United States made a proposal that we make the carbon production calculations by time, from annually to hourly.
+So each hour, they will publish, they will announce which of the electricity produced by what time, by where, where they are.
+So this goes from Swiss, to country Swiss, to a balance space, to a load center, to a load zone.
+So this is the United States' suggestion, the standard.
+And also, the United Congress requires the EIA to publish hourly average carbon emission
+factors for each electric power utility.
+So you can check in the website, you can check, for example, you can check the American utility,
+they will announce their electric power production produced in which area in what time.
+So this is very important to track the carbon prints.
+So we have focused first to establish an international recognized carbon footprint
+to print on the carbon standard certification system and to create a fair and equitable international carbon printing management.
+This is very important for us to set up such a system.
+For our side, for our team, we are now constructing a single electricity carbon map based on big data.
+so the electricity carbon map this is a very very complex model from the
+electric power grid to the production data and then we calculate the carbon
+flow along with the network and finally we make each each point each electric
+point, they produce, they will supply the electricity, and we give index for each kilowatt
+hour. And finally we want to make every product a signal. If you scan the signal, you can
+know that how many carbon emissions come from this product and when and where this product is produced
+how many kilowatt hours consumed to produce this product so that we can make a very very detailed
+detection so we think the integrated map is very important so we make the optimize of the six
+elements, source, grid, load, storage and weather and carbon to support the safety
+operation of our city. To make a clean and low carbon production, to make a safety
+margin, to make a economic efficient operation, to make a supply-demand
+coordination and response, to make a flexible and smart operation. So this
+This is a simple description of our system.
+First of all, we collect a lot of data.
+Weather data, information data, detection data, and so on.
+We make the knowledge base, we make the research center,
+enhance the generation, and so on.
+We make the dark model for the detection center.
+So that we can develop a predictive dark model.
+and some weather large models, and so on.
+And finally, we take a technological base
+based on the graph analysis, graph knowledge and calculations.
+And we use this database to support
+source load prediction, to support carbon footprint
+measurement, to support the situation
+awareness, to support the planetary magnification,
+to support collaborative optimization, to support flexibility optimization, and so on.
+So this kind of big data system is very useful for the future advanced operations of the new power system.
+So we use this map, and we set up a graph technology foundation.
+This is the support, this is the basic information.
+And we make some AI-influenced decision making.
+This is the software.
+And finally, we make an electrical carbon coupling on that.
+And how about carbon?
+carbon. You see, this kind of data system, for the power system operation, and for the comprehensive and accurate
+weather power generation, load forecasting, use this because of fused weather data, AI based process
+predictions. And for the online security assessment for the power system, with those great load storage,
+Why the carbon benefit? So that we can analyze, how about this power system, you have, whether there is a magic for the power system to expand, whether there is a magic to interconnect with the PVs and so on.
+And also, we can make an analysis of grid adequacy and flexibility based on the six sectors.
+For example, for this kind of a system, how to connect, how many distributed PV could be connected to the system.
+So, finally, we make a report for the provincial detection contracts.
+And these project centers integrate multi-source systems, including data type and intraday power generation plants,
+including new energy power and load forecasting, including virtual power plants,
+and to build an integrated automation platform in provincial infrastructure centers
+for the source with load storage devices and commons for the sector.
+So this is our government support project, we are now setting up such a platform in Guangxi province.
+Okay, thank you. Any questions?
+Any questions? No questions?
+I just want to know how long did it take you to implement all of those in China?
+This project is not ongoing. It's not completed.
+Because the project is set up the year before last.

@@ -1,0 +1,1416 @@
+1
+00:00:00,000 --> 00:00:11,439
+China's space craft and also satellite, we all use gallium arsenide solar panels for power supply to the space.
+
+2
+00:00:13,619 --> 00:00:18,570
+For space PV, we also started cross-guide solar cells.
+
+3
+00:00:20,839 --> 00:00:29,440
+It has strong light absorption, long career diffusion length, and high defect tolerance, low temperature fabrication.
+
+4
+00:00:29,440 --> 00:00:37,479
+So it's around 100 centigrade or 150 centigrade that we can do the fabrication.
+
+5
+00:00:37,939 --> 00:00:40,759
+And tunable bandgap wire composition.
+
+6
+00:00:41,320 --> 00:00:49,439
+So for the bandgap it can from 1.5 to 2.6 around.
+
+7
+00:00:50,079 --> 00:00:54,079
+But it exists two main problems.
+
+8
+00:00:54,240 --> 00:00:55,579
+The first is poor stability.
+
+9
+00:00:55,579 --> 00:01:00,219
+Like, it is sensitive to moisture, heat, light, and bias.
+
+10
+00:01:01,020 --> 00:01:03,280
+So it's like a big problem, right?
+
+11
+00:01:03,380 --> 00:01:05,959
+Because we put solar panels outside, right?
+
+12
+00:01:06,200 --> 00:01:10,060
+So the second problem is like low, large area efficiency.
+
+13
+00:01:10,599 --> 00:01:19,319
+Now in my lab, we always fabricate the small area solar cells, devices.
+
+14
+00:01:19,319 --> 00:01:25,099
+So if we want to have a larger area, the efficiency is going to decrease very fast.
+
+15
+00:01:25,260 --> 00:01:28,120
+So it's really hard for this one.
+
+16
+00:01:28,319 --> 00:01:30,719
+So how are we going to solve all these problems?
+
+17
+00:01:31,450 --> 00:01:33,170
+We have so many strategies.
+
+18
+00:01:33,730 --> 00:01:38,730
+The easiest one is the first one, compositional engineering.
+
+19
+00:01:39,569 --> 00:01:45,569
+That means when we fabricate or prepare the perovskite materials,
+
+20
+00:01:45,569 --> 00:01:49,109
+we're going to change some molecules inside.
+
+21
+00:01:49,450 --> 00:01:52,469
+For perovskite, we have A site, B site, X site, right?
+
+22
+00:01:52,590 --> 00:01:54,870
+So we're going to choose different molecules
+
+23
+00:01:55,409 --> 00:01:58,890
+to have different stability and photovoltaic performance.
+
+24
+00:01:59,349 --> 00:02:03,010
+And second one is, after we have the perovskite filled,
+
+25
+00:02:03,310 --> 00:02:04,370
+what are we going to do?
+
+26
+00:02:04,510 --> 00:02:07,250
+We're going to do the passivation layer on the top.
+
+27
+00:02:07,530 --> 00:02:10,169
+This is interface passivation.
+
+28
+00:02:11,370 --> 00:02:12,909
+It can decrease the defect.
+
+29
+00:02:12,909 --> 00:02:21,370
+that and the third one is active engineering so we can put some materials or element inside of
+
+30
+00:02:21,370 --> 00:02:28,449
+the precursor solution of perovskite as well and another one to increase the stability this is
+
+31
+00:02:28,449 --> 00:02:35,050
+especially for stability we can get like low dimensional three-dimensional composite structures
+
+32
+00:02:35,050 --> 00:02:41,129
+like 1D, 3D, or 2D, 3D to improve the stability.
+
+33
+00:02:41,969 --> 00:02:46,520
+And this one is for this problem.
+
+34
+00:02:46,759 --> 00:02:50,039
+So we are working on a large area fabrication process.
+
+35
+00:02:50,759 --> 00:03:03,370
+In this table on the right, this is about the space application project that happened before.
+
+36
+00:03:03,370 --> 00:03:10,030
+Like in the year of 2023, Honghu second satellite, we use single junction.
+
+37
+00:03:10,289 --> 00:03:17,180
+For all these single junction solar cells, the last one is, it's not showing very good.
+
+38
+00:03:17,400 --> 00:03:28,060
+For the last one is, I think it's, it should be opened by office software then it's gonna be right.
+
+39
+00:03:28,360 --> 00:03:29,759
+This is WKS probably.
+
+40
+00:03:30,379 --> 00:03:34,280
+So these are all for single junction PROMS guide.
+
+41
+00:03:34,280 --> 00:03:39,659
+we have it's like application in space and the last one we cannot see it here
+
+42
+00:03:39,659 --> 00:03:47,219
+it's for tandem but I'm gonna talk about it quite soon now so for perovskite
+
+43
+00:03:47,219 --> 00:03:52,479
+silicon tandem cells I mentioned earlier that we have two terminal and three
+
+44
+00:03:52,479 --> 00:04:00,860
+terminal sorry four terminal and the efficiency is like 35, 30, 33 is pretty
+
+45
+00:04:00,860 --> 00:04:01,520
+pretty high, right?
+
+46
+00:04:01,699 --> 00:04:04,520
+This is like perovskite together with silicon.
+
+47
+00:04:04,879 --> 00:04:06,439
+This one is all perovskite.
+
+48
+00:04:06,639 --> 00:04:10,199
+On the top is white band gap perovskite.
+
+49
+00:04:10,500 --> 00:04:14,680
+The band gap is around 1.67 to 1.7.
+
+50
+00:04:15,000 --> 00:04:18,879
+And in the bottom is narrow band gap perovskite.
+
+51
+00:04:19,000 --> 00:04:19,860
+They are all perovskite.
+
+52
+00:04:20,019 --> 00:04:24,720
+And the band gap is around 1.2 to 1.26 probably.
+
+53
+00:04:25,199 --> 00:04:27,939
+And the last one is perovskite together
+
+54
+00:04:27,939 --> 00:04:35,779
+with copper indium gallium selenide so why we do tender because it's beyond the
+
+55
+00:04:35,779 --> 00:04:40,839
+single junction shock equation limiting right it can improve it has higher
+
+56
+00:04:40,839 --> 00:04:46,860
+efficiency ceiling compatible with silicon photo industry and also strong
+
+57
+00:04:46,860 --> 00:04:55,399
+potential for space and flexible applications so this year it's still
+
+58
+00:04:55,399 --> 00:05:04,670
+like several months ago we had our shenzhou number 23 satellite magnet spacecraft launched into the
+
+59
+00:05:04,670 --> 00:05:13,129
+space and we still use getting arsenide for the main power supply but we brought prospect solar
+
+60
+00:05:13,129 --> 00:05:20,589
+cell to the space as well for the experiment we do real space and extreme experiment testing and
+
+61
+00:05:20,589 --> 00:05:26,129
+also efficiency degradation data collection hopes that we can get good
+
+62
+00:05:26,129 --> 00:05:34,009
+data in future and start space application for this another application
+
+63
+00:05:34,009 --> 00:05:38,930
+for space TV is space solar power station and the wireless power
+
+64
+00:05:38,930 --> 00:05:44,410
+transmission is divided into two type one is concentrating one another one is
+
+65
+00:05:44,410 --> 00:06:19,500
+non-concentrated so actually it's pretty simple for for concentrated one it's
+
+66
+00:06:19,500 --> 00:06:27,740
+pretty easy we just use a small common cheap lens right so put it on the top of
+
+67
+00:06:27,740 --> 00:06:35,100
+our solar panel and then we can decrease the active area of solar panels and the non-concentrating
+
+68
+00:06:35,100 --> 00:06:43,420
+one is very normal and general ones so these are advantagement and we have several different
+
+69
+00:06:43,420 --> 00:06:52,829
+projects for this i don't have too much time left so for biomass i'm probably gonna
+
+70
+00:06:52,829 --> 00:06:54,470
+I'm going to escape it, sorry.
+
+71
+00:06:56,379 --> 00:07:04,100
+For AI driving, for CASB, we have three steps for this.
+
+72
+00:07:04,360 --> 00:07:06,879
+The first one is we input data, right?
+
+73
+00:07:07,060 --> 00:07:09,060
+We have all different types of data,
+
+74
+00:07:09,139 --> 00:07:12,459
+like weather data, numerical weather prediction,
+
+75
+00:07:12,779 --> 00:07:17,180
+and the plant operation data, spatial environmental data,
+
+76
+00:07:17,360 --> 00:07:21,399
+for space use, grid operation data, market and load,
+
+77
+00:07:21,399 --> 00:07:26,600
+for system, for market. We have all different types of data. We got this and input it.
+
+78
+00:07:26,839 --> 00:07:32,120
+And the second step is data fusion and cleaning. We first do data cleaning and
+
+79
+00:07:32,120 --> 00:07:36,899
+then anomaly detection. Also, we're probably gonna have missing data, right?
+
+80
+00:07:36,980 --> 00:07:44,319
+We do imputation as well and time synchronization and feature engineering.
+
+81
+00:07:44,759 --> 00:07:50,459
+In the third step, we have AI-ready features like time features. It's like
+
+82
+00:07:50,459 --> 00:07:57,379
+hours, holiday, and the season, sunrise, sunset, and weather, like wind speed, cloud,
+
+83
+00:07:57,579 --> 00:08:02,899
+cover, irradiation, temperature, and humidity. The last one is operation,
+
+84
+00:08:03,180 --> 00:08:08,860
+operation features, it's like historic power, equipment features, and equipment features.
+
+85
+00:08:09,300 --> 00:08:19,079
+So we had all this data and put it into the machine, right, to calculate it, and we
+
+86
+00:08:19,079 --> 00:08:21,100
+we can use all different models.
+
+87
+00:08:21,639 --> 00:08:26,639
+So we have too many AI models to use
+
+88
+00:08:26,639 --> 00:08:29,360
+for forecasting for renewable energy.
+
+89
+00:08:29,600 --> 00:08:32,740
+We divide it into three types.
+
+90
+00:08:32,960 --> 00:08:35,500
+The first type is traditional machine learning,
+
+91
+00:08:36,600 --> 00:08:37,220
+shadow models.
+
+92
+00:08:37,820 --> 00:08:40,320
+I'm gonna just talk about some of them.
+
+93
+00:08:40,440 --> 00:08:43,480
+Probably like, for example, ANNBP,
+
+94
+00:08:43,480 --> 00:08:51,379
+like it's for non-linear mapping of wind speed power and irradiation power it is
+
+95
+00:08:51,379 --> 00:08:58,580
+quite simple and easy to deploy and for example like the second one SVM SVR is
+
+96
+00:08:58,580 --> 00:09:06,440
+for small sample wind and solar power prediction it's quite stable and there
+
+97
+00:09:06,440 --> 00:09:13,700
+small data and we also have like random forest and the other the last one this
+
+98
+00:09:13,700 --> 00:09:20,399
+one is combined diverse models so it can improve the robustness this is the first
+
+99
+00:09:20,399 --> 00:09:25,220
+type the second type is like deep learning for temporal and spatial
+
+100
+00:09:25,220 --> 00:09:36,610
+features for example like the first one LSTM it's for ultra short term and the
+
+101
+00:09:36,610 --> 00:09:46,649
+short-term wind and photomotor forecasting it can handle time serious data but like the the other
+
+102
+00:09:46,649 --> 00:09:53,850
+one the third one tcn it's for long term right long-term sequence prediction it has high parallel
+
+103
+00:09:54,590 --> 00:10:05,519
+efficiency and the other one like transformer it's for multivariate and multi-step power prediction
+
+104
+00:10:05,519 --> 00:10:14,139
+it is very strong modeling capability for long sequence so this is the first two different types
+
+105
+00:10:14,139 --> 00:10:21,720
+and the third type we combine them together we choose some of them we call it hybrid models for
+
+106
+00:10:21,720 --> 00:10:29,919
+example we combine LSTM together with transformer so it's for short-term day ahead wind or photovoltaic
+
+107
+00:10:29,919 --> 00:10:36,879
+forecast and it has a short-term memory together with long sequence attention
+
+108
+00:10:36,879 --> 00:10:43,840
+and for CNN together with LSTM and transformer it's for cloud charge and
+
+109
+00:10:43,840 --> 00:10:49,740
+meteorology historical power fusion prediction as well so it's combined
+
+110
+00:10:49,740 --> 00:10:56,860
+space time attention all together and the third one is like GNN and STGN
+
+111
+00:10:56,860 --> 00:11:00,740
+And it's for multispatial and regional renewable energy
+
+112
+00:11:00,740 --> 00:11:05,659
+forecasting and the modeling spatial correlation as well.
+
+113
+00:11:05,940 --> 00:11:08,139
+And the last one is PINN.
+
+114
+00:11:08,159 --> 00:11:12,240
+It's for wind or photomorphic physical integration
+
+115
+00:11:12,240 --> 00:11:13,059
+prediction.
+
+116
+00:11:13,899 --> 00:11:20,960
+It can improve credibility and generalization ability.
+
+117
+00:11:21,860 --> 00:11:22,299
+Sorry.
+
+118
+00:11:23,100 --> 00:11:30,200
+Also, for artificial integrated drive and renewable power forecasting, it's also for
+
+119
+00:11:30,200 --> 00:11:34,580
+engineering application, we can get the AI power forecasting results.
+
+120
+00:11:35,100 --> 00:11:42,279
+For example, for renewable energy grid integration and dispatch, also for energy storage optimization
+
+121
+00:11:42,279 --> 00:11:49,779
+and control, virtual power plant aggregation, microgrid dynamic response, power electricity
+
+122
+00:11:49,779 --> 00:11:55,919
+market training and also intelligent operation and maintenance and these are
+
+123
+00:11:55,919 --> 00:12:05,720
+some projects in China like the first one is Quafu forecasting system for
+
+124
+00:12:06,519 --> 00:12:12,019
+this one we mainly use high-risk numerical weather prediction together
+
+125
+00:12:12,019 --> 00:12:19,519
+with artificial intelligence it can serve higher than 600 renewable plants
+
+126
+00:12:19,519 --> 00:12:27,299
+and for wind or photovoltaic forecasting also for grid dispatch the second is
+
+127
+00:12:27,299 --> 00:12:34,240
+from my hometown state grade Xinjiang AI forecasting system they mainly use multi
+
+128
+00:12:34,240 --> 00:12:40,360
+algorithm AI forecasting and the forecast accuracy actually is pretty
+
+129
+00:12:40,360 --> 00:12:48,559
+high for wind power is around 96% for photovoltaic is around 98% and for big
+
+130
+00:12:48,559 --> 00:12:50,379
+big data renewable absorption as well.
+
+131
+00:12:50,659 --> 00:12:54,600
+And the third one is from this province, Fujian province.
+
+132
+00:12:55,500 --> 00:12:57,659
+It's for distributing PV models.
+
+133
+00:12:57,779 --> 00:12:59,919
+They use grid-based machine learning prediction
+
+134
+00:13:00,620 --> 00:13:04,460
+and it's for country-level distributed photovoltaic
+
+135
+00:13:04,460 --> 00:13:07,659
+distribution grid and lightweight machine learning.
+
+136
+00:13:10,730 --> 00:13:11,690
+Let's see.
+
+137
+00:13:12,169 --> 00:13:14,710
+This one is Shenzhen Energy, Huawei.
+
+138
+00:13:15,889 --> 00:13:18,149
+Probably you guys know this company, right?
+
+139
+00:13:18,149 --> 00:13:27,590
+Huawei cloud forecasting system, they use Penghu, similar with Zantuan, this is a Huawei
+
+140
+00:13:27,590 --> 00:13:33,690
+energy as well, sorry, Huawei company, in here as well they use Penghu based power forecast
+
+141
+00:13:34,090 --> 00:13:41,730
+and it can increase prediction accuracy, it's like for wind, it can increase 10%, for photovoltaic,
+
+142
+00:13:41,730 --> 00:13:47,409
+it can increase 2% is for cloud AI multi-energy forecast and for the other
+
+143
+00:13:47,409 --> 00:13:54,509
+ones it's mainly like this one it's for power system and market forecasting and
+
+144
+00:13:54,509 --> 00:14:00,649
+this weather big model together with AI is for prediction accuracy improvement
+
+145
+00:14:00,649 --> 00:14:08,730
+around 3% to 5% the last one is power using power sector foundation model for
+
+146
+00:14:08,730 --> 00:14:13,190
+For this one, the forecast accuracy can improve around 2.8%
+
+147
+00:14:13,190 --> 00:14:17,649
+and for large model and 3D decision as well, okay?
+
+148
+00:14:18,159 --> 00:14:22,250
+So now the third topic is about new power system
+
+149
+00:14:22,250 --> 00:14:24,570
+integration and application.
+
+150
+00:14:25,769 --> 00:14:30,850
+Probably for this one, maybe you already have this topic,
+
+151
+00:14:31,129 --> 00:14:32,789
+similar topic in the first day.
+
+152
+00:14:33,169 --> 00:14:34,669
+I'm not sure, okay.
+
+153
+00:14:34,669 --> 00:14:39,149
+Okay, so when we compare it for the traditional power system, right?
+
+154
+00:14:39,269 --> 00:14:44,149
+So for traditional power system, it's like generation always follow load.
+
+155
+00:14:44,350 --> 00:14:49,789
+What kind of load we have, we're going to build what kind of power generation system, right?
+
+156
+00:14:50,389 --> 00:14:52,710
+It's like one-way generation side.
+
+157
+00:14:52,990 --> 00:14:56,370
+But we have more and more renewable energies coming,
+
+158
+00:14:56,529 --> 00:15:00,870
+so we're definitely going to build a new power system.
+
+159
+00:15:00,870 --> 00:15:07,809
+For this new power system, it has high renewable energy penetration and also multi-site coordinated
+
+160
+00:15:08,330 --> 00:15:16,629
+flexibility management, and the most important one is interactive source grid load storage
+
+161
+00:15:16,629 --> 00:15:17,370
+ecosystem.
+
+162
+00:15:17,830 --> 00:15:19,929
+We combine these four together.
+
+163
+00:15:20,309 --> 00:15:26,149
+I think in the first day's topic, Professor John also mentioned this, right?
+
+164
+00:15:26,149 --> 00:15:35,809
+Okay, so I'm not going to very detail for this, for source grade load storage, but it's very important for new energy system.
+
+165
+00:15:36,149 --> 00:15:40,889
+So the key features is like source follows load, right?
+
+166
+00:15:41,009 --> 00:15:46,590
+But load response to supply and storage balances fluctuation.
+
+167
+00:15:46,690 --> 00:15:51,970
+Remember what I mentioned earlier for PV power and wind power, right?
+
+168
+00:15:52,029 --> 00:15:54,190
+It's like it's not stable.
+
+169
+00:15:54,190 --> 00:15:58,490
+and great friendly operation smart coordination control as well and key
+
+170
+00:15:58,490 --> 00:16:04,850
+benefits is like it has more renewables inside we can combine PV, biomass, wind
+
+171
+00:16:04,850 --> 00:16:12,389
+or maybe hydropower as well and it has lower costs and greater flexibility and
+
+172
+00:16:12,389 --> 00:16:16,370
+and a very reliable supply, okay?
+
+173
+00:16:18,840 --> 00:16:22,600
+For application, from generation side,
+
+174
+00:16:24,019 --> 00:16:26,539
+I mentioned earlier about this, right?
+
+175
+00:16:26,759 --> 00:16:29,259
+So for desert, for Gobi,
+
+176
+00:16:29,879 --> 00:16:32,320
+bare land, ceiling, air-climbed land,
+
+177
+00:16:32,659 --> 00:16:36,340
+for all these, we can use large-scale wind, solar bases.
+
+178
+00:16:37,080 --> 00:16:40,279
+The advantagement is like, for all these places,
+
+179
+00:16:40,279 --> 00:16:46,940
+says we have abundant wind and solar resources like my hometown and the lower land use constraints
+
+180
+00:16:47,639 --> 00:16:55,539
+concentrated development conditions and suitable for long distance bulk power delivery and then
+
+181
+00:16:55,539 --> 00:17:04,329
+in the right it's the projects for this generation side i'm not talking about all of these but this
+
+182
+00:17:04,329 --> 00:17:12,150
+In the year of 2024, we had the first batch of large bases accelerated into operation.
+
+183
+00:17:12,470 --> 00:17:17,529
+This is very exciting, and we have a very important example in here.
+
+184
+00:17:17,750 --> 00:17:22,130
+It's in Ningxia province, it's Tanger Desert New Energy Base project.
+
+185
+00:17:22,849 --> 00:17:32,390
+We combined photovoltaic desert restoration, energy storage, and ultra-high voltage transmission
+
+186
+00:17:32,390 --> 00:17:33,430
+mission all together.
+
+187
+00:17:34,609 --> 00:17:38,750
+This is a very important example.
+
+188
+00:17:39,410 --> 00:17:44,509
+And there's planned capacities, like around 13 gigawatts,
+
+189
+00:17:44,549 --> 00:17:47,089
+and developed by Longyuan Power.
+
+190
+00:17:47,390 --> 00:17:48,589
+Longyuan Power, remember?
+
+191
+00:17:49,269 --> 00:17:52,950
+Yesterday, when we visited there, we saw for the wind power.
+
+192
+00:17:53,269 --> 00:17:54,509
+OK, all right.
+
+193
+00:17:54,650 --> 00:17:55,329
+OK, thank you.
+
+194
+00:17:55,509 --> 00:18:00,390
+And the first three gigawatts of photovoltaic commission,
+
+195
+00:18:00,390 --> 00:18:09,700
+like 295 megawatts okay I have less time but I still have many slides so for
+
+196
+00:18:09,700 --> 00:18:15,279
+application sorry guys I will talk very fast from now sorry so another
+
+197
+00:18:15,279 --> 00:18:20,259
+application from grid side we actually have the main two types the first type
+
+198
+00:18:20,259 --> 00:18:27,220
+is like flexible high voltage direct current transmission technologies we
+
+199
+00:18:27,220 --> 00:18:33,460
+have all these four different types and the second one is ultra high voltage direct transmission
+
+200
+00:18:33,460 --> 00:18:41,759
+technology this is very suitable for my hometown like west of china and in the right it's the
+
+201
+00:18:41,759 --> 00:18:49,240
+projects for this great site application and the other application is for the
+
+202
+00:18:49,240 --> 00:18:56,710
+load side so we have many flexible load right for different load we can do the
+
+203
+00:18:56,710 --> 00:19:03,789
+different work in here okay so I don't have time for the details sorry and from
+
+204
+00:19:03,789 --> 00:19:09,529
+the energy storage side for this one I can talk very fast because we're gonna
+
+205
+00:19:09,529 --> 00:19:15,650
+have presentation tomorrow and the day after tomorrow for visiting probably two
+
+206
+00:19:15,650 --> 00:19:18,950
+Two types, the first one is short duration energy storage
+
+207
+00:19:19,269 --> 00:19:22,009
+for frequency and the peak regulation.
+
+208
+00:19:22,609 --> 00:19:26,549
+Like we already familiar with lithium ion battery,
+
+209
+00:19:26,869 --> 00:19:27,910
+sodium ion battery.
+
+210
+00:19:28,130 --> 00:19:30,450
+Also we have flywheel storage
+
+211
+00:19:30,710 --> 00:19:34,490
+and together flywheel leads lithium ion.
+
+212
+00:19:34,990 --> 00:19:38,589
+If it's short term, we also have long duration
+
+213
+00:19:39,210 --> 00:19:41,750
+energy storage like flow battery storage
+
+214
+00:19:41,750 --> 00:19:50,009
+storage and other like compressed air energy storage okay this application is
+
+215
+00:19:50,009 --> 00:19:59,980
+for smart micro grid and these are all about projects examples I will give talk
+
+216
+00:19:59,980 --> 00:20:08,099
+about the first one in Beijing and we combined 1.8 megawatts distributed
+
+217
+00:20:08,099 --> 00:20:15,079
+And for wind, it's like 4.8 megawatts, and for energy storage, 2.9.
+
+218
+00:20:15,240 --> 00:20:24,259
+Also, we have hydropower, like tube, 3-cylinder tube water storage and 0.7 megawatts micro tube, okay?
+
+219
+00:20:24,420 --> 00:20:31,759
+And from virtual power plant application, we have four stages.
+
+220
+00:20:31,759 --> 00:20:38,039
+is the first one is exploration stage started with demand response and the commercial building load
+
+221
+00:20:38,039 --> 00:20:44,240
+management the second is platform development and then we go to the marketing the third stage
+
+222
+00:20:44,240 --> 00:20:51,700
+the last one is standardization and the scaling phase as well we improve the capacity like by
+
+223
+00:20:51,700 --> 00:20:59,460
+By 2027, it's going to be higher than 20 gigawatts, and by 2030, higher than 50.
+
+224
+00:21:01,769 --> 00:21:06,349
+This application is also very important for green power direct connection.
+
+225
+00:21:06,670 --> 00:21:13,769
+It has dedicated lines, clear traceability, load-matched supply, and source-load storage
+
+226
+00:21:13,769 --> 00:21:15,130
+coordination as well.
+
+227
+00:21:15,130 --> 00:21:23,009
+The first example also from China Energy, Donghua Steel, it's a very famous one.
+
+228
+00:21:24,450 --> 00:21:27,549
+And another one is Computing Power Coordination.
+
+229
+00:21:27,869 --> 00:21:31,789
+We have China Badian and the China Datong project.
+
+230
+00:21:32,190 --> 00:21:39,470
+Also we have it from Malaysia, Zhuhou Green Data Center Cluster, this is also a very good
+
+231
+00:21:39,470 --> 00:21:39,710
+one.
+
+232
+00:21:39,710 --> 00:21:45,809
+And another one is from China, the EEC computing power center cluster.
+
+233
+00:21:46,210 --> 00:21:52,250
+It got the investment from Google, around 1 billion US dollars.
+
+234
+00:21:52,490 --> 00:21:53,809
+It's like a very good one.
+
+235
+00:21:54,029 --> 00:21:59,509
+And the capacity for IT load is higher than 500 megawatts.
+
+236
+00:22:01,319 --> 00:22:06,240
+This application is about system-friendly renewable energy station.
+
+237
+00:22:07,660 --> 00:22:16,579
+The example is from China's three gorges, Wulan Chabu, a grid-friendly green powder
+
+238
+00:22:17,190 --> 00:22:23,180
+station demonstration project, and the energy storage is 30 percent of the installed capacity
+
+239
+00:22:23,180 --> 00:22:25,119
+of wind and photovoltaic.
+
+240
+00:22:25,259 --> 00:22:33,000
+And another one is the first batch of, this is from National Energy Administration New
+
+241
+00:22:33,000 --> 00:22:40,619
+power system pilots like in different cities. For this one is directly in this
+
+242
+00:22:40,619 --> 00:22:47,309
+city, Fuzhou, Fujian, large-scale offshore wind power which like we visited
+
+243
+00:22:47,309 --> 00:22:56,720
+yesterday. Okay sorry, almost done. Probably this one you guys are going to
+
+244
+00:22:56,720 --> 00:23:02,900
+interested, right? But this one probably you will see it from tomorrow's presentation.
+
+245
+00:23:02,900 --> 00:23:20,039
+The last one is policy. I'm not going to talk about the policy. The policy is for new energy development and policies for new energy consumption and policies for new power system and also policies for electricity market.
+
+246
+00:23:20,519 --> 00:23:31,519
+So it's very complicated, right? And also we have some electricity market mechanism as well. We have like ancillary service market, sport market, medium and long term market.
+
+247
+00:23:31,519 --> 00:23:38,779
+So even for market we have so many different types and green electricity and green certificate
+
+248
+00:23:38,779 --> 00:23:41,140
+market, this is a very important one.
+
+249
+00:23:41,380 --> 00:23:46,119
+So we have new energy electricity first and trading, right?
+
+250
+00:23:46,279 --> 00:23:52,559
+And after that we have issuance and the trading, corporate green consumption as well under
+
+251
+00:23:52,559 --> 00:23:54,359
+the carbon footprint.
+
+252
+00:23:54,359 --> 00:24:03,319
+print this is about the data for our green electricity and green certificate
+
+253
+00:24:03,319 --> 00:24:10,019
+market the data from last year for power trading volume issue volume so what we
+
+254
+00:24:10,019 --> 00:24:20,549
+get and the trading volume as well okay economic boundary okay that's a shame
+
+255
+00:24:20,549 --> 00:24:24,829
+This is my research work that I also want to talk about.
+
+256
+00:24:25,009 --> 00:24:27,029
+So I will talk very fast.
+
+257
+00:24:27,269 --> 00:24:28,849
+Normal silicon solar cells.
+
+258
+00:24:29,009 --> 00:24:32,549
+Before, I worked on dye-sensitized solar cells
+
+259
+00:24:32,549 --> 00:24:35,869
+and some photoelectric functional materials.
+
+260
+00:24:36,309 --> 00:24:39,869
+And now, I mainly work on perovskite solar cells,
+
+261
+00:24:40,009 --> 00:24:43,750
+perovskite together with silicon, also on perovskite,
+
+262
+00:24:43,809 --> 00:24:46,650
+tandem, and for charge-transporting layer
+
+263
+00:24:46,650 --> 00:24:47,730
+and the passivation.
+
+264
+00:24:47,730 --> 00:24:56,950
+we use we also use some simulation using this method and this is what we do first
+
+265
+00:24:56,950 --> 00:25:02,509
+theoretical calculation from simulation we calculate band structure charge density
+
+266
+00:25:02,509 --> 00:25:07,390
+distribution and environmental stability in the first time to choose all the
+
+267
+00:25:07,390 --> 00:25:12,569
+layers all materials and in the second time we do experiment to get fabricates
+
+268
+00:25:12,569 --> 00:25:21,269
+the film and materials. This is like perovskite, normal three-dimensional and this one is what
+
+269
+00:25:21,269 --> 00:25:27,890
+I mentioned we combined 2D and 3D together to improve the stability and that one is for
+
+270
+00:25:28,410 --> 00:25:36,750
+charge transporting layer and in the last step we do device fabrication in here so we can see
+
+271
+00:25:36,750 --> 00:25:43,289
+obviously this is a whole device from the bottom to the top to the electrode
+
+272
+00:25:43,289 --> 00:25:52,500
+this is a mechanism and this is another device structure so my research field
+
+273
+00:25:53,200 --> 00:25:58,279
+like the first one is even its prop guide we have different types right so
+
+274
+00:25:58,279 --> 00:26:03,839
+first one is lead based prop guide I'm not going to the advantagement but I
+
+275
+00:26:03,839 --> 00:26:06,420
+I mentioned the stability is a big problem.
+
+276
+00:26:06,680 --> 00:26:09,079
+So now we focus on stability study,
+
+277
+00:26:09,380 --> 00:26:13,099
+and we design and fabricate the new devices,
+
+278
+00:26:13,299 --> 00:26:16,200
+device optimization, new materials, deployment.
+
+279
+00:26:17,160 --> 00:26:20,480
+So like several years ago,
+
+280
+00:26:20,680 --> 00:26:23,440
+we mainly used ALD for perovskite.
+
+281
+00:26:23,640 --> 00:26:27,779
+We can get very uniform and dense films
+
+282
+00:26:27,779 --> 00:26:29,839
+and functional layers.
+
+283
+00:26:29,839 --> 00:26:39,539
+years. This is another one for teen lead-mixed probes gap. It's not stable as well. It even
+
+284
+00:26:39,539 --> 00:26:47,279
+has very poor, very bad stability compared with the previous one. But why are we still
+
+285
+00:26:47,279 --> 00:26:53,799
+working on it? Why? I don't want it. Ideal band gap, right? When we put teen inside,
+
+286
+00:26:53,799 --> 00:26:59,920
+we can we can change the percentage of tin inside and then we can change the
+
+287
+00:26:59,920 --> 00:27:05,700
+band gap from 1.2 like different and also it's suitable for tandem cells I
+
+288
+00:27:05,700 --> 00:27:10,660
+mentioned that for bottom cell we use narrow band gap solar cells right so we
+
+289
+00:27:10,660 --> 00:27:19,500
+use this one so for stability we have all these different strategies this is
+
+290
+00:27:19,500 --> 00:27:20,960
+This is for solution strategy.
+
+291
+00:27:21,519 --> 00:27:24,420
+So for team lead, mixed PROWS guide,
+
+292
+00:27:24,640 --> 00:27:27,000
+we also focus, the first thing is stability.
+
+293
+00:27:27,460 --> 00:27:29,819
+We are not focused on conversion efficiency.
+
+294
+00:27:30,160 --> 00:27:30,400
+Why?
+
+295
+00:27:30,619 --> 00:27:34,420
+It's growing very fast and it's not that hard
+
+296
+00:27:34,420 --> 00:27:36,680
+to get high efficiency, but for stability.
+
+297
+00:27:37,200 --> 00:27:40,640
+So that's why commercialization is not studied
+
+298
+00:27:41,039 --> 00:27:43,940
+and we don't have market share until now for PROWS guide.
+
+299
+00:27:44,539 --> 00:27:46,160
+And this is some research work.
+
+300
+00:27:46,359 --> 00:27:47,779
+For example, like proper layer,
+
+301
+00:27:47,779 --> 00:27:55,500
+I mentioned like we have in interface passivation right so we use here silicon
+
+302
+00:27:56,000 --> 00:28:01,240
+aluminum oxide and silicon oxide together for the buffer layers this is
+
+303
+00:28:01,779 --> 00:28:09,079
+process the whole process how we do it using ALD and passivation layer is very
+
+304
+00:28:09,079 --> 00:28:15,920
+similar with buffer layer and also we use active materials this is tin lead
+
+305
+00:28:15,920 --> 00:28:25,579
+So when we use materials, it can combine with lead irons or tin irons to stop the degradation.
+
+306
+00:28:26,119 --> 00:28:32,480
+And for the preservation layer, in that one, we also use magnesium oxide as well.
+
+307
+00:28:32,859 --> 00:28:36,359
+This is my academic achievements.
+
+308
+00:28:36,440 --> 00:28:44,099
+And for the books I wrote, even the title is in Chinese, but inside of the book, it's totally English.
+
+309
+00:28:44,099 --> 00:28:46,920
+It's an English book, but it's published in China.
+
+310
+00:28:47,059 --> 00:28:48,619
+So the title is in Chinese.
+
+311
+00:28:49,500 --> 00:28:51,279
+This is my research collaboration
+
+312
+00:28:51,279 --> 00:28:52,640
+with different universities.
+
+313
+00:28:54,039 --> 00:28:55,480
+OK, thank you.
+
+314
+00:29:00,440 --> 00:29:02,809
+Feel free to raise a question.
+
+315
+00:29:03,009 --> 00:29:05,869
+Even if the professor may not talk so much,
+
+316
+00:29:06,029 --> 00:29:08,670
+we still got time for the Q&A session.
+
+317
+00:29:09,029 --> 00:29:09,750
+No rush.
+
+318
+00:29:10,369 --> 00:29:10,930
+Anyone?
+
+319
+00:29:27,640 --> 00:29:40,579
+I would like to ask, what is the minimum wind speed before we know it is visible to be a wind power plant in that area?
+
+320
+00:29:41,140 --> 00:29:42,960
+You mean land, right?
+
+321
+00:29:44,160 --> 00:29:54,799
+Minimum, probably around 40, because we need higher wind resources, right, for the wind power generation.
+
+322
+00:29:54,799 --> 00:30:02,230
+So normally, in the sea, it's higher, right, compared with the land.
+
+323
+00:30:02,490 --> 00:30:08,349
+So in the sea, it's around 48, 45, or even sometimes higher than that.
+
+324
+00:30:08,509 --> 00:30:15,670
+But it's like changeable. It's not stable. It's not like a stable wind speed.
+
+325
+00:30:15,930 --> 00:30:20,549
+So for land, probably around 40 or even 35 probably.
+
+326
+00:30:20,549 --> 00:30:27,049
+But not lower than that, because we need a higher wind resource to get power generation.
+
+327
+00:30:27,609 --> 00:30:33,119
+Thank you. All right. Any other questions?
+
+328
+00:30:33,599 --> 00:30:41,839
+Thank you. I just have a few questions and clarification.
+
+329
+00:30:42,259 --> 00:30:51,640
+First, is typhoon-resistant winter lines part of the technological innovation, especially super typhoons are coming?
+
+330
+00:30:55,769 --> 00:30:58,670
+Can you say it again? Sorry.
+
+331
+00:30:58,670 --> 00:31:15,109
+Is part of the technological innovation or the technologies being deployed with a typhoon-resistant wind turbines, especially super typhoons ranging from 300 kilometers per second?
+
+332
+00:31:16,380 --> 00:31:22,460
+Okay, all right. Actually for this one, I think I'm not going to answer this question,
+
+333
+00:31:22,599 --> 00:31:29,299
+because I'm not very professional for wind power generation, so I'm afraid that, yeah.
+
+334
+00:31:29,640 --> 00:31:37,380
+Yeah, see? Yeah. Thank you. Yeah, yeah. If you ask more about photomartic, I'm happy to answer.
+
+335
+00:31:37,380 --> 00:31:47,799
+Just also a clarification on the Dongshin Shinkan offshore, is it a wind, solar, and battery storage integration?
+
+336
+00:31:48,700 --> 00:31:53,160
+Yes, wind, solar power, and also photovoltaic panels together.
+
+337
+00:31:54,160 --> 00:32:04,240
+And just a clarification also with regards to offshore technologies, whether solar or wind,
+
+338
+00:32:06,220 --> 00:32:19,160
+Why does China have more of a floating structure offshore? Is it based on the water depth, or is there any consideration to that?
+
+339
+00:32:19,660 --> 00:32:27,480
+I think probably it's easy to do, because I also mentioned it earlier, it's the first time we use the fixed one, right?
+
+340
+00:32:27,480 --> 00:32:28,420
+but it's very major.
+
+341
+00:32:28,660 --> 00:32:31,759
+But for the fixed one, it's not flexible.
+
+342
+00:32:32,559 --> 00:32:36,339
+If we use floating, we have many other choices, options.
+
+343
+00:32:36,779 --> 00:32:42,119
+Because no matter for wind power, materials, or blades,
+
+344
+00:32:42,400 --> 00:32:45,299
+and also for photovoltaic panels,
+
+345
+00:32:45,579 --> 00:32:47,160
+we have many different choices.
+
+346
+00:32:47,559 --> 00:32:50,859
+So for floating one, probably it's easy to do, more easier.
+
+347
+00:32:51,319 --> 00:32:51,880
+Yeah.
+
+348
+00:32:52,140 --> 00:32:53,440
+Thank you, thank you so much.
+
+349
+00:32:53,480 --> 00:32:54,559
+Thank you, thank you.
+
+350
+00:32:54,559 --> 00:33:08,829
+Hello, my name is and I would like to know what is – what do you think
+
+351
+00:33:08,829 --> 00:33:11,970
+about the future of the solar cells?
+
+352
+00:33:12,170 --> 00:33:15,470
+Which technology will prevail in the next years?
+
+353
+00:33:15,710 --> 00:33:25,730
+Will they – will this technology bring the levelized cost of energy from other systems
+
+354
+00:33:25,730 --> 00:33:28,369
+it comes even lower than now and
+

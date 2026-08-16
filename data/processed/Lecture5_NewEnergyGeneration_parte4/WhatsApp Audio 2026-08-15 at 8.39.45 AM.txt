@@ -1,0 +1,444 @@
+15th five-year plan which is started from the year of 2026 so our goals are like building a new
+energy system we will develop major hydropower projects as well and integrated hydropower wind
+solar basis so we're gonna combine all of these new energy together as well as new energy in
+different bases like desert, gobi, and bare lands, and also offshore wind power
+bases which we visited yesterday, alright? And the second one is like
+rigorously building a new type power system, it's like construct smart grids
+which I will talk about later, and the improve urban and rural distribution
+distribution networks, scientifically deploy pumped storage hydroelectricity, and vigorously
+develop new type energy storage. The third is basically completing a unified electricity
+market system, like expand cross-provisional and cross-regional electricity trading. Actually,
+this is very important for my hometown, because my hometown is in the west of China, and we
+We have less people over there, but we have lots of lands over there that we can use,
+and improve ancillary service markets and capacity markets, and scale up green electricity
+trading and green certificate trading.
+This is the data from last year for the share of new energy.
+This is pie chart.
+We can see from for solar PV, it's the largest one, and then coming up is wind power, and
+And for biomass, it's still the lowest one.
+The second point is about the new energy power generation
+routes.
+For example, for wind power generation,
+the newly stored capacity in the year of 2020
+is around 72 million kilowatts hour, kilowatts, sorry.
+And it's grown up to 120 million in the year of 2025.
+It's pretty high, right?
+And the characteristics is like we have significant economies of scale for solar, sorry, for wind power and good land compatibility and no water consumption.
+But the disadvantages is like fluctuating and intermittent and high site requirements.
+But for solar power, we can see it's increased from 48 million kilowatts in the year of 2020 to 318 million kilowatts in the year of 2025.
+It's like a very huge and fast growth, and it has abundant light resources in China and a wide range of application scenarios and short construction cycles.
+But the disagreement is still the same. It's highly intermittent as well and significantly affected by dusk.
+The last one is biomass. Unfortunately, we can see it's decreased from 5 to 1, 1.5 million kWh.
+hours and but the good thing is we still use for biomass energy and good very
+good stability as well and for disadvantages it's like it has low fuel
+low fuel density and fuel gas requires environmentally friendly treatment the
+third point is about technology especially wind power technology we have
+these four different stages for the first stage it's in the last century so
+we use the turbine is like the fixed ones fix the pitch store regulated wind
+turbine and we use this squirrel cage induction generator can you imagine
+squirrel cage right I don't know if you guys see the squirrel cage so the drive tree is like
+square cage induction generator with gearbox and for the materials normally we use glass fiber
+reinforced and the tower is not that high it's like less than 40 meters but in the second stage
+we can see that the turbine change it's from the fixed uh change to variable pitch technology so
+so it's a little bit more flexible and for drivetrain we use doubly fed induction generator
+and also what we did is early development of direct to drive synchronous generators
+as well and for materials still glass fiber but now we added some elements and other materials
+inside so we've got composite structures and tapered pure steel tower as well.
+In the third stage, in here, so for turbine it's high towers, long flexible
+blades and active yaw smart turbine technology and for drivetrain it's
+permanent magnet direct drive and some of them like semi-directive drive
+transmission and for material it's changed right so here first and second
+stage is glass fiber and for the third stage is changed to carbon fiber this is
+a very huge advancement and flexible high steel towers because these it is
+is over 120 meters and the steel concrete composite tower.
+So it's totally different from the previous two.
+And the fourth stage is now after the year of 2021.
+So we changed from the land to sea.
+So it's deep sea floating offshore wind turbines
+and we use medium speed permanent magnet
+semi-direct-to-drive and direct-to-drive technology and for materials the blade
+length is getting longer it exceeds 120 meters so it's very huge and large steel
+application of carbon fiber protrusion process as well so for third and fourth
+stage steel carbon fiber okay and for the industry chain upstream is mainly
+about raw materials and components and for the midstream it's mainly about
+turbine manufacturing and integration we have many corporations working on this
+so this is a data from last year like Gold Wind I don't know if you heard
+about these corporations. They have the installed capacity for 29 gigawatts and
+for aviation 20, Minyang Smart Energy and Windy around 18 and the last one is
+Semi and DEC as well. They have around 30 gigawatts and the downstream is wind farm
+from development and operation.
+We also have some corporations like
+in China, also China Energy,
+so which hold this conference training program, right?
+And China Corporation, China Corporation.
+This one is state power investment corporation as well.
+And mainly they also do operation
+and their maintenance as well,
+like daily inspections for diagnosis and spare parts replacement as well how okay
+next is about photovoltaic this is my research field okay so for photovoltaic
+technology we have too many types right and we divided it into main three types
+So the first main type is silicon-based technology.
+So I will just mention about some mainly ones.
+The first one is PRC.
+It's normally used dielectric preservation layers
+like aluminum oxide and silicon nitride.
+And for back contract, it can use interdigit back contract as well.
+And the second one, Topcon, it's very popular nowadays.
+So we use ultraseed, tuna oxide layers,
+like silica oxide and heavily doped polysilicon layer.
+For backcontract, normally like,
+sorry, Topcon backcontract and Topcon hybrid backcontract.
+And the third one is HGT.
+This is also a very popular one.
+heterojunction of crystalline silicon and also amorphous silicon. This one is like a
+film, it's flexible, and for crystalline silicon we know it's normally used rigid substrate,
+so we combine them together, and for backcontract is hetero backcontract, this is a hybrid passivated
+that contract and the hybrid interdigitate that contract this is the first child which is very
+nature and popular especially before ten years ago maybe that's nowadays we have many new
+technologies the second one is seen beyond technology we have can be telluride it has
+has low manufacturing cost and commercially mature,
+but unfortunately the efficiency is not that high.
+It's only around 20% probably.
+And for copper indium gallium selenide, the second one,
+it has high theoretical efficiency,
+but the real efficiency is only around 23%, I think,
+present and it's compatible with flexible fabrication which is very good
+and the third one is our star solar cells gallium arsenide it has the
+highest conversion efficiency not only in single junction but also in multi
+junction not only concentrated but also in non concentrated so the highest
+The next efficiency for this one probably is three junction concentrated solar device, which is around 47% the commercial efficiency. It's pretty high. But also efficiency is high, cost is high, right? Relatively expensive for this one.
+that. But now we use it for space. So it's okay. But for ground, too extensive. And the last one,
+also a very popular one, is ProSky. It's also my research field. It has high laboratory efficiency.
+It's going up to 28% in this year. And it has very short process flow and low cost as well.
+Well, okay, so this is second type.
+The third type is tandem.
+Tandem also is a very emerging technology.
+So how are we gonna get tandem cells?
+First is perovskite together with silicon.
+We have two terminals, three terminal,
+four terminal tandem diopters.
+Second is perovskite only.
+So for top cell, we use perovskite,
+and the bottom cell, still perovskite.
+we got all cross guide tandem cells it's just as a band gap is different right
+and the third one is combined together with inorganic compounds so the cells
+for example like copper indium gallium selenide so this is three different
+types of tender technology which is also very popular nowadays okay here we're
+We're going to compare all these different technologies.
+In this figure, it's pretty obvious.
+In the top, which one it is?
+Which one it is?
+Definitely gallium arsenide, right?
+I just mentioned that no matter in single junction,
+multi-junction, not only in concentrated,
+non-concentrated, it always has the highest efficiency.
+efficiency. And the second one is also the popular one.
+This laser doesn't work. The second curve is
+perovskite. So in the year of 2025, the efficiency is around
+27.3, but this year it's 28%. It's growing very fast. And
+the third type, all this, from the yellow one to this red one,
+these four curves are all about silicon-based and for silicon-based we have the highest one
+about xbc okay and the next one is hgt heterojunction which is very popular and then
+uh which one uh hgt yeah hgt topcom it's also a very popular one the last one is the red curve
+which is PRC. Actually PRC is very famous like many years ago but now it has been
+replaced by TOPCOM. So these are silicon based and after that it's our inorganic
+compounds, so to say, except gallium arsenide, right? So for inorganic
+compounds, the next one is copper indium gallium selenide, the last one is
+10 min terrorize which is the lowest one around 20% and this is a research to
+fabricate the device in here and after that we're going to compare the market
+share and you're going to say all these are for which type the first type right
+all of them are about silicon based the solar cells and we cannot see you
+inorganic compound or perovskite. Why? Because for perovskite, we just started the commercialization,
+so we didn't have the market share until now. But for inorganic, for example, like gallium arsenide,
+we also mentioned that it's mainly for spatial application, so it's totally different from the
+ground market share okay so when we compare it it's obvious in here this one prc this color
+it's taking the main market share until the year of 2023 and it's going to the highest one in the
+year of 2021 the market share is like 91.2 percent it's pretty high and but after 2023
+it replaced by top count top count is like two percent only two percent in this year
+but it's already 80 87.6 percent in the year of 2025. why it's not like 90 or more than 90
+because we have more and more technologies coming out right so for
+example like HGT 3.3 and XPC 6.7 and also some others I'm not going to talk
+about this is like less popular ones okay this is mainly about Prouskite
+guide, which we are working on now for the industrialization
+development.
+The production of rigid power supply cells in the industry
+has entered as a mass production stage, not for the flexible,
+just a rigid substrate.
+10 pilot production lines of 100 megawatts or above
+have been put into operation and three gigawatts scale production lines are
+under construction as well so this is a very huge step. By the end of the year
+2025, nine megawatts scale ground demonstration power stations using these
+single junction prospect modules have been built with the largest single
+single project reaching and installed capacity around 8 megawatts.
+So this is a table to compare the highest efficiency for different solar cell types
+types from different companies, yeah.
+And on the top are all silicon-based,
+until here, it's all silicon-based.
+And this one's like inorganic compound,
+solar cells, and the last one is perovskite with tendon.
+Okay, so, for example, for PRC,
+it has the highest efficiency, around 24%,
+but not this year, it's like several years ago,
+around 2023. It's the highest efficiency is from Longji company. It's a very
+famous photovoltaic company in China. They also have some other record like
+this one. I mentioned earlier HPPC and HIPC. The efficiency is around 28% which
+which is pretty high for now, especially for silicon-based.
+And another one is this one,
+perovskite with silicon tandem.
+It's also pretty high, 35, right?
+So we can compare it with single crystal,
+single silicon crystal and single perovskite.
+For single junction perovskite, the highest is 28.
+For silicon, we can see from here, it's still 28, right?
+Right? But when we combine them together, it's going up like 35. So it's a pretty good technology in future. And the second one is Topcon. I mentioned it's very popular. It's from Jinko Solar in China.
+China, the highest efficiency is around 27%, and also the other popular one is HGT, also
+27% from Trina Solar.
+Trina Solar is also a very famous company, and they have another record holding for THPC
+solar cells, and the other one is only for HPCs from GE Solar, or Goldstone Energy Company,
+and these are all about silicon-based and for inorganic sort of cells like
+Longyan energy yeah I mentioned it earlier right for cadmium telluride it's
+a little bit like not that satisfied the highest efficiencies or only 20% and for
+For copper indium gallium selenide, it's only 23%.
+But for the star cell gallium arsenide, the highest is 3.7%.
+It's from Durong Technology Company in China.
+And for perovskite, the highest holding institute
+is Hainan University, which happened this year.
+In June, probably, it's like two months ago.
+Okay, and for industrialization, especially for this tandem, right, we said it's emerging.
+And we can see that before the year of 2023, actually we don't have any data for module,
+right?
+This is just a laboratory.
+We do it in the lab, but we cannot have module.
+but after the year of 2023 we have module efficiency and it's also growing
+up steadily so it's very exciting this is from another Chinese company that
+they made this tandem module so from this table we can divide three stages
+stages for perovskite-silicon tandem solar cell. The first stage is technology research
+and development stage. We focused on distributed applications of mass-produced perovskite modules.
+No commercial tandem module efficiency had been released, so it's nothing in here, the
+data and in the second stage in from 23 to 24 it's large area pilot production stage
+in this stage actually we got the module right so this company made a continuous
+industrialization process and planned its first gigawatt skill tender module
+module scheduled for completion in this year.
+And the third stage is in the year of 2025, it's technology breakthrough stage.
+This is from Trina Solar, and it wants the low-shading, conductive, adaptive heat reduction
+junction and the photo management technologies improving both efficiency
+and power output so after the year of 2025 not only the companies but also
+like the university like us we are happy to work on these tendons or so I also
+started it from last year that and until now I I haven't have any very exciting
+data but still working on it okay and this is for biomass I think I will talk
+about it very quickly this is a road man and it has three stage the third one is
+skew up stage for biomass it started from the year of 2006 we have some
+policies for that it's for like benchmark on we carry for guaranteed
+purchase by the power grid and subsidized for new projects based on
+revenue availability. The second stage is coal generation stage. We combined heat
+and power and the multi-source solid with the coal processing we achieved. The
+third stage is like carbon, negative stage. So we have a blue paper for this.
+on the development potential of zero carbon biomass energy
+under the geocarbon goals.
+So in this stage, declining competitiveness
+of power generation, we have many other technologies, right?
+And sustainable aviation biofuel, biolensing,
+and green mass as well, okay?
+Okay, and for biomass, your demand,
+the first is waste to energy, incineration power generation.
+For short term, just the cost reduction
+and efficiency improvements is very simple.
+And the medium term, we're gonna do multi-source
+with the coal processing.
+And for long term, like fly ash vitrification
+and also the other one is like carbon capture utilization and storage carbon
+injection wells as well and the second is like agricultural and the forestry
+environments power generation and for short term is full skill combined heat
+and power this is the main thing and for medium term is like fuel and equipment
+upgrading and for long term it's multi-energy complementary like micro
+grade and the hydrogen production this is also very important and another one
+is biogas power generation for short-term ecological circular
+cogeneration and for medium term like high value utilization and for long term
+with deep power grid integration as well.
+Okay, the second topic is about breakthrough innovations
+in new energy power generation.
+The key innovations for power, for wind power generation,
+I'm gonna just talk about offshore,
+because for land wind power,
+we cannot say like innovation, maybe just for offshore.
+First is steel about materials. Do you guys still remember what I mentioned earlier for the materials of offshore wind power or maybe land wind power?
+We used glass fiber before, right? In the first and second stage, but after that we changed to carbon fiber, which is like more strong and more light.
+so carbon fiber protrusion technology it has low density and high tensile
+strength and it reduces blade weight improves power generation efficiency and
+lowers tower load it is also high stiffness the blade tips are less prone
+to bending and otherwise it has strong fatigue and corrosion resistance as well
+And for the iteration of materials, the second one is we use a recyclable thermosetting export resin.
+For this one, the materials, all the molecules, it has specific cleavable chemical bonds,
+and it's condition triggered decomposition, which is good for the blade materials in future.
+After the materials generation, we also have the iterations for drivetrain and power generation
+technologies.
+Like for the first one is medium speed semi-directed drive technology I talked about a bit earlier.
+Like it can balance generator size, weight, and cost.
+it can lower drive train failures and operation and maintenance costs it has
+high efficiency across wide wind speeds also strong low voltage drive through
+and high voltage drive through and the grid support as well the second
+technology is like sliding bearing technologies it has very high load
+bearing capacity, lower naphthalene weight and the foundation costs, good vibration
+damping, no failure life limit. This is very good. The third is like evaporation
+cooling technology. It has high cooling efficiency and phase change cooling
+lowers auxiliary power use and stable and uniform temperature as well. This is
+is also very important, no matter in wind power
+and photovoltaic, and also closed-loop protection
+against marine corrosion.
+This is also very important for offshore wind power.
+And we have some different types.
+So if yesterday you didn't see very clearly,
+here I'm going to talk about almost all types of wind power.
+So this is very obvious difference out there.
+this is like semi submersible floating platform and this is tension leg
+platform we can see the difference right and for the advantagement for the first
+one it's very mature it has high maturity strong stability and a large
+megawatt sorry megawatt turbine but for the second one we can see it's like very
+small right but the capacity it has like ultra large megawatts turbines sorry
+turbines as well as small motion and compact footprint as well so we
+compare these two and for this one this is single point mooring and here multi
+point mooring these two and when we compare them like single one it has
+lower resistance self alignment and better multi rotor in flow and for the
+multi point one it has distributed lows good redundancy stable
+orientation so it's different it depends on which side you're going to use it for
+right application so and another one is high voltage dynamic subsea cable
+technology for example like these beef configuration it has a motion adaptive
+design and the deep weave configuration free handling configuration as well the
+last one is for deep sea far offshore and large-capacity applications okay and
+And here we have twin turbine floating system.
+It has very high turbine density
+and the shared foundation and mooring
+and lower installation and operation
+and the maintenance cost better wind capture
+by weather venting, venting, sorry.
+Also, another one is floating offshore substation.
+This is like small station.
+supports deep-sea wind farms, and reduces fixed foundation works, enables centralized planning and offshore power collection hubs as well.
+This is the one we visited yesterday, right? Together with Fishery.
+So it's Fishery Wind integrated floating platform.
+platform. It has shared sea space utilization. It combined wind power and marine aquaculture
+together. It has an ambidextrous aquaculture cage as well in the bottom, right, and smart
+unmanned monitoring. The last one is floating high-voltage direct current converter platform.
+wrong it has very long distance power export actually i think this is very good for the
+countryside right especially in this city because this city we have a big sea and lake
+so we can use it for a long distance power export and the high capacity transmission as well
+supports GWAS scale basis reduces cable corridor pressure.
+Oh, okay, some projects or examples.
+The first one is China, the Three Borders LEED project.
+It achieved grid connected in the year of 2021.
+It's the first floating offshore wind platform in China,
+so in the year of 2021.
+2021. So we can see that it's only six years old. This is in December. So it's like it's only five
+years past, right? But we already have so many different types of offshore wind. And the hardware
+height, we can see it's 107 meters. And for the rotor diameter, around 158 meters. And the
+the displacement volume for water is like 13,000 tons.
+The second one is from, this is from China,
+China National Offshore Oil Corporation.
+The project is Guanlan Project,
+and it achieved grid connecting in the year of 2023.
+And it is also China's first deep sea floating platform,
+So it's different from the others.
+And offshore distance around 136 kilometers.
+And the router diameter around 158 meters.
+And the depth is 120 meters.
+And for the cable, 5 kilometers.
+And in-store capacity, 7 megawatts.
+It's not that large, right?
+And for annual output, around 22 million kilowatt hours.
+the third one is the one we visited yesterday right china energy sharing uh platform it's
+operated in the year of 2024 in june and it is china's first floating wind aquaculture platform
+also in the world i have to say right and so the you probably already knows all the details
+of history, right? So I'm going to skip it. But this one,
+the fish cage volume is like 10,000
+cubic meters, and it can contain 50,000
+fish. And this fish, I heard that it's
+called big yellow fish. I don't know if I translated it right or
+not. And it is quite expensive in China, and I had no idea
+about that before. Yeah, I just know it yesterday.
+Okay, the last one is China's three borders pilot. It's installed in this year, like two months ago, and it is China's first single turbine platform. And we can see the offshore distance is not that large. It's like 70 kilometers and the depth is like higher than 50 meters.
+displacement volume is quite high right it's like the volume is like 24,000
+tons when we compare it with which one and the rotor diameter is also very huge
+250 and capacity it's also high right like 660 megawatts and estimated annual
+annual output because it's just like two months more than two months so the estimated annual
+output is around 44 million kilowatt hour it's also very high as well okay and for photovoltaic
+first we're also going to talk about offshore photovoltaic so from here we can see we have
+all different parts and different types right like um if you compare all of them you're gonna
+find that the first one is totally different from the other one right where where is the difference
+here right it's fixed right so this is a very mature one and it's also like the
+the earliest development, so it's pyrofixed offshore system.
+It has high maturity and wind or wind resistance
+synergizes with aquaculture salt tanks.
+This is the first one.
+And the second one from the picture we can see
+it's pontoon-based floating photovoltaic system.
+It has minimum sea level disturbance,
+disturbance, broader water depth range, and the third one is semi-submersible floating
+photovoltaic platform.
+Actually, I mentioned it a little bit earlier.
+It has high stability and wind or wind resistance, supports tilted modules and equipment as well.
+We can see it has more solar panels on the top compared with the other ones, right?
+And the fourth one is web resistance, resistant to non-overtroping floating photovoltaic platform. It's also different from all the other eyes, all the others, right?
+We can see that the distance between the water surface is pretty high for this one.
+So for this one, it has less seawater contact because it has larger distance and lower corrosion
+and leakage risks.
+And the fifth one, also a bit different.
+The shape is different, right, and it's not like a very flat surface.
+It's like a curve.
+So for this one, it's a flexible one.
+So it uses light weight and minimal material usage.
+It's like a film, a very thin film.
+It can reduce the wave impact and boring loads.
+And the last one is also the shape is a little bit different.
+It's a tensioned floating island photovoltaic platform.
+So it has highly adaptable and modular
+and eco-friendly composite materials, okay?
+And the other two, like bifacial module.
+This is actually similar with the previous ones.
+It's just solar panels is different.
+It's used bifacial modules.
+So it's unobstructed surface
+and the high reflection and the higher energy yield per area the last one so
+this one is similar with fishery wind right the one we visited yesterday so we
+have fish cage in here as well but the difference is like for each solar panel
+we have a small fish cage and in the bottom so it's for sorry
+mudflats aquaculture and the shallow seas and it has higher land and water
+utilization as well increase economic benefits and lower aquaculture energy
+cost as well okay these are projects about offshore
+We have so many projects, I'm going to talk about it very quickly.
+The first is Hangzhou Tiantangling agri-vartic storage.
+This we combine offshore PV together with agriculture and it is the first batch on-grid
+and also we have complimentary energy storage as well around 51 megawatts and it's installed,
+Third, it's achieved on-grade in the year of 2023.
+Its start capacity is around 488 megawatts.
+And the second one is Longyuan Tianjin Haijin
+Sword Photovoltaic Project.
+This is combined sword together with photovoltaic.
+It's sword, photovoltaic, fishery all together.
+Also equipped with 500 kilowatts station as well.
+And so we see that for just one site,
+we have three applications, right?
+So this is an amazing one.
+And the third is Zhongshan Dengdu Island Fishery Photovoltaic.
+This is still like fishery photovoltaic.
+It has smart agriculture.
+And this one is together with hydrogen energy storage as well.
+So photovoltaic, hydrogen, and energy storage all together for the production of hydrogen is around 1,500.
+And for complementary energy storage is around 60 megawatts.
+And the next one is Dongshan Xincheng offshore.
+Photovoltaic is combined with offshore wind power.
+hour and for the wind speed is around 48 meters per square meter sorry per seconds and the yantai
+fixed pile this is a very major one and this way is fishery photovoltaic is also used pile fixed
+photovoltaic which i mentioned earlier the first time the last one is Qingdao refinery floating
+floating photovoltaic. It's the first industry operation floating photovoltaic project in
+a fully seawater. So this is put into use in the last year, like one year back, okay?
+Second innovation is about space photovoltaic, okay? So we use gallium arsenide. We have
+And the experience is like, first is basic research,
+and then for single junction, multi-junction,
+and then triple junction, okay?
+And then flexible gallium arsenide,
+solar array for space and for commercial satellite.
+This is the environment in space.
+So according to this, we're gonna fabricate gallium arsenide
+and the characteristics is like efficient multi-band
+and absorption and ultra-thin and highly efficient compared with silicon-based and also high radiation resistance.
+It's better than silicon-based solar cells as well and wide temperature tolerance, floatable and deployable.

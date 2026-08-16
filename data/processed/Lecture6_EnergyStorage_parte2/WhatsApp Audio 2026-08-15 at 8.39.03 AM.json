@@ -1,0 +1,3482 @@
+[
+  {
+    "start": 0.53,
+    "end": 4.25,
+    "text": "It is limited both by the power capacity and also the energy capacity."
+  },
+  {
+    "start": 6.32,
+    "end": 7.32,
+    "text": "That's the difference."
+  },
+  {
+    "start": 8.3,
+    "end": 15.16,
+    "text": "And that's the first time I would like to kind of introduce why we need energy storage,"
+  },
+  {
+    "start": 15.36,
+    "end": 24.15,
+    "text": "and how about the situation that is changing in China and I think also in other regions or in other countries."
+  },
+  {
+    "start": 26.08,
+    "end": 32.8,
+    "text": "And part two, I would like to kind of briefly introduce the mainstream energy storage technologies"
+  },
+  {
+    "start": 32.8,
+    "end": 39.38,
+    "text": "and their characteristics it's only kind of like a quick review because there are"
+  },
+  {
+    "start": 39.38,
+    "end": 44.75,
+    "text": "so many types of energy storage technologies and for this tree it is"
+  },
+  {
+    "start": 44.75,
+    "end": 54.07,
+    "text": "kind of like only not a full view and I cannot like give you the major categories"
+  },
+  {
+    "start": 55.53,
+    "end": 62.75,
+    "text": "usually we call electric energy storage we think of electric chemical storage"
+  },
+  {
+    "start": 62.75,
+    "end": 64.8,
+    "text": "system for batteries."
+  },
+  {
+    "start": 65.42,
+    "end": 68.02,
+    "text": "And there are also kind of mechanical engineering."
+  },
+  {
+    "start": 68.32,
+    "end": 72.54,
+    "text": "For example, I just mentioned trans-hydro storage."
+  },
+  {
+    "start": 72.9,
+    "end": 77.6,
+    "text": "And we also have the compressed air storage."
+  },
+  {
+    "start": 79.34,
+    "end": 84.92,
+    "text": "And also, that one in the top is newly added."
+  },
+  {
+    "start": 85.12,
+    "end": 87.46,
+    "text": "It's gravity and storage."
+  },
+  {
+    "start": 87.86,
+    "end": 89.74,
+    "text": "And I think in several countries,"
+  },
+  {
+    "start": 89.88,
+    "end": 93.32,
+    "text": "they are kind of developing this kind of new type of storage."
+  },
+  {
+    "start": 93.32,
+    "end": 96.5,
+    "text": "It is also a very interesting storage type."
+  },
+  {
+    "start": 97.55,
+    "end": 101.17,
+    "text": "And for the kinetic energy storage, we have FlyView,"
+  },
+  {
+    "start": 101.33,
+    "end": 103.07,
+    "text": "which I also will introduce."
+  },
+  {
+    "start": 103.92,
+    "end": 108.76,
+    "text": "In the low side, we have electromagnetic energy storage."
+  },
+  {
+    "start": 109.95,
+    "end": 114.19,
+    "text": "For example, superconducting magnetic energy storage."
+  },
+  {
+    "start": 114.43,
+    "end": 117.73,
+    "text": "It is kind of like an energy storage system that"
+  },
+  {
+    "start": 117.73,
+    "end": 122.28,
+    "text": "has been researched for decades, but its application"
+  },
+  {
+    "start": 122.28,
+    "end": 124.9,
+    "text": "is still kind of very hard."
+  },
+  {
+    "start": 125.48,
+    "end": 128.78,
+    "text": "And we also have kind of a capacitors and ."
+  },
+  {
+    "start": 131.55,
+    "end": 133.35,
+    "text": "First, I would like to kind of introduce"
+  },
+  {
+    "start": 133.35,
+    "end": 137.23,
+    "text": "some kind of several types of large-scale storage."
+  },
+  {
+    "start": 138.38,
+    "end": 140.58,
+    "text": "But the large-scale means that it"
+  },
+  {
+    "start": 140.58,
+    "end": 144.88,
+    "text": "can be developed for several hundred networks,"
+  },
+  {
+    "start": 146.82,
+    "end": 149.42,
+    "text": "and even to gigawatt scale."
+  },
+  {
+    "start": 149.42,
+    "end": 153.35,
+    "text": "The first one is the pump hydro storage."
+  },
+  {
+    "start": 156.78,
+    "end": 159.86,
+    "text": "The principle is actually quite simple."
+  },
+  {
+    "start": 160.42,
+    "end": 164.28,
+    "text": "We have two reservoirs, one is high, the other is low,"
+  },
+  {
+    "start": 164.46,
+    "end": 168.96,
+    "text": "and we have to capture the potential energy."
+  },
+  {
+    "start": 170.3,
+    "end": 175.44,
+    "text": "It is very mature, and it can operate for more than 50 years,"
+  },
+  {
+    "start": 175.58,
+    "end": 178.93,
+    "text": "and it can be very large."
+  },
+  {
+    "start": 178.93,
+    "end": 186.96,
+    "text": "In China we have kind of like one pump hydro storage state power plant more than one gigawatt."
+  },
+  {
+    "start": 187.16,
+    "end": 188.8,
+    "text": "It is huge."
+  },
+  {
+    "start": 189.33,
+    "end": 195.13,
+    "text": "But the problem is that they have the requirement for the size, right?"
+  },
+  {
+    "start": 195.33,
+    "end": 199.67,
+    "text": "You need kind of large reservoir, at least one reservoir."
+  },
+  {
+    "start": 200.47,
+    "end": 208.05,
+    "text": "The other one can be kind of the sea water or can be near the river, but you must need one."
+  },
+  {
+    "start": 208.05,
+    "end": 214.21,
+    "text": "This is one problem. Another problem is kind of like the construction cost."
+  },
+  {
+    "start": 214.57,
+    "end": 228.75,
+    "text": "Actually, the cost counts even more difficult to reduce, to be reduced, because of not only the kind of like the generators,"
+  },
+  {
+    "start": 229.13,
+    "end": 238.29,
+    "text": "it's also kind of regarding of the land it will kind of occupy and also kind of the other problems."
+  },
+  {
+    "start": 238.29,
+    "end": 243.65,
+    "text": "So the price is kind of like very stable."
+  },
+  {
+    "start": 245.24,
+    "end": 248.62,
+    "text": "And another one is the compressed air and its storage."
+  },
+  {
+    "start": 249.0,
+    "end": 254.49,
+    "text": "This is kind of like a very interesting type of large-scale air storage."
+  },
+  {
+    "start": 255.34,
+    "end": 262.13,
+    "text": "When we want to save energy, we compress the air into high pressure"
+  },
+  {
+    "start": 262.13,
+    "end": 273.88,
+    "text": "And it's stored in a tube, or we use the caves on the ground."
+  },
+  {
+    "start": 275.81,
+    "end": 283.49,
+    "text": "And the memories is that the capacity can be very large,"
+  },
+  {
+    "start": 283.57,
+    "end": 288.25,
+    "text": "and the energy capacity can also be very large."
+  },
+  {
+    "start": 288.25,
+    "end": 295.82,
+    "text": "and has long operating life and low kilowatt hour investment."
+  },
+  {
+    "start": 296.71,
+    "end": 306.07,
+    "text": "Kilowatt hour investment means that because the cycle numbers or lifetime is very long,"
+  },
+  {
+    "start": 306.29,
+    "end": 311.56,
+    "text": "so even if it's kind of like investment is higher,"
+  },
+  {
+    "start": 311.74,
+    "end": 318.28,
+    "text": "but for the kilowatt hour investment is relatively low."
+  },
+  {
+    "start": 319.12,
+    "end": 325.57,
+    "text": "And for conventional, we call it a compressed air energy storage, we call it CAES."
+  },
+  {
+    "start": 326.29,
+    "end": 331.82,
+    "text": "Conventional CAES system has no solar storage subsystem."
+  },
+  {
+    "start": 332.02,
+    "end": 339.06,
+    "text": "So the heat of compression is discarded, resulting in low efficiency, around 50%."
+  },
+  {
+    "start": 339.06,
+    "end": 344.69,
+    "text": "And also consumption of natural gas for generation, when generating electricity."
+  },
+  {
+    "start": 344.69,
+    "end": 353.01,
+    "text": "And advanced CIES incorporates thermal storage, eliminating the need to burn fossil fuels"
+  },
+  {
+    "start": 353.73,
+    "end": 360.16,
+    "text": "during this time, so the combustion chamber can be removed and improving the efficiency."
+  },
+  {
+    "start": 362.72,
+    "end": 376.13,
+    "text": "For the first commercial, CIES was built in Germany in 1978, and the system efficiency"
+  },
+  {
+    "start": 376.13,
+    "end": 383.71,
+    "text": "efficiency is about 42%. It is not high. And in 1991, the United States built the McIntosh"
+  },
+  {
+    "start": 384.81,
+    "end": 399.92,
+    "text": "plant. And because it recovers some heat, so the efficiency rise to 54%. And this kind"
+  },
+  {
+    "start": 399.92,
+    "end": 404.58,
+    "text": "kind of like long-term story, before 2000,"
+  },
+  {
+    "start": 407.08,
+    "end": 411.7,
+    "text": "worldwide, only two large-scale commercial compressed air"
+  },
+  {
+    "start": 411.7,
+    "end": 413.62,
+    "text": "and storage systems in operation."
+  },
+  {
+    "start": 414.7,
+    "end": 420.16,
+    "text": "And starting from 2000, some Chinese research institutes"
+  },
+  {
+    "start": 420.16,
+    "end": 422.34,
+    "text": "and also universities, they kind of"
+  },
+  {
+    "start": 422.34,
+    "end": 426.36,
+    "text": "start to research advanced CAES system."
+  },
+  {
+    "start": 426.36,
+    "end": 437.89,
+    "text": "And in China we have two institutes, the Institute of Engineering and Thermophysics of CES,"
+  },
+  {
+    "start": 438.23,
+    "end": 441.33,
+    "text": "and another group is from Tsinghua University."
+  },
+  {
+    "start": 441.59,
+    "end": 446.01,
+    "text": "They began to research large-scale non-combustion CES systems."
+  },
+  {
+    "start": 446.59,
+    "end": 455.21,
+    "text": "And in 2021, a Qingtan CES project was commissioned in Jiangsu province in China."
+  },
+  {
+    "start": 455.21,
+    "end": 465.82,
+    "text": "China. The scale is 60 megawatts and 300 megawatts. And now, for Jintang, for this project, it"
+  },
+  {
+    "start": 465.82,
+    "end": 472.74,
+    "text": "is building the second phase. The second phase, the scale is more higher, several hundred"
+  },
+  {
+    "start": 474.22,
+    "end": 483.54,
+    "text": "scale. This is the compressed air. And in China, we think that now there are more than"
+  },
+  {
+    "start": 483.54,
+    "end": 491.92,
+    "text": "more than 10 projects that have been planned in building for the large-scale compressed air energy storage."
+  },
+  {
+    "start": 493.69,
+    "end": 500.16,
+    "text": "Another one is CSP, concentrated solar power plants."
+  },
+  {
+    "start": 500.72,
+    "end": 506.58,
+    "text": "I think many of you have seen this picture."
+  },
+  {
+    "start": 506.82,
+    "end": 513.96,
+    "text": "It is kind of amazing for the large-scale CSP."
+  },
+  {
+    "start": 513.96,
+    "end": 523.74,
+    "text": "and for the the relation of this between the storage is that it's usually used"
+  },
+  {
+    "start": 523.74,
+    "end": 533.16,
+    "text": "molten salt storage so it collects the the energy in the daytime and stored the"
+  },
+  {
+    "start": 533.16,
+    "end": 539.62,
+    "text": "energy is stored in the molten salt and it can be kind of like generation"
+  },
+  {
+    "start": 539.62,
+    "end": 546.53,
+    "text": "during the evening even in the night when the load is high so for this kind"
+  },
+  {
+    "start": 546.53,
+    "end": 557.86,
+    "text": "of like a storage for molten storage operates the temperature about from 240 to 560 so it's kind of"
+  },
+  {
+    "start": 557.86,
+    "end": 565.18,
+    "text": "like a big uh temperature difference so make it and kind of absorb a large capacity of energy"
+  },
+  {
+    "start": 566.16,
+    "end": 574.92,
+    "text": "so for for this storage system it can reach capacity to people at our scale it is also a kind"
+  },
+  {
+    "start": 574.92,
+    "end": 581.07,
+    "text": "of like a large scale kind of storage and the the problem now is that this kind of like a"
+  },
+  {
+    "start": 581.66,
+    "end": 590.23,
+    "text": "system because the system is kind of like complex it's it also needs the traditional kind of like"
+  },
+  {
+    "start": 590.23,
+    "end": 598.79,
+    "text": "generation system it needs this system and this the modern storage system so the investment is"
+  },
+  {
+    "start": 598.79,
+    "end": 604.77,
+    "text": "high. The per kilowatt hour electricity price is much higher than the other kind of generation."
+  },
+  {
+    "start": 606.6,
+    "end": 614.94,
+    "text": "It has different types. This one is the first type and we also have other types. It's called"
+  },
+  {
+    "start": 614.94,
+    "end": 625.36,
+    "text": "linear Fresnel and the parabolic dish. And this is kind of like about 12 years ago I"
+  },
+  {
+    "start": 625.36,
+    "end": 629.98,
+    "text": "I visited Italia, I saw this system for demonstration."
+  },
+  {
+    "start": 630.58,
+    "end": 635.24,
+    "text": "For this one, the scale is not so large,"
+  },
+  {
+    "start": 635.34,
+    "end": 638.06,
+    "text": "but it's convenient for deployments."
+  },
+  {
+    "start": 638.42,
+    "end": 643.56,
+    "text": "And another type of large-scale air storage"
+  },
+  {
+    "start": 643.56,
+    "end": 647.43,
+    "text": "is the flow battery, the flow battery."
+  },
+  {
+    "start": 647.71,
+    "end": 651.83,
+    "text": "So we have a guest from the United States,"
+  },
+  {
+    "start": 651.85,
+    "end": 656.17,
+    "text": "and the United States DOE kind of"
+  },
+  {
+    "start": 656.17,
+    "end": 662.69,
+    "text": "of consider flow battery as long duration and storage time."
+  },
+  {
+    "start": 664.61,
+    "end": 671.45,
+    "text": "And it is also kind of like, it is safe and long life."
+  },
+  {
+    "start": 671.57,
+    "end": 675.33,
+    "text": "The long life means that the cycle times"
+  },
+  {
+    "start": 675.33,
+    "end": 682.42,
+    "text": "can be much higher, for example, than the lithium battery."
+  },
+  {
+    "start": 685.04,
+    "end": 688.1,
+    "text": "So in China, we also have some institutes"
+  },
+  {
+    "start": 688.1,
+    "end": 689.72,
+    "text": "we are working on this."
+  },
+  {
+    "start": 689.9,
+    "end": 691.66,
+    "text": "For example, in Dalian, there's an institute."
+  },
+  {
+    "start": 692.66,
+    "end": 698.62,
+    "text": "They have commissioned large-scale flow battery."
+  },
+  {
+    "start": 698.84,
+    "end": 701.72,
+    "text": "It's about 100 megawatt and 400 megawatt power."
+  },
+  {
+    "start": 702.71,
+    "end": 706.35,
+    "text": "And for this project, they are still building the second phase."
+  },
+  {
+    "start": 707.72,
+    "end": 715.04,
+    "text": "And another big project that is completed at the end of last"
+  },
+  {
+    "start": 715.04,
+    "end": 722.26,
+    "text": "Last year, the project's scale is 200 megawatts and one gigawatt hour."
+  },
+  {
+    "start": 722.48,
+    "end": 723.94,
+    "text": "This is kind of huge."
+  },
+  {
+    "start": 725.92,
+    "end": 728.5,
+    "text": "That is kind of like in Xinjiang province."
+  },
+  {
+    "start": 728.72,
+    "end": 735.9,
+    "text": "Because in Xinjiang, they have kind of that wind and also large-scale solar power generation."
+  },
+  {
+    "start": 740.0,
+    "end": 742.48,
+    "text": "Another one is lithium battery."
+  },
+  {
+    "start": 742.48,
+    "end": 750.74,
+    "text": "battery, most of you are very familiar with this kind of storage, and it is the most widely"
+  },
+  {
+    "start": 750.74,
+    "end": 753.68,
+    "text": "deployed new type storage system."
+  },
+  {
+    "start": 754.08,
+    "end": 760.98,
+    "text": "The merit is that it is high edge density and high charge and discharge efficiency and"
+  },
+  {
+    "start": 760.98,
+    "end": 763.18,
+    "text": "also faster response capability."
+  },
+  {
+    "start": 763.4,
+    "end": 774.9,
+    "text": "And also, another reason is that for the lithium-ion battery, it is kind of like be built in for"
+  },
+  {
+    "start": 774.9,
+    "end": 784.34,
+    "text": "a lot, even for example, project more than 100 megawatts, it can be built in several"
+  },
+  {
+    "start": 784.34,
+    "end": 784.68,
+    "text": "months."
+  },
+  {
+    "start": 785.31,
+    "end": 794.72,
+    "text": "So because it is kind of like we have many units, so many units kind of like put together"
+  },
+  {
+    "start": 794.72,
+    "end": 801.9,
+    "text": "become kind of formed into a very large scale storage project."
+  },
+  {
+    "start": 802.68,
+    "end": 811.76,
+    "text": "And by the end of last year, the accumulated in-store capacity of battery storage worldwide"
+  },
+  {
+    "start": 811.76,
+    "end": 815.3,
+    "text": "reached about 315 kWh."
+  },
+  {
+    "start": 815.9,
+    "end": 823.16,
+    "text": "So the capacity is huge, and the increasing rate is also very fast."
+  },
+  {
+    "start": 823.16,
+    "end": 826.58,
+    "text": "But last year, it was nearly 50%."
+  },
+  {
+    "start": 829.42,
+    "end": 837.12,
+    "text": "And for the batteries, we have small batteries for this year."
+  },
+  {
+    "start": 838.12,
+    "end": 844.16,
+    "text": "It can be used in electronic devices, and also in Tesla."
+  },
+  {
+    "start": 845.45,
+    "end": 852.72,
+    "text": "And we have also a big one, for example, for wine cell."
+  },
+  {
+    "start": 855.92,
+    "end": 870.55,
+    "text": "And the last kind of large-scale storage I would like to discuss with you is the hydrogen."
+  },
+  {
+    "start": 872.21,
+    "end": 882.23,
+    "text": "It is anticipated because we can't find any other better long-duration storage."
+  },
+  {
+    "start": 882.23,
+    "end": 890.09,
+    "text": "storage. So hydrogen storage is anticipated to become an important option for long duration"
+  },
+  {
+    "start": 890.09,
+    "end": 900.92,
+    "text": "high scale storage. For hydrogen storage, it can store surplus electricity from intermittent"
+  },
+  {
+    "start": 901.52,
+    "end": 910.85,
+    "text": "renewables. Because in China and I think in many other regions, if the penetration of"
+  },
+  {
+    "start": 910.85,
+    "end": 916.85,
+    "text": "renewable is higher the problem is that how to consume the electricity generated"
+  },
+  {
+    "start": 916.85,
+    "end": 926.84,
+    "text": "by the renewables so hydrogen storage can be one of the big option and the the"
+  },
+  {
+    "start": 926.84,
+    "end": 934.78,
+    "text": "merits of hydrogen is that is the energy density so the energy density of this"
+  },
+  {
+    "start": 934.78,
+    "end": 945.46,
+    "text": "time is kind of like much higher than lithium-ion and flow batteries but the other kind of like"
+  },
+  {
+    "start": 945.46,
+    "end": 956.48,
+    "text": "the other parameters for example the efficiency is quite low that's kind of like the problem"
+  },
+  {
+    "start": 959.16,
+    "end": 965.66,
+    "text": "okay that's the several types of technologies for large scale and storage"
+  },
+  {
+    "start": 965.66,
+    "end": 975.76,
+    "text": "storage. And another one is the flywheel. It is not large scale, but it is also a type"
+  },
+  {
+    "start": 975.76,
+    "end": 983.46,
+    "text": "of energy storage system that has been kind of like attracted many companies to research"
+  },
+  {
+    "start": 983.46,
+    "end": 992.71,
+    "text": "and also to produce flywheel. The future is that it has high power density, not energy"
+  },
+  {
+    "start": 992.71,
+    "end": 998.21,
+    "text": "density, power density, and high number of charges in the second circuit."
+  },
+  {
+    "start": 1000.27,
+    "end": 1009.09,
+    "text": "So it's kind of like, in China we call it a power type story, because the Maryse has"
+  },
+  {
+    "start": 1009.09,
+    "end": 1014.52,
+    "text": "kind of high power, but the duration is usually several minutes."
+  },
+  {
+    "start": 1015.76,
+    "end": 1026.69,
+    "text": "And now for only one unit, this is the picture I took from one company, a Chinese company"
+  },
+  {
+    "start": 1026.69,
+    "end": 1028.09,
+    "text": "for building FlyView."
+  },
+  {
+    "start": 1028.29,
+    "end": 1036.9,
+    "text": "And for one unit, it can up to one megawatt and more than 100 kilowatt-hours electricity."
+  },
+  {
+    "start": 1036.9,
+    "end": 1046.72,
+    "text": "So, in China and also in other regions, it's usually used for kind of like a flixi support"
+  },
+  {
+    "start": 1046.72,
+    "end": 1047.76,
+    "text": "deposits."
+  },
+  {
+    "start": 1050.8,
+    "end": 1061.02,
+    "text": "Okay, that's, I think that's the main technologies, so here we have kind of just some summaries"
+  },
+  {
+    "start": 1061.02,
+    "end": 1067.92,
+    "text": "to compare them, and this picture gives the response time, and as I kind of mentioned,"
+  },
+  {
+    "start": 1067.92,
+    "end": 1070.7,
+    "text": "mentioned, for a new type of storage system,"
+  },
+  {
+    "start": 1070.82,
+    "end": 1074.2,
+    "text": "usually they have very fast response timing, which"
+  },
+  {
+    "start": 1074.2,
+    "end": 1077.33,
+    "text": "is why they are widely used."
+  },
+  {
+    "start": 1077.99,
+    "end": 1081.87,
+    "text": "And also, for the run efficiency,"
+  },
+  {
+    "start": 1082.67,
+    "end": 1085.91,
+    "text": "this is a big question."
+  },
+  {
+    "start": 1086.5,
+    "end": 1093.08,
+    "text": "For the hydrogen, we thought the efficiency is relatively low."
+  },
+  {
+    "start": 1093.28,
+    "end": 1097.62,
+    "text": "And for other storage systems, usually they"
+  },
+  {
+    "start": 1097.62,
+    "end": 1103.52,
+    "text": "their round trip efficiency is more than 8% and even 90%."
+  },
+  {
+    "start": 1105.36,
+    "end": 1107.89,
+    "text": "And another problem is lifetime."
+  },
+  {
+    "start": 1108.8,
+    "end": 1110.71,
+    "text": "This is also kind of like a big issue,"
+  },
+  {
+    "start": 1110.87,
+    "end": 1115.66,
+    "text": "because in the past, for the traditional power plants,"
+  },
+  {
+    "start": 1116.42,
+    "end": 1120.9,
+    "text": "their lifetime is usually more than 30 years."
+  },
+  {
+    "start": 1121.75,
+    "end": 1123.23,
+    "text": "More than 30 years."
+  },
+  {
+    "start": 1123.47,
+    "end": 1129.37,
+    "text": "But for the renewables and also for the new type energy"
+  },
+  {
+    "start": 1129.37,
+    "end": 1136.32,
+    "text": "storage. It has not been proven how long it can operate, how"
+  },
+  {
+    "start": 1136.32,
+    "end": 1140.38,
+    "text": "many years. Usually we think that it is lower than 20 years,"
+  },
+  {
+    "start": 1140.54,
+    "end": 1146.38,
+    "text": "and even lower than 15 years. So for a power generation power"
+  },
+  {
+    "start": 1146.38,
+    "end": 1149.38,
+    "text": "plant, it is still working, but we need to kind of renew the"
+  },
+  {
+    "start": 1149.93,
+    "end": 1154.06,
+    "text": "end storage system, maybe once, maybe twice. So this is the"
+  },
+  {
+    "start": 1154.06,
+    "end": 1157.9,
+    "text": "the problem, how we can kind of build long duration,"
+  },
+  {
+    "start": 1157.98,
+    "end": 1163.27,
+    "text": "have longer lifetime end storage systems also important for us."
+  },
+  {
+    "start": 1166.38,
+    "end": 1169.3,
+    "text": "And here, we give a whole picture"
+  },
+  {
+    "start": 1169.3,
+    "end": 1174.5,
+    "text": "of the scale of the global storage project."
+  },
+  {
+    "start": 1175.34,
+    "end": 1182.71,
+    "text": "And by the end of last year, the total stock asset"
+  },
+  {
+    "start": 1182.71,
+    "end": 1195.1,
+    "text": "it reached almost 500 gigawatts. This is kind of like, the increased percentage is about 33%,"
+  },
+  {
+    "start": 1195.35,
+    "end": 1207.95,
+    "text": "so the increase rate is very fast. And for the new type storage, the new type means that"
+  },
+  {
+    "start": 1207.95,
+    "end": 1211.79,
+    "text": "that the crisis is except for the palm tider."
+  },
+  {
+    "start": 1212.62,
+    "end": 1216.72,
+    "text": "It is kind of like more than half of the total"
+  },
+  {
+    "start": 1216.72,
+    "end": 1217.4,
+    "text": "this sort of test."
+  },
+  {
+    "start": 1218.33,
+    "end": 1220.93,
+    "text": "This is kind of like a changing situation."
+  },
+  {
+    "start": 1221.37,
+    "end": 1228.28,
+    "text": "If we look at the mix in China, it's more obvious."
+  },
+  {
+    "start": 1229.44,
+    "end": 1236.32,
+    "text": "For example, 10 years ago, here, only more than five years ago,"
+  },
+  {
+    "start": 1236.32,
+    "end": 1240.8,
+    "text": "So at the end of the 13th five-year plan in China,"
+  },
+  {
+    "start": 1241.02,
+    "end": 1246.26,
+    "text": "the pumped hydro storage accounts about 19%."
+  },
+  {
+    "start": 1247.64,
+    "end": 1254.65,
+    "text": "But after five years, it only accounts about 31%."
+  },
+  {
+    "start": 1255.44,
+    "end": 1259.23,
+    "text": "And the recent year accounts for 65%."
+  },
+  {
+    "start": 1259.53,
+    "end": 1265.11,
+    "text": "This is kind of like a very increased changing situation."
+  },
+  {
+    "start": 1265.11,
+    "end": 1279.96,
+    "text": "situation. And worldwide, about 10 years ago, worldwide, about 95% of the installed"
+  },
+  {
+    "start": 1279.96,
+    "end": 1288.94,
+    "text": "energy storage is pumped hydro. But now, it is lower than 50%. In China, this is increasing"
+  },
+  {
+    "start": 1288.94,
+    "end": 1292.4,
+    "text": "increasing much faster."
+  },
+  {
+    "start": 1296.55,
+    "end": 1301.71,
+    "text": "And this picture shows the cumulative new type"
+  },
+  {
+    "start": 1301.71,
+    "end": 1306.91,
+    "text": "storage capacity in the past 10 years."
+  },
+  {
+    "start": 1308.09,
+    "end": 1318.9,
+    "text": "And for last year, the capacity is more than 100 gigawatts."
+  },
+  {
+    "start": 1319.0,
+    "end": 1324.38,
+    "text": "And more than 100 gigawatts is not only 100."
+  },
+  {
+    "start": 1324.38,
+    "end": 1330.44,
+    "text": "is 144, so the increasing rate is very fast."
+  },
+  {
+    "start": 1331.42,
+    "end": 1337.35,
+    "text": "And the other situation is about the scale"
+  },
+  {
+    "start": 1337.35,
+    "end": 1338.79,
+    "text": "of the antistory system."
+  },
+  {
+    "start": 1341.0,
+    "end": 1343.56,
+    "text": "Here we give the percentage."
+  },
+  {
+    "start": 1345.44,
+    "end": 1354.68,
+    "text": "And for this part, about 90% is the capacity"
+  },
+  {
+    "start": 1354.68,
+    "end": 1357.3,
+    "text": "of higher than 50 network."
+  },
+  {
+    "start": 1357.3,
+    "end": 1363.7,
+    "text": "So, more and more, on a large scale, new type of storage projects are abused."
+  },
+  {
+    "start": 1364.57,
+    "end": 1367.63,
+    "text": "This is the situation of last year."
+  },
+  {
+    "start": 1367.91,
+    "end": 1376.35,
+    "text": "We can see that the number of projects with capacity is more than 100 and even more than 500 as well."
+  },
+  {
+    "start": 1377.14,
+    "end": 1380.44,
+    "text": "So, this is kind of like the trend."
+  },
+  {
+    "start": 1383.77,
+    "end": 1386.63,
+    "text": "And this is the situation that is very interesting."
+  },
+  {
+    "start": 1386.63,
+    "end": 1396.73,
+    "text": "in last year, I will introduce, and because of the policy change, so there is kind of"
+  },
+  {
+    "start": 1396.73,
+    "end": 1405.7,
+    "text": "like a peak in the May of last year. I will introduce this peak because of the report"
+  },
+  {
+    "start": 1405.7,
+    "end": 1416.74,
+    "text": "May 31. In China, that is kind of like time point, the policy change. Okay, that's the"
+  },
+  {
+    "start": 1416.74,
+    "end": 1425.96,
+    "text": "overview of the energy technologies and their kind of like development and now I"
+  },
+  {
+    "start": 1425.96,
+    "end": 1432.0,
+    "text": "would like to kind of like give you a brief introduction about the applications"
+  },
+  {
+    "start": 1432.0,
+    "end": 1442.51,
+    "text": "in our system. For energy storage it is very interesting. It is different from the"
+  },
+  {
+    "start": 1442.51,
+    "end": 1449.74,
+    "text": "other types of devices or equipment. It can be installed in almost every sector"
+  },
+  {
+    "start": 1449.74,
+    "end": 1459.53,
+    "text": "of the policies this is this picture it's kind of illustration and the first"
+  },
+  {
+    "start": 1459.53,
+    "end": 1467.79,
+    "text": "part the first part is the coordination is traditional generating unit I do I'm"
+  },
+  {
+    "start": 1467.79,
+    "end": 1473.27,
+    "text": "not sure if you have enough code about this kind of application installing new"
+  },
+  {
+    "start": 1473.27,
+    "end": 1480.88,
+    "text": "type of any storage within the traditional power plants do you have"
+  },
+  {
+    "start": 1480.88,
+    "end": 1487.8,
+    "text": "come up with any ideas of about this kind of application coordinate with the"
+  },
+  {
+    "start": 1487.8,
+    "end": 1494.17,
+    "text": "traditional profile of compliance in China. So for this"
+  },
+  {
+    "start": 1494.17,
+    "end": 1498.61,
+    "text": "type of usage, it is usually kind of like coordinate with the"
+  },
+  {
+    "start": 1498.61,
+    "end": 1502.73,
+    "text": "generation unit to provide a federal service, especially for"
+  },
+  {
+    "start": 1502.73,
+    "end": 1506.33,
+    "text": "the friction regulations. Because the friction regulation"
+  },
+  {
+    "start": 1506.33,
+    "end": 1511.27,
+    "text": "requires fast and accurate response. But for the"
+  },
+  {
+    "start": 1511.27,
+    "end": 1516.79,
+    "text": "traditional generation, their response time or their ranking"
+  },
+  {
+    "start": 1516.79,
+    "end": 1525.89,
+    "text": "rate is slow, relatively slow. So if they want to cut off more revenue from"
+  },
+  {
+    "start": 1525.89,
+    "end": 1534.64,
+    "text": "providing friction regulation, so they need better response speeds and accuracy"
+  },
+  {
+    "start": 1534.64,
+    "end": 1545.14,
+    "text": "so that's why in some power plants they install battery storage. Actually this"
+  },
+  {
+    "start": 1545.14,
+    "end": 1551.95,
+    "text": "This type of application, for example, five or eight years ago, it is kind of like the"
+  },
+  {
+    "start": 1551.95,
+    "end": 1558.84,
+    "text": "only type of application for large-scale anti-storage in China."
+  },
+  {
+    "start": 1559.08,
+    "end": 1563.99,
+    "text": "They can kind of like earn money for their investments."
+  },
+  {
+    "start": 1566.12,
+    "end": 1569.82,
+    "text": "Okay, if you are interested, I would like to discuss in details."
+  },
+  {
+    "start": 1571.35,
+    "end": 1577.41,
+    "text": "And the other types of application, it is kind of like more kind of like HOMA, for example,"
+  },
+  {
+    "start": 1577.41,
+    "end": 1580.85,
+    "text": "for coordinate coordination is renewable generation. This is"
+  },
+  {
+    "start": 1580.85,
+    "end": 1585.55,
+    "text": "quite kind of easy to understand for substation and storage is"
+  },
+  {
+    "start": 1585.55,
+    "end": 1592.11,
+    "text": "also kind of like kind of like use in different regions. And"
+  },
+  {
+    "start": 1592.11,
+    "end": 1596.55,
+    "text": "we also have the transmission district assess optimization."
+  },
+  {
+    "start": 1597.59,
+    "end": 1602.56,
+    "text": "For example, we have kind of like the corridor that is"
+  },
+  {
+    "start": 1602.56,
+    "end": 1606.68,
+    "text": "limited or the capacity is limited that we can view any"
+  },
+  {
+    "start": 1606.68,
+    "end": 1616.32,
+    "text": "storage to defer the investment of the operators. And the last one is discrete storage."
+  },
+  {
+    "start": 1616.78,
+    "end": 1622.64,
+    "text": "It's installed at the load side or customer side. It's usually kind of like"
+  },
+  {
+    "start": 1623.72,
+    "end": 1635.29,
+    "text": "cash revenue from the price, usually price from charge. And because of the distribution PV or"
+  },
+  {
+    "start": 1635.29,
+    "end": 1640.14,
+    "text": "distributed means can also be used to absorb the renewable generation."
+  },
+  {
+    "start": 1641.7,
+    "end": 1648.95,
+    "text": "So these are two main types of the distributed and storage utilization scenario."
+  },
+  {
+    "start": 1649.37,
+    "end": 1657.38,
+    "text": "And I would like to give you kind of like a view of the application scenarios."
+  },
+  {
+    "start": 1658.76,
+    "end": 1666.33,
+    "text": "This picture, these two pictures shows the difference of the new type storage by type"
+  },
+  {
+    "start": 1666.33,
+    "end": 1674.35,
+    "text": "by application at the end of the 13th five-year plan and at the end of the 14th five-year plan."
+  },
+  {
+    "start": 1674.98,
+    "end": 1682.58,
+    "text": "For the 13th five-year plan, we can see for this one, the customer side accounts for the"
+  },
+  {
+    "start": 1683.87,
+    "end": 1691.71,
+    "text": "most high ratio, about 35%, and the next one is the renewable collocated."
+  },
+  {
+    "start": 1691.71,
+    "end": 1699.87,
+    "text": "it. But at the end of the 14th five year plan, the first one"
+  },
+  {
+    "start": 1699.87,
+    "end": 1705.49,
+    "text": "that the independent end story. So it is kind of like more as"
+  },
+  {
+    "start": 1705.49,
+    "end": 1710.25,
+    "text": "the two applications, the substation and transmission"
+  },
+  {
+    "start": 1710.25,
+    "end": 1717.38,
+    "text": "distribution assets optimization. And the renewable"
+  },
+  {
+    "start": 1717.38,
+    "end": 1722.48,
+    "text": "collected kind of like is stable, but it keeps stable."
+  },
+  {
+    "start": 1722.66,
+    "end": 1727.42,
+    "text": "The other one is that I just introduced"
+  },
+  {
+    "start": 1727.42,
+    "end": 1732.03,
+    "text": "that the storage installed in the traditional power plants."
+  },
+  {
+    "start": 1732.17,
+    "end": 1742.27,
+    "text": "So in this 13 five-year plan, it accounts for percentage"
+  },
+  {
+    "start": 1744.45,
+    "end": 1745.33,
+    "text": "not given here."
+  },
+  {
+    "start": 1745.49,
+    "end": 1748.83,
+    "text": "But it is kind of like almost the third time."
+  },
+  {
+    "start": 1748.83,
+    "end": 1755.88,
+    "text": "But now, it costs more and more independent energy storage."
+  },
+  {
+    "start": 1756.18,
+    "end": 1763.31,
+    "text": "For independent energy storage, it can kind of like provide a fixed regulation with higher"
+  },
+  {
+    "start": 1764.25,
+    "end": 1764.67,
+    "text": "performance."
+  },
+  {
+    "start": 1765.11,
+    "end": 1770.31,
+    "text": "So that's why that one comes not attractive."
+  },
+  {
+    "start": 1771.79,
+    "end": 1772.63,
+    "text": "Okay."
+  },
+  {
+    "start": 1772.63,
+    "end": 1779.56,
+    "text": "OK, so next, I will give you the introduction one by one"
+  },
+  {
+    "start": 1779.56,
+    "end": 1783.36,
+    "text": "for the five types of application scenario,"
+  },
+  {
+    "start": 1784.89,
+    "end": 1786.39,
+    "text": "especially in China."
+  },
+  {
+    "start": 1786.87,
+    "end": 1789.57,
+    "text": "The first one is the storage deployed"
+  },
+  {
+    "start": 1789.57,
+    "end": 1791.27,
+    "text": "at a renewable power plant."
+  },
+  {
+    "start": 1792.72,
+    "end": 1798.48,
+    "text": "So the usage can be kind of like smoothing the flat-18"
+  },
+  {
+    "start": 1798.48,
+    "end": 1800.04,
+    "text": "renewable generation, right?"
+  },
+  {
+    "start": 1800.12,
+    "end": 1801.96,
+    "text": "This is kind of easy to understand."
+  },
+  {
+    "start": 1801.96,
+    "end": 1810.56,
+    "text": "stands and another one is to reduce the containment this one is kind of like it"
+  },
+  {
+    "start": 1810.56,
+    "end": 1818.28,
+    "text": "is interesting but it also can be used for water regulation because for any storage it is kind of"
+  },
+  {
+    "start": 1818.28,
+    "end": 1826.29,
+    "text": "like we called inverter connected to the power system right so it's kind of like ibr right resources"
+  },
+  {
+    "start": 1826.29,
+    "end": 1832.54,
+    "text": "resources. So it can also kind of regulate the voltage. And it"
+  },
+  {
+    "start": 1832.54,
+    "end": 1837.69,
+    "text": "can use the pacific in great operation or electricity markets"
+  },
+  {
+    "start": 1838.92,
+    "end": 1845.1,
+    "text": "to reduce the risk of the renewable power plants. And the"
+  },
+  {
+    "start": 1845.1,
+    "end": 1854.29,
+    "text": "situation in China is that by the end of 2024, the year before"
+  },
+  {
+    "start": 1854.29,
+    "end": 1862.21,
+    "text": "last year. The year before the policy changes, the collocated storage capacity"
+  },
+  {
+    "start": 1862.21,
+    "end": 1872.33,
+    "text": "was about 30 gigawatt, account for 42 percentage of all the storage capacity."
+  },
+  {
+    "start": 1872.61,
+    "end": 1880.52,
+    "text": "So it is almost the largest kind of usage. And it's mainly located in the"
+  },
+  {
+    "start": 1880.52,
+    "end": 1889.34,
+    "text": "the northwest or north China, because for this part of this region, the renewables are"
+  },
+  {
+    "start": 1889.34,
+    "end": 1897.3,
+    "text": "very high, but the load is relatively low. So the containment capacity is much higher."
+  },
+  {
+    "start": 1898.56,
+    "end": 1911.16,
+    "text": "And, okay, I would like to introduce the policy changes. Last year, the government issued"
+  },
+  {
+    "start": 1911.16,
+    "end": 1914.96,
+    "text": "issued a notice on deep market-oriented reform"
+  },
+  {
+    "start": 1915.26,
+    "end": 1919.28,
+    "text": "of renewable feed-in carriers to promote high-quality development"
+  },
+  {
+    "start": 1919.28,
+    "end": 1920.08,
+    "text": "of renewables."
+  },
+  {
+    "start": 1920.82,
+    "end": 1926.92,
+    "text": "The document, the number, we also call it 136."
+  },
+  {
+    "start": 1928.68,
+    "end": 1933.94,
+    "text": "So for these documents, it's explicitly stating"
+  },
+  {
+    "start": 1933.94,
+    "end": 1938.64,
+    "text": "that any storage must not be a precondition for the approval,"
+  },
+  {
+    "start": 1938.64,
+    "end": 1942.46,
+    "text": "a connection or approximation of new renewable projects."
+  },
+  {
+    "start": 1944.63,
+    "end": 1950.06,
+    "text": "This means that in the past, in a number of provinces"
+  },
+  {
+    "start": 1950.06,
+    "end": 1955.23,
+    "text": "or regions in China, because of renewable containment,"
+  },
+  {
+    "start": 1955.59,
+    "end": 1959.09,
+    "text": "so if you want to build new renewable power plants,"
+  },
+  {
+    "start": 1959.21,
+    "end": 1965.54,
+    "text": "you need to install a specific percentage of energy storage."
+  },
+  {
+    "start": 1966.37,
+    "end": 1969.03,
+    "text": "Then you can connect to the property."
+  },
+  {
+    "start": 1969.03,
+    "end": 1974.83,
+    "text": "This is kind of like a requirement for the investment of renewables."
+  },
+  {
+    "start": 1976.56,
+    "end": 1985.62,
+    "text": "But this policy abolished this."
+  },
+  {
+    "start": 1985.88,
+    "end": 2001.52,
+    "text": "And this policy actually caused a very large impact on both the investment of renewable power plants"
+  },
+  {
+    "start": 2001.52,
+    "end": 2013.84,
+    "text": "and also the energy storage producers, and for the electricity market is another story."
+  },
+  {
+    "start": 2014.24,
+    "end": 2024.62,
+    "text": "So in order to kind of also support the development of energy storage, because when this policy"
+  },
+  {
+    "start": 2024.62,
+    "end": 2033.99,
+    "text": "issued, the energy storage producers for factories think that the installed capacity view cannot"
+  },
+  {
+    "start": 2033.99,
+    "end": 2045.69,
+    "text": "decrease faster because the renewable power plants are not required to install"
+  },
+  {
+    "start": 2045.69,
+    "end": 2052.19,
+    "text": "any storage system. So the government kind of like give another kind of like"
+  },
+  {
+    "start": 2052.99,
+    "end": 2061.66,
+    "text": "policy or kind of like incentive for the construction of new type storage and for"
+  },
+  {
+    "start": 2061.66,
+    "end": 2066.2,
+    "text": "For the generation side, storage applications in China,"
+  },
+  {
+    "start": 2066.42,
+    "end": 2069.52,
+    "text": "now we have kind of many four types."
+  },
+  {
+    "start": 2069.84,
+    "end": 2075.76,
+    "text": "The first one is that we promote the deployment of storage"
+  },
+  {
+    "start": 2075.96,
+    "end": 2077.8,
+    "text": "at the renewable basis."
+  },
+  {
+    "start": 2078.3,
+    "end": 2083.46,
+    "text": "I think maybe the lectures in the last two or three days,"
+  },
+  {
+    "start": 2083.56,
+    "end": 2085.3,
+    "text": "they have introduced this."
+  },
+  {
+    "start": 2085.54,
+    "end": 2091.4,
+    "text": "In China, because of the wind"
+  },
+  {
+    "start": 2091.4,
+    "end": 2099.32,
+    "text": "and solar, the natural resources are usually in the west and north part of China, so we"
+  },
+  {
+    "start": 2099.32,
+    "end": 2108.48,
+    "text": "developed a large renewable basis. The base is usually generation-based. So if they want"
+  },
+  {
+    "start": 2108.48,
+    "end": 2118.0,
+    "text": "the generation transmitted to the load center, they need storage to reduce the fluctuations"
+  },
+  {
+    "start": 2118.0,
+    "end": 2126.0,
+    "text": "generation size. This is the first type. Another type is that we are not kind of like"
+  },
+  {
+    "start": 2126.74,
+    "end": 2135.12,
+    "text": "require you to the renewable plants to build any storage but you can choose to build by yourself"
+  },
+  {
+    "start": 2136.09,
+    "end": 2144.34,
+    "text": "and the power capacity and energy capacity you can kind of like calculate which types of any storage"
+  },
+  {
+    "start": 2144.34,
+    "end": 2152.04,
+    "text": "storage and what's the size of the antistorage you can determine by your decision for the"
+  },
+  {
+    "start": 2152.04,
+    "end": 2152.88,
+    "text": "market decision."
+  },
+  {
+    "start": 2154.65,
+    "end": 2159.59,
+    "text": "And this one is the start of the joint operation and co-fired units with new type of storage."
+  },
+  {
+    "start": 2160.4,
+    "end": 2162.3,
+    "text": "This one I mentioned."
+  },
+  {
+    "start": 2162.6,
+    "end": 2170.49,
+    "text": "Another one is that because in the future some of the traditional power plants will"
+  },
+  {
+    "start": 2170.49,
+    "end": 2179.22,
+    "text": "will retire because of the years in operation or because of the initial requirements."
+  },
+  {
+    "start": 2179.7,
+    "end": 2185.26,
+    "text": "So for these retired power plants, there are signs that transmission lines can be used"
+  },
+  {
+    "start": 2185.26,
+    "end": 2189.52,
+    "text": "to build the energy storage stations."
+  },
+  {
+    "start": 2194.87,
+    "end": 2200.27,
+    "text": "The second type is the development of independent storage systems."
+  },
+  {
+    "start": 2200.27,
+    "end": 2211.87,
+    "text": "For this type of storage system, I just mentioned at the end of the 14th five-year plan, actually"
+  },
+  {
+    "start": 2211.87,
+    "end": 2219.29,
+    "text": "it's the last year, it becomes the first type of the storage application."
+  },
+  {
+    "start": 2220.61,
+    "end": 2225.73,
+    "text": "And now the cumulative share is exceeding 50%."
+  },
+  {
+    "start": 2225.73,
+    "end": 2234.75,
+    "text": "percentage. And we can have different types of revenues. We can kind of pick value, price"
+  },
+  {
+    "start": 2234.75,
+    "end": 2241.43,
+    "text": "upcharge, we can provide considerate service, and in more and more provinces, we can get"
+  },
+  {
+    "start": 2241.43,
+    "end": 2252.07,
+    "text": "capacity compensation. This is also very important. And the situation is that we can summarize"
+  },
+  {
+    "start": 2252.07,
+    "end": 2258.22,
+    "text": "we have three kind of like futures. The first one is larger thinker stations. More than"
+  },
+  {
+    "start": 2258.22,
+    "end": 2267.38,
+    "text": "70% of the projects, they are sized for more than 100 megawatts. The storage duration is"
+  },
+  {
+    "start": 2267.38,
+    "end": 2275.48,
+    "text": "about two to four hours, and for the technology, lithium batteries still dominate. It accounts"
+  },
+  {
+    "start": 2275.48,
+    "end": 2285.6,
+    "text": "for about 96% and these are their kind of like reviews, the price of trash and"
+  },
+  {
+    "start": 2285.6,
+    "end": 2292.98,
+    "text": "cigarette service, capacity compensation and this for capacity leasing, leasing"
+  },
+  {
+    "start": 2292.98,
+    "end": 2300.84,
+    "text": "this is before the capacity compensation, for example in Shandong province in the past"
+  },
+  {
+    "start": 2300.84,
+    "end": 2308.6,
+    "text": "In the past years, if you build independent energy storage, or we call it shale energy storage,"
+  },
+  {
+    "start": 2308.78,
+    "end": 2313.06,
+    "text": "you can lease to the renewable power plants to get revenue."
+  },
+  {
+    "start": 2315.74,
+    "end": 2327.9,
+    "text": "And here we give an example that is 100 MWh independent storage station in Hebei province."
+  },
+  {
+    "start": 2327.9,
+    "end": 2335.88,
+    "text": "When they invest in this storage system, they have an economic calculation."
+  },
+  {
+    "start": 2336.44,
+    "end": 2347.28,
+    "text": "For example, for price of charge, it's estimated it can earn about 35 million RMB per year."
+  },
+  {
+    "start": 2347.8,
+    "end": 2353.6,
+    "text": "And we can get the best compensation of about 10 million per year."
+  },
+  {
+    "start": 2353.6,
+    "end": 2359.7,
+    "text": "and we want to participate as a service for more."
+  },
+  {
+    "start": 2361.9,
+    "end": 2366.46,
+    "text": "And another situation is that in Shaanxi province."
+  },
+  {
+    "start": 2366.84,
+    "end": 2374.0,
+    "text": "It is very interesting that if you are working on processing for frequency regulation,"
+  },
+  {
+    "start": 2374.38,
+    "end": 2377.86,
+    "text": "we have primary frequency regulation and secondary frequency regulation."
+  },
+  {
+    "start": 2379.77,
+    "end": 2383.15,
+    "text": "So for primary frequency regulation is actually,"
+  },
+  {
+    "start": 2383.15,
+    "end": 2390.39,
+    "text": "actually, in many countries it is compulsory, it's kind of an obligation, you must provide"
+  },
+  {
+    "start": 2390.83,
+    "end": 2392.29,
+    "text": "primary frequency regulation."
+  },
+  {
+    "start": 2393.04,
+    "end": 2402.35,
+    "text": "This is in the past, but nowadays because of the fluctuations of the renewables, the"
+  },
+  {
+    "start": 2402.35,
+    "end": 2411.82,
+    "text": "frequency quality actually is deteriorating in many areas, also in China, in many provinces"
+  },
+  {
+    "start": 2411.82,
+    "end": 2418.96,
+    "text": "we can see this so they want to build primary frequency regulation markets for"
+  },
+  {
+    "start": 2418.96,
+    "end": 2428.7,
+    "text": "anti-storage system and they tried last year the result is that if you use more"
+  },
+  {
+    "start": 2428.7,
+    "end": 2433.46,
+    "text": "anti-storage for primary frequency supports then the support from the"
+  },
+  {
+    "start": 2433.46,
+    "end": 2435.46,
+    "text": "the traditional units will decrease."
+  },
+  {
+    "start": 2436.93,
+    "end": 2442.72,
+    "text": "So they give their statistics."
+  },
+  {
+    "start": 2443.16,
+    "end": 2448.94,
+    "text": "It fails about 30% and 40% respectively."
+  },
+  {
+    "start": 2451.25,
+    "end": 2456.33,
+    "text": "But in other provinces, you don't have this kind of a trend"
+  },
+  {
+    "start": 2456.33,
+    "end": 2456.55,
+    "text": "yet."
+  },
+  {
+    "start": 2459.37,
+    "end": 2464.01,
+    "text": "And for the trend of grid size storage allocation,"
+  },
+  {
+    "start": 2465.01,
+    "end": 2473.71,
+    "text": "The government promotes the construction of independent storage at the key grid nodes,"
+  },
+  {
+    "start": 2473.89,
+    "end": 2481.31,
+    "text": "such as the node center, large-scale rehabilitation, or high capacity of HVDC feed-in."
+  },
+  {
+    "start": 2481.76,
+    "end": 2491.96,
+    "text": "This is because in China we have long-distance corridors to transmit electricity generation"
+  },
+  {
+    "start": 2491.96,
+    "end": 2501.2,
+    "text": "from the northwest part to the central China or to the east part of China, and we have"
+  },
+  {
+    "start": 2501.2,
+    "end": 2504.1,
+    "text": "built a lot of HPDC lines."
+  },
+  {
+    "start": 2504.93,
+    "end": 2514.33,
+    "text": "So for this HPDC, it needs the support, and the storage system is kind of an option."
+  },
+  {
+    "start": 2514.58,
+    "end": 2523.34,
+    "text": "options. And also a demonstration of grid forming storage, grid forming. And another"
+  },
+  {
+    "start": 2523.34,
+    "end": 2532.96,
+    "text": "one we call grid substitution storage, which means that if you invest, storage is much"
+  },
+  {
+    "start": 2532.99,
+    "end": 2546.82,
+    "text": "cheaper than invest the lines or substations when you can invest. And the third type is"
+  },
+  {
+    "start": 2546.82,
+    "end": 2550.88,
+    "text": "is the deployment of distributed anti-storage."
+  },
+  {
+    "start": 2552.98,
+    "end": 2557.86,
+    "text": "The watch level is low, and the capacity, the size is smaller."
+  },
+  {
+    "start": 2558.96,
+    "end": 2561.94,
+    "text": "And what is distributed anti-storage"
+  },
+  {
+    "start": 2561.94,
+    "end": 2565.82,
+    "text": "refers to storage connected to a public distribution network,"
+  },
+  {
+    "start": 2566.93,
+    "end": 2569.61,
+    "text": "either with stationary or mobile storage."
+  },
+  {
+    "start": 2571.04,
+    "end": 2576.48,
+    "text": "So I have listed several kind of like typical applications."
+  },
+  {
+    "start": 2576.48,
+    "end": 2581.43,
+    "text": "For example, anti-storage supporting distribution system."
+  },
+  {
+    "start": 2582.26,
+    "end": 2588.02,
+    "text": "It can be deployed in distribution line or besides the distribution transformer."
+  },
+  {
+    "start": 2588.38,
+    "end": 2594.98,
+    "text": "Or anti-storage coordinate with DG, especially for PV, distributed PV."
+  },
+  {
+    "start": 2595.4,
+    "end": 2601.91,
+    "text": "And the last type is mobile anti-storage."
+  },
+  {
+    "start": 2604.86,
+    "end": 2607.4,
+    "text": "This picture shows the mobile one."
+  },
+  {
+    "start": 2607.4,
+    "end": 2616.02,
+    "text": "and a truck can carry any storage system more than one megawatt hour."
+  },
+  {
+    "start": 2616.36,
+    "end": 2629.18,
+    "text": "So it can promote integration of DG and it can also operate in emergency or supply or distribution network recovery."
+  },
+  {
+    "start": 2629.5,
+    "end": 2632.88,
+    "text": "So you can use it as a new operation."
+  },
+  {
+    "start": 2633.3,
+    "end": 2654.75,
+    "text": "I need to change the settings."
+  },
+  {
+    "start": 2654.75,
+    "end": 2675.22,
+    "text": "For the distribution average storage, in recent years, in China, a very hot kind of application"
+  },
+  {
+    "start": 2675.22,
+    "end": 2681.06,
+    "text": "scenario is that deploy the average storage just beside the distribution transformer."
+  },
+  {
+    "start": 2682.38,
+    "end": 2683.86,
+    "text": "The distribution transformer."
+  },
+  {
+    "start": 2684.1,
+    "end": 2690.58,
+    "text": "Because for the low-voltage distribution system, more and more PV are connected to the system."
+  },
+  {
+    "start": 2690.58,
+    "end": 2694.36,
+    "text": "and it will cause the higher voltage and the reverse"
+  },
+  {
+    "start": 2695.8,
+    "end": 2696.46,
+    "text": "power flows."
+  },
+  {
+    "start": 2696.68,
+    "end": 2700.44,
+    "text": "But if you cannot put any storage beside the transformer,"
+  },
+  {
+    "start": 2700.8,
+    "end": 2704.36,
+    "text": "you don't need to change this transformer,"
+  },
+  {
+    "start": 2704.74,
+    "end": 2708.1,
+    "text": "and you can also make more balance for this power flow."
+  },
+  {
+    "start": 2711.19,
+    "end": 2713.67,
+    "text": "And another one is mobile storage."
+  },
+  {
+    "start": 2714.25,
+    "end": 2718.19,
+    "text": "I would like to mention is that because in my team,"
+  },
+  {
+    "start": 2718.29,
+    "end": 2721.21,
+    "text": "we did some research on this one."
+  },
+  {
+    "start": 2721.21,
+    "end": 2737.55,
+    "text": "And we think it will be kind of like more economical to build, for example, in a utility you can kind of like invest, for example, five or ten mobile and storage systems."
+  },
+  {
+    "start": 2737.96,
+    "end": 2745.74,
+    "text": "In normal conditions, you can kind of like ultimately deploy the storage at kind of proper size."
+  },
+  {
+    "start": 2745.74,
+    "end": 2755.36,
+    "text": "But in the emergency conditions, you can kind of collect them to support the broken area"
+  },
+  {
+    "start": 2755.36,
+    "end": 2764.44,
+    "text": "or recovering the power distribution network that is kind of like because of the hurricane,"
+  },
+  {
+    "start": 2764.82,
+    "end": 2767.82,
+    "text": "because of the flooding, or other situations."
+  },
+  {
+    "start": 2771.43,
+    "end": 2776.37,
+    "text": "And the fourth type of application is the demand side and storage."
+  },
+  {
+    "start": 2776.37,
+    "end": 2788.82,
+    "text": "At least three scenarios for the usage, storage at the charging stations, storage in the industrial"
+  },
+  {
+    "start": 2788.82,
+    "end": 2793.26,
+    "text": "park and commercial buildings, and storage in communities or homes."
+  },
+  {
+    "start": 2794.28,
+    "end": 2801.72,
+    "text": "So for this scenario, usually you put the storage and the storage actually behind the"
+  },
+  {
+    "start": 2801.72,
+    "end": 2801.92,
+    "text": "meter."
+  },
+  {
+    "start": 2801.92,
+    "end": 2810.14,
+    "text": "behind the meter. Because for the disputed storage items, we just talked, it is usually kind of"
+  },
+  {
+    "start": 2810.14,
+    "end": 2820.0,
+    "text": "before the meter. And for this type of storage, it should be properly operated by the customers"
+  },
+  {
+    "start": 2820.0,
+    "end": 2832.61,
+    "text": "to reduce their electricity bills. The first one is storage at charter stations. As you know,"
+  },
+  {
+    "start": 2832.61,
+    "end": 2842.89,
+    "text": "that's the the charging power for a single ev are increasing very fast so several years ago we called"
+  },
+  {
+    "start": 2842.89,
+    "end": 2853.96,
+    "text": "the fast charging maybe the power is more than 50 kilos is fast charging but now we have kind of"
+  },
+  {
+    "start": 2853.96,
+    "end": 2864.12,
+    "text": "super fast charging we have kind of an ultra high speed charging so for for this"
+  },
+  {
+    "start": 2864.12,
+    "end": 2869.14,
+    "text": "charging for a single EV, the charging power can be several hundreds."
+  },
+  {
+    "start": 2870.74,
+    "end": 2876.28,
+    "text": "Several hundreds. For example, for a private EV you can"
+  },
+  {
+    "start": 2876.28,
+    "end": 2883.88,
+    "text": "come up to 300. And for commercial electric vehicles, maybe to more than 500"
+  },
+  {
+    "start": 2883.88,
+    "end": 2892.24,
+    "text": "and even 800. So the charging power is increasing very fast. And for this"
+  },
+  {
+    "start": 2892.24,
+    "end": 2898.9,
+    "text": "This higher charging power, it will bring impacts to the power system and also requires"
+  },
+  {
+    "start": 2899.38,
+    "end": 2900.22,
+    "text": "high capacity."
+  },
+  {
+    "start": 2901.14,
+    "end": 2909.44,
+    "text": "If you put some energy storage within the charging station, then it can kind of reduce"
+  },
+  {
+    "start": 2909.44,
+    "end": 2913.22,
+    "text": "the required capacity and also reduce the power fluctuations."
+  },
+  {
+    "start": 2913.7,
+    "end": 2920.22,
+    "text": "And also you can absorb some electricity generated from the local PV system."
+  },
+  {
+    "start": 2920.22,
+    "end": 2924.22,
+    "text": "So it can come up as multiple usage."
+  },
+  {
+    "start": 2925.64,
+    "end": 2929.04,
+    "text": "And the second one is in industrial park or commercial"
+  },
+  {
+    "start": 2929.04,
+    "end": 2934.3,
+    "text": "buildings, this is kind of like quite simple to imagine."
+  },
+  {
+    "start": 2935.82,
+    "end": 2941.66,
+    "text": "If the customer come up with a TOU price, fix the TOU price,"
+  },
+  {
+    "start": 2941.92,
+    "end": 2944.96,
+    "text": "then the operation of the storage is quite simple."
+  },
+  {
+    "start": 2945.22,
+    "end": 2949.64,
+    "text": "You just set the price of your discharge at the higher price"
+  },
+  {
+    "start": 2949.64,
+    "end": 2955.88,
+    "text": "period and the charge at low price period. But if the customer the"
+  },
+  {
+    "start": 2955.88,
+    "end": 2962.12,
+    "text": "electricity price is determined by the electricity market, it fluctuates, it's"
+  },
+  {
+    "start": 2962.12,
+    "end": 2967.1,
+    "text": "changing day by day, then you need kind of like intelligence control"
+  },
+  {
+    "start": 2968.2,
+    "end": 2974.22,
+    "text": "algorithms to properly control the charge and discharge of the storage system."
+  },
+  {
+    "start": 2974.22,
+    "end": 2981.01,
+    "text": "And the third one is the community and storage."
+  },
+  {
+    "start": 2981.88,
+    "end": 2991.88,
+    "text": "Actually, as I know, the community and storage is first used in the UK distribution network."
+  },
+  {
+    "start": 2992.44,
+    "end": 3001.88,
+    "text": "For the UK distribution network operator, they want some storage installed at home or at the community."
+  },
+  {
+    "start": 3001.88,
+    "end": 3008.46,
+    "text": "And for each home, it can share a percent of the energy storage capacity."
+  },
+  {
+    "start": 3008.82,
+    "end": 3013.46,
+    "text": "And the other capacity is operated by the network operator."
+  },
+  {
+    "start": 3014.45,
+    "end": 3020.24,
+    "text": "So they can come up with both benefits to the home and to the distribution power network."
+  },
+  {
+    "start": 3022.67,
+    "end": 3026.37,
+    "text": "And the last duration is the residential energy storage."
+  },
+  {
+    "start": 3026.37,
+    "end": 3034.88,
+    "text": "and in China as you may know that for the residential electricity price is"
+  },
+  {
+    "start": 3034.88,
+    "end": 3041.7,
+    "text": "relatively low and usually fixed so it is very difficult to kind of install"
+  },
+  {
+    "start": 3042.28,
+    "end": 3050.45,
+    "text": "residential storage in China so some companies they have this product"
+  },
+  {
+    "start": 3050.45,
+    "end": 3053.97,
+    "text": "that they are exported to other regions."
+  },
+  {
+    "start": 3055.51,
+    "end": 3058.36,
+    "text": "And for the residential storage, it"
+  },
+  {
+    "start": 3058.36,
+    "end": 3062.3,
+    "text": "depends mainly on electricity prices and also PV."
+  },
+  {
+    "start": 3063.31,
+    "end": 3066.08,
+    "text": "If you have high electricity price,"
+  },
+  {
+    "start": 3066.14,
+    "end": 3068.36,
+    "text": "and also you have a rooftop PV system,"
+  },
+  {
+    "start": 3068.52,
+    "end": 3072.5,
+    "text": "then you may consider to install a home storage system."
+  },
+  {
+    "start": 3073.98,
+    "end": 3076.63,
+    "text": "And the operating strategies for residential,"
+  },
+  {
+    "start": 3076.63,
+    "end": 3080.6,
+    "text": "venture. Yeah, you need kind of maybe some companies will"
+  },
+  {
+    "start": 3080.6,
+    "end": 3086.69,
+    "text": "develop this system, like home and management system. So you"
+  },
+  {
+    "start": 3086.69,
+    "end": 3091.98,
+    "text": "need to kind of like forecast the PV generation, forecast the"
+  },
+  {
+    "start": 3091.98,
+    "end": 3097.38,
+    "text": "the home electricity usage, and then you can kind of manage the"
+  },
+  {
+    "start": 3097.38,
+    "end": 3101.9,
+    "text": "charging and discharging of the storage system properly. And I"
+  },
+  {
+    "start": 3101.9,
+    "end": 3106.04,
+    "text": "don't have kind of come show the Tesla's home power as their"
+  },
+  {
+    "start": 3106.04,
+    "end": 3114.39,
+    "text": "their usage and you can if you are interested you can check the details and the the last type i would"
+  },
+  {
+    "start": 3114.39,
+    "end": 3122.33,
+    "text": "like to share is the electrical ev development and storage resources as you know i did some research"
+  },
+  {
+    "start": 3122.33,
+    "end": 3131.25,
+    "text": "work on on this area for electric vehicles we consider is for power system side we consider"
+  },
+  {
+    "start": 3131.25,
+    "end": 3135.83,
+    "text": "consider as new type of load or new type of distributed and storage system."
+  },
+  {
+    "start": 3136.79,
+    "end": 3142.99,
+    "text": "If the EV connects to the power grid, it is actually kind of like a battery storage system."
+  },
+  {
+    "start": 3144.16,
+    "end": 3149.68,
+    "text": "So it can be kind of like incorporated into demand side management,"
+  },
+  {
+    "start": 3150.54,
+    "end": 3154.38,
+    "text": "persistent dispatch, and also coordinate with the renewable generation."
+  },
+  {
+    "start": 3154.96,
+    "end": 3161.92,
+    "text": "And even now in some regions, if you have kind of like home storage,"
+  },
+  {
+    "start": 3161.92,
+    "end": 3174.32,
+    "text": "You have home rooftop TV, you have EV, you can kind of combine them together to make it more grid-friendly and reduce the severe."
+  },
+  {
+    "start": 3176.3,
+    "end": 3185.68,
+    "text": "To control the EV loads or EV power, we have two types of technologies."
+  },
+  {
+    "start": 3186.14,
+    "end": 3188.12,
+    "text": "The first one we call smart charging."
+  },
+  {
+    "start": 3188.12,
+    "end": 3196.66,
+    "text": "charging, so it only controls the charging power and the charging time, so then maybe"
+  },
+  {
+    "start": 3197.94,
+    "end": 3204.84,
+    "text": "it can reduce the charging fees and it can also turn out like more rate friendly."
+  },
+  {
+    "start": 3205.42,
+    "end": 3214.2,
+    "text": "And furthermore, if we want to discharging back, then we usually call it as V2G technology."
+  },
+  {
+    "start": 3214.2,
+    "end": 3227.44,
+    "text": "technology. Then, EVs act as distribution storage units, but it can participate in grid regulation through China and Australia."
+  },
+  {
+    "start": 3230.26,
+    "end": 3241.84,
+    "text": "And here I give the sales of EVs in China, and actually it's increasing very fast."
+  },
+  {
+    "start": 3241.84,
+    "end": 3253.34,
+    "text": "and last year the battery EV, the number is more than 30 million and for the"
+  },
+  {
+    "start": 3253.34,
+    "end": 3260.7,
+    "text": "topic we discussed today, we look at the capacity, battery capacity. The total"
+  },
+  {
+    "start": 3260.7,
+    "end": 3268.63,
+    "text": "battery capacity is a conservative estimation more than 1,200 kWh"
+  },
+  {
+    "start": 3268.63,
+    "end": 3276.43,
+    "text": "on. And this capacity is higher than the total storage capacity of all the other end storage"
+  },
+  {
+    "start": 3276.43,
+    "end": 3289.92,
+    "text": "systems in China. So the potential is huge. But how to utilize it is a problem. And for"
+  },
+  {
+    "start": 3291.27,
+    "end": 3302.24,
+    "text": "EV acting as a storage system, it can discharge back to the power system. And for V2G, we"
+  },
+  {
+    "start": 3302.24,
+    "end": 3310.98,
+    "text": "have the basic premise is that we do not affect the use of EVs or if we"
+  },
+  {
+    "start": 3310.98,
+    "end": 3317.18,
+    "text": "want the EV to discharge back we give enough compensation for the EV owners so"
+  },
+  {
+    "start": 3317.46,
+    "end": 3324.7,
+    "text": "if you will be an EV owner if in your region there will be kind of like great"
+  },
+  {
+    "start": 3324.7,
+    "end": 3332.76,
+    "text": "the grid incentives, you can kind of participate, maybe you can, kind of like, in some places,"
+  },
+  {
+    "start": 3332.92,
+    "end": 3338.06,
+    "text": "maybe we call it, if you participate in Victor Grids, you will kind of like use the electric"
+  },
+  {
+    "start": 3338.06,
+    "end": 3345.06,
+    "text": "rigs for free. You don't need to, if it is kind of like controlled more properly, you"
+  },
+  {
+    "start": 3345.06,
+    "end": 3352.26,
+    "text": "don't need to pay the electricity bills. And for V2G, it's like, just like the energy storage"
+  },
+  {
+    "start": 3352.26,
+    "end": 3355.96,
+    "text": "storage system. It can be used to keep shaving, value filling,"
+  },
+  {
+    "start": 3356.2,
+    "end": 3361.41,
+    "text": "friction regulation, water support, and reserve. All these"
+  },
+  {
+    "start": 3361.41,
+    "end": 3369.74,
+    "text": "types of functions. And in"
+  },
+  {
+    "start": 3370.22,
+    "end": 3373.48,
+    "text": "recent years, we do have some kind of"
+  },
+  {
+    "start": 3374.4,
+    "end": 3377.8,
+    "text": "vehicle grid stations built, and we have"
+  },
+  {
+    "start": 3378.26,
+    "end": 3382.3,
+    "text": "also, we have friction regulation"
+  },
+  {
+    "start": 3382.3,
+    "end": 3387.3,
+    "text": "pilot projects. And the"
+  },
+  {
+    "start": 3387.3,
+    "end": 3394.6,
+    "text": "The last thing is that about the second life utilization of retired EV battery, this is"
+  },
+  {
+    "start": 3394.6,
+    "end": 3403.02,
+    "text": "also kind of an area, the retired battery, how to use them, because for EV usage, usually"
+  },
+  {
+    "start": 3403.02,
+    "end": 3414.69,
+    "text": "we think that if the SOH or the residue capacity of the battery on EV reduced to 80% of the"
+  },
+  {
+    "start": 3414.69,
+    "end": 3423.56,
+    "text": "rated capacity it should be replaced when it is replaced uh replaced actually the battery can be"
+  },
+  {
+    "start": 3423.56,
+    "end": 3431.23,
+    "text": "used for a great supporting services because a lot of kind of like public uh considering the"
+  },
+  {
+    "start": 3431.23,
+    "end": 3442.02,
+    "text": "second one utilization okay that's uh i think almost the time and uh conclude my my conclusion"
+  },
+  {
+    "start": 3442.02,
+    "end": 3451.3,
+    "text": "Maybe it's not kind of like I would like to discuss with you."
+  },
+  {
+    "start": 3451.54,
+    "end": 3461.88,
+    "text": "And the summary is that the current development, new type of storage led by lithium batteries has developed rapidly."
+  },
+  {
+    "start": 3462.56,
+    "end": 3465.12,
+    "text": "And the cost falling sharply."
+  },
+  {
+    "start": 3465.12,
+    "end": 3474.15,
+    "text": "Exactly. The cost in the, maybe for example, in the past 10 or 15 years, almost reduced"
+  },
+  {
+    "start": 3475.43,
+    "end": 3488.92,
+    "text": "90%, almost in many regions. 90%. It is out of our expectation. And another one is that"
+  },
+  {
+    "start": 3488.92,
+    "end": 3496.37,
+    "text": "large capacity storage applications, except for lithium-ion battery, that by compressed"
+  },
+  {
+    "start": 3496.37,
+    "end": 3502.27,
+    "text": "press air and flow batteries have also achieved breakthroughs in the past."
+  },
+  {
+    "start": 3506.04,
+    "end": 3511.0,
+    "text": "So this is kind of like another aspect of storage system development."
+  },
+  {
+    "start": 3512.02,
+    "end": 3517.78,
+    "text": "And in China, the government also kind of like incentive the pump to hydro storage."
+  },
+  {
+    "start": 3518.29,
+    "end": 3522.23,
+    "text": "So the capacity is also increasing very fast."
+  },
+  {
+    "start": 3523.91,
+    "end": 3528.17,
+    "text": "And the fourth one is that some large independent storage stations and"
+  },
+  {
+    "start": 3528.17,
+    "end": 3529.27,
+    "text": "and unit-plus storage."
+  },
+  {
+    "start": 3529.98,
+    "end": 3532.46,
+    "text": "Joint projects have already achieved good returns."
+  },
+  {
+    "start": 3537.2,
+    "end": 3543.01,
+    "text": "They have come up with an economic situation that"
+  },
+  {
+    "start": 3543.01,
+    "end": 3544.91,
+    "text": "is favorable to the investors."
+  },
+  {
+    "start": 3546.17,
+    "end": 3549.31,
+    "text": "As the electricity market development develops,"
+  },
+  {
+    "start": 3549.97,
+    "end": 3553.13,
+    "text": "storage can now compete in multiple electricity markets."
+  },
+  {
+    "start": 3554.8,
+    "end": 3555.64,
+    "text": "That's the situation."
+  },
+  {
+    "start": 3555.86,
+    "end": 3558.76,
+    "text": "I think that's the situation in China and also"
+  },
+  {
+    "start": 3558.76,
+    "end": 3560.46,
+    "text": "in other regions."
+  },
+  {
+    "start": 3560.46,
+    "end": 3563.71,
+    "text": "But we still have challenges."
+  },
+  {
+    "start": 3564.27,
+    "end": 3571.78,
+    "text": "One of the challenges is that even I just mentioned that"
+  },
+  {
+    "start": 3571.78,
+    "end": 3577.74,
+    "text": "the battery storage, the cost decreased about 90%."
+  },
+  {
+    "start": 3578.37,
+    "end": 3584.34,
+    "text": "But in many cases, we still think that the cost is still high, right?"
+  },
+  {
+    "start": 3584.75,
+    "end": 3592.62,
+    "text": "It is still kind of expensive to invest or install storage systems."
+  },
+  {
+    "start": 3592.62,
+    "end": 3602.08,
+    "text": "So it still requires the techniques, the companies to reduce the cost."
+  },
+  {
+    "start": 3603.91,
+    "end": 3609.29,
+    "text": "And the second one is that both the policies and technologies for any storage stations"
+  },
+  {
+    "start": 3609.29,
+    "end": 3613.29,
+    "text": "to participate in electricity markets need further strengthening."
+  },
+  {
+    "start": 3614.63,
+    "end": 3617.53,
+    "text": "This is the situation, I think, in many regions."
+  },
+  {
+    "start": 3617.53,
+    "end": 3628.25,
+    "text": "Because the electricity market is not designed for any storage system, it is designed for"
+  },
+  {
+    "start": 3628.25,
+    "end": 3630.43,
+    "text": "the traditional generation units."
+  },
+  {
+    "start": 3631.89,
+    "end": 3642.52,
+    "text": "So how to make the market more friendly to any storage system is also a challenge."
+  },
+  {
+    "start": 3642.52,
+    "end": 3650.61,
+    "text": "And the third one is the investment operation model for grid-side storage needs further development."
+  },
+  {
+    "start": 3651.13,
+    "end": 3655.85,
+    "text": "I think this may be the situation in some regions."
+  },
+  {
+    "start": 3656.57,
+    "end": 3667.17,
+    "text": "For example, in China, we have some time that the power grid company is not allowed to invest in storage systems."
+  },
+  {
+    "start": 3668.83,
+    "end": 3672.91,
+    "text": "This is kind of like an argument for a while."
+  },
+  {
+    "start": 3672.91,
+    "end": 3680.11,
+    "text": "because if you for the great company we have kind of likely these storage system"
+  },
+  {
+    "start": 3680.11,
+    "end": 3686.6,
+    "text": "we we can also come up like doing price of charge and it is not an independent"
+  },
+  {
+    "start": 3687.28,
+    "end": 3695.84,
+    "text": "kind of like system operator so this that will be the file problems and also"
+  },
+  {
+    "start": 3695.84,
+    "end": 3701.44,
+    "text": "we kind of like to consider we need a unified design for storage capacity"
+  },
+  {
+    "start": 3701.44,
+    "end": 3720.96,
+    "text": "market. The capacity market. We learned a lot from like PGM, the capacity market is mature and the designs are very fancy, but in China it's still in a starting stage. The capacity is far from mature."
+  },
+  {
+    "start": 3720.96,
+    "end": 3726.9,
+    "text": "you. And the last one I would like to mention is the large"
+  },
+  {
+    "start": 3726.9,
+    "end": 3732.3,
+    "text": "capacity long duration storage, the long duration. Maybe I"
+  },
+  {
+    "start": 3732.3,
+    "end": 3736.76,
+    "text": "mentioned that for for DOE content, consider that the flow"
+  },
+  {
+    "start": 3736.76,
+    "end": 3741.68,
+    "text": "battery is a long duration. And many kind of like many"
+  },
+  {
+    "start": 3741.68,
+    "end": 3749.12,
+    "text": "researchers or many companies, they think that hydrogen is the"
+  },
+  {
+    "start": 3749.12,
+    "end": 3757.7,
+    "text": "future long duration storage but it is not approved and at the current stage large scale"
+  },
+  {
+    "start": 3757.7,
+    "end": 3764.5,
+    "text": "hydrogen storage is still a big issue and the price is quite quite high and the security problem"
+  },
+  {
+    "start": 3765.51,
+    "end": 3772.71,
+    "text": "it's not being fully kind of like on code so so for this one long duration storage"
+  },
+  {
+    "start": 3772.71,
+    "end": 3784.42,
+    "text": "storage, we really need it for the transformation of the power system from the fossil fuel kind"
+  },
+  {
+    "start": 3784.42,
+    "end": 3790.82,
+    "text": "of like to almost a fully renewable one. But if we don't have long duration"
+  },
+  {
+    "start": 3790.82,
+    "end": 3798.26,
+    "text": "and storage, we can't do it. We still need many backups from the traditional generation."
+  },
+  {
+    "start": 3798.26,
+    "end": 3802.97,
+    "text": "So this problem is another issue."
+  },
+  {
+    "start": 3805.02,
+    "end": 3809.12,
+    "text": "Okay, that's all my introduction. Thank you."
+  },
+  {
+    "start": 3810.22,
+    "end": 3814.32,
+    "text": "Is there any question?"
+  },
+  {
+    "start": 3814.7,
+    "end": 3825.62,
+    "text": "Thank you for your sharing."
+  },
+  {
+    "start": 3826.28,
+    "end": 3831.48,
+    "text": "It's very insightful for the leading country in battery energy storage system."
+  },
+  {
+    "start": 3831.82,
+    "end": 3835.8,
+    "text": "So I have a question on capacity leasing."
+  },
+  {
+    "start": 3835.8,
+    "end": 3844.5,
+    "text": "Can you please explain further on what is actually the requirement needed to participate in the capacity leasing"
+  },
+  {
+    "start": 3844.5,
+    "end": 3851.42,
+    "text": "and who can enter this type of program or platform?"
+  },
+  {
+    "start": 3852.71,
+    "end": 3863.24,
+    "text": "Thank you. I think this is a policy in several provinces in China in past years."
+  },
+  {
+    "start": 3863.24,
+    "end": 3874.15,
+    "text": "and the requisition is that in the past in some provinces the renewable power"
+  },
+  {
+    "start": 3874.15,
+    "end": 3880.21,
+    "text": "plants are required to install and storage system so if we don't install"
+  },
+  {
+    "start": 3880.21,
+    "end": 3887.48,
+    "text": "and storage system itself it can lease some capacities from the shared and"
+  },
+  {
+    "start": 3887.48,
+    "end": 3893.08,
+    "text": "storage system for the independent and storage system yeah that's the big"
+  },
+  {
+    "start": 3893.08,
+    "end": 3901.04,
+    "text": "The policy is still ongoing after the changes of the whole policy."
+  },
+  {
+    "start": 3901.76,
+    "end": 3916.4,
+    "text": "I ask a further question, for the leasing condition, do the renewable energy power producers"
+  },
+  {
+    "start": 3916.4,
+    "end": 3924.02,
+    "text": "need to have a certain distance that they need to lease from the certain independent storage system?"
+  },
+  {
+    "start": 3924.02,
+    "end": 3934.82,
+    "text": "or they can just how actually the agreement between the independent battery storage developer"
+  },
+  {
+    "start": 3934.82,
+    "end": 3937.66,
+    "text": "with the renewable energy power producer."
+  },
+  {
+    "start": 3938.04,
+    "end": 3940.17,
+    "text": "Okay, very good question."
+  },
+  {
+    "start": 3940.45,
+    "end": 3947.17,
+    "text": "I think first for the distance, I think in the provinces that have leasing policies,"
+  },
+  {
+    "start": 3947.7,
+    "end": 3951.52,
+    "text": "they have no specific requirement for distance."
+  },
+  {
+    "start": 3951.52,
+    "end": 3960.89,
+    "text": "And I think they have kind of like the requirements for the operation of the anti-storage system."
+  },
+  {
+    "start": 3961.27,
+    "end": 3974.65,
+    "text": "If you lease your capacity to the renewable power plants, you need to kind of like make your storage station properly operation in daily power system operation."
+  },
+  {
+    "start": 3974.65,
+    "end": 3980.89,
+    "text": "You can't kind of shut down. If you miss your pass and you shut down, your anti-story system is not allowed."
+  },
+  {
+    "start": 3982.51,
+    "end": 3990.19,
+    "text": "So for this, if the contract between the renewable power plants and the anti-story system operator,"
+  },
+  {
+    "start": 3990.59,
+    "end": 4001.34,
+    "text": "you need kind of like the contract that is kind of registered for the power system operator."
+  },
+  {
+    "start": 4001.34,
+    "end": 4005.62,
+    "text": "the policy operator needs to know that your capacity has been"
+  },
+  {
+    "start": 4005.62,
+    "end": 4013.5,
+    "text": "leased and then it has kind of like communications with the storage station"
+  },
+  {
+    "start": 4013.5,
+    "end": 4020.3,
+    "text": "to make sure that we will charge and discharge in daily operation. So that's"
+  },
+  {
+    "start": 4020.3,
+    "end": 4041.2,
+    "text": "the requirement for this and storage stations. Thank you professor for that"
+  },
+  {
+    "start": 4041.2,
+    "end": 4047.14,
+    "text": "comprehensive discussion. Well this clarification question is related to the"
+  },
+  {
+    "start": 4047.14,
+    "end": 4055.2,
+    "text": "The document 136 commented on them, so last February 2025."
+  },
+  {
+    "start": 4055.72,
+    "end": 4060.36,
+    "text": "So this is somehow in contrast with the Philippine economy."
+  },
+  {
+    "start": 4060.98,
+    "end": 4065.22,
+    "text": "So what we have now is that we require variable"
+  },
+  {
+    "start": 4066.58,
+    "end": 4070.64,
+    "text": "deaths for new or upcoming power plants"
+  },
+  {
+    "start": 4070.64,
+    "end": 4074.94,
+    "text": "for at least 20% of the installed capacity."
+  },
+  {
+    "start": 4074.94,
+    "end": 4079.46,
+    "text": "So with regards to that, is there an industry practice"
+  },
+  {
+    "start": 4079.46,
+    "end": 4082.56,
+    "text": "of that 20% cap?"
+  },
+  {
+    "start": 4082.96,
+    "end": 4089.78,
+    "text": "And what does China, how do they come up with this decision"
+  },
+  {
+    "start": 4089.78,
+    "end": 4091.64,
+    "text": "to remove the ?"
+  },
+  {
+    "start": 4092.88,
+    "end": 4093.7,
+    "text": "Yeah, yeah, yeah."
+  },
+  {
+    "start": 4093.84,
+    "end": 4094.76,
+    "text": "I understand this."
+  },
+  {
+    "start": 4094.86,
+    "end": 4098.38,
+    "text": "It's also a very good question, a very interesting question."
+  },
+  {
+    "start": 4099.58,
+    "end": 4102.88,
+    "text": "Maybe I don't know the full considering"
+  },
+  {
+    "start": 4102.88,
+    "end": 4111.94,
+    "text": "of the government, but the thing is that because the installed renewable capacity is much higher,"
+  },
+  {
+    "start": 4112.08,
+    "end": 4121.36,
+    "text": "and in the past, for power plants and solar power plants, they have the kind of like the"
+  },
+  {
+    "start": 4121.36,
+    "end": 4128.34,
+    "text": "merits that the government give them, the, for example, you can generate first, and you"
+  },
+  {
+    "start": 4128.34,
+    "end": 4132.58,
+    "text": "you can have higher electricity fitting prices."
+  },
+  {
+    "start": 4134.63,
+    "end": 4141.39,
+    "text": "So the governments, another situation"
+  },
+  {
+    "start": 4141.39,
+    "end": 4146.83,
+    "text": "is that because the cost of wind and solar is reducing,"
+  },
+  {
+    "start": 4147.13,
+    "end": 4149.11,
+    "text": "but you have still high price."
+  },
+  {
+    "start": 4149.41,
+    "end": 4154.42,
+    "text": "So the governments don't want to pay much more"
+  },
+  {
+    "start": 4154.42,
+    "end": 4156.56,
+    "text": "to the renewable power plant investors."
+  },
+  {
+    "start": 4157.38,
+    "end": 4160.1,
+    "text": "So they want that the electricity generated"
+  },
+  {
+    "start": 4160.1,
+    "end": 4163.54,
+    "text": "but the renewable power plants can enter the market."
+  },
+  {
+    "start": 4163.74,
+    "end": 4169.72,
+    "text": "They compete with other types of plants to earn their revenue."
+  },
+  {
+    "start": 4170.04,
+    "end": 4172.64,
+    "text": "I think this is a starting point."
+  },
+  {
+    "start": 4173.31,
+    "end": 4179.28,
+    "text": "So they want the renewable power plants more competitive,"
+  },
+  {
+    "start": 4179.6,
+    "end": 4183.78,
+    "text": "but it's still required to invest in anti-storage,"
+  },
+  {
+    "start": 4184.0,
+    "end": 4187.26,
+    "text": "so the investment for the renewable power plants will be higher."
+  },
+  {
+    "start": 4188.34,
+    "end": 4193.68,
+    "text": "So the government puts this to the market, you can make your decision by yourself."
+  },
+  {
+    "start": 4193.96,
+    "end": 4200.76,
+    "text": "If you think that installing battery is more economical for you, you can choose to install."
+  },
+  {
+    "start": 4201.12,
+    "end": 4203.96,
+    "text": "But it's not a requirement for that."
+  },
+  {
+    "start": 4204.1,
+    "end": 4213.84,
+    "text": "If you think that I don't need the battery, I just cannot get the contract or compete in the sport market to earn the revenue,"
+  },
+  {
+    "start": 4213.84,
+    "end": 4221.33,
+    "text": "value of that, which is also fine. I think this is the reasons, the major reasons."
+  },
+  {
+    "start": 4222.25,
+    "end": 4225.15,
+    "text": "I can definitely agree with that, yes. Thank you."
+  },
+  {
+    "start": 4225.45,
+    "end": 4243.56,
+    "text": "For the lecture, and how you evaluate the future market share for Natri-Ion batteries"
+  },
+  {
+    "start": 4243.56,
+    "end": 4250.04,
+    "text": "in terms of market share, for example, on the horizon, nearest 10 years?"
+  },
+  {
+    "start": 4252.06,
+    "end": 4258.01,
+    "text": "What is the market share of Natri-ion technology?"
+  },
+  {
+    "start": 4258.61,
+    "end": 4263.02,
+    "text": "For the all types of storage technologies?"
+  },
+  {
+    "start": 4263.74,
+    "end": 4265.78,
+    "text": "Of applications in the energy markets."
+  },
+  {
+    "start": 4270.3,
+    "end": 4274.02,
+    "text": "What is the potential of Natri-ion technology?"
+  },
+  {
+    "start": 4275.71,
+    "end": 4285.58,
+    "text": "Batteries, sodium, in comparison of the water market."
+  },
+  {
+    "start": 4286.24,
+    "end": 4287.86,
+    "text": "What is the future market share of Natri-ion?"
+  },
+  {
+    "start": 4295.0,
+    "end": 4309.15,
+    "text": "Maybe this is kind of like a very challenging question for me, and it depends on the application scenarios, yeah."
+  },
+  {
+    "start": 4309.61,
+    "end": 4318.31,
+    "text": "First, I think that for the market of any storage, we have kind of like the power-dominated market,"
+  },
+  {
+    "start": 4318.31,
+    "end": 4321.03,
+    "text": "for example, like the FlyView I just mentioned."
+  },
+  {
+    "start": 4321.35,
+    "end": 4325.57,
+    "text": "And the intermediate is about hours of storage,"
+  },
+  {
+    "start": 4325.73,
+    "end": 4329.49,
+    "text": "and then the long duration storage system."
+  },
+  {
+    "start": 4329.93,
+    "end": 4333.89,
+    "text": "So the most competitive part is the hours,"
+  },
+  {
+    "start": 4334.17,
+    "end": 4337.23,
+    "text": "the kind of storage technologies that can"
+  },
+  {
+    "start": 4337.23,
+    "end": 4339.59,
+    "text": "durate for several hours."
+  },
+  {
+    "start": 4340.0,
+    "end": 4346.25,
+    "text": "And for this kind of storage technology"
+  },
+  {
+    "start": 4346.41,
+    "end": 4354.92,
+    "text": "technology or application scenarios, for me first I think that battery will still"
+  },
+  {
+    "start": 4354.92,
+    "end": 4378.79,
+    "text": "dominate. And I'm not kind of like a researcher on battery technologies, but in China you may kind of like, or I think in other regions or countries, we also have kind of like new type of battery. For example, we do not use"
+  },
+  {
+    "start": 4378.79,
+    "end": 4382.17,
+    "text": "We use lithium, we use kind of like liquids."
+  },
+  {
+    "start": 4382.57,
+    "end": 4393.51,
+    "text": "Now, N-A, you know that's from the salt, and N-A..."
+  },
+  {
+    "start": 4393.51,
+    "end": 4395.2,
+    "text": "Oh, sodium."
+  },
+  {
+    "start": 4395.66,
+    "end": 4396.22,
+    "text": "No, no."
+  },
+  {
+    "start": 4396.56,
+    "end": 4397.44,
+    "text": "Sodium, no."
+  },
+  {
+    "start": 4398.28,
+    "end": 4398.96,
+    "text": "Sodium."
+  },
+  {
+    "start": 4399.58,
+    "end": 4400.26,
+    "text": "Sodium."
+  },
+  {
+    "start": 4400.3,
+    "end": 4400.62,
+    "text": "Sodium."
+  },
+  {
+    "start": 4400.62,
+    "end": 4400.98,
+    "text": "Sodium."
+  },
+  {
+    "start": 4400.98,
+    "end": 4401.64,
+    "text": "Yeah, yeah."
+  },
+  {
+    "start": 4401.82,
+    "end": 4402.28,
+    "text": "Sodium."
+  },
+  {
+    "start": 4402.28,
+    "end": 4402.58,
+    "text": "Sodium."
+  },
+  {
+    "start": 4402.92,
+    "end": 4403.6,
+    "text": "Sodium."
+  },
+  {
+    "start": 4405.84,
+    "end": 4406.52,
+    "text": "Sodium."
+  },
+  {
+    "start": 4409.54,
+    "end": 4410.22,
+    "text": "Sodium."
+  },
+  {
+    "start": 4410.94,
+    "end": 4411.52,
+    "text": "Sodium."
+  },
+  {
+    "start": 4413.34,
+    "end": 4413.68,
+    "text": "Sodium."
+  },
+  {
+    "start": 4413.68,
+    "end": 4418.32,
+    "text": "If this kind of battery will mature in the following years,"
+  },
+  {
+    "start": 4419.29,
+    "end": 4421.81,
+    "text": "the cost will also reduce,"
+  },
+  {
+    "start": 4422.41,
+    "end": 4424.75,
+    "text": "and it can be deployed in large scale."
+  },
+  {
+    "start": 4425.03,
+    "end": 4428.85,
+    "text": "So for batteries, it will also dominate in the following"
+  },
+  {
+    "start": 4428.85,
+    "end": 4433.63,
+    "text": "years, but we still have other kind of large scale usage."
+  },
+  {
+    "start": 4434.23,
+    "end": 4436.49,
+    "text": "It is also, they are also very competitive,"
+  },
+  {
+    "start": 4436.73,
+    "end": 4441.74,
+    "text": "like flow batteries and compressed air storage systems."
+  },
+  {
+    "start": 4441.74,
+    "end": 4448.81,
+    "text": "systems. So I think the first one still will be the battery, a new type of battery, and"
+  },
+  {
+    "start": 4448.81,
+    "end": 4454.77,
+    "text": "the other can be kind of like low battery and low resistance."
+  },
+  {
+    "start": 4456.01,
+    "end": 4456.47,
+    "text": "Thank you."
+  },
+  {
+    "start": 4465.03,
+    "end": 4472.89,
+    "text": "Hello, this is Moises from Mexico. Thank you for your lecture. So regarding the same question"
+  },
+  {
+    "start": 4472.89,
+    "end": 4480.27,
+    "text": "as my colleague here in front of me, in Mexico we still have this 30% requirement for renewables"
+  },
+  {
+    "start": 4480.27,
+    "end": 4487.78,
+    "text": "for battery energy stores. So I'm pretty sure it took many years for China to"
+  },
+  {
+    "start": 4487.78,
+    "end": 4492.34,
+    "text": "transition into a new order to remove that requirement. Do you think"
+  },
+  {
+    "start": 4492.34,
+    "end": 4497.96,
+    "text": "emerging economies, this is something that they need to go through this"
+  },
+  {
+    "start": 4497.96,
+    "end": 4503.99,
+    "text": "requirement 30% before transitioning, to remove it and just leave it as stand-alone?"
+  },
+  {
+    "start": 4507.28,
+    "end": 4515.46,
+    "text": "I think we can consider this problem in different ways, and why we kind of like put the requirement"
+  },
+  {
+    "start": 4515.46,
+    "end": 4523.18,
+    "text": "for renewable power plant to install any storage, the reason is that the renewable are fluctuates"
+  },
+  {
+    "start": 4523.18,
+    "end": 4530.72,
+    "text": "and the power system can't kind of consume or absorb the electricity generated by renewables."
+  },
+  {
+    "start": 4530.72,
+    "end": 4533.72,
+    "text": "Yeah, that's why we put these requirements."
+  },
+  {
+    "start": 4534.1,
+    "end": 4543.28,
+    "text": "But if we can kind of do it as a kind of a worktube mode, this means that not only leasing"
+  },
+  {
+    "start": 4543.28,
+    "end": 4550.82,
+    "text": "or from the market competition, the independent or share-only storage can also take these"
+  },
+  {
+    "start": 4550.82,
+    "end": 4558.62,
+    "text": "roles to kind of like to smooth the fluctuating and to absorb the kind of like the electricity"
+  },
+  {
+    "start": 4558.62,
+    "end": 4563.6,
+    "text": "that can't be absorbed by loan, then it is another way."
+  },
+  {
+    "start": 4563.92,
+    "end": 4570.96,
+    "text": "So I think there is no one-way solution."
+  },
+  {
+    "start": 4571.3,
+    "end": 4573.5,
+    "text": "It can be done by both ways."
+  },
+  {
+    "start": 4573.9,
+    "end": 4582.47,
+    "text": "Yeah, I think that's the question."
+  },
+  {
+    "start": 4585.03,
+    "end": 4590.01,
+    "text": "And we have another sector that we will discuss more about."
+  },
+  {
+    "start": 4591.09,
+    "end": 4594.95,
+    "text": "We have a question for you, and I"
+  },
+  {
+    "start": 4594.95,
+    "end": 4616.27,
+    "text": "I think we have different groups and we will have discussions to share your ideas and we can kind of like, we will also summarize the views from all the groups and we will have candidates to discuss further in the next session."
+  },
+  {
+    "start": 4616.27,
+    "end": 4617.99,
+    "text": "OK, that's about the second session."
+  },
+  {
+    "start": 4618.75,
+    "end": 4621.07,
+    "text": "Thank you, Professor Hu, for your silent sharing."
+  },
+  {
+    "start": 4621.41,
+    "end": 4623.41,
+    "text": "Ladies and gentlemen, it's now time for a coffee break."
+  },
+  {
+    "start": 4623.59,
+    "end": 4624.51,
+    "text": "Take a rest now."
+  },
+  {
+    "start": 4624.75,
+    "end": 4627.61,
+    "text": "The following seminars with Professor Hu Zetun"
+  },
+  {
+    "start": 4627.61,
+    "end": 4629.67,
+    "text": "will start at 5 o'clock."
+  }
+]

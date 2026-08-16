@@ -1,0 +1,2036 @@
+1
+00:00:00,000 --> 00:00:15,380
+3,891 gigawatts in 2025, representing an increase of 185% for the past 15 years.
+
+2
+00:00:17,239 --> 00:00:22,820
+Growth trend detailed analysis can be divided into two stages.
+
+3
+00:00:24,379 --> 00:00:29,859
+2011 to 2020 is steady growth phase.
+
+4
+00:00:29,859 --> 00:00:38,960
+During this decade, annual new installed capacity is about 120 GW.
+
+5
+00:00:39,380 --> 00:00:44,950
+This phase leads a solid foundation for subsequent high-speed development.
+
+6
+00:00:46,030 --> 00:00:52,130
+2021 to 2025 is high-speed growth phase.
+
+7
+00:00:52,780 --> 00:00:57,439
+The growth of total installed capacity accelerated markedly.
+
+8
+00:00:57,439 --> 00:01:11,939
+annual capacity exceeded 250 GW, reaching 3,891 GW by the end of 2025.
+
+9
+00:01:12,930 --> 00:01:20,150
+The average annual blue screen for the past 15 years is nearly 10%.
+
+10
+00:01:22,379 --> 00:01:28,790
+This diagram shows the power capacity distribution in China.
+
+11
+00:01:28,790 --> 00:01:42,569
+Over the past 10 years, China's power installation mix has undergone a historic shift from fossil energy dominance to clean energy dominance.
+
+12
+00:01:43,439 --> 00:01:56,459
+The share of thermal power installed capacity has dropped substantially, while non-fossil energy, particularly wind and solar power, has achieved explosive growth
+
+13
+00:01:56,459 --> 00:02:05,959
+and become the core energy driving the green transition of energy structure.
+
+14
+00:02:06,379 --> 00:02:10,259
+You can get two conclusions from this diagram.
+
+15
+00:02:10,759 --> 00:02:15,939
+The first, the share of thermal power continuously decline.
+
+16
+00:02:16,259 --> 00:02:25,939
+Here I said the thermal power means coal power because in China the thermal power meaning is coal power.
+
+17
+00:02:25,939 --> 00:02:41,039
+You can see for the coal power fell from 67.3% in 2014 to 39.6% in 2045.
+
+18
+00:02:41,840 --> 00:02:48,460
+So these marks are notable reduction in the power system to reliance on the coal.
+
+19
+00:02:49,599 --> 00:02:55,400
+The second stage, the second point is no fossil energy becomes the mainstay.
+
+20
+00:02:55,400 --> 00:03:07,090
+The share of installed non-photo energy capacity, including hydropower, solar power, wind power, and nuclear power,
+
+21
+00:03:07,659 --> 00:03:23,490
+rose steadily from 32.7% in 2014 to 40.4% in 2025, taking an outright leading position for the first time.
+
+22
+00:03:23,490 --> 00:03:34,000
+And this diagram shows the proportion of power generation in China in 2024.
+
+23
+00:03:34,520 --> 00:03:42,860
+And in that slide we know that coal power accounted for 43% of the total installed capacity,
+
+24
+00:03:43,830 --> 00:03:48,530
+lower than 48% of new energy.
+
+25
+00:03:48,530 --> 00:04:00,090
+However, from this figure we can find the coal power contributed about 63% of the total power generation.
+
+26
+00:04:00,650 --> 00:04:04,629
+1.8 times that of new energy power.
+
+27
+00:04:04,629 --> 00:04:18,720
+Which means in 2024, the installed capacity for coal power is only 43%, but the power generation is about 63%.
+
+28
+00:04:18,750 --> 00:04:31,180
+Which means although wind and solar power have registered rapid growth, their utilization rates remain relatively low.
+
+29
+00:04:31,180 --> 00:04:41,319
+Hence, coal power remains the final safeguard for the secure operation of the power grid in China.
+
+30
+00:04:42,410 --> 00:04:50,910
+From the above data, we can get the conclusion that coal power state plays a very important role in China.
+
+31
+00:04:51,189 --> 00:05:00,069
+Therefore, this report focuses on the development and application of clean coal power technology.
+
+32
+00:05:00,069 --> 00:05:10,560
+The development of clinical power technology has gone through three stages in China.
+
+33
+00:05:11,100 --> 00:05:16,639
+The 1970s to 1990s is the initial stage.
+
+34
+00:05:17,120 --> 00:05:24,500
+This stage talks on post-combustion fuel gas desulfurization and dust removal technology
+
+35
+00:05:24,500 --> 00:05:29,399
+to address acid, rain and dust pollution,
+
+36
+00:05:29,399 --> 00:05:32,800
+leading the foundation for environmental governance.
+
+37
+00:05:33,040 --> 00:05:40,819
+You can find in this period for nitrogen octane or NOx, there is no limitation.
+
+38
+00:05:41,240 --> 00:05:47,889
+There is only limitation standard for salts, sulfur oxides and dust.
+
+39
+00:05:48,230 --> 00:05:50,389
+There is no limitation for NOx.
+
+40
+00:05:51,480 --> 00:05:54,019
+The second stage is 2010.
+
+41
+00:05:54,019 --> 00:05:59,180
+2000 to 2010, it is a development stage.
+
+42
+00:05:59,519 --> 00:06:06,100
+This stage shifted towards improving power generation efficiency technologies, such as
+
+43
+00:06:06,100 --> 00:06:12,040
+super-critical power generation technology, and multi-protein control technologies, such
+
+44
+00:06:12,040 --> 00:06:14,420
+as neutral low-emission technology.
+
+45
+00:06:15,329 --> 00:06:19,589
+The third stage is 2020 to present.
+
+46
+00:06:19,589 --> 00:06:23,449
+This stage is a deepening transformation stage.
+
+47
+00:06:24,360 --> 00:06:29,240
+It focuses on synergistic reduction of pollutants and carbon,
+
+48
+00:06:29,500 --> 00:06:32,220
+developing higher efficiency technologies,
+
+49
+00:06:32,660 --> 00:06:34,139
+flexibility in electricity,
+
+50
+00:06:34,560 --> 00:06:39,779
+and integration with CCUS for low-carbon transition.
+
+51
+00:06:42,660 --> 00:06:50,180
+I use three sentences to summarize the China code's core position in China.
+
+52
+00:06:50,180 --> 00:06:56,819
+The first sentence is the best stone for energy security.
+
+53
+00:06:57,459 --> 00:07:09,199
+China has built the world's largest clean coal power system, contributing 60% of power generation and 80% of peak shipping capacity.
+
+54
+00:07:09,720 --> 00:07:16,480
+It serves as the best stone for energy security and the stabilizer of energy.
+
+55
+00:07:16,480 --> 00:07:21,019
+Second sentence is a green benchmark for fossil power.
+
+56
+00:07:21,709 --> 00:07:32,069
+By the end of 2025, over 95% of coal-fired power units in China had achieved neutral
+
+57
+00:07:32,069 --> 00:07:36,850
+emissions, reaching an international eating clean level.
+
+58
+00:07:37,610 --> 00:07:42,329
+The third is the power engine for low-carbon upgrades.
+
+59
+00:07:42,329 --> 00:07:54,720
+The average power supply co-consumption dropped to 301.6 grams per kilowatt in 2014,
+
+60
+00:07:55,120 --> 00:08:06,060
+with thermal efficiency exceeding 50% for the world's first 630 Celsius degree UTC unit.
+
+61
+00:08:06,060 --> 00:08:07,680
+or USC unit.
+
+62
+00:08:11,269 --> 00:08:15,360
+Chinese government has released some key documents
+
+63
+00:08:15,360 --> 00:08:19,079
+to provide policy guidance for clean coal power.
+
+64
+00:08:20,060 --> 00:08:23,579
+In this April, Chinese government
+
+65
+00:08:23,579 --> 00:08:27,560
+ensued opinions on energy conservation and carbon
+
+66
+00:08:27,560 --> 00:08:27,959
+reduction.
+
+67
+00:08:29,319 --> 00:08:33,809
+This document emphasizes strengthening energy ceiling,
+
+68
+00:08:33,809 --> 00:08:40,190
+carbon-reducing, and flexibility retrofitting of coal power, focusing on
+
+69
+00:08:40,190 --> 00:08:49,639
+performance improvement of existing units. The second document is the 15th five-year plan
+
+70
+00:08:49,639 --> 00:08:57,559
+for modern energy system. It requires promoting clean and efficient utilization
+
+71
+00:08:57,559 --> 00:09:05,620
+utilization of coal, and ordering reduction and substitution, setting a target of reducing
+
+72
+00:09:05,620 --> 00:09:13,639
+the average power supply coal consumption to below 300 grams per kilowatt by 2025.
+
+73
+00:09:16,350 --> 00:09:25,950
+The third document is Action Plan for Carbon Peaking Before 2030, and this one is related
+
+74
+00:09:25,950 --> 00:09:34,629
+to the Chinese double carbon codes, the dual carbon codes.
+
+75
+00:09:34,889 --> 00:09:39,470
+I will talk about the dual carbon codes in a moment.
+
+76
+00:09:39,970 --> 00:09:45,250
+This power requires strictly controlling new coal power projects
+
+77
+00:09:45,809 --> 00:09:54,470
+and promoting the triple retrofit energy saving, combined heat and power, or CHP.
+
+78
+00:09:54,470 --> 00:09:58,350
+flexibility benefit of existing units.
+
+79
+00:10:01,789 --> 00:10:10,429
+After the overview of the history, status, and supporting forces of China's clinical sector,
+
+80
+00:10:10,769 --> 00:10:13,669
+now we will move on to Chapter 2.
+
+81
+00:10:13,789 --> 00:10:17,470
+We will detail the key clinical power technologies.
+
+82
+00:10:17,470 --> 00:10:29,379
+Co-processing stages for clinical utilization include pre-, in-, and after-combustion treatment
+
+83
+00:10:29,379 --> 00:10:30,639
+processes.
+
+84
+00:10:31,659 --> 00:10:41,220
+Pre-combustion or before combustion, co-quality is improved from the source through co-washing
+
+85
+00:10:41,220 --> 00:10:43,120
+and co-blending technology.
+
+86
+00:10:43,120 --> 00:10:50,190
+For cold washing technology, it can reduce ash and sulfur through washing processes.
+
+87
+00:10:50,889 --> 00:10:59,009
+China's low cold washing rate has reached 78.6% in 2020.
+
+88
+00:11:00,220 --> 00:11:09,960
+On cold bladding technology, it can significantly enhance different cold types for stable, efficient, and low-potion combustion.
+
+89
+00:11:09,960 --> 00:11:20,629
+In combustion, or during combustion, low nitrogen combustion technology is used to inhibit pollutant
+
+90
+00:11:20,850 --> 00:11:21,330
+formation.
+
+91
+00:11:21,899 --> 00:11:30,899
+Its principle is to inhibit nitrogen oxide, or NOx, formation through air staging, fuel
+
+92
+00:11:30,899 --> 00:11:39,879
+stage and low gas refrigeration and its effect can reduce NOx concentration at
+
+93
+00:11:39,879 --> 00:11:54,659
+boiler outlet to 200 to 300 milligram per meter cube. Reducing the burden on subsequent SCR system post
+
+94
+00:11:55,240 --> 00:11:58,539
+post-combustion or after-combustion.
+
+95
+00:12:00,049 --> 00:12:04,049
+Through a major combination of flue gas
+
+96
+00:12:04,049 --> 00:12:07,450
+purification technologies, including
+
+97
+00:12:07,909 --> 00:12:12,509
+SCR denitrification, wet desilverization,
+
+98
+00:12:12,850 --> 00:12:15,269
+and high-efficiency dust removal,
+
+99
+00:12:15,929 --> 00:12:19,649
+neutral emissions of pollutants are achieved.
+
+100
+00:12:20,690 --> 00:12:26,580
+These figures show pre-combustion
+
+101
+00:12:26,580 --> 00:12:34,720
+technologies, including coal washing, coal plating, coal brackets, and coal water storing.
+
+102
+00:12:37,639 --> 00:12:44,860
+Its core principle is to remove ash and silver by physical and chemical coal washing to improve
+
+103
+00:12:44,860 --> 00:12:52,139
+coal quality, and mix different kinds of coal scientifically by coal plating to increase
+
+104
+00:12:52,139 --> 00:12:58,990
+increase combustion efficiency, which has the advantages of improved efficiency.
+
+105
+00:12:59,389 --> 00:13:05,490
+It can stabilize coal quality, increase boiler combustion efficiency greatly,
+
+106
+00:13:05,889 --> 00:13:11,690
+reduce combustion fluctuations and clean emissions.
+
+107
+00:13:12,110 --> 00:13:15,970
+It can remove ash and sulfur from coal salts,
+
+108
+00:13:16,250 --> 00:13:20,169
+greatly reduce dust and salt emissions,
+
+109
+00:13:20,169 --> 00:13:31,360
+and reduce costs, it can blend low price coal, optimize fuel structure, reduce fuel costs effectively.
+
+110
+00:13:32,759 --> 00:13:45,889
+During combustion, low NOx combustion technology constitutes the first line of defense for NOx emission control.
+
+111
+00:13:45,889 --> 00:13:55,190
+control. By adopting L-staging and fuel staging methods, combined with advanced low NOx burners,
+
+112
+00:13:55,350 --> 00:14:01,710
+it can effectively inhibit NOx formation with an efficiency of more than 50%.
+
+113
+00:14:02,899 --> 00:14:11,379
+For the in-combustion, there are several practical methods. First is L-stage combustion.
+
+114
+00:14:11,379 --> 00:14:19,700
+Air-stage combustion is the staged supply of combustion air into the furnace,
+
+115
+00:14:20,019 --> 00:14:27,159
+creates a fuel-rich, low-oxygen-reducing atmosphere in primary combustion zone,
+
+116
+00:14:27,399 --> 00:14:31,840
+inhibiting the formation of thermal knots at the source.
+
+117
+00:14:32,759 --> 00:14:36,820
+And the second is fuel-stage combustion method.
+
+118
+00:14:36,820 --> 00:14:44,799
+The secondary field, or regrounding field, is injected downstream of primary combustion
+
+119
+00:14:44,799 --> 00:14:51,860
+zone to form a strong reducing zone, which reduces the generated knots into harmless
+
+120
+00:14:51,860 --> 00:14:52,679
+nitrogen.
+
+121
+00:14:53,460 --> 00:14:57,299
+The third is flue gas recirculation, or FGR.
+
+122
+00:14:58,539 --> 00:15:05,379
+Extracted low temperature flue gas is mixed with combustion air to reduce oxygen concentration
+
+123
+00:15:05,379 --> 00:15:12,539
+and flame temperature in combustion zone, effectively suppressing thermal
+
+124
+00:15:12,539 --> 00:15:22,009
+nox and block nox. And the abrasion effect is reduced, it can reduce nox by
+
+125
+00:15:22,009 --> 00:15:28,769
+50% substantially, lowering treatment load and operating costs of downstream
+
+126
+00:15:28,769 --> 00:15:37,440
+denitrification facilities such as SCR activity. These are the two mainstream
+
+127
+00:15:37,440 --> 00:15:40,559
+stream flame patterns for low nitrogen combustion.
+
+128
+00:15:41,500 --> 00:15:45,299
+The left is four-corner tangential finding.
+
+129
+00:15:45,480 --> 00:15:48,519
+The right is front and rear wall opposed finding.
+
+130
+00:15:48,860 --> 00:15:57,860
+For the left method, it's mainly used for the low volatile
+
+131
+00:15:57,860 --> 00:15:59,879
+and the low heating value code.
+
+132
+00:16:00,100 --> 00:16:02,779
+And for the front and rear finding,
+
+133
+00:16:02,899 --> 00:16:06,940
+it's mainly for the high volatile and high heating
+
+134
+00:16:06,940 --> 00:16:16,889
+Next technology is circulating fluidized bag or CRP technology.
+
+135
+00:16:17,779 --> 00:16:23,360
+Its core principle lies in its unique circulating combustion method.
+
+136
+00:16:23,620 --> 00:16:30,960
+It has a closed-loop system of combustion separation reflux recombustion,
+
+137
+00:16:31,080 --> 00:16:35,679
+which greatly improves combustion efficiency and fuel adaptability.
+
+138
+00:16:36,080 --> 00:16:40,200
+This kind of combustion method brings four core advantages.
+
+139
+00:16:40,679 --> 00:16:47,299
+First is wide field adaptability, compatible with multiple field types.
+
+140
+00:16:48,490 --> 00:16:54,700
+Second is stable operation with wide load, adapting to great peak shearing,
+
+141
+00:16:54,840 --> 00:17:06,450
+because for CERB, its load regulation can be very wide, so it's adapting to great peak shearing.
+
+142
+00:17:06,450 --> 00:17:14,680
+The third is integration in furnace, including desilverization, low cost, and high efficiency.
+
+143
+00:17:15,039 --> 00:17:18,819
+The fourth is low temperature combustion inhibition.
+
+144
+00:17:19,740 --> 00:17:28,359
+Because for semi-boiler, its combustion temperature is relatively low compared to the polarized coal boiler.
+
+145
+00:17:28,619 --> 00:17:33,519
+So its thermal NOx concentration is low.
+
+146
+00:17:33,519 --> 00:17:37,299
+So it has no NOx original emission.
+
+147
+00:17:37,720 --> 00:17:38,400
+OK.
+
+148
+00:17:40,680 --> 00:17:43,079
+This is the boiler principle and structure.
+
+149
+00:17:43,619 --> 00:17:49,720
+Fuel and limestone is injected into the boiler furnace.
+
+150
+00:17:50,559 --> 00:17:58,180
+In the boiler furnace, they are fluidized by the primary air
+
+151
+00:17:58,180 --> 00:18:00,440
+from the draft fan.
+
+152
+00:18:00,440 --> 00:18:09,140
+And in the furnace, the coal, the fuel, is combusted completely, and the ash is separated
+
+153
+00:18:11,140 --> 00:18:18,720
+by the separator, the ash is separated by the separator and returned back to the furnace.
+
+154
+00:18:18,720 --> 00:18:32,559
+because in the boiler it has a large amount of bad material and the material has a large amount of heat.
+
+155
+00:18:32,559 --> 00:18:45,539
+So, the self-border is suitable for low heating value of silver and low, high silver, is suitable
+
+156
+00:18:45,539 --> 00:18:49,400
+for low heating value of coal and high silver coal.
+
+157
+00:18:51,019 --> 00:19:00,180
+For self-border, it can even combust some, such as the solid waste, municipal, municipal
+
+158
+00:19:00,180 --> 00:19:17,400
+solid waste. And this is the CFB boiler and the PowerWise Coat boiler from Paris. You
+
+159
+00:19:17,400 --> 00:19:23,420
+can see from this table, although the PowerWise Coat has a higher thermal efficiency, its thermal
+
+160
+00:19:23,420 --> 00:19:33,269
+efficiency is greater than 99%. And for the thermal efficiency, the combustion efficiency
+
+161
+00:19:33,269 --> 00:19:39,730
+efficiency is greater than 99%, and for the thermal efficiency, or power efficiency, for
+
+162
+00:19:39,730 --> 00:19:48,140
+neutral supercritical unit, it can be greater than 48%, but for CM baller, its conduction
+
+163
+00:19:48,140 --> 00:19:58,180
+efficiency is 98%, a little small, a little low than the polarized core, and its power
+
+164
+00:19:58,180 --> 00:20:04,880
+Power efficiency can reach 45%, also a little lower than the power-wise code.
+
+165
+00:20:05,279 --> 00:20:12,619
+But for power-wise code, it usually combusts the high-quality code, but for CFE power,
+
+166
+00:20:12,839 --> 00:20:17,539
+it combusts the low-quality or low-heating value code.
+
+167
+00:20:18,220 --> 00:20:23,940
+And for the coal consumption, because for coal consumption, it's related to the power
+
+168
+00:20:23,940 --> 00:20:25,000
+efficiency.
+
+169
+00:20:25,000 --> 00:20:32,039
+efficiency. So, for the parallelized coal, it's thermal efficiency, power efficiency
+
+170
+00:20:32,039 --> 00:20:43,039
+is high, so its coal consumption is low. It's about 290 grams per kilowatt hour. While for
+
+171
+00:20:43,039 --> 00:20:50,880
+the CN boiler, its coal consumption is a little higher. It's about 305 grams per kilowatt
+
+172
+00:20:50,880 --> 00:21:00,380
+And for NOx emission, for power riser coke, its NOx emission is 1,800 to 1,200 mg per
+
+173
+00:21:00,380 --> 00:21:00,980
+meter cube.
+
+174
+00:21:01,279 --> 00:21:10,000
+This is the NOx concentration from the boiler after that, not from the power plant emission.
+
+175
+00:21:11,630 --> 00:21:19,829
+And for self-boiler, because it is low nitrogen combustion, low nitrogen combustion.
+
+176
+00:21:19,829 --> 00:21:30,420
+So it's not emission and the oil outlet is 200 milligrams per meter cube.
+
+177
+00:21:30,740 --> 00:21:32,980
+It's high efficiency in thermos.
+
+178
+00:21:33,079 --> 00:21:37,599
+Desulfurization can reduce tail end facility cost.
+
+179
+00:21:37,859 --> 00:21:42,079
+It can reduce the cost of desulfurization facility.
+
+180
+00:21:44,869 --> 00:21:54,089
+So from this table we can find that although polarized coal boilers are more efficient
+
+181
+00:21:54,470 --> 00:22:01,490
+when burning high quality coal, CFB boilers have obvious advantages in burning low quality
+
+182
+00:22:01,490 --> 00:22:01,890
+coal.
+
+183
+00:22:02,410 --> 00:22:11,109
+Pollutant control performance and peak shearing capability over all in specific scenarios
+
+184
+00:22:11,109 --> 00:22:17,420
+the levelized cost of energy for CFB is more competitive.
+
+185
+00:22:17,960 --> 00:22:22,680
+And for the load regulation and life cycle cost,
+
+186
+00:22:22,819 --> 00:22:26,819
+I forgot to say just now.
+
+187
+00:22:27,019 --> 00:22:33,660
+For the paralyzed coal, its load regulation is usually 50% to 100%,
+
+188
+00:22:33,660 --> 00:22:40,380
+but for the CFB, its load regulation is 30% to 110%.
+
+189
+00:22:40,380 --> 00:22:51,160
+which means it has better load regulation and it will be capital for the power grid.
+
+190
+00:22:52,579 --> 00:23:04,140
+China is a technology leader in the CFB border field with world's largest market share,
+
+191
+00:23:04,359 --> 00:23:14,380
+especially achieving major breakthroughs in high parameter, high capacity of CFB technologies.
+
+192
+00:23:14,380 --> 00:23:28,859
+This figure, the right figure is the Pingshuo CFB Power Plant located in Shanxi province, which is the world's first 360 MW CFB unit.
+
+193
+00:23:32,569 --> 00:23:37,329
+Next core technology is neutral supercritical technology.
+
+194
+00:23:37,329 --> 00:23:45,589
+Its core principle is to break through efficiency bottlenecks by increasing spin parameters
+
+195
+00:23:45,589 --> 00:23:47,750
+breaking critical point.
+
+196
+00:23:47,910 --> 00:23:56,250
+We know for the critical point, its critical pressure is 22 MPa, and its critical temperature
+
+197
+00:23:56,250 --> 00:24:00,440
+is 374 Celsius degrees.
+
+198
+00:24:00,660 --> 00:24:10,349
+Both temperature and pressure increases bring efficiency gains, with temperature having
+
+199
+00:24:10,349 --> 00:24:12,069
+a more significant impact.
+
+200
+00:24:12,890 --> 00:24:18,789
+This chart, the right chart, shows the trend of efficiency improvement under different
+
+201
+00:24:18,789 --> 00:24:26,650
+parameters, clearly indicating that higher parameters is the inevitable direction of
+
+202
+00:24:26,650 --> 00:24:28,069
+technology development.
+
+203
+00:24:28,069 --> 00:24:42,509
+From the right chart, we can find that when we increase the temperature, this is the misting temperature from 600 degrees,
+
+204
+00:24:42,970 --> 00:24:49,309
+and this is the reheat temperature, this is the misting temperature.
+
+205
+00:24:49,309 --> 00:24:57,950
+When we increase the MIS-D temperature from 600 degrees to 700 degrees, the power efficiency
+
+206
+00:24:57,950 --> 00:25:02,509
+can reach about 5 to 6 percent, 5 to 6 percent.
+
+207
+00:25:02,910 --> 00:25:12,009
+That's why for the neutral supercritical power plant, we will develop 700 temperature MIS-D,
+
+208
+00:25:12,150 --> 00:25:17,250
+we call it 700 plan in China, 700 plan in China.
+
+209
+00:25:18,059 --> 00:25:26,819
+Then we increase the pressure, the misting pressure, the horizontal axis is the misting
+
+210
+00:25:26,819 --> 00:25:27,019
+pressure.
+
+211
+00:25:27,359 --> 00:25:36,079
+When we increase the misting pressure, the power efficiency also increases, but it increases
+
+212
+00:25:37,940 --> 00:25:42,480
+It's a little small, it's a little small,
+
+213
+00:25:42,559 --> 00:25:45,720
+not like the temperature, it is very obvious.
+
+214
+00:25:54,150 --> 00:25:56,910
+OK, compared to conventional supercritical unit,
+
+215
+00:25:57,210 --> 00:26:00,269
+usual supercritical unit has higher spin pressure
+
+216
+00:26:00,650 --> 00:26:01,990
+and spin temperature.
+
+217
+00:26:02,670 --> 00:26:05,750
+For conventional supercritical unit,
+
+218
+00:26:05,990 --> 00:26:11,329
+its min-spin pressure is between 23 to 27 nanopascal.
+
+219
+00:26:11,400 --> 00:26:17,339
+And mainstream temperature is between 540 to 560,000 degrees.
+
+220
+00:26:18,089 --> 00:26:21,079
+But for neutral supercritical unit,
+
+221
+00:26:21,319 --> 00:26:25,420
+its mainstream pressure is greater than 27 nanopascal.
+
+222
+00:26:25,660 --> 00:26:32,609
+And its mainstream temperature is between 508 to 600 degrees.
+
+223
+00:26:33,440 --> 00:26:36,049
+And for conventional supercritical,
+
+224
+00:26:36,049 --> 00:26:43,289
+its power efficiency is about 2% higher than sub-critical unit.
+
+225
+00:26:43,609 --> 00:26:49,369
+And co-consumption is between 290 to 300 grams per pound.
+
+226
+00:26:50,740 --> 00:26:53,640
+However, for neutral supercritical unit,
+
+227
+00:26:53,960 --> 00:27:00,779
+its power efficiency is about 5% higher than sub-critical unit.
+
+228
+00:27:00,779 --> 00:27:07,519
+and coal consumption is between 270 to 280 grams per kilowatt-hour.
+
+229
+00:27:12,369 --> 00:27:17,349
+Neutral supercritical technology is currently the most efficient
+
+230
+00:27:17,349 --> 00:27:20,490
+clean coal power generation technology.
+
+231
+00:27:20,930 --> 00:27:25,549
+China has the world's largest application scale in this field
+
+232
+00:27:25,549 --> 00:27:29,029
+and continues to lead in technology.
+
+233
+00:27:29,029 --> 00:27:46,190
+By the end of 2024, installed capacity of USC units exceeded 320 GW, accounting for nearly 60% of the total qualified programs in China.
+
+234
+00:27:46,190 --> 00:28:01,250
+In Lisbon, the world's first 630 Celsius degree double reheat USC million kilowatt units was put into operation.
+
+235
+00:28:01,589 --> 00:28:10,349
+With power generation efficiency exceeding 50% for the first time, it is setting a new world record.
+
+236
+00:28:12,230 --> 00:28:16,269
+Next technology is deep peaking technology.
+
+237
+00:28:16,269 --> 00:28:26,430
+technology. Peak-sheathing technology is through the technical retrofits. The minimum operating
+
+238
+00:28:26,430 --> 00:28:34,630
+load limit of generating units can be overcome. Units can maintain stable combustion and safe
+
+239
+00:28:34,630 --> 00:28:43,650
+operating under operation conditions of 20% to 50% rated power. Efficiency, including
+
+240
+00:28:43,650 --> 00:28:46,990
+cooling unit flexibility and peak shearing capacity.
+
+241
+00:28:53,710 --> 00:28:56,990
+Comprehensive retrofits of boiler, steam turbine,
+
+242
+00:28:57,250 --> 00:29:00,769
+thermal power decoupling system, and control system,
+
+243
+00:29:01,089 --> 00:29:04,869
+units can operate stable at lower loads.
+
+244
+00:29:05,230 --> 00:29:09,170
+This enables them to better accommodate power grid
+
+245
+00:29:09,690 --> 00:29:13,920
+fluctuations and create room for the integration
+
+246
+00:29:13,920 --> 00:29:17,819
+of new engines such as wind and solar power.
+
+247
+00:29:19,190 --> 00:29:21,829
+By the end of 2024,
+
+248
+00:29:22,230 --> 00:29:25,049
+China has completed flexibility
+
+249
+00:29:26,109 --> 00:29:30,210
+retrofits for coal-fired generating units with a
+
+250
+00:29:30,210 --> 00:29:33,369
+total capacity of 210 GW,
+
+251
+00:29:33,890 --> 00:29:38,170
+which has greatly enhanced the power system's peak-sheeting
+
+252
+00:29:38,170 --> 00:29:41,220
+capacity. For policy orientation,
+
+253
+00:29:41,220 --> 00:29:49,230
+implementation, implement the requirement of retrofit all eligible units, promote co-fired
+
+254
+00:29:49,230 --> 00:29:57,369
+power from mains power source to regulating power source, and support achievement of dual
+
+255
+00:29:57,369 --> 00:29:58,309
+carbon goals.
+
+256
+00:30:02,640 --> 00:30:08,720
+Okay, next, we enter chapter three, where I will introduce several advanced technologies
+
+257
+00:30:08,720 --> 00:30:18,430
+for clean coal power generation, including neutral low-emission technologies, CC-UTAS technology, ORC technology,
+
+258
+00:30:19,049 --> 00:30:23,410
+coal power integrated with renewable energy technology.
+
+259
+00:30:24,029 --> 00:30:35,619
+The first advanced technology is flue gas neutral low-emission technology, which has been widely popularized in China.
+
+260
+00:30:35,619 --> 00:30:43,579
+It's not a single technology, but a set of combined processes, from low nitrogen combustion
+
+261
+00:30:44,099 --> 00:30:53,819
+inside boilers, to SCR denitrification, to high efficiency dust removal technology, to
+
+262
+00:30:53,819 --> 00:30:55,859
+to wet food gas desuponization.
+
+263
+00:30:57,240 --> 00:31:02,400
+And finally, is the wet electrostatic precipitator.
+
+264
+00:31:04,849 --> 00:31:08,349
+And by this series of methods,
+
+265
+00:31:09,369 --> 00:31:13,309
+completely pollutant control chip is formed
+
+266
+00:31:13,309 --> 00:31:17,509
+to ensure emission on the strict pollutant standard.
+
+267
+00:31:18,779 --> 00:31:26,660
+And the effect of neutral low emission transformation
+
+268
+00:31:26,960 --> 00:31:36,190
+This table shows the Bruton standard in 2004 and 2012.
+
+269
+00:31:37,319 --> 00:31:44,420
+This is the 2004 standard, and this is the 2012 standard.
+
+270
+00:31:44,640 --> 00:31:49,240
+This is the newest emissions standard in China now.
+
+271
+00:31:49,420 --> 00:31:53,799
+It's still in effect.
+
+272
+00:31:53,859 --> 00:32:02,200
+Okay, you can see the change of dust, sulfur, it should be sulfur oxide, nitric oxide.
+
+273
+00:32:02,779 --> 00:32:12,799
+For 2004 standard, its dust limitation is 50 mg per m3 for the new power plant.
+
+274
+00:32:13,920 --> 00:32:18,900
+And this is for the old power plant, it's 200.
+
+275
+00:32:18,900 --> 00:32:30,859
+And for silver oxides, its emission is 400 mg per m3 for the new power plant,
+
+276
+00:32:31,200 --> 00:32:35,519
+500 for old power plant.
+
+277
+00:32:35,839 --> 00:32:45,140
+NOx is 450 for new power plant and 1100 for the old power plant.
+
+278
+00:32:45,140 --> 00:32:52,759
+Well, for the 212 standard, you can find the emission limitation has been decreased greatly,
+
+279
+00:32:53,140 --> 00:32:58,519
+decreased, decreased greatly, which means it has a very strict standard.
+
+280
+00:32:59,220 --> 00:33:08,859
+For the dust, its limitation is 20, 20 milligrams per meter cube for the key regions,
+
+281
+00:33:09,019 --> 00:33:12,619
+such as Peking, Shanghai, Hebei province.
+
+282
+00:33:12,619 --> 00:33:25,140
+and 30 for other regions, and for NOx, sulfur oxides is 50 for key regions and 200 for other regions.
+
+283
+00:33:25,380 --> 00:33:30,400
+For NOx, it's 100 for key regions and 200 for other regions.
+
+284
+00:33:37,319 --> 00:33:49,039
+And for the investment cost, the neutral low emission retrofit for a single 300 megawatt
+
+285
+00:33:49,039 --> 00:33:59,779
+unit cost about 150 to 250 million CNY, Chinese money, CNY.
+
+286
+00:33:59,779 --> 00:34:06,000
+And for the life cycle cost, inside SCR catalyst replacement,
+
+287
+00:34:07,359 --> 00:34:13,179
+de-supervisor consumption, and station service power.
+
+288
+00:34:13,619 --> 00:34:23,760
+For economic and social benefits, intelligent virtual seating can reduce environmental chemical consumption by 8 to 15%.
+
+289
+00:34:23,760 --> 00:34:35,679
+Chinese government has issued dual carbon goals, carbon peaking and carbon neutrality.
+
+290
+00:34:36,449 --> 00:34:43,219
+Carbon peaking before 2030 and carbon neutrality in 60.
+
+291
+00:34:43,619 --> 00:34:47,099
+The roadmap is divided into three stages.
+
+292
+00:34:47,380 --> 00:34:54,239
+First, from 2021 to 2030, we achieve carbon peaking.
+
+293
+00:34:54,239 --> 00:34:58,980
+31 to 45, rapid reduced carbon emissions.
+
+294
+00:34:59,480 --> 00:35:05,260
+46 to 60, deep decarbonization and carbon neutrality.
+
+295
+00:35:05,710 --> 00:35:18,230
+And the key measures to achieve the dual carbon goals include clean and efficient utilization of coal in the power industry,
+
+296
+00:35:18,230 --> 00:35:24,829
+industry, develop new and renewable energy sources, carbon reduction retrofits in key
+
+297
+00:35:24,829 --> 00:35:32,340
+industries and fields, and last is carbon capture utilization and storage technology
+
+298
+00:35:32,869 --> 00:35:47,480
+or CCUS technology. CCUS technology is a key technology on the path to achieve dual carbon
+
+299
+00:35:47,480 --> 00:35:51,599
+It mainly has three parts.
+
+300
+00:35:53,420 --> 00:35:56,260
+The first is post-combustion capture.
+
+301
+00:35:56,619 --> 00:35:58,679
+This capacity is the most major.
+
+302
+00:35:58,860 --> 00:36:05,239
+It directly separates carbon dioxide from the flue gas
+
+303
+00:36:05,239 --> 00:36:10,199
+with a simple process and easy transformation of achieved plans.
+
+304
+00:36:10,869 --> 00:36:13,389
+The second is pre-combustion capture.
+
+305
+00:36:13,389 --> 00:36:22,389
+First, gasified fuels provide thin gas, then generate high concentration carbon oxides.
+
+306
+00:36:22,489 --> 00:36:31,110
+Its concentration is 30 to 60 percent, and hydrogen, reducing carbon dioxide separation
+
+307
+00:36:31,409 --> 00:36:39,769
+energy consumption, such as the ITCC technology, belong to this method, belong to the O-ray
+
+308
+00:36:41,170 --> 00:36:51,869
+And this method has higher capture efficiency, but it also has disadvantages, its investment
+
+309
+00:36:51,869 --> 00:36:53,369
+cost is very huge.
+
+310
+00:36:53,690 --> 00:36:56,309
+Last is oxygen-fueled combustion.
+
+311
+00:36:56,809 --> 00:37:04,710
+It uses pure oxygen-fueled combustion, low gas is made of carbon dioxide and vapor, yielding
+
+312
+00:37:04,710 --> 00:37:07,809
+high concentration carbon dioxide after condensation.
+
+313
+00:37:07,809 --> 00:37:16,449
+This method also has the disadvantage of huge investment costs.
+
+314
+00:37:19,110 --> 00:37:28,579
+Each part has its own advantages and disadvantages and needs to be selected according to specific conditions.
+
+315
+00:37:28,579 --> 00:37:39,010
+And this diagram shows the four technical frameworks of CC-wise, including carbon dioxide
+
+316
+00:37:39,010 --> 00:37:43,929
+source, capture, storage, utilization, and composition.
+
+317
+00:37:44,530 --> 00:37:53,460
+First, carbon dioxide is produced from various emission sources, such as power plants, such
+
+318
+00:37:53,460 --> 00:37:57,719
+as the nature, such as air, such as from the vehicle.
+
+319
+00:37:58,159 --> 00:38:08,239
+Then, carbon dioxide is captured and separated by multi-technologies such as the chemical
+
+320
+00:38:09,239 --> 00:38:16,789
+absorption, physical absorption, absorption method, waste, biological method.
+
+321
+00:38:18,360 --> 00:38:26,820
+After capture, carbon dioxide has two major directions, geological storage or further
+
+322
+00:38:26,820 --> 00:38:39,760
+After capture, the carbon dioxide concentration is increased by two methods.
+
+323
+00:38:40,079 --> 00:38:48,500
+First is storage, storage in the geologic deep sea or sea-line layer.
+
+324
+00:38:48,500 --> 00:38:59,119
+Next is physical utilization and conversion, such as chemical conversion.
+
+325
+00:39:01,360 --> 00:39:14,199
+For these two methods, we can use carbon dioxide for some products, such as fuels, chemicals, and carbonates.
+
+326
+00:39:26,369 --> 00:39:36,469
+Neutral emission technologies and CCUS technologies are key to achieving near zero emissions from coal power.
+
+327
+00:39:36,670 --> 00:39:52,349
+By the end of 2024, over 1,050 GW of coal-fired power units in China have been retrofitted, accounting for over 94% in service units.
+
+328
+00:39:52,440 --> 00:40:01,070
+And the right figure is the Chinese Zhening Power Plant.
+
+329
+00:40:02,530 --> 00:40:09,909
+This power plant is located in Shaanxi province.
+
+330
+00:40:11,079 --> 00:40:17,099
+This project has been towards largest qualified power carbon capture project
+
+331
+00:40:17,099 --> 00:40:26,989
+with an annual capture capacity of 1.5 million tons, but the high cost remains the main challenge
+
+332
+00:40:27,190 --> 00:40:28,570
+for its promotion.
+
+333
+00:40:32,699 --> 00:40:41,269
+4RC technology, shock for organic rankine cycle technology, is a waste heat recovery
+
+334
+00:40:41,269 --> 00:40:57,539
+It uses special organic working fluids to convert medium and low temperature waste such
+
+335
+00:40:57,539 --> 00:41:02,860
+as exhaust gas from power plants and heat from circulating water.
+
+336
+00:41:03,360 --> 00:41:09,559
+It has a simple system and the technology is safe and reliable.
+
+337
+00:41:09,559 --> 00:41:16,579
+It is a power tool to improve energy utilization efficiency.
+
+338
+00:41:19,320 --> 00:41:28,699
+Its core technical advantages include low temperature adaptability, high energy utilization efficiency,
+
+339
+00:41:28,719 --> 00:41:38,019
+it can effectively utilize locally-based heat resources, and greatly improving the compressive energy recovery rate.
+
+340
+00:41:38,019 --> 00:41:50,090
+And this table compares the OIC technology with traditional steam cycle technology.
+
+341
+00:41:50,409 --> 00:41:59,190
+Traditional steam cycle technology such as the power plant technology is traditional steam technology.
+
+342
+00:41:59,690 --> 00:42:08,019
+From this table we can see for the steam cycle,
+
+343
+00:42:08,019 --> 00:42:15,539
+for steam cycle is habitable heat source is high temperature source is usually greater than 400
+
+344
+00:42:15,539 --> 00:42:26,949
+degree and for organic cycle is heat source is low or medium temperature source its temperature is
+
+345
+00:42:26,949 --> 00:42:36,360
+between 90 degree to 400 degree so it had a wide range heat source and the system has characteristics
+
+346
+00:42:36,360 --> 00:42:41,900
+For steam cycle, it is high pressure. It has large air occupied.
+
+347
+00:42:42,440 --> 00:42:49,199
+And for the organic cycle, it is low pressure and it's compact and it's modular.
+
+348
+00:42:50,230 --> 00:42:55,949
+And for the resource consumption, for steam cycle, it must use the water.
+
+349
+00:42:56,110 --> 00:43:01,090
+So it must have water supply because there is high water consumption.
+
+350
+00:43:02,179 --> 00:43:05,980
+And for the organic cycle, there is no water consumption.
+
+351
+00:43:05,980 --> 00:43:08,559
+So it can use air-cooling.
+
+352
+00:43:09,280 --> 00:43:26,010
+So for the organic cycle, it can be applied in different scenarios,
+
+353
+00:43:26,429 --> 00:43:32,010
+such as industrial waste heat recovery for food and security water.
+
+354
+00:43:32,469 --> 00:43:36,329
+It can be also applied in some marine engineering,
+
+355
+00:43:36,329 --> 00:43:46,369
+and engineers such as Lin Chang-of for the waste utilization.
+
+356
+00:43:47,090 --> 00:44:01,750
+The integration of coal power with renewable energy is an important direction for future energy development.
+
+357
+00:44:01,750 --> 00:44:09,289
+environment. Through various models such as wind-cold storage integration, flexibility
+
+358
+00:44:09,289 --> 00:44:17,320
+retrofitting, multi-energy integration, and green hydrogen covering, coal power can better
+
+359
+00:44:17,320 --> 00:44:27,590
+play its regulatory role and help build a more stable and low-carbon new power system.
+
+360
+00:44:27,590 --> 00:44:46,510
+This project, the LIFE project, is the peaking shearing coal-fired power supporting the large-scale new energy in the Badan desert located in Shanxi province in western China.
+
+361
+00:44:46,510 --> 00:44:55,940
+It contains four 1,000 MW high-efficiency neutral supercritical coal-fired power plants
+
+362
+00:44:56,440 --> 00:45:05,780
+with deep peak chipping capability to accommodate local wind energy and solar energy.
+
+363
+00:45:06,860 --> 00:45:23,409
+And this diagram shows a typical integrated energy system, including PV, wind power, fuel cells, and gas boilers as energy resources.
+
+364
+00:45:24,869 --> 00:45:34,159
+PCS and batteries realize energy storage while EMS optimizes the whole system,
+
+365
+00:45:34,480 --> 00:45:40,199
+electric, heating, cooling, gas, and transformation nodes.
+
+366
+00:45:40,619 --> 00:45:46,019
+For this integrated energy system, it has multiple energy supply.
+
+367
+00:45:46,019 --> 00:46:01,409
+This is the wind power, this is the solar power, and this is the thermo power boiler.
+
+368
+00:46:01,769 --> 00:46:11,469
+And it's outlet products, also includes multiple products, includes electricity, heating, cooling,
+
+369
+00:46:11,469 --> 00:46:15,889
+gas and for the recharge of some vehicles.
+
+370
+00:46:17,150 --> 00:46:26,440
+Okay, next is the last chapter, conclusion and suggestion.
+
+371
+00:46:27,119 --> 00:46:34,920
+We will analyze industrial hotspots, costs and policies and put forward strategic outlooks.
+
+372
+00:46:34,920 --> 00:46:41,460
+For the cost and investment for new built units,
+
+373
+00:46:41,460 --> 00:46:53,579
+The investment suggestion in neutral civil-grid unions is about 4,000 CNY per kilowatt, with the best economic efficiency.
+
+374
+00:46:54,139 --> 00:47:04,219
+And for retrofit projects, the flexibility retrofit cost is about 30 to 90 CNY per kilowatt.
+
+375
+00:47:04,219 --> 00:47:12,010
+The CCPS benefit cost is the highest, highly relevant on policy incentives.
+
+376
+00:47:12,840 --> 00:47:29,369
+For existing CCT, we adopted monetary standards, financial support, green finance, and market-based mechanisms.
+
+377
+00:47:29,369 --> 00:47:42,500
+For future improvements, to improve the capacity price mechanism, improve the energy service market, strengthen carbon market incentives.
+
+378
+00:47:43,710 --> 00:47:57,849
+And for the strategic action guidelines, include deep transformation and upgrading, focus on core technology, promote energy hub transformation,
+
+379
+00:47:57,849 --> 00:48:05,130
+stimulation, steaming rates, and the generous motivation to strengthen international cooperation.
+
+380
+00:48:11,519 --> 00:48:19,400
+And the current hot thoughts and outlooks for green coal power technology are mainly reflected in four aspects.
+
+381
+00:48:19,980 --> 00:48:23,559
+First, the demand for reliability enhancement.
+
+382
+00:48:24,219 --> 00:48:33,079
+Second, the integration of CCUS technology for deep decarbonization.
+
+383
+00:48:33,079 --> 00:48:41,340
+Third, the transformation for coal-fired power plants into intelligent energy service.
+
+384
+00:48:41,739 --> 00:48:49,519
+And finally, including operation efficiency through intelligence and digitalization.
+
+385
+00:48:52,150 --> 00:48:56,210
+Okay, that's all for my report. Thank you for your attention.
+
+386
+00:48:56,989 --> 00:48:57,869
+Question?
+
+387
+00:49:02,409 --> 00:49:06,030
+Yes, Mr. Chairman, we have at least 15 minutes for the Q&A.
+
+388
+00:49:06,030 --> 00:49:13,139
+please feel free to raise your hand if you have question. Don't be nervous, don't be shy.
+
+389
+00:49:15,159 --> 00:49:27,650
+I have one. Hello, thank you very much for your presentation. I have a question, it's
+
+390
+00:49:27,650 --> 00:49:38,230
+a long question so I read it. Given that this new technology reduced the LCOE, do you have
+
+391
+00:49:38,230 --> 00:49:45,590
+estimations of their impacts on the short-run marginal cost of generation is
+
+392
+00:49:46,469 --> 00:49:51,429
+there any distinction between technologies that requires significant
+
+393
+00:49:51,429 --> 00:49:57,989
+capital invest in new infrastructure versus process basis approach and how
+
+394
+00:49:57,989 --> 00:50:07,469
+does each case translate into chains in the marginal cost of dispatch I met in
+
+395
+00:50:07,469 --> 00:50:16,400
+in my economy the marginal cost is very important to the merit order so any
+
+396
+00:50:16,400 --> 00:50:24,119
+affectation in marginal cost impact how works our system that is the core of these these questions
+
+397
+00:50:24,119 --> 00:50:46,489
+okay sorry your first sentence the first the first again do you have any estimations of
+
+398
+00:50:46,489 --> 00:50:53,530
+the impact of these new technologies on the short-run marginal cost of generation
+
+399
+00:50:53,530 --> 00:51:21,250
+generation? This is the first. CMG, the marginal cost. The first one. Do you talk about two
+
+400
+00:51:22,369 --> 00:51:34,170
+two technologies of course the first one is the cfb cfb yes cfb for the shorter cost
+
+401
+00:51:35,110 --> 00:51:44,050
+i think for cfb is compared to the power riser code and cfb account accounted for about
+
+402
+00:51:44,050 --> 00:51:48,889
+about 10% or 20% in China.
+
+403
+00:51:49,570 --> 00:51:53,429
+And the main thing is the power life code.
+
+404
+00:51:54,030 --> 00:52:02,750
+For the CFP, I think it's compatible for the low heating
+
+405
+00:52:02,750 --> 00:52:03,789
+value code.
+
+406
+00:52:05,519 --> 00:52:08,679
+If you combust a low heating value code,
+
+407
+00:52:08,820 --> 00:52:11,480
+I think the short cost is very obvious.
+
+408
+00:52:11,480 --> 00:52:22,920
+But if you use the PowerLight Coal boiler to combust the low heating value coal or high
+
+409
+00:52:22,920 --> 00:52:27,880
+sewer coal, the short cost is not good.
+
+410
+00:52:29,289 --> 00:52:43,059
+But for how many years you can require the investment cost, I have no detailed data.
+
+411
+00:52:44,309 --> 00:52:50,829
+Don't worry, it's a deep question, so no problem.
+
+412
+00:52:50,829 --> 00:53:05,980
+Yes, it's a deep question. It's needed for the LCOE calculation, including the investment, including the fuel, including the operation cost.
+
+413
+00:53:08,260 --> 00:53:12,579
+Okay, I am perfect with that. Thank you very much.
+
+414
+00:53:15,469 --> 00:53:30,500
+In Russia, the average age of thermal power plants is more than 40 years, and we have
+
+415
+00:53:30,500 --> 00:53:41,769
+a program called modernization of thermal power plant capacity, and the question is
+
+416
+00:53:41,769 --> 00:53:57,010
+shows the variations of ultra-low-emission retrofits for a single 600 MW plant.
+
+417
+00:53:57,170 --> 00:54:02,510
+It's about 150-250 million U.S.
+
+418
+00:54:02,550 --> 00:54:12,309
+And the question is, are these estimates relevant both for coal and gas power plants?
+
+419
+00:54:14,239 --> 00:54:22,389
+It's an awful coal power plant, because in China, the gas power plant, its share is small.
+
+420
+00:54:22,829 --> 00:54:28,980
+Although in recent years, for pollution, for the environment protection,
+
+421
+00:54:28,980 --> 00:54:43,750
+protection, we developed a gas power plant, especially in certain vacuum areas, to reduce
+
+422
+00:54:43,869 --> 00:54:51,300
+the pollutant emissions, but its share is still very small because the total capacity
+
+423
+00:54:51,300 --> 00:55:02,630
+is very, very large. So although we developed it in recent 10 years for gas power, it's
+
+424
+00:55:07,309 --> 00:55:18,469
+For the coal power, in binary, its operation cost is the lowest, while gas power is a little
+
+425
+00:55:18,469 --> 00:55:36,389
+a little lower than the coal power is about 0.5 to 0.1 CMY for 1 kW.
+
+426
+00:55:37,739 --> 00:55:43,099
+And the second question is, if it's relevant for coal power plant,
+
+427
+00:55:43,099 --> 00:56:03,940
+The level of decreasing of pollution is the same if the modernized power plants continue working not in peaking regime but in phase mode regime.
+
+428
+00:56:05,840 --> 00:56:12,019
+So after modernized unit continue working in phase regime.
+
+429
+00:56:12,019 --> 00:56:20,780
+Even in this situation, the level of pollution decreased after the materialization,
+
+430
+00:56:20,820 --> 00:56:37,949
+or no, these estimations are relevant only in the regime.
+
+431
+00:56:41,699 --> 00:56:48,809
+So we need to modernize the unit and switch to a different regime after the materialization.
+
+432
+00:56:48,809 --> 00:56:53,460
+You mean for the low-skilled partner?
+
+433
+00:56:54,389 --> 00:56:59,079
+I mean for the low-skilled partner.
+
+434
+00:56:59,300 --> 00:57:01,420
+Yes, that is correct. Not for the market.
+
+435
+00:57:02,320 --> 00:57:06,099
+So here they do it, which is a working basis.
+
+436
+00:57:06,139 --> 00:57:09,239
+Yes, yes, yes, because there is a basis.
+
+437
+00:57:09,500 --> 00:57:14,760
+And ultimately the issue is that they need
+
+438
+00:57:17,360 --> 00:57:25,519
+The level of pollution, of the sanitation, decreased quite a bit, quite a bit.
+
+439
+00:57:25,880 --> 00:57:30,960
+I think the impact should be more in the new sector,
+
+440
+00:57:31,059 --> 00:57:35,219
+taking advantage of an associated infrastructure, this technology for the environment.
+
+441
+00:57:35,219 --> 00:57:38,300
+20-well standard and 20-0-4 standard.
+
+442
+00:57:38,440 --> 00:57:40,760
+The difference is about five times.
+
+443
+00:57:41,039 --> 00:57:49,079
+So, and this difference connected only with the ecological aspects
+
+444
+00:57:49,079 --> 00:57:53,719
+or both with the regime of using this power plant.
+
+445
+00:57:53,900 --> 00:57:56,340
+So, switching point.
+
+446
+00:57:56,610 --> 00:58:03,730
+Yes, in one slide, it's right there.
+
+447
+00:58:03,730 --> 00:58:13,760
+The table compared the two standards, two emissions standards, 2001 and 2014.
+
+448
+00:58:15,380 --> 00:58:21,880
+There is some data about the new-build parkland and the old.
+
+449
+00:58:21,880 --> 00:58:31,780
+For the old power plant, the method to decrease the pollutant emission is very tricky,
+
+450
+00:58:32,869 --> 00:58:42,000
+such as deserialization and electrification technologies to make its pollutant emission lower.
+
+451
+00:58:42,380 --> 00:58:49,619
+However, its emission is still higher than the new-built power plant.
+
+452
+00:58:49,619 --> 00:58:59,019
+That's why the standard you can find for new-built power plant, it has stricter standards limitation.
+
+453
+00:58:59,480 --> 00:59:08,360
+But for the old power plant, even for retrofitting, it has higher limitation.
+
+454
+00:59:08,360 --> 00:59:21,230
+And for China, for China, for the new built coal-fired power plant, we have applied one
+
+455
+00:59:22,340 --> 00:59:33,690
+policy, it's called, in Chinese it's called shangda yaxi, in English it's not, it's meaningless
+
+456
+00:59:33,690 --> 00:59:44,349
+is to rebuild large-scale power plant, but we limit the small-scale power plant. The
+
+457
+00:59:44,349 --> 00:59:55,329
+small-scale power plant is gradually stopped. And the new-build power plant now, there are
+
+458
+00:59:55,329 --> 01:00:10,579
+are only two scales, one is 1000 megawatt, another is 600 megawatt, and 660 megawatt
+
+459
+01:00:10,579 --> 01:00:19,840
+belong to the 600 megawatt level. And then the other scale, such as 300 megawatt, and
+
+460
+01:00:19,840 --> 01:00:23,119
+and the mass scale is stopped gradually.
+
+461
+01:00:23,519 --> 01:00:29,130
+On the new build, there is no small scale, small scale.
+
+462
+01:00:29,829 --> 01:00:36,289
+Okay, so maybe there is some combined heat and power,
+
+463
+01:00:36,789 --> 01:00:40,769
+combined heat and power power plant.
+
+464
+01:00:41,170 --> 01:00:44,590
+It has the scale of 300 megawatt,
+
+465
+01:00:44,929 --> 01:00:47,190
+but that's the minimum scale.
+
+466
+01:00:47,190 --> 01:00:57,019
+So the new-built power plant, they all use the new standard, so it has stricter implementation.
+
+467
+01:00:58,380 --> 01:01:14,780
+Thank you. I talked about the old power plants, which need to be retrofitted to increase the ecological standard.
+
+468
+01:01:14,780 --> 01:01:48,719
+So the average, if we talk about, for example, a thermal power plant, which is working in combined cycle, heat and power, we can use the evaluation about 2 million UAS, less than 500 megawatts of power, to increase the ecological standard and decrease the pollutions five times.
+
+469
+01:01:51,090 --> 01:01:56,809
+If you use combined data and power, it's going to be better.
+
+470
+01:01:58,469 --> 01:02:19,869
+This is Moises Inda from Mexico.
+
+471
+01:02:20,230 --> 01:02:21,670
+Thank you for your presentation.
+
+472
+01:02:22,469 --> 01:02:28,570
+So you mentioned about the CO2 storage by CCUS Technologies.
+
+473
+01:02:29,070 --> 01:02:33,869
+So I wanted to ask you, is this something that can be in any country,
+
+474
+01:02:33,989 --> 01:02:36,730
+in any economy, or water domain concerns, so on,
+
+475
+01:02:36,730 --> 01:02:43,579
+non-geological regulatory concerns that we have to look after in order to implement this?
+
+476
+01:02:43,820 --> 01:02:59,449
+The CCUS has CO2 storage, CCUS that you mentioned. Is this something that can be implemented
+
+477
+01:02:59,449 --> 01:03:06,059
+in any economy, in any country, or we have to look after specific conditions in order to...
+
+478
+01:03:06,480 --> 01:03:12,119
+I have no detailed data because CCUS technology is working technology.
+
+479
+01:03:12,119 --> 01:03:15,659
+technology design, new technology.
+
+480
+01:03:16,340 --> 01:03:20,599
+And in China, actually speaking, in China,
+
+481
+01:03:20,719 --> 01:03:28,420
+the CCUS technology is mainly a demonstration project,
+
+482
+01:03:29,000 --> 01:03:30,260
+demonstration project.
+
+483
+01:03:30,940 --> 01:03:38,849
+Such as the case I mentioned in my slide, in my presentation,
+
+484
+01:03:38,849 --> 01:03:57,250
+The Zhengning power plant in Shaanxi province can capture and treat 1.5 million tons of dioxide.
+
+485
+01:03:57,869 --> 01:04:07,360
+But it's a demonstration, still a demonstration, it's a benchmark for all the power plants.
+
+486
+01:04:07,360 --> 01:04:24,059
+Because for CCUS, it has a very higher cost. If we use CCUS per kilowatt hour, power will increase about 0.1 to 0.2, same line.
+
+487
+01:04:24,340 --> 01:04:32,519
+So its proportion, its share is still low in China, lower than, it's less than 1%.
+
+488
+01:04:32,519 --> 01:04:46,809
+So for us economists, I don't have data. I think maybe it's developing. We are doing that. Thank you.
+
+489
+01:04:53,989 --> 01:05:07,989
+Hello. You've mentioned in your presentation that around 90% of your coal capacity, I think it's 1,050 gigawatts of capacity, has been retrofitted.
+
+490
+01:05:09,059 --> 01:05:22,309
+Okay, so that's 90%. So what happened to the 6%? Did you retire coal plants? Or did you repower or retrofit to gas?
+
+491
+01:05:22,710 --> 01:05:32,210
+Because 94% of your capacity is already retrofitted, you reported in your presentation. So I just want to know what happened to the 6%?
+
+492
+01:05:32,210 --> 01:05:45,289
+94% is retrofitted, I mentioned in the last several slides.
+
+493
+01:05:45,929 --> 01:05:52,840
+This retrofit is not all CCUS retrofit.
+
+494
+01:05:53,000 --> 01:06:00,619
+It's retrofit means low emission retrofits.
+
+495
+01:06:00,900 --> 01:06:06,010
+They focus on very low emission of silver oxides,
+
+496
+01:06:06,010 --> 01:06:11,719
+nitrogen oxides, and especially dust, especially dust.
+
+497
+01:06:11,880 --> 01:06:27,969
+For 15 years, or 20 years, we hold the IPEC conference in Beijing
+
+498
+01:06:27,969 --> 01:06:33,809
+to discuss the climate, the environment.
+
+499
+01:06:33,809 --> 01:06:43,840
+And during that period, the dust, the very small dust emission is very high, so the weather
+
+500
+01:06:44,650 --> 01:06:46,360
+is not very good.
+
+501
+01:06:46,559 --> 01:06:53,940
+So after that, they focus on the dust removal, especially dust removal.
+
+502
+01:06:54,349 --> 01:07:02,570
+And for power plant, they use not only the electrostatic dust removal technology, they
+
+503
+01:07:02,570 --> 01:07:12,230
+We also use the bag filter technology to remove the dust to the very, very strict limitation,
+
+504
+01:07:12,860 --> 01:07:16,030
+very, very strict standard.
+
+505
+01:07:18,059 --> 01:07:33,869
+So here, in this 94% benefit, it mainly refers to the dust, socks limitation, and for very
+
+506
+01:07:33,869 --> 01:07:45,829
+Very few power plant demonstration projects use CCUS, because CCUS is a developing technology,
+
+507
+01:07:46,030 --> 01:07:52,630
+we are still developing knowledge and making it more and more advanced.
+
+508
+01:07:54,969 --> 01:08:02,690
+But for the large scale of the CCUS in China, we have no conditions.
+
+509
+01:08:02,690 --> 01:08:18,550
+Thank you, thank you very much.
+

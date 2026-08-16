@@ -1,0 +1,230 @@
+I would like to discuss how digital and intelligence technology can help the clean energy system move from rapid expansion to more reliable, economical, and system-wide operations.
+Now, let me first show you the logic of my lecture.
+So, my lecture has five connected parts.
+I will explain three structural challenges created by high renewable energy penetration,
+namely the volatility, inefficiency, and challenges from seeing the problem to seeing the whole energy system.
+Now, let's begin with the background and the core core in the culture of clean energy.
+The starting point I will begin with is counter-intuitive.
+The biggest obstacle to clean energy is what?
+What's the first answer pop up in your mind?
+I think most of you would immediately answer fossil fuels.
+That answer is really understandable. I would say that it's incomplete. Why? In fact, I would say the biggest obstacle to clean energy is clean energy itself.
+Why I said that? Because when we talk about clean energy, we also said that we increase the capacity of clean energy.
+But the capacity can never, if the brain cannot absorb it, then more capacity will become the stranded potentials, which means that clean energy itself has become the bottleneck for the whole.
+So this paradox can be decomposed into three interconnected technical chapters.
+I think I've just said that at high renewable energy penetration, the immediate operational consequence can be the clean energy sterile,
+which means that the bottleneck has shifted from the generation capacity to the power system coordination.
+Why? Because the electricity generation can arrive at the runtime,
+which means that the supply and the demand cannot match.
+We arrived in the wrong place.
+We think the generation is far from the demand, which is a typical situation in China.
+We know that the wind and solar power have great potential in the west part of China,
+but the most demand are located in the east part of China.
+And finally, it would be enough right in the ground floor that the grid cannot safely store.
+So the capacity and the increase of capacity and the usable energy are not the same.
+If the grid, the storage, the demand side, and the market cannot properly respond, then the additional capacity can be stranded.
+It's why we call digital and artificial intelligence matter electricity.
+They improve to optimize the use of grid electricity.
+With these tools, we can finally make the coordinated flexibility and we make more usable clean energy.
+This figure shows renewable conditions which takes out all the street corners.
+And we can change the natural profile.
+The central paradox is that clean energy is both the solution and the challenge.
+We are creating the problem as we saw for our I think constant energy transition is no longer enough.
+We need implementation. Clean energy is on the other hand the main power.
+Their inherent volatility poses enormous challenges to the power.
+So it's like, I would say that it's like a level patch. And how is the clean energy? It's a core problem we must solve. We know that our impact economies differ greatly in resource development, in grid structure, in market design, and development stage.
+Yet, we share the as clean and solar become the major authorities rather than the additions.
+Operation must account for the simultaneous, the bi-directional, the bi-powerful, the new type of systems.
+This creates a useful distinction.
+Clean energy is the strategic answer to decarbonization, but its large-scale integration creates a new energy downfall.
+This process, not only by the fixed solar capacity, but also by the flexibility of the
+condition, we avoided.
+In the 2020 planning framework, we expressed this shift in measurable system.
+We summarized the four 2030 targets in China's New High Power System Plan, which has just
+We just released several days ago, just at the beginning of this August, our government released these.
+We heard that the known sources are expected to provide 50% of electricity generation.
+So please pay attention here for the electricity generation.
+In fact, we have already more than 50% of the renewable capacity added since the end of 2024.
+And we need more than 2.8% renewable capacity to be integrated at a high level.
+Electricity should reach 35% of final end consumption.
+National Renewable Utilization should remain around 90% resources, great expense, flexibility.
+This central question is no longer that how much renewable capacity can be built,
+but how much reliability the system can absorb.
+To summarize the framework,
+These challenges can be summarized into three aspects, volatility, systemic efficiency, and systemic integration.
+Well, the volatility leads to the wind, solar, curtailment, and rain instability.
+instability. And the inefficiency stems from the equipment aging and outdated operation and
+maintenance models and resulting huge energy wastes. Systemic challenges arise from the inability of
+traditional power grids to adapt to the integration of distributed energy.
+So these three major challenges are intertwined and form the bottleneck,
+restricting the development of clean energy.
+These three challenges are independent, coarse, and curtailment.
+Well, inefficiency can reduce flexibility for integration.
+Integration and failures can amplify the local volatility into a system-wide risk.
+So in terms of these challenges, it's why we call them isolated technology demonstrations are not sufficient.
+We need a layered architecture in which intelligence, network intelligence, market intelligence and finer system intelligence reinforce each other to solve these challenges.
+These results can be organized into five operational capabilities.
+We use these five words to summarize the roadmap for the rest of my presentation.
+First, with forecast, we use AI to predict the wind, the solar, the load, and the criteria
+of natural risk, which helps solve the volatility problem.
+And by rehearse, we use digital planes, which simulate the assets and even the great responses to before this operation.
+And then we use optimization. The AI dynamic dispatch makes every kilowatt count.
+At Orchard Street, we're using virtual power plants, we use microgrids, and low-grade storage integration that coordinates all the distributed energy scale.
+Our China practice would be possible to scale to impact economies.
+And we can show how the data, the standards, the market, and the economy go.
+So now let's begin with our first challenge, volatility.
+This volatility, we will focus on how prediction and simulation improve our ability to operate a system with uncertain renewable output.
+First, what does volatility mean operationally?
+When the weather changes, the system must always make sure it is not too evident for the data here.
+You know that we cannot think the weather-dependent generation will always vary.
+So our goal is to convert the uncertainty into manageable risks.
+So, by forecast, we can allow the operators to reserve physical generation, and with digital tweets, we allow them to test the response before applying it to real physical systems.
+So together, these technologies can help transform variable generation into reliable.
+Therefore, it is the system's limited value if it is not connected to dispatch and operational data.
+In fact, the mismatch between renewable supply and demand has several visible consequences.
+This slide shows the consequences of mismatch.
+10. Rebels. The curtailment means that the technically available clean energy, the great instability refers to the frequency fluctuations, which will result in congestion and dynamic security risks.
+operators need for the periods of low-renewable space.
+In fact, they remain indispensable.
+They can struggle with the non-linear weather interactions,
+with multiple errors, the rapidly change of distributed resources, devices.
+So the strongest approach is usually we preserve the physical constraints and engineering knowledge.
+Well, we're using machine learning, deep learning to extract patterns and update estimates, heterogeneous data streams.
+Let's see what does AI forecasting systems have.
+In this video, we can see that we use AI forecasting that combines historical generation, the numerical weather prediction.
+We combine these models to develop these data from the numeric weather prediction,
+weather data, remote sensing information, and local sensors and stators.
+It's also prediction and health.
+We can change it in real time.
+Capture the wind.
+And all optimization of these pitch anchors.
+That increase the whole production during this.
+In the whole wind.
+We will be able to make a great, friendly connection.
+Finally, for the environment and sustainability.
+We activate the channels behind the handle of the wind turbine, also to minimize the
+noise.
+For the maintenance of the wind turbine, we use the sensors to monitor it in real time,
+monitoring the blades in the extreme weather conditions and some failures of the blades
+and cracks.
+So this diagnostic and prognostic was analyzed as a waveform that will also have to counter the inhibition.
+From this video, we can see how this live data updates the model and what conditions the operators can test on these digital things.
+So we can also see that simply a three-dimensional model is not a digital twin.
+A useful digital twin requires the first thing is the data connectivity, model application, decision making.
+So these tools can become powerful if they are connected in this loop.
+This slide will connect the previous concept.
+So, by prototype, we estimate what may happen.
+By simulation, we evaluate what could happen under different conditions.
+And by optimization, we select what should be done under technical and control.
+We implement these decisions and also produce new data.
+So it comes to feedback.
+This feedback then improves the next forecast and update.
+This closed loop is a rare source of operational value.
+Well, in research, we often optimize one such as we minimize the prediction error because it is measurable.
+In the deployment, in the system level, the meaningful outcome is safer operation, lower balancing cost, and more renewable energy. So we need to consider it as a whole.
+Our China's 2030 plan is similarly like this pipe can mix all these loops.
+We require high precision for cooperative stimulation and also intelligent dispatch.
+This must work in the loop.
+Okay, so now we can conclude this section.
+is that the actual lesson is that we can see the information infrastructure is not an add-on.
+It's part of this energy infrastructure.
+So the key takeaway from this section is that forecasting and simulation are foundation rather than option.
+The high renewable penetration increases the value of weather stations, sensor networks,
+data infrastructure, communications, data governance, and the validated model.
+Therefore, the data infrastructure should be planned alongside the generation and grade
+infrastructure with clear requirements for quality, for latency, for ownership, and cybersecurity.
+We have seen that in prediction and rehearsing health uncertainty.
+Now let's turn to a different problem, the hidden loss and inefficient operation.
+What does these hidden losses well?
+So in fact, the systemic efficiency losses is accumulated across the entire value chain.
+First, the equipment degradation or equipment faults that contains the dust, the well, the system aging, and misaligned reduce this.
+And then the operational choices would also lead to inefficiency, such as the tracking, scheduling, and dispatch.
+Of course, create additional loss.
+We visited the offshore wind turbines.
+You know that it takes us a whole day to visit one single offshore wind turbine, right?
+So it can, because the maintainers and operation costs are very high, so it also illustrates the economic importance of operations and it is too difficult.
+which provides this expensing.
+Shown here is just treated as a representative
+which they may vary by the technology and by the product.
+So the essential point is that the invisible losses
+can be as important as these visible failures.
+By digital, we can make gradual degradation measurable and allowing operators to enter
+before a small is scheduled to condition this.
+From this video, we can do the predictive behavior.
+by based on the sensor data, the thermal imaging, and the acoustic signals, the vibration, the
+all-year-old vision.
+For the software, we use drones to scan the large areas, and the AI and computer vision
+can identify spots and disconnect its strings.
+For wind turbines, the deviation in vibration, the temperature, the sound, the power curves,
+operational change is more important than the maintenance.
+Maintainers can be scheduled during the low wind periods, and the spell cards can be prepared.
+The detection prevents loss and optimization decides how to operate the remaining flexibility.
+Now let's move on to another case.
+Beyond diagnosis, AI can also dispatch real-time electricity prices, and the weather forecast dispatches the photovoltaic energy storage sources to find the operation.
+Whether in a large energy dispatch center or just a single power plant, AI can help us maximize efficiency and make every unit of clean energy deliver has its greatest value.
+So, this optimization seeks the best position under multiple constraints, like the energy output, the battery integration, the network limit, the market prices, the reserve requirements, equipment errors, etc.
+In enforcement learning, we can sometimes describe it as a virtual class that is learning through repeated simulations.
+This system requires strong safety boundaries.
+Practical architectures often use random actions while the physical constraint layer verifies the feasibility.
+These five examples illustrate the edge-cloud coordination and fast-forward detection.
+The broader network combination must connect at the level of the system-level intelligence.
+Maximizing one immortal or better would not be the best we've seen so far.
+This leads to three practical conclusions about efficiency.
+First, recovery loss efficiency is often faster and cheaper than building equivalent new capacity.
+And the second, optimization depends on transparency and operability.
+And the third, readiness and deployment readiness are different.
+A strong algorithm cannot operate if manufacturers use incompatible interfaces.
+And data, if data remains in there, responsibility for recurring patterns will become even more important.
+When we move from individual methods of system integration,
+We entered to the most difficult and the highest level system integration.
+In this part, we examined the coordination of power systems, including transmission, distribution, microgrid, distribution and resources, storage, electric vehicles, and flexible plants.
+The traditional way that were designed for global generation distributed solar batteries, the storage, the vehicles, and these flexible loads create rapid energy.
+change this is a we can see on this graph that the high solar lowers the next amount around the
+mid well even when solar declines but the demand remains high for visualization created the flexible
+amount the regional exchange improved forecasting and market signal it's not so we can see that it's
+not a single technology so this virtual power plants coordinate many small resources as one
+operational the concept of virtual power plant is very clear it connects the vehicles from
+This would be increased from 16.85 gigawatts at the end of 2025 to more than 50 gigawatts in 2030.
+We can see that this increase is significant.
+The scale should be understood through four steps.
+First, the system must see their visibility, such as the rooftop electric vehicles.
+Second, it must aggregate many heterogeneous devices.
+And third, it must dispatch them reliably.
+The flexibility must participate in the market and receive appropriate compensation.
+The demand side of 2030 target of peak shaving capability is about 5% of maximum load,
+which shows that the consumers are becoming active system participants.
+About APEC economies, the difficult questions are often the baseline qualification and consumer consent,
+the data access, and the allocation of the performance rates.
+The virtual power plant has well-defined coordination.
+The microgrid is a clear physical aggregate that achieves local energy.
+They enable self-management for remote islands.
+They enhance the future and controls and define the grid connectivity.
+This model is the Salmon Island, which is located in the
+This example hides their resilience and realistic diesel originals
+We should see that the microgrid, their value can include the power,
+wider grid, great low storage integration,
+integration, integration, and those
+which includes distribution
+we need to
+we need to
+millions of centralized
+to optimize the original objective.
+take away from this
+This is the system integration leverage of QNIC in a great level.
+The repeated pre-request last year, the data sharing cybersecurity.
+Without them, the resources are operationally inviolable.
+The same will move to reflections and future outlooks.
+This is an example of growing the smart energy platform.
+Renewable capacity, reactive power, and carbon emissions.
+I think it would be very powerful.
+This is the world of state-grade that has achieved in the world of AI.
+which should not be interpreted as a proof.
+All capabilities are already deployed.
+And then, the system.
+This slide expands the vision.
+This physical system includes smart buildings,
+the wind, solar, and storage,
+knowledge and logistics and sensing that embodied in the physical action where work represents
+system structure dynamics uncertainty and the research challenge is to combine general
+reasoning with strict physical constraints and real-time repair where a large dynamic model
+The model made support of Anne Hilden.

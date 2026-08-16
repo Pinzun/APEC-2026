@@ -1,0 +1,920 @@
+1
+00:00:00,000 --> 00:00:15,919
+I would like to discuss how digital and intelligence technology can help the clean energy system move from rapid expansion to more reliable, economical, and system-wide operations.
+
+2
+00:00:15,919 --> 00:00:21,579
+Now, let me first show you the logic of my lecture.
+
+3
+00:00:21,839 --> 00:00:25,800
+So, my lecture has five connected parts.
+
+4
+00:00:26,320 --> 00:00:34,280
+I will explain three structural challenges created by high renewable energy penetration,
+
+5
+00:00:34,799 --> 00:00:59,280
+namely the volatility, inefficiency, and challenges from seeing the problem to seeing the whole energy system.
+
+6
+00:00:59,280 --> 00:01:07,040
+Now, let's begin with the background and the core core in the culture of clean energy.
+
+7
+00:01:09,780 --> 00:01:14,060
+The starting point I will begin with is counter-intuitive.
+
+8
+00:01:14,420 --> 00:01:22,480
+The biggest obstacle to clean energy is what?
+
+9
+00:01:23,980 --> 00:01:27,120
+What's the first answer pop up in your mind?
+
+10
+00:01:27,459 --> 00:01:34,680
+I think most of you would immediately answer fossil fuels.
+
+11
+00:01:35,700 --> 00:01:51,709
+That answer is really understandable. I would say that it's incomplete. Why? In fact, I would say the biggest obstacle to clean energy is clean energy itself.
+
+12
+00:01:52,069 --> 00:02:02,609
+Why I said that? Because when we talk about clean energy, we also said that we increase the capacity of clean energy.
+
+13
+00:02:02,609 --> 00:02:25,039
+But the capacity can never, if the brain cannot absorb it, then more capacity will become the stranded potentials, which means that clean energy itself has become the bottleneck for the whole.
+
+14
+00:02:26,919 --> 00:02:34,740
+So this paradox can be decomposed into three interconnected technical chapters.
+
+15
+00:02:34,740 --> 00:02:48,689
+I think I've just said that at high renewable energy penetration, the immediate operational consequence can be the clean energy sterile,
+
+16
+00:02:48,909 --> 00:02:57,550
+which means that the bottleneck has shifted from the generation capacity to the power system coordination.
+
+17
+00:02:58,719 --> 00:03:06,159
+Why? Because the electricity generation can arrive at the runtime,
+
+18
+00:03:06,159 --> 00:03:12,199
+which means that the supply and the demand cannot match.
+
+19
+00:03:12,560 --> 00:03:17,729
+We arrived in the wrong place.
+
+20
+00:03:17,870 --> 00:03:24,430
+We think the generation is far from the demand, which is a typical situation in China.
+
+21
+00:03:24,830 --> 00:03:32,530
+We know that the wind and solar power have great potential in the west part of China,
+
+22
+00:03:33,060 --> 00:03:38,659
+but the most demand are located in the east part of China.
+
+23
+00:03:38,659 --> 00:03:47,759
+And finally, it would be enough right in the ground floor that the grid cannot safely store.
+
+24
+00:03:48,599 --> 00:03:59,349
+So the capacity and the increase of capacity and the usable energy are not the same.
+
+25
+00:03:59,349 --> 00:04:12,610
+If the grid, the storage, the demand side, and the market cannot properly respond, then the additional capacity can be stranded.
+
+26
+00:04:16,579 --> 00:04:28,540
+It's why we call digital and artificial intelligence matter electricity.
+
+27
+00:04:29,920 --> 00:04:40,060
+They improve to optimize the use of grid electricity.
+
+28
+00:04:40,060 --> 00:04:53,370
+With these tools, we can finally make the coordinated flexibility and we make more usable clean energy.
+
+29
+00:05:06,470 --> 00:05:19,589
+This figure shows renewable conditions which takes out all the street corners.
+
+30
+00:05:19,930 --> 00:05:30,589
+And we can change the natural profile.
+
+31
+00:06:07,019 --> 00:06:19,230
+The central paradox is that clean energy is both the solution and the challenge.
+
+32
+00:06:19,230 --> 00:06:34,819
+We are creating the problem as we saw for our I think constant energy transition is no longer enough.
+
+33
+00:06:35,410 --> 00:06:54,550
+We need implementation. Clean energy is on the other hand the main power.
+
+34
+00:06:56,120 --> 00:07:02,399
+Their inherent volatility poses enormous challenges to the power.
+
+35
+00:07:02,399 --> 00:07:33,100
+So it's like, I would say that it's like a level patch. And how is the clean energy? It's a core problem we must solve. We know that our impact economies differ greatly in resource development, in grid structure, in market design, and development stage.
+
+36
+00:07:33,100 --> 00:07:46,060
+Yet, we share the as clean and solar become the major authorities rather than the additions.
+
+37
+00:07:48,160 --> 00:08:01,449
+Operation must account for the simultaneous, the bi-directional, the bi-powerful, the new type of systems.
+
+38
+00:08:03,160 --> 00:08:06,459
+This creates a useful distinction.
+
+39
+00:08:06,459 --> 00:08:27,730
+Clean energy is the strategic answer to decarbonization, but its large-scale integration creates a new energy downfall.
+
+40
+00:08:27,730 --> 00:08:42,389
+This process, not only by the fixed solar capacity, but also by the flexibility of the
+
+41
+00:08:43,990 --> 00:08:45,889
+condition, we avoided.
+
+42
+00:08:46,490 --> 00:08:56,870
+In the 2020 planning framework, we expressed this shift in measurable system.
+
+43
+00:08:57,370 --> 00:09:09,840
+We summarized the four 2030 targets in China's New High Power System Plan, which has just
+
+44
+00:09:09,840 --> 00:09:18,799
+We just released several days ago, just at the beginning of this August, our government released these.
+
+45
+00:09:20,799 --> 00:09:29,779
+We heard that the known sources are expected to provide 50% of electricity generation.
+
+46
+00:09:30,460 --> 00:09:36,830
+So please pay attention here for the electricity generation.
+
+47
+00:09:36,830 --> 00:09:51,080
+In fact, we have already more than 50% of the renewable capacity added since the end of 2024.
+
+48
+00:09:52,460 --> 00:10:03,549
+And we need more than 2.8% renewable capacity to be integrated at a high level.
+
+49
+00:10:04,919 --> 00:10:10,940
+Electricity should reach 35% of final end consumption.
+
+50
+00:10:12,120 --> 00:10:25,960
+National Renewable Utilization should remain around 90% resources, great expense, flexibility.
+
+51
+00:10:29,220 --> 00:10:38,019
+This central question is no longer that how much renewable capacity can be built,
+
+52
+00:10:38,220 --> 00:10:43,289
+but how much reliability the system can absorb.
+
+53
+00:10:43,809 --> 00:10:48,740
+To summarize the framework,
+
+54
+00:10:48,740 --> 00:11:02,409
+These challenges can be summarized into three aspects, volatility, systemic efficiency, and systemic integration.
+
+55
+00:11:03,090 --> 00:11:12,769
+Well, the volatility leads to the wind, solar, curtailment, and rain instability.
+
+56
+00:11:12,769 --> 00:11:25,659
+instability. And the inefficiency stems from the equipment aging and outdated operation and
+
+57
+00:11:25,659 --> 00:11:36,820
+maintenance models and resulting huge energy wastes. Systemic challenges arise from the inability of
+
+58
+00:11:36,820 --> 00:11:43,220
+traditional power grids to adapt to the integration of distributed energy.
+
+59
+00:11:44,340 --> 00:11:52,299
+So these three major challenges are intertwined and form the bottleneck,
+
+60
+00:11:52,440 --> 00:12:01,919
+restricting the development of clean energy.
+
+61
+00:12:02,240 --> 00:12:15,690
+These three challenges are independent, coarse, and curtailment.
+
+62
+00:12:15,690 --> 00:12:25,700
+Well, inefficiency can reduce flexibility for integration.
+
+63
+00:12:26,419 --> 00:12:35,769
+Integration and failures can amplify the local volatility into a system-wide risk.
+
+64
+00:12:36,440 --> 00:12:49,279
+So in terms of these challenges, it's why we call them isolated technology demonstrations are not sufficient.
+
+65
+00:12:49,279 --> 00:13:08,340
+We need a layered architecture in which intelligence, network intelligence, market intelligence and finer system intelligence reinforce each other to solve these challenges.
+
+66
+00:13:10,190 --> 00:13:16,490
+These results can be organized into five operational capabilities.
+
+67
+00:13:16,490 --> 00:13:27,059
+We use these five words to summarize the roadmap for the rest of my presentation.
+
+68
+00:13:27,779 --> 00:13:40,299
+First, with forecast, we use AI to predict the wind, the solar, the load, and the criteria
+
+69
+00:13:40,299 --> 00:13:45,899
+of natural risk, which helps solve the volatility problem.
+
+70
+00:13:45,899 --> 00:13:57,779
+And by rehearse, we use digital planes, which simulate the assets and even the great responses to before this operation.
+
+71
+00:13:58,259 --> 00:14:07,500
+And then we use optimization. The AI dynamic dispatch makes every kilowatt count.
+
+72
+00:14:07,500 --> 00:14:25,799
+At Orchard Street, we're using virtual power plants, we use microgrids, and low-grade storage integration that coordinates all the distributed energy scale.
+
+73
+00:14:26,120 --> 00:14:35,159
+Our China practice would be possible to scale to impact economies.
+
+74
+00:14:35,909 --> 00:14:43,240
+And we can show how the data, the standards, the market, and the economy go.
+
+75
+00:14:45,730 --> 00:14:51,379
+So now let's begin with our first challenge, volatility.
+
+76
+00:14:54,450 --> 00:15:07,659
+This volatility, we will focus on how prediction and simulation improve our ability to operate a system with uncertain renewable output.
+
+77
+00:15:10,200 --> 00:15:14,759
+First, what does volatility mean operationally?
+
+78
+00:15:14,759 --> 00:15:32,220
+When the weather changes, the system must always make sure it is not too evident for the data here.
+
+79
+00:15:32,539 --> 00:15:40,610
+You know that we cannot think the weather-dependent generation will always vary.
+
+80
+00:15:41,129 --> 00:15:48,950
+So our goal is to convert the uncertainty into manageable risks.
+
+81
+00:15:48,950 --> 00:16:19,059
+So, by forecast, we can allow the operators to reserve physical generation, and with digital tweets, we allow them to test the response before applying it to real physical systems.
+
+82
+00:16:19,539 --> 00:16:29,659
+So together, these technologies can help transform variable generation into reliable.
+
+83
+00:16:33,980 --> 00:16:55,379
+Therefore, it is the system's limited value if it is not connected to dispatch and operational data.
+
+84
+00:16:57,129 --> 00:17:06,460
+In fact, the mismatch between renewable supply and demand has several visible consequences.
+
+85
+00:17:07,099 --> 00:17:13,009
+This slide shows the consequences of mismatch.
+
+86
+00:17:13,650 --> 00:17:44,210
+10. Rebels. The curtailment means that the technically available clean energy, the great instability refers to the frequency fluctuations, which will result in congestion and dynamic security risks.
+
+87
+00:17:44,210 --> 00:17:57,200
+operators need for the periods of low-renewable space.
+
+88
+00:18:04,339 --> 00:18:08,319
+In fact, they remain indispensable.
+
+89
+00:18:10,240 --> 00:18:16,339
+They can struggle with the non-linear weather interactions,
+
+90
+00:18:16,660 --> 00:18:27,650
+with multiple errors, the rapidly change of distributed resources, devices.
+
+91
+00:18:27,650 --> 00:18:39,980
+So the strongest approach is usually we preserve the physical constraints and engineering knowledge.
+
+92
+00:18:40,519 --> 00:18:52,430
+Well, we're using machine learning, deep learning to extract patterns and update estimates, heterogeneous data streams.
+
+93
+00:18:52,890 --> 00:18:59,200
+Let's see what does AI forecasting systems have.
+
+94
+00:18:59,200 --> 00:19:17,549
+In this video, we can see that we use AI forecasting that combines historical generation, the numerical weather prediction.
+
+95
+00:19:18,160 --> 00:19:33,869
+We combine these models to develop these data from the numeric weather prediction,
+
+96
+00:19:39,339 --> 00:19:48,680
+weather data, remote sensing information, and local sensors and stators.
+
+97
+00:20:43,819 --> 00:25:33,809
+It's also prediction and health.
+
+98
+00:25:49,980 --> 00:25:53,319
+We can change it in real time.
+
+99
+00:25:54,490 --> 00:25:56,329
+Capture the wind.
+
+100
+00:25:56,690 --> 00:26:00,950
+And all optimization of these pitch anchors.
+
+101
+00:26:06,160 --> 00:26:28,710
+That increase the whole production during this.
+
+102
+00:26:28,910 --> 00:26:30,250
+In the whole wind.
+
+103
+00:26:30,470 --> 00:26:58,880
+We will be able to make a great, friendly connection.
+
+104
+00:27:10,500 --> 00:27:12,900
+Finally, for the environment and sustainability.
+
+105
+00:27:12,900 --> 00:27:28,220
+We activate the channels behind the handle of the wind turbine, also to minimize the
+
+106
+00:27:28,220 --> 00:27:28,619
+noise.
+
+107
+00:27:29,059 --> 00:28:00,759
+For the maintenance of the wind turbine, we use the sensors to monitor it in real time,
+
+108
+00:28:04,730 --> 00:28:21,799
+monitoring the blades in the extreme weather conditions and some failures of the blades
+
+109
+00:28:21,799 --> 00:28:22,640
+and cracks.
+
+110
+00:28:22,640 --> 00:28:39,559
+So this diagnostic and prognostic was analyzed as a waveform that will also have to counter the inhibition.
+
+111
+00:28:39,819 --> 00:28:58,359
+From this video, we can see how this live data updates the model and what conditions the operators can test on these digital things.
+
+112
+00:28:58,359 --> 00:29:06,720
+So we can also see that simply a three-dimensional model is not a digital twin.
+
+113
+00:29:07,000 --> 00:29:22,750
+A useful digital twin requires the first thing is the data connectivity, model application, decision making.
+
+114
+00:29:23,650 --> 00:29:32,259
+So these tools can become powerful if they are connected in this loop.
+
+115
+00:29:32,259 --> 00:29:40,220
+This slide will connect the previous concept.
+
+116
+00:29:41,019 --> 00:29:47,990
+So, by prototype, we estimate what may happen.
+
+117
+00:29:48,190 --> 00:29:56,369
+By simulation, we evaluate what could happen under different conditions.
+
+118
+00:29:56,369 --> 00:30:09,960
+And by optimization, we select what should be done under technical and control.
+
+119
+00:30:11,220 --> 00:30:18,579
+We implement these decisions and also produce new data.
+
+120
+00:30:18,779 --> 00:30:22,200
+So it comes to feedback.
+
+121
+00:30:22,720 --> 00:30:29,759
+This feedback then improves the next forecast and update.
+
+122
+00:30:29,759 --> 00:30:40,640
+This closed loop is a rare source of operational value.
+
+123
+00:30:41,869 --> 00:30:54,779
+Well, in research, we often optimize one such as we minimize the prediction error because it is measurable.
+
+124
+00:30:54,779 --> 00:31:14,960
+In the deployment, in the system level, the meaningful outcome is safer operation, lower balancing cost, and more renewable energy. So we need to consider it as a whole.
+
+125
+00:31:17,549 --> 00:31:27,990
+Our China's 2030 plan is similarly like this pipe can mix all these loops.
+
+126
+00:31:28,210 --> 00:31:36,309
+We require high precision for cooperative stimulation and also intelligent dispatch.
+
+127
+00:31:36,710 --> 00:31:39,309
+This must work in the loop.
+
+128
+00:31:42,519 --> 00:31:47,849
+Okay, so now we can conclude this section.
+
+129
+00:31:47,849 --> 00:31:59,750
+is that the actual lesson is that we can see the information infrastructure is not an add-on.
+
+130
+00:31:59,890 --> 00:32:05,849
+It's part of this energy infrastructure.
+
+131
+00:32:07,650 --> 00:32:19,319
+So the key takeaway from this section is that forecasting and simulation are foundation rather than option.
+
+132
+00:32:19,319 --> 00:32:26,609
+The high renewable penetration increases the value of weather stations, sensor networks,
+
+133
+00:32:27,319 --> 00:32:34,789
+data infrastructure, communications, data governance, and the validated model.
+
+134
+00:32:36,180 --> 00:32:44,549
+Therefore, the data infrastructure should be planned alongside the generation and grade
+
+135
+00:32:44,549 --> 00:32:54,630
+infrastructure with clear requirements for quality, for latency, for ownership, and cybersecurity.
+
+136
+00:32:55,430 --> 00:33:05,140
+We have seen that in prediction and rehearsing health uncertainty.
+
+137
+00:33:05,700 --> 00:33:12,619
+Now let's turn to a different problem, the hidden loss and inefficient operation.
+
+138
+00:33:12,819 --> 00:33:20,140
+What does these hidden losses well?
+
+139
+00:33:20,440 --> 00:33:32,660
+So in fact, the systemic efficiency losses is accumulated across the entire value chain.
+
+140
+00:33:33,200 --> 00:33:48,940
+First, the equipment degradation or equipment faults that contains the dust, the well, the system aging, and misaligned reduce this.
+
+141
+00:33:48,940 --> 00:34:03,569
+And then the operational choices would also lead to inefficiency, such as the tracking, scheduling, and dispatch.
+
+142
+00:34:04,029 --> 00:34:11,170
+Of course, create additional loss.
+
+143
+00:34:13,739 --> 00:34:17,309
+We visited the offshore wind turbines.
+
+144
+00:34:18,789 --> 00:34:28,019
+You know that it takes us a whole day to visit one single offshore wind turbine, right?
+
+145
+00:34:28,019 --> 00:34:48,650
+So it can, because the maintainers and operation costs are very high, so it also illustrates the economic importance of operations and it is too difficult.
+
+146
+00:34:48,650 --> 00:34:53,789
+which provides this expensing.
+
+147
+00:34:57,059 --> 00:35:02,550
+Shown here is just treated as a representative
+
+148
+00:35:03,070 --> 00:35:08,960
+which they may vary by the technology and by the product.
+
+149
+00:35:11,000 --> 00:35:17,599
+So the essential point is that the invisible losses
+
+150
+00:35:18,019 --> 00:35:22,179
+can be as important as these visible failures.
+
+151
+00:35:23,079 --> 00:35:32,539
+By digital, we can make gradual degradation measurable and allowing operators to enter
+
+152
+00:35:33,110 --> 00:35:56,460
+before a small is scheduled to condition this.
+
+153
+00:35:56,760 --> 00:36:08,519
+From this video, we can do the predictive behavior.
+
+154
+00:36:08,519 --> 00:36:26,360
+by based on the sensor data, the thermal imaging, and the acoustic signals, the vibration, the
+
+155
+00:36:26,360 --> 00:36:30,960
+all-year-old vision.
+
+156
+00:36:32,099 --> 00:36:44,199
+For the software, we use drones to scan the large areas, and the AI and computer vision
+
+157
+00:36:44,199 --> 00:36:53,480
+can identify spots and disconnect its strings.
+
+158
+00:36:53,480 --> 00:37:05,690
+For wind turbines, the deviation in vibration, the temperature, the sound, the power curves,
+
+159
+00:37:08,400 --> 00:37:13,480
+operational change is more important than the maintenance.
+
+160
+00:37:15,019 --> 00:37:25,320
+Maintainers can be scheduled during the low wind periods, and the spell cards can be prepared.
+
+161
+00:37:25,320 --> 00:37:41,550
+The detection prevents loss and optimization decides how to operate the remaining flexibility.
+
+162
+00:37:44,530 --> 00:37:50,289
+Now let's move on to another case.
+
+163
+00:37:51,250 --> 00:38:21,550
+Beyond diagnosis, AI can also dispatch real-time electricity prices, and the weather forecast dispatches the photovoltaic energy storage sources to find the operation.
+
+164
+00:38:21,550 --> 00:38:42,860
+Whether in a large energy dispatch center or just a single power plant, AI can help us maximize efficiency and make every unit of clean energy deliver has its greatest value.
+
+165
+00:38:42,860 --> 00:39:03,409
+So, this optimization seeks the best position under multiple constraints, like the energy output, the battery integration, the network limit, the market prices, the reserve requirements, equipment errors, etc.
+
+166
+00:39:03,409 --> 00:39:15,739
+In enforcement learning, we can sometimes describe it as a virtual class that is learning through repeated simulations.
+
+167
+00:39:16,219 --> 00:39:20,699
+This system requires strong safety boundaries.
+
+168
+00:39:21,480 --> 00:39:34,219
+Practical architectures often use random actions while the physical constraint layer verifies the feasibility.
+
+169
+00:39:34,219 --> 00:39:43,820
+These five examples illustrate the edge-cloud coordination and fast-forward detection.
+
+170
+00:39:44,480 --> 00:39:54,670
+The broader network combination must connect at the level of the system-level intelligence.
+
+171
+00:39:55,340 --> 00:40:04,039
+Maximizing one immortal or better would not be the best we've seen so far.
+
+172
+00:40:10,260 --> 00:40:15,530
+This leads to three practical conclusions about efficiency.
+
+173
+00:40:15,530 --> 00:40:31,309
+First, recovery loss efficiency is often faster and cheaper than building equivalent new capacity.
+
+174
+00:40:32,210 --> 00:40:43,119
+And the second, optimization depends on transparency and operability.
+
+175
+00:40:43,699 --> 00:40:51,179
+And the third, readiness and deployment readiness are different.
+
+176
+00:40:51,179 --> 00:40:59,750
+A strong algorithm cannot operate if manufacturers use incompatible interfaces.
+
+177
+00:41:00,690 --> 00:41:16,739
+And data, if data remains in there, responsibility for recurring patterns will become even more important.
+
+178
+00:41:17,739 --> 00:41:23,349
+When we move from individual methods of system integration,
+
+179
+00:41:23,349 --> 00:41:35,389
+We entered to the most difficult and the highest level system integration.
+
+180
+00:41:35,889 --> 00:41:59,260
+In this part, we examined the coordination of power systems, including transmission, distribution, microgrid, distribution and resources, storage, electric vehicles, and flexible plants.
+
+181
+00:42:04,090 --> 00:42:35,440
+The traditional way that were designed for global generation distributed solar batteries, the storage, the vehicles, and these flexible loads create rapid energy.
+
+182
+00:42:35,440 --> 00:42:54,809
+change this is a we can see on this graph that the high solar lowers the next amount around the
+
+183
+00:42:54,809 --> 00:43:28,210
+mid well even when solar declines but the demand remains high for visualization created the flexible
+
+184
+00:43:28,210 --> 00:43:37,340
+amount the regional exchange improved forecasting and market signal it's not so we can see that it's
+
+185
+00:43:37,340 --> 00:43:49,210
+not a single technology so this virtual power plants coordinate many small resources as one
+
+186
+00:43:49,829 --> 00:44:14,530
+operational the concept of virtual power plant is very clear it connects the vehicles from
+
+187
+00:44:41,949 --> 00:45:36,400
+This would be increased from 16.85 gigawatts at the end of 2025 to more than 50 gigawatts in 2030.
+
+188
+00:45:36,920 --> 00:45:40,559
+We can see that this increase is significant.
+
+189
+00:45:40,559 --> 00:45:47,920
+The scale should be understood through four steps.
+
+190
+00:45:48,599 --> 00:46:05,980
+First, the system must see their visibility, such as the rooftop electric vehicles.
+
+191
+00:46:06,579 --> 00:46:15,829
+Second, it must aggregate many heterogeneous devices.
+
+192
+00:46:15,829 --> 00:46:23,349
+And third, it must dispatch them reliably.
+
+193
+00:46:23,909 --> 00:46:34,980
+The flexibility must participate in the market and receive appropriate compensation.
+
+194
+00:46:37,369 --> 00:46:48,199
+The demand side of 2030 target of peak shaving capability is about 5% of maximum load,
+
+195
+00:46:48,199 --> 00:46:54,179
+which shows that the consumers are becoming active system participants.
+
+196
+00:46:54,519 --> 00:47:09,050
+About APEC economies, the difficult questions are often the baseline qualification and consumer consent,
+
+197
+00:47:09,349 --> 00:47:14,510
+the data access, and the allocation of the performance rates.
+
+198
+00:47:14,510 --> 00:47:20,539
+The virtual power plant has well-defined coordination.
+
+199
+00:47:21,570 --> 00:47:44,380
+The microgrid is a clear physical aggregate that achieves local energy.
+
+200
+00:47:46,730 --> 00:47:58,250
+They enable self-management for remote islands.
+
+201
+00:48:00,960 --> 00:48:34,349
+They enhance the future and controls and define the grid connectivity.
+
+202
+00:48:38,219 --> 00:48:45,260
+This model is the Salmon Island, which is located in the
+
+203
+00:48:45,260 --> 00:48:57,679
+This example hides their resilience and realistic diesel originals
+
+204
+00:48:59,090 --> 00:49:11,150
+We should see that the microgrid, their value can include the power,
+
+205
+00:49:22,320 --> 00:49:39,260
+wider grid, great low storage integration,
+
+206
+00:49:39,260 --> 00:49:53,909
+integration, integration, and those
+
+207
+00:49:53,909 --> 00:50:32,780
+which includes distribution
+
+208
+00:50:32,780 --> 00:51:01,230
+we need to
+
+209
+00:51:01,230 --> 00:51:08,409
+we need to
+
+210
+00:51:08,409 --> 00:51:20,110
+millions of centralized
+
+211
+00:51:20,110 --> 00:51:38,809
+to optimize the original objective.
+
+212
+00:51:43,820 --> 00:51:45,760
+take away from this
+
+213
+00:51:45,760 --> 00:52:07,170
+This is the system integration leverage of QNIC in a great level.
+
+214
+00:52:11,849 --> 00:52:17,699
+The repeated pre-request last year, the data sharing cybersecurity.
+
+215
+00:52:26,199 --> 00:52:42,599
+Without them, the resources are operationally inviolable.
+
+216
+00:52:49,570 --> 00:53:08,780
+The same will move to reflections and future outlooks.
+
+217
+00:53:28,659 --> 00:53:38,409
+This is an example of growing the smart energy platform.
+
+218
+00:53:41,599 --> 00:54:07,170
+Renewable capacity, reactive power, and carbon emissions.
+
+219
+00:54:15,849 --> 00:54:29,309
+I think it would be very powerful.
+
+220
+00:54:36,230 --> 00:54:50,159
+This is the world of state-grade that has achieved in the world of AI.
+
+221
+00:54:53,230 --> 00:55:03,150
+which should not be interpreted as a proof.
+
+222
+00:55:04,380 --> 00:55:07,239
+All capabilities are already deployed.
+
+223
+00:55:08,659 --> 00:55:15,960
+And then, the system.
+
+224
+00:55:17,699 --> 00:55:21,760
+This slide expands the vision.
+
+225
+00:55:28,090 --> 00:55:33,420
+This physical system includes smart buildings,
+
+226
+00:55:34,590 --> 00:55:39,570
+the wind, solar, and storage,
+
+227
+00:55:39,570 --> 00:56:00,039
+knowledge and logistics and sensing that embodied in the physical action where work represents
+
+228
+00:56:00,039 --> 00:56:10,239
+system structure dynamics uncertainty and the research challenge is to combine general
+
+229
+00:56:10,239 --> 00:56:18,369
+reasoning with strict physical constraints and real-time repair where a large dynamic model
+
+230
+00:56:18,369 --> 00:56:22,690
+The model made support of Anne Hilden.
+

@@ -1,0 +1,1776 @@
+1
+00:00:00,000 --> 00:00:08,839
+15th five-year plan which is started from the year of 2026 so our goals are like building a new
+
+2
+00:00:09,169 --> 00:00:16,699
+energy system we will develop major hydropower projects as well and integrated hydropower wind
+
+3
+00:00:16,699 --> 00:00:23,179
+solar basis so we're gonna combine all of these new energy together as well as new energy in
+
+4
+00:00:23,179 --> 00:00:30,359
+different bases like desert, gobi, and bare lands, and also offshore wind power
+
+5
+00:00:30,359 --> 00:00:35,520
+bases which we visited yesterday, alright? And the second one is like
+
+6
+00:00:35,520 --> 00:00:41,460
+rigorously building a new type power system, it's like construct smart grids
+
+7
+00:00:41,460 --> 00:00:47,299
+which I will talk about later, and the improve urban and rural distribution
+
+8
+00:00:47,299 --> 00:00:54,820
+distribution networks, scientifically deploy pumped storage hydroelectricity, and vigorously
+
+9
+00:00:54,820 --> 00:01:00,719
+develop new type energy storage. The third is basically completing a unified electricity
+
+10
+00:01:00,719 --> 00:01:08,700
+market system, like expand cross-provisional and cross-regional electricity trading. Actually,
+
+11
+00:01:08,700 --> 00:01:15,500
+this is very important for my hometown, because my hometown is in the west of China, and we
+
+12
+00:01:15,500 --> 00:01:20,060
+We have less people over there, but we have lots of lands over there that we can use,
+
+13
+00:01:20,200 --> 00:01:27,280
+and improve ancillary service markets and capacity markets, and scale up green electricity
+
+14
+00:01:27,280 --> 00:01:29,500
+trading and green certificate trading.
+
+15
+00:01:29,879 --> 00:01:34,099
+This is the data from last year for the share of new energy.
+
+16
+00:01:34,480 --> 00:01:35,719
+This is pie chart.
+
+17
+00:01:35,980 --> 00:01:44,180
+We can see from for solar PV, it's the largest one, and then coming up is wind power, and
+
+18
+00:01:44,180 --> 00:01:47,400
+And for biomass, it's still the lowest one.
+
+19
+00:01:48,700 --> 00:01:53,060
+The second point is about the new energy power generation
+
+20
+00:01:53,060 --> 00:01:53,620
+routes.
+
+21
+00:01:53,900 --> 00:01:56,500
+For example, for wind power generation,
+
+22
+00:01:58,299 --> 00:02:02,219
+the newly stored capacity in the year of 2020
+
+23
+00:02:02,219 --> 00:02:06,700
+is around 72 million kilowatts hour, kilowatts, sorry.
+
+24
+00:02:06,879 --> 00:02:12,199
+And it's grown up to 120 million in the year of 2025.
+
+25
+00:02:12,599 --> 00:02:13,680
+It's pretty high, right?
+
+26
+00:02:13,680 --> 00:02:27,039
+And the characteristics is like we have significant economies of scale for solar, sorry, for wind power and good land compatibility and no water consumption.
+
+27
+00:02:27,520 --> 00:02:35,439
+But the disadvantages is like fluctuating and intermittent and high site requirements.
+
+28
+00:02:35,439 --> 00:02:52,319
+But for solar power, we can see it's increased from 48 million kilowatts in the year of 2020 to 318 million kilowatts in the year of 2025.
+
+29
+00:02:52,620 --> 00:03:04,800
+It's like a very huge and fast growth, and it has abundant light resources in China and a wide range of application scenarios and short construction cycles.
+
+30
+00:03:04,800 --> 00:03:16,319
+But the disagreement is still the same. It's highly intermittent as well and significantly affected by dusk.
+
+31
+00:03:16,379 --> 00:03:26,219
+The last one is biomass. Unfortunately, we can see it's decreased from 5 to 1, 1.5 million kWh.
+
+32
+00:03:26,219 --> 00:03:34,139
+hours and but the good thing is we still use for biomass energy and good very
+
+33
+00:03:34,139 --> 00:03:40,020
+good stability as well and for disadvantages it's like it has low fuel
+
+34
+00:03:40,800 --> 00:03:47,960
+low fuel density and fuel gas requires environmentally friendly treatment the
+
+35
+00:03:48,889 --> 00:03:55,569
+third point is about technology especially wind power technology we have
+
+36
+00:03:55,569 --> 00:04:02,449
+these four different stages for the first stage it's in the last century so
+
+37
+00:04:02,449 --> 00:04:08,569
+we use the turbine is like the fixed ones fix the pitch store regulated wind
+
+38
+00:04:08,569 --> 00:04:16,209
+turbine and we use this squirrel cage induction generator can you imagine
+
+39
+00:04:16,209 --> 00:04:22,870
+squirrel cage right I don't know if you guys see the squirrel cage so the drive tree is like
+
+40
+00:04:22,870 --> 00:04:29,829
+square cage induction generator with gearbox and for the materials normally we use glass fiber
+
+41
+00:04:29,829 --> 00:04:37,089
+reinforced and the tower is not that high it's like less than 40 meters but in the second stage
+
+42
+00:04:37,819 --> 00:04:46,569
+we can see that the turbine change it's from the fixed uh change to variable pitch technology so
+
+43
+00:04:46,569 --> 00:04:55,310
+so it's a little bit more flexible and for drivetrain we use doubly fed induction generator
+
+44
+00:04:55,670 --> 00:05:03,509
+and also what we did is early development of direct to drive synchronous generators
+
+45
+00:05:03,509 --> 00:05:13,949
+as well and for materials still glass fiber but now we added some elements and other materials
+
+46
+00:05:13,949 --> 00:05:20,189
+inside so we've got composite structures and tapered pure steel tower as well.
+
+47
+00:05:20,430 --> 00:05:26,810
+In the third stage, in here, so for turbine it's high towers, long flexible
+
+48
+00:05:26,810 --> 00:05:33,209
+blades and active yaw smart turbine technology and for drivetrain it's
+
+49
+00:05:33,209 --> 00:05:38,790
+permanent magnet direct drive and some of them like semi-directive drive
+
+50
+00:05:38,790 --> 00:05:45,930
+transmission and for material it's changed right so here first and second
+
+51
+00:05:45,930 --> 00:05:52,350
+stage is glass fiber and for the third stage is changed to carbon fiber this is
+
+52
+00:05:52,350 --> 00:06:02,970
+a very huge advancement and flexible high steel towers because these it is
+
+53
+00:06:03,129 --> 00:06:08,029
+is over 120 meters and the steel concrete composite tower.
+
+54
+00:06:08,189 --> 00:06:10,829
+So it's totally different from the previous two.
+
+55
+00:06:11,149 --> 00:06:17,370
+And the fourth stage is now after the year of 2021.
+
+56
+00:06:18,269 --> 00:06:21,050
+So we changed from the land to sea.
+
+57
+00:06:21,230 --> 00:06:25,389
+So it's deep sea floating offshore wind turbines
+
+58
+00:06:25,790 --> 00:06:29,189
+and we use medium speed permanent magnet
+
+59
+00:06:29,189 --> 00:06:36,750
+semi-direct-to-drive and direct-to-drive technology and for materials the blade
+
+60
+00:06:36,750 --> 00:06:44,509
+length is getting longer it exceeds 120 meters so it's very huge and large steel
+
+61
+00:06:44,509 --> 00:06:50,389
+application of carbon fiber protrusion process as well so for third and fourth
+
+62
+00:06:50,389 --> 00:07:01,839
+stage steel carbon fiber okay and for the industry chain upstream is mainly
+
+63
+00:07:01,839 --> 00:07:08,040
+about raw materials and components and for the midstream it's mainly about
+
+64
+00:07:08,040 --> 00:07:13,800
+turbine manufacturing and integration we have many corporations working on this
+
+65
+00:07:13,800 --> 00:07:19,600
+so this is a data from last year like Gold Wind I don't know if you heard
+
+66
+00:07:19,600 --> 00:07:26,879
+about these corporations. They have the installed capacity for 29 gigawatts and
+
+67
+00:07:26,879 --> 00:07:33,959
+for aviation 20, Minyang Smart Energy and Windy around 18 and the last one is
+
+68
+00:07:33,959 --> 00:07:42,860
+Semi and DEC as well. They have around 30 gigawatts and the downstream is wind farm
+
+69
+00:07:42,860 --> 00:07:44,899
+from development and operation.
+
+70
+00:07:45,439 --> 00:07:48,899
+We also have some corporations like
+
+71
+00:07:49,100 --> 00:07:52,120
+in China, also China Energy,
+
+72
+00:07:52,800 --> 00:07:56,759
+so which hold this conference training program, right?
+
+73
+00:07:57,139 --> 00:08:00,399
+And China Corporation, China Corporation.
+
+74
+00:08:01,360 --> 00:08:05,839
+This one is state power investment corporation as well.
+
+75
+00:08:06,120 --> 00:08:08,939
+And mainly they also do operation
+
+76
+00:08:08,939 --> 00:08:10,420
+and their maintenance as well,
+
+77
+00:08:10,420 --> 00:08:19,980
+like daily inspections for diagnosis and spare parts replacement as well how okay
+
+78
+00:08:19,980 --> 00:08:27,939
+next is about photovoltaic this is my research field okay so for photovoltaic
+
+79
+00:08:27,939 --> 00:08:34,320
+technology we have too many types right and we divided it into main three types
+
+80
+00:08:34,320 --> 00:08:42,259
+So the first main type is silicon-based technology.
+
+81
+00:08:42,840 --> 00:08:47,379
+So I will just mention about some mainly ones.
+
+82
+00:08:47,720 --> 00:08:50,539
+The first one is PRC.
+
+83
+00:08:50,879 --> 00:08:53,740
+It's normally used dielectric preservation layers
+
+84
+00:08:53,740 --> 00:08:57,679
+like aluminum oxide and silicon nitride.
+
+85
+00:08:57,799 --> 00:09:03,700
+And for back contract, it can use interdigit back contract as well.
+
+86
+00:09:03,700 --> 00:09:07,879
+And the second one, Topcon, it's very popular nowadays.
+
+87
+00:09:08,299 --> 00:09:11,700
+So we use ultraseed, tuna oxide layers,
+
+88
+00:09:11,860 --> 00:09:16,279
+like silica oxide and heavily doped polysilicon layer.
+
+89
+00:09:16,580 --> 00:09:19,139
+For backcontract, normally like,
+
+90
+00:09:20,909 --> 00:09:25,769
+sorry, Topcon backcontract and Topcon hybrid backcontract.
+
+91
+00:09:26,009 --> 00:09:28,590
+And the third one is HGT.
+
+92
+00:09:28,789 --> 00:09:30,889
+This is also a very popular one.
+
+93
+00:09:30,889 --> 00:09:38,049
+heterojunction of crystalline silicon and also amorphous silicon. This one is like a
+
+94
+00:09:38,049 --> 00:09:46,049
+film, it's flexible, and for crystalline silicon we know it's normally used rigid substrate,
+
+95
+00:09:46,429 --> 00:09:54,750
+so we combine them together, and for backcontract is hetero backcontract, this is a hybrid passivated
+
+96
+00:09:54,750 --> 00:10:03,429
+that contract and the hybrid interdigitate that contract this is the first child which is very
+
+97
+00:10:03,429 --> 00:10:11,789
+nature and popular especially before ten years ago maybe that's nowadays we have many new
+
+98
+00:10:12,649 --> 00:10:20,470
+technologies the second one is seen beyond technology we have can be telluride it has
+
+99
+00:10:20,470 --> 00:10:24,330
+has low manufacturing cost and commercially mature,
+
+100
+00:10:24,730 --> 00:10:29,470
+but unfortunately the efficiency is not that high.
+
+101
+00:10:29,570 --> 00:10:32,250
+It's only around 20% probably.
+
+102
+00:10:32,929 --> 00:10:37,490
+And for copper indium gallium selenide, the second one,
+
+103
+00:10:37,690 --> 00:10:40,710
+it has high theoretical efficiency,
+
+104
+00:10:41,190 --> 00:10:47,309
+but the real efficiency is only around 23%, I think,
+
+105
+00:10:47,309 --> 00:10:52,269
+present and it's compatible with flexible fabrication which is very good
+
+106
+00:10:52,269 --> 00:10:59,129
+and the third one is our star solar cells gallium arsenide it has the
+
+107
+00:10:59,129 --> 00:11:05,870
+highest conversion efficiency not only in single junction but also in multi
+
+108
+00:11:05,870 --> 00:11:12,509
+junction not only concentrated but also in non concentrated so the highest
+
+109
+00:11:12,509 --> 00:11:34,610
+The next efficiency for this one probably is three junction concentrated solar device, which is around 47% the commercial efficiency. It's pretty high. But also efficiency is high, cost is high, right? Relatively expensive for this one.
+
+110
+00:11:34,610 --> 00:11:42,409
+that. But now we use it for space. So it's okay. But for ground, too extensive. And the last one,
+
+111
+00:11:43,029 --> 00:11:50,289
+also a very popular one, is ProSky. It's also my research field. It has high laboratory efficiency.
+
+112
+00:11:50,730 --> 00:12:00,649
+It's going up to 28% in this year. And it has very short process flow and low cost as well.
+
+113
+00:12:00,649 --> 00:12:02,950
+Well, okay, so this is second type.
+
+114
+00:12:03,250 --> 00:12:05,090
+The third type is tandem.
+
+115
+00:12:06,100 --> 00:12:09,659
+Tandem also is a very emerging technology.
+
+116
+00:12:10,159 --> 00:12:12,379
+So how are we gonna get tandem cells?
+
+117
+00:12:13,120 --> 00:12:15,720
+First is perovskite together with silicon.
+
+118
+00:12:15,960 --> 00:12:17,919
+We have two terminals, three terminal,
+
+119
+00:12:18,120 --> 00:12:20,360
+four terminal tandem diopters.
+
+120
+00:12:20,679 --> 00:12:23,549
+Second is perovskite only.
+
+121
+00:12:23,809 --> 00:12:27,820
+So for top cell, we use perovskite,
+
+122
+00:12:27,840 --> 00:12:30,259
+and the bottom cell, still perovskite.
+
+123
+00:12:30,259 --> 00:12:36,200
+we got all cross guide tandem cells it's just as a band gap is different right
+
+124
+00:12:36,200 --> 00:12:41,279
+and the third one is combined together with inorganic compounds so the cells
+
+125
+00:12:41,279 --> 00:12:47,139
+for example like copper indium gallium selenide so this is three different
+
+126
+00:12:47,139 --> 00:12:55,960
+types of tender technology which is also very popular nowadays okay here we're
+
+127
+00:12:55,960 --> 00:13:01,019
+We're going to compare all these different technologies.
+
+128
+00:13:02,519 --> 00:13:05,299
+In this figure, it's pretty obvious.
+
+129
+00:13:05,960 --> 00:13:08,820
+In the top, which one it is?
+
+130
+00:13:10,019 --> 00:13:10,879
+Which one it is?
+
+131
+00:13:11,059 --> 00:13:13,519
+Definitely gallium arsenide, right?
+
+132
+00:13:13,840 --> 00:13:17,360
+I just mentioned that no matter in single junction,
+
+133
+00:13:17,659 --> 00:13:22,320
+multi-junction, not only in concentrated,
+
+134
+00:13:22,779 --> 00:13:25,419
+non-concentrated, it always has the highest efficiency.
+
+135
+00:13:25,419 --> 00:13:29,480
+efficiency. And the second one is also the popular one.
+
+136
+00:13:30,850 --> 00:13:34,210
+This laser doesn't work. The second curve is
+
+137
+00:13:35,009 --> 00:13:40,110
+perovskite. So in the year of 2025, the efficiency is around
+
+138
+00:13:40,110 --> 00:13:46,690
+27.3, but this year it's 28%. It's growing very fast. And
+
+139
+00:13:46,690 --> 00:13:51,730
+the third type, all this, from the yellow one to this red one,
+
+140
+00:13:51,730 --> 00:13:58,049
+these four curves are all about silicon-based and for silicon-based we have the highest one
+
+141
+00:13:58,879 --> 00:14:07,649
+about xbc okay and the next one is hgt heterojunction which is very popular and then
+
+142
+00:14:08,659 --> 00:14:19,289
+uh which one uh hgt yeah hgt topcom it's also a very popular one the last one is the red curve
+
+143
+00:14:19,289 --> 00:14:27,570
+which is PRC. Actually PRC is very famous like many years ago but now it has been
+
+144
+00:14:27,570 --> 00:14:34,889
+replaced by TOPCOM. So these are silicon based and after that it's our inorganic
+
+145
+00:14:34,889 --> 00:14:42,210
+compounds, so to say, except gallium arsenide, right? So for inorganic
+
+146
+00:14:42,210 --> 00:14:47,509
+compounds, the next one is copper indium gallium selenide, the last one is
+
+147
+00:14:47,509 --> 00:14:54,990
+10 min terrorize which is the lowest one around 20% and this is a research to
+
+148
+00:14:54,990 --> 00:15:00,750
+fabricate the device in here and after that we're going to compare the market
+
+149
+00:15:00,750 --> 00:15:09,389
+share and you're going to say all these are for which type the first type right
+
+150
+00:15:09,389 --> 00:15:15,590
+all of them are about silicon based the solar cells and we cannot see you
+
+151
+00:15:15,590 --> 00:15:23,700
+inorganic compound or perovskite. Why? Because for perovskite, we just started the commercialization,
+
+152
+00:15:24,240 --> 00:15:30,879
+so we didn't have the market share until now. But for inorganic, for example, like gallium arsenide,
+
+153
+00:15:31,860 --> 00:15:38,159
+we also mentioned that it's mainly for spatial application, so it's totally different from the
+
+154
+00:15:38,159 --> 00:15:46,820
+ground market share okay so when we compare it it's obvious in here this one prc this color
+
+155
+00:15:48,110 --> 00:15:56,919
+it's taking the main market share until the year of 2023 and it's going to the highest one in the
+
+156
+00:15:56,919 --> 00:16:07,000
+year of 2021 the market share is like 91.2 percent it's pretty high and but after 2023
+
+157
+00:16:07,940 --> 00:16:15,019
+it replaced by top count top count is like two percent only two percent in this year
+
+158
+00:16:15,019 --> 00:16:24,879
+but it's already 80 87.6 percent in the year of 2025. why it's not like 90 or more than 90
+
+159
+00:16:24,879 --> 00:16:29,480
+because we have more and more technologies coming out right so for
+
+160
+00:16:29,480 --> 00:16:38,460
+example like HGT 3.3 and XPC 6.7 and also some others I'm not going to talk
+
+161
+00:16:38,460 --> 00:16:47,899
+about this is like less popular ones okay this is mainly about Prouskite
+
+162
+00:16:47,899 --> 00:16:53,059
+guide, which we are working on now for the industrialization
+
+163
+00:16:53,500 --> 00:16:53,940
+development.
+
+164
+00:16:56,080 --> 00:17:01,419
+The production of rigid power supply cells in the industry
+
+165
+00:17:01,419 --> 00:17:06,599
+has entered as a mass production stage, not for the flexible,
+
+166
+00:17:06,779 --> 00:17:08,519
+just a rigid substrate.
+
+167
+00:17:09,220 --> 00:17:13,700
+10 pilot production lines of 100 megawatts or above
+
+168
+00:17:13,700 --> 00:17:19,420
+have been put into operation and three gigawatts scale production lines are
+
+169
+00:17:19,420 --> 00:17:25,799
+under construction as well so this is a very huge step. By the end of the year
+
+170
+00:17:26,660 --> 00:17:32,779
+2025, nine megawatts scale ground demonstration power stations using these
+
+171
+00:17:32,779 --> 00:17:37,299
+single junction prospect modules have been built with the largest single
+
+172
+00:17:37,299 --> 00:17:42,779
+single project reaching and installed capacity around 8 megawatts.
+
+173
+00:17:42,880 --> 00:17:56,259
+So this is a table to compare the highest efficiency for different solar cell types
+
+174
+00:17:56,259 --> 00:18:01,019
+types from different companies, yeah.
+
+175
+00:18:01,180 --> 00:18:04,480
+And on the top are all silicon-based,
+
+176
+00:18:04,680 --> 00:18:07,019
+until here, it's all silicon-based.
+
+177
+00:18:07,240 --> 00:18:09,640
+And this one's like inorganic compound,
+
+178
+00:18:09,960 --> 00:18:13,779
+solar cells, and the last one is perovskite with tendon.
+
+179
+00:18:14,519 --> 00:18:17,779
+Okay, so, for example, for PRC,
+
+180
+00:18:18,059 --> 00:18:22,279
+it has the highest efficiency, around 24%,
+
+181
+00:18:22,279 --> 00:18:25,200
+but not this year, it's like several years ago,
+
+182
+00:18:25,200 --> 00:18:34,440
+around 2023. It's the highest efficiency is from Longji company. It's a very
+
+183
+00:18:34,440 --> 00:18:40,440
+famous photovoltaic company in China. They also have some other record like
+
+184
+00:18:40,440 --> 00:18:50,200
+this one. I mentioned earlier HPPC and HIPC. The efficiency is around 28% which
+
+185
+00:18:50,200 --> 00:18:53,660
+which is pretty high for now, especially for silicon-based.
+
+186
+00:18:53,920 --> 00:18:55,960
+And another one is this one,
+
+187
+00:18:56,910 --> 00:18:59,009
+perovskite with silicon tandem.
+
+188
+00:18:59,950 --> 00:19:02,000
+It's also pretty high, 35, right?
+
+189
+00:19:02,220 --> 00:19:06,200
+So we can compare it with single crystal,
+
+190
+00:19:06,500 --> 00:19:10,480
+single silicon crystal and single perovskite.
+
+191
+00:19:10,619 --> 00:19:13,779
+For single junction perovskite, the highest is 28.
+
+192
+00:19:14,160 --> 00:19:19,460
+For silicon, we can see from here, it's still 28, right?
+
+193
+00:19:19,460 --> 00:19:37,400
+Right? But when we combine them together, it's going up like 35. So it's a pretty good technology in future. And the second one is Topcon. I mentioned it's very popular. It's from Jinko Solar in China.
+
+194
+00:19:37,400 --> 00:19:46,299
+China, the highest efficiency is around 27%, and also the other popular one is HGT, also
+
+195
+00:19:46,299 --> 00:19:48,259
+27% from Trina Solar.
+
+196
+00:19:48,559 --> 00:19:55,700
+Trina Solar is also a very famous company, and they have another record holding for THPC
+
+197
+00:19:56,880 --> 00:20:05,740
+solar cells, and the other one is only for HPCs from GE Solar, or Goldstone Energy Company,
+
+198
+00:20:05,740 --> 00:20:15,519
+and these are all about silicon-based and for inorganic sort of cells like
+
+199
+00:20:15,809 --> 00:20:24,250
+Longyan energy yeah I mentioned it earlier right for cadmium telluride it's
+
+200
+00:20:24,250 --> 00:20:31,750
+a little bit like not that satisfied the highest efficiencies or only 20% and for
+
+201
+00:20:31,750 --> 00:20:35,730
+For copper indium gallium selenide, it's only 23%.
+
+202
+00:20:36,099 --> 00:20:42,509
+But for the star cell gallium arsenide, the highest is 3.7%.
+
+203
+00:20:42,509 --> 00:20:45,910
+It's from Durong Technology Company in China.
+
+204
+00:20:46,210 --> 00:20:51,150
+And for perovskite, the highest holding institute
+
+205
+00:20:51,420 --> 00:20:56,130
+is Hainan University, which happened this year.
+
+206
+00:20:56,579 --> 00:20:59,990
+In June, probably, it's like two months ago.
+
+207
+00:21:02,000 --> 00:21:09,420
+Okay, and for industrialization, especially for this tandem, right, we said it's emerging.
+
+208
+00:21:09,740 --> 00:21:17,900
+And we can see that before the year of 2023, actually we don't have any data for module,
+
+209
+00:21:18,019 --> 00:21:18,259
+right?
+
+210
+00:21:18,519 --> 00:21:19,880
+This is just a laboratory.
+
+211
+00:21:20,180 --> 00:21:24,099
+We do it in the lab, but we cannot have module.
+
+212
+00:21:24,099 --> 00:21:30,279
+but after the year of 2023 we have module efficiency and it's also growing
+
+213
+00:21:30,279 --> 00:21:39,920
+up steadily so it's very exciting this is from another Chinese company that
+
+214
+00:21:39,920 --> 00:21:49,769
+they made this tandem module so from this table we can divide three stages
+
+215
+00:21:49,769 --> 00:21:56,509
+stages for perovskite-silicon tandem solar cell. The first stage is technology research
+
+216
+00:21:56,730 --> 00:22:04,170
+and development stage. We focused on distributed applications of mass-produced perovskite modules.
+
+217
+00:22:04,569 --> 00:22:11,630
+No commercial tandem module efficiency had been released, so it's nothing in here, the
+
+218
+00:22:11,630 --> 00:22:21,230
+data and in the second stage in from 23 to 24 it's large area pilot production stage
+
+219
+00:22:21,230 --> 00:22:30,009
+in this stage actually we got the module right so this company made a continuous
+
+220
+00:22:30,009 --> 00:22:35,529
+industrialization process and planned its first gigawatt skill tender module
+
+221
+00:22:35,529 --> 00:22:45,039
+module scheduled for completion in this year.
+
+222
+00:22:45,279 --> 00:22:51,920
+And the third stage is in the year of 2025, it's technology breakthrough stage.
+
+223
+00:22:53,279 --> 00:23:00,309
+This is from Trina Solar, and it wants the low-shading, conductive, adaptive heat reduction
+
+224
+00:23:00,309 --> 00:23:05,890
+junction and the photo management technologies improving both efficiency
+
+225
+00:23:05,890 --> 00:23:14,460
+and power output so after the year of 2025 not only the companies but also
+
+226
+00:23:14,460 --> 00:23:22,140
+like the university like us we are happy to work on these tendons or so I also
+
+227
+00:23:22,140 --> 00:23:30,359
+started it from last year that and until now I I haven't have any very exciting
+
+228
+00:23:30,359 --> 00:23:37,440
+data but still working on it okay and this is for biomass I think I will talk
+
+229
+00:23:37,440 --> 00:23:44,279
+about it very quickly this is a road man and it has three stage the third one is
+
+230
+00:23:44,279 --> 00:23:51,619
+skew up stage for biomass it started from the year of 2006 we have some
+
+231
+00:23:51,619 --> 00:23:57,339
+policies for that it's for like benchmark on we carry for guaranteed
+
+232
+00:23:57,339 --> 00:24:02,880
+purchase by the power grid and subsidized for new projects based on
+
+233
+00:24:02,880 --> 00:24:10,319
+revenue availability. The second stage is coal generation stage. We combined heat
+
+234
+00:24:10,319 --> 00:24:16,240
+and power and the multi-source solid with the coal processing we achieved. The
+
+235
+00:24:16,240 --> 00:24:22,359
+third stage is like carbon, negative stage. So we have a blue paper for this.
+
+236
+00:24:22,359 --> 00:24:27,119
+on the development potential of zero carbon biomass energy
+
+237
+00:24:27,119 --> 00:24:30,119
+under the geocarbon goals.
+
+238
+00:24:30,380 --> 00:24:35,599
+So in this stage, declining competitiveness
+
+239
+00:24:35,599 --> 00:24:40,119
+of power generation, we have many other technologies, right?
+
+240
+00:24:40,279 --> 00:24:45,359
+And sustainable aviation biofuel, biolensing,
+
+241
+00:24:45,680 --> 00:24:48,440
+and green mass as well, okay?
+
+242
+00:24:48,440 --> 00:24:52,220
+Okay, and for biomass, your demand,
+
+243
+00:24:52,539 --> 00:24:57,950
+the first is waste to energy, incineration power generation.
+
+244
+00:24:58,549 --> 00:25:01,950
+For short term, just the cost reduction
+
+245
+00:25:02,390 --> 00:25:05,670
+and efficiency improvements is very simple.
+
+246
+00:25:05,910 --> 00:25:09,710
+And the medium term, we're gonna do multi-source
+
+247
+00:25:10,130 --> 00:25:12,049
+with the coal processing.
+
+248
+00:25:12,369 --> 00:25:17,630
+And for long term, like fly ash vitrification
+
+249
+00:25:17,630 --> 00:25:26,230
+and also the other one is like carbon capture utilization and storage carbon
+
+250
+00:25:26,230 --> 00:25:33,250
+injection wells as well and the second is like agricultural and the forestry
+
+251
+00:25:33,250 --> 00:25:39,069
+environments power generation and for short term is full skill combined heat
+
+252
+00:25:39,069 --> 00:25:45,309
+and power this is the main thing and for medium term is like fuel and equipment
+
+253
+00:25:45,309 --> 00:25:51,809
+upgrading and for long term it's multi-energy complementary like micro
+
+254
+00:25:51,809 --> 00:25:57,809
+grade and the hydrogen production this is also very important and another one
+
+255
+00:25:57,809 --> 00:26:04,039
+is biogas power generation for short-term ecological circular
+
+256
+00:26:04,039 --> 00:26:10,299
+cogeneration and for medium term like high value utilization and for long term
+
+257
+00:26:10,299 --> 00:26:12,859
+with deep power grid integration as well.
+
+258
+00:26:13,119 --> 00:26:17,240
+Okay, the second topic is about breakthrough innovations
+
+259
+00:26:17,240 --> 00:26:19,099
+in new energy power generation.
+
+260
+00:26:20,059 --> 00:26:25,599
+The key innovations for power, for wind power generation,
+
+261
+00:26:25,599 --> 00:26:27,400
+I'm gonna just talk about offshore,
+
+262
+00:26:27,539 --> 00:26:30,680
+because for land wind power,
+
+263
+00:26:31,720 --> 00:26:36,299
+we cannot say like innovation, maybe just for offshore.
+
+264
+00:26:36,299 --> 00:26:49,119
+First is steel about materials. Do you guys still remember what I mentioned earlier for the materials of offshore wind power or maybe land wind power?
+
+265
+00:26:49,400 --> 00:27:03,019
+We used glass fiber before, right? In the first and second stage, but after that we changed to carbon fiber, which is like more strong and more light.
+
+266
+00:27:03,019 --> 00:27:10,019
+so carbon fiber protrusion technology it has low density and high tensile
+
+267
+00:27:10,019 --> 00:27:16,259
+strength and it reduces blade weight improves power generation efficiency and
+
+268
+00:27:16,259 --> 00:27:23,720
+lowers tower load it is also high stiffness the blade tips are less prone
+
+269
+00:27:23,720 --> 00:27:30,680
+to bending and otherwise it has strong fatigue and corrosion resistance as well
+
+270
+00:27:30,680 --> 00:27:41,730
+And for the iteration of materials, the second one is we use a recyclable thermosetting export resin.
+
+271
+00:27:42,210 --> 00:27:49,710
+For this one, the materials, all the molecules, it has specific cleavable chemical bonds,
+
+272
+00:27:49,809 --> 00:27:58,289
+and it's condition triggered decomposition, which is good for the blade materials in future.
+
+273
+00:27:58,289 --> 00:28:08,230
+After the materials generation, we also have the iterations for drivetrain and power generation
+
+274
+00:28:08,230 --> 00:28:08,769
+technologies.
+
+275
+00:28:09,309 --> 00:28:18,349
+Like for the first one is medium speed semi-directed drive technology I talked about a bit earlier.
+
+276
+00:28:18,690 --> 00:28:23,069
+Like it can balance generator size, weight, and cost.
+
+277
+00:28:23,069 --> 00:28:30,250
+it can lower drive train failures and operation and maintenance costs it has
+
+278
+00:28:30,250 --> 00:28:39,589
+high efficiency across wide wind speeds also strong low voltage drive through
+
+279
+00:28:39,589 --> 00:28:44,869
+and high voltage drive through and the grid support as well the second
+
+280
+00:28:44,869 --> 00:28:50,549
+technology is like sliding bearing technologies it has very high load
+
+281
+00:28:50,549 --> 00:28:56,289
+bearing capacity, lower naphthalene weight and the foundation costs, good vibration
+
+282
+00:28:56,289 --> 00:29:02,670
+damping, no failure life limit. This is very good. The third is like evaporation
+
+283
+00:29:02,670 --> 00:29:09,069
+cooling technology. It has high cooling efficiency and phase change cooling
+
+284
+00:29:09,069 --> 00:29:15,190
+lowers auxiliary power use and stable and uniform temperature as well. This is
+
+285
+00:29:15,190 --> 00:29:18,190
+is also very important, no matter in wind power
+
+286
+00:29:18,190 --> 00:29:21,849
+and photovoltaic, and also closed-loop protection
+
+287
+00:29:21,849 --> 00:29:24,269
+against marine corrosion.
+
+288
+00:29:24,589 --> 00:29:27,829
+This is also very important for offshore wind power.
+
+289
+00:29:29,039 --> 00:29:30,869
+And we have some different types.
+
+290
+00:29:33,420 --> 00:29:35,809
+So if yesterday you didn't see very clearly,
+
+291
+00:29:35,950 --> 00:29:40,470
+here I'm going to talk about almost all types of wind power.
+
+292
+00:29:40,769 --> 00:29:45,009
+So this is very obvious difference out there.
+
+293
+00:29:45,009 --> 00:29:50,529
+this is like semi submersible floating platform and this is tension leg
+
+294
+00:29:50,529 --> 00:29:56,029
+platform we can see the difference right and for the advantagement for the first
+
+295
+00:29:56,029 --> 00:30:02,630
+one it's very mature it has high maturity strong stability and a large
+
+296
+00:30:04,410 --> 00:30:09,710
+megawatt sorry megawatt turbine but for the second one we can see it's like very
+
+297
+00:30:09,710 --> 00:30:16,309
+small right but the capacity it has like ultra large megawatts turbines sorry
+
+298
+00:30:16,309 --> 00:30:24,069
+turbines as well as small motion and compact footprint as well so we
+
+299
+00:30:24,069 --> 00:30:30,950
+compare these two and for this one this is single point mooring and here multi
+
+300
+00:30:30,950 --> 00:30:37,170
+point mooring these two and when we compare them like single one it has
+
+301
+00:30:37,170 --> 00:30:44,569
+lower resistance self alignment and better multi rotor in flow and for the
+
+302
+00:30:44,569 --> 00:30:50,769
+multi point one it has distributed lows good redundancy stable
+
+303
+00:30:50,769 --> 00:30:58,250
+orientation so it's different it depends on which side you're going to use it for
+
+304
+00:30:58,250 --> 00:31:04,829
+right application so and another one is high voltage dynamic subsea cable
+
+305
+00:31:04,829 --> 00:31:09,849
+technology for example like these beef configuration it has a motion adaptive
+
+306
+00:31:09,849 --> 00:31:18,990
+design and the deep weave configuration free handling configuration as well the
+
+307
+00:31:18,990 --> 00:31:27,279
+last one is for deep sea far offshore and large-capacity applications okay and
+
+308
+00:31:27,369 --> 00:31:32,589
+And here we have twin turbine floating system.
+
+309
+00:31:32,849 --> 00:31:36,809
+It has very high turbine density
+
+310
+00:31:37,029 --> 00:31:39,130
+and the shared foundation and mooring
+
+311
+00:31:39,490 --> 00:31:42,210
+and lower installation and operation
+
+312
+00:31:42,210 --> 00:31:45,269
+and the maintenance cost better wind capture
+
+313
+00:31:45,509 --> 00:31:49,009
+by weather venting, venting, sorry.
+
+314
+00:31:49,730 --> 00:31:52,470
+Also, another one is floating offshore substation.
+
+315
+00:31:53,920 --> 00:31:56,079
+This is like small station.
+
+316
+00:31:56,079 --> 00:32:06,220
+supports deep-sea wind farms, and reduces fixed foundation works, enables centralized planning and offshore power collection hubs as well.
+
+317
+00:32:08,430 --> 00:32:15,910
+This is the one we visited yesterday, right? Together with Fishery.
+
+318
+00:32:15,930 --> 00:32:21,849
+So it's Fishery Wind integrated floating platform.
+
+319
+00:32:21,849 --> 00:32:30,650
+platform. It has shared sea space utilization. It combined wind power and marine aquaculture
+
+320
+00:32:30,650 --> 00:32:39,430
+together. It has an ambidextrous aquaculture cage as well in the bottom, right, and smart
+
+321
+00:32:39,430 --> 00:32:48,369
+unmanned monitoring. The last one is floating high-voltage direct current converter platform.
+
+322
+00:32:48,369 --> 00:32:56,630
+wrong it has very long distance power export actually i think this is very good for the
+
+323
+00:32:57,950 --> 00:33:04,049
+countryside right especially in this city because this city we have a big sea and lake
+
+324
+00:33:04,430 --> 00:33:10,710
+so we can use it for a long distance power export and the high capacity transmission as well
+
+325
+00:33:10,710 --> 00:33:15,450
+supports GWAS scale basis reduces cable corridor pressure.
+
+326
+00:33:16,380 --> 00:33:19,359
+Oh, okay, some projects or examples.
+
+327
+00:33:19,740 --> 00:33:24,720
+The first one is China, the Three Borders LEED project.
+
+328
+00:33:25,180 --> 00:33:31,869
+It achieved grid connected in the year of 2021.
+
+329
+00:33:32,190 --> 00:33:36,809
+It's the first floating offshore wind platform in China,
+
+330
+00:33:36,890 --> 00:33:38,569
+so in the year of 2021.
+
+331
+00:33:38,569 --> 00:33:46,640
+2021. So we can see that it's only six years old. This is in December. So it's like it's only five
+
+332
+00:33:46,640 --> 00:33:52,539
+years past, right? But we already have so many different types of offshore wind. And the hardware
+
+333
+00:33:52,539 --> 00:34:01,680
+height, we can see it's 107 meters. And for the rotor diameter, around 158 meters. And the
+
+334
+00:34:01,680 --> 00:34:08,780
+the displacement volume for water is like 13,000 tons.
+
+335
+00:34:09,179 --> 00:34:13,980
+The second one is from, this is from China,
+
+336
+00:34:14,079 --> 00:34:16,699
+China National Offshore Oil Corporation.
+
+337
+00:34:17,300 --> 00:34:19,940
+The project is Guanlan Project,
+
+338
+00:34:20,340 --> 00:34:24,500
+and it achieved grid connecting in the year of 2023.
+
+339
+00:34:25,099 --> 00:34:30,000
+And it is also China's first deep sea floating platform,
+
+340
+00:34:30,000 --> 00:34:31,679
+So it's different from the others.
+
+341
+00:34:31,860 --> 00:34:36,239
+And offshore distance around 136 kilometers.
+
+342
+00:34:36,579 --> 00:34:40,019
+And the router diameter around 158 meters.
+
+343
+00:34:40,340 --> 00:34:42,900
+And the depth is 120 meters.
+
+344
+00:34:43,239 --> 00:34:45,219
+And for the cable, 5 kilometers.
+
+345
+00:34:45,639 --> 00:34:49,019
+And in-store capacity, 7 megawatts.
+
+346
+00:34:49,119 --> 00:34:50,480
+It's not that large, right?
+
+347
+00:34:50,639 --> 00:34:55,260
+And for annual output, around 22 million kilowatt hours.
+
+348
+00:34:55,480 --> 00:35:04,070
+the third one is the one we visited yesterday right china energy sharing uh platform it's
+
+349
+00:35:04,070 --> 00:35:12,530
+operated in the year of 2024 in june and it is china's first floating wind aquaculture platform
+
+350
+00:35:13,429 --> 00:35:21,130
+also in the world i have to say right and so the you probably already knows all the details
+
+351
+00:35:21,130 --> 00:35:25,150
+of history, right? So I'm going to skip it. But this one,
+
+352
+00:35:26,449 --> 00:35:29,550
+the fish cage volume is like 10,000
+
+353
+00:35:29,550 --> 00:35:33,889
+cubic meters, and it can contain 50,000
+
+354
+00:35:33,889 --> 00:35:37,670
+fish. And this fish, I heard that it's
+
+355
+00:35:37,670 --> 00:35:41,670
+called big yellow fish. I don't know if I translated it right or
+
+356
+00:35:41,670 --> 00:35:45,670
+not. And it is quite expensive in China, and I had no idea
+
+357
+00:35:45,670 --> 00:35:48,809
+about that before. Yeah, I just know it yesterday.
+
+358
+00:35:48,809 --> 00:36:12,929
+Okay, the last one is China's three borders pilot. It's installed in this year, like two months ago, and it is China's first single turbine platform. And we can see the offshore distance is not that large. It's like 70 kilometers and the depth is like higher than 50 meters.
+
+359
+00:36:12,929 --> 00:36:21,010
+displacement volume is quite high right it's like the volume is like 24,000
+
+360
+00:36:21,010 --> 00:36:28,710
+tons when we compare it with which one and the rotor diameter is also very huge
+
+361
+00:36:28,710 --> 00:36:39,449
+250 and capacity it's also high right like 660 megawatts and estimated annual
+
+362
+00:36:39,449 --> 00:36:45,949
+annual output because it's just like two months more than two months so the estimated annual
+
+363
+00:36:45,949 --> 00:36:56,119
+output is around 44 million kilowatt hour it's also very high as well okay and for photovoltaic
+
+364
+00:36:56,949 --> 00:37:03,860
+first we're also going to talk about offshore photovoltaic so from here we can see we have
+
+365
+00:37:03,860 --> 00:37:11,079
+all different parts and different types right like um if you compare all of them you're gonna
+
+366
+00:37:11,079 --> 00:37:17,659
+find that the first one is totally different from the other one right where where is the difference
+
+367
+00:37:18,119 --> 00:37:25,500
+here right it's fixed right so this is a very mature one and it's also like the
+
+368
+00:37:25,500 --> 00:37:29,800
+the earliest development, so it's pyrofixed offshore system.
+
+369
+00:37:30,079 --> 00:37:34,940
+It has high maturity and wind or wind resistance
+
+370
+00:37:36,019 --> 00:37:39,840
+synergizes with aquaculture salt tanks.
+
+371
+00:37:40,159 --> 00:37:41,280
+This is the first one.
+
+372
+00:37:41,460 --> 00:37:43,960
+And the second one from the picture we can see
+
+373
+00:37:44,239 --> 00:37:47,900
+it's pontoon-based floating photovoltaic system.
+
+374
+00:37:48,360 --> 00:37:51,719
+It has minimum sea level disturbance,
+
+375
+00:37:51,719 --> 00:37:59,260
+disturbance, broader water depth range, and the third one is semi-submersible floating
+
+376
+00:38:00,059 --> 00:38:01,059
+photovoltaic platform.
+
+377
+00:38:01,239 --> 00:38:03,420
+Actually, I mentioned it a little bit earlier.
+
+378
+00:38:03,719 --> 00:38:13,280
+It has high stability and wind or wind resistance, supports tilted modules and equipment as well.
+
+379
+00:38:13,460 --> 00:38:19,000
+We can see it has more solar panels on the top compared with the other ones, right?
+
+380
+00:38:19,000 --> 00:38:35,610
+And the fourth one is web resistance, resistant to non-overtroping floating photovoltaic platform. It's also different from all the other eyes, all the others, right?
+
+381
+00:38:35,610 --> 00:38:44,409
+We can see that the distance between the water surface is pretty high for this one.
+
+382
+00:38:44,690 --> 00:38:55,500
+So for this one, it has less seawater contact because it has larger distance and lower corrosion
+
+383
+00:38:55,860 --> 00:38:58,340
+and leakage risks.
+
+384
+00:38:58,840 --> 00:39:03,099
+And the fifth one, also a bit different.
+
+385
+00:39:03,099 --> 00:39:08,639
+The shape is different, right, and it's not like a very flat surface.
+
+386
+00:39:08,920 --> 00:39:10,119
+It's like a curve.
+
+387
+00:39:10,920 --> 00:39:13,360
+So for this one, it's a flexible one.
+
+388
+00:39:13,679 --> 00:39:17,420
+So it uses light weight and minimal material usage.
+
+389
+00:39:17,739 --> 00:39:20,159
+It's like a film, a very thin film.
+
+390
+00:39:21,380 --> 00:39:25,019
+It can reduce the wave impact and boring loads.
+
+391
+00:39:25,280 --> 00:39:28,840
+And the last one is also the shape is a little bit different.
+
+392
+00:39:28,840 --> 00:39:33,300
+It's a tensioned floating island photovoltaic platform.
+
+393
+00:39:33,800 --> 00:39:36,579
+So it has highly adaptable and modular
+
+394
+00:39:36,820 --> 00:39:39,800
+and eco-friendly composite materials, okay?
+
+395
+00:39:40,460 --> 00:39:45,230
+And the other two, like bifacial module.
+
+396
+00:39:45,489 --> 00:39:49,500
+This is actually similar with the previous ones.
+
+397
+00:39:49,880 --> 00:39:52,480
+It's just solar panels is different.
+
+398
+00:39:52,619 --> 00:39:55,079
+It's used bifacial modules.
+
+399
+00:39:55,420 --> 00:39:58,300
+So it's unobstructed surface
+
+400
+00:39:58,300 --> 00:40:06,280
+and the high reflection and the higher energy yield per area the last one so
+
+401
+00:40:07,269 --> 00:40:13,510
+this one is similar with fishery wind right the one we visited yesterday so we
+
+402
+00:40:13,510 --> 00:40:20,170
+have fish cage in here as well but the difference is like for each solar panel
+
+403
+00:40:20,170 --> 00:40:28,289
+we have a small fish cage and in the bottom so it's for sorry
+
+404
+00:40:29,239 --> 00:40:34,400
+mudflats aquaculture and the shallow seas and it has higher land and water
+
+405
+00:40:34,400 --> 00:40:39,860
+utilization as well increase economic benefits and lower aquaculture energy
+
+406
+00:40:39,860 --> 00:40:47,170
+cost as well okay these are projects about offshore
+
+407
+00:40:47,170 --> 00:40:51,650
+We have so many projects, I'm going to talk about it very quickly.
+
+408
+00:40:52,030 --> 00:40:56,750
+The first is Hangzhou Tiantangling agri-vartic storage.
+
+409
+00:40:57,090 --> 00:41:03,630
+This we combine offshore PV together with agriculture and it is the first batch on-grid
+
+410
+00:41:03,630 --> 00:41:10,969
+and also we have complimentary energy storage as well around 51 megawatts and it's installed,
+
+411
+00:41:10,969 --> 00:41:15,530
+Third, it's achieved on-grade in the year of 2023.
+
+412
+00:41:15,949 --> 00:41:20,309
+Its start capacity is around 488 megawatts.
+
+413
+00:41:20,369 --> 00:41:23,210
+And the second one is Longyuan Tianjin Haijin
+
+414
+00:41:23,210 --> 00:41:25,150
+Sword Photovoltaic Project.
+
+415
+00:41:25,449 --> 00:41:28,429
+This is combined sword together with photovoltaic.
+
+416
+00:41:28,429 --> 00:41:32,050
+It's sword, photovoltaic, fishery all together.
+
+417
+00:41:32,210 --> 00:41:36,989
+Also equipped with 500 kilowatts station as well.
+
+418
+00:41:36,989 --> 00:41:41,309
+And so we see that for just one site,
+
+419
+00:41:41,530 --> 00:41:44,010
+we have three applications, right?
+
+420
+00:41:44,190 --> 00:41:46,989
+So this is an amazing one.
+
+421
+00:41:47,230 --> 00:41:53,690
+And the third is Zhongshan Dengdu Island Fishery Photovoltaic.
+
+422
+00:41:53,750 --> 00:41:56,010
+This is still like fishery photovoltaic.
+
+423
+00:41:56,090 --> 00:41:57,170
+It has smart agriculture.
+
+424
+00:41:57,570 --> 00:42:03,250
+And this one is together with hydrogen energy storage as well.
+
+425
+00:42:03,250 --> 00:42:11,929
+So photovoltaic, hydrogen, and energy storage all together for the production of hydrogen is around 1,500.
+
+426
+00:42:12,860 --> 00:42:19,489
+And for complementary energy storage is around 60 megawatts.
+
+427
+00:42:19,800 --> 00:42:23,110
+And the next one is Dongshan Xincheng offshore.
+
+428
+00:42:24,190 --> 00:42:28,269
+Photovoltaic is combined with offshore wind power.
+
+429
+00:42:28,269 --> 00:42:36,929
+hour and for the wind speed is around 48 meters per square meter sorry per seconds and the yantai
+
+430
+00:42:36,929 --> 00:42:46,710
+fixed pile this is a very major one and this way is fishery photovoltaic is also used pile fixed
+
+431
+00:42:46,710 --> 00:42:53,969
+photovoltaic which i mentioned earlier the first time the last one is Qingdao refinery floating
+
+432
+00:42:53,969 --> 00:43:01,309
+floating photovoltaic. It's the first industry operation floating photovoltaic project in
+
+433
+00:43:01,309 --> 00:43:10,829
+a fully seawater. So this is put into use in the last year, like one year back, okay?
+
+434
+00:43:14,059 --> 00:43:22,559
+Second innovation is about space photovoltaic, okay? So we use gallium arsenide. We have
+
+435
+00:43:22,559 --> 00:43:26,519
+And the experience is like, first is basic research,
+
+436
+00:43:26,800 --> 00:43:29,179
+and then for single junction, multi-junction,
+
+437
+00:43:29,300 --> 00:43:31,460
+and then triple junction, okay?
+
+438
+00:43:31,579 --> 00:43:33,800
+And then flexible gallium arsenide,
+
+439
+00:43:33,920 --> 00:43:37,659
+solar array for space and for commercial satellite.
+
+440
+00:43:38,019 --> 00:43:40,039
+This is the environment in space.
+
+441
+00:43:40,679 --> 00:43:45,719
+So according to this, we're gonna fabricate gallium arsenide
+
+442
+00:43:45,719 --> 00:43:49,400
+and the characteristics is like efficient multi-band
+
+443
+00:43:49,400 --> 00:43:57,590
+and absorption and ultra-thin and highly efficient compared with silicon-based and also high radiation resistance.
+
+444
+00:43:57,909 --> 00:44:05,190
+It's better than silicon-based solar cells as well and wide temperature tolerance, floatable and deployable.
+

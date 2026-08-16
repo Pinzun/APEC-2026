@@ -1,0 +1,3708 @@
+1
+00:00:00,050 --> 00:00:06,410
+increases. So when there's uncertainty about oil supply or LGF exports, traders
+
+2
+00:00:06,410 --> 00:00:13,289
+start to expect tighter markets. As a result, prices move up before the actual supply changes.
+
+3
+00:00:14,050 --> 00:00:18,890
+So higher fuel prices do not only stay in the fuel market, they quickly affect
+
+4
+00:00:18,890 --> 00:00:22,469
+electricity prices because in many countries, natural gas is still an
+
+5
+00:00:22,469 --> 00:00:27,710
+important fuel to clear the market. And when gas prices increase, the electricity
+
+6
+00:00:27,710 --> 00:00:29,850
+energy prices often increases very, very fast.
+
+7
+00:00:30,050 --> 00:00:34,030
+Higher energy prices also increase production costs
+
+8
+00:00:34,030 --> 00:00:35,070
+for the whole industry.
+
+9
+00:00:35,350 --> 00:00:37,170
+Transportation becomes more expensive,
+
+10
+00:00:37,689 --> 00:00:39,789
+inflation becomes harder to control,
+
+11
+00:00:39,969 --> 00:00:42,469
+and consumers finally pay more energy
+
+12
+00:00:42,469 --> 00:00:45,149
+and for many, many daily goods.
+
+13
+00:00:45,950 --> 00:00:49,829
+So impact of geopolitical risk is much broader
+
+14
+00:00:49,829 --> 00:00:51,030
+than the energy sector itself.
+
+15
+00:00:51,429 --> 00:00:53,590
+So it affects the whole economy.
+
+16
+00:00:53,729 --> 00:00:56,450
+This is why governments are paying much more attention
+
+17
+00:00:56,450 --> 00:01:01,850
+to energy security today so but fossil fuel are not the only concern as the energy
+
+18
+00:01:01,850 --> 00:01:05,650
+transition continues another group of commodities becoming more important
+
+19
+00:01:05,650 --> 00:01:12,420
+these are the critical minerals so we talk about fossil fuel now let's look at
+
+20
+00:01:12,420 --> 00:01:16,680
+the other minerals that are really important today's power system so we
+
+21
+00:01:16,680 --> 00:01:22,719
+have the we have the lithium prices we have the lithium prices we also have the
+
+22
+00:01:22,719 --> 00:01:24,700
+the silver prices and also the cobalt.
+
+23
+00:01:24,700 --> 00:01:27,079
+Leasing cobalt will have a direct impact
+
+24
+00:01:27,079 --> 00:01:28,739
+to the battery prices.
+
+25
+00:01:29,000 --> 00:01:33,879
+And silver is a very critical metal to solar panels.
+
+26
+00:01:34,379 --> 00:01:36,420
+So when the prices of this material change,
+
+27
+00:01:36,540 --> 00:01:39,700
+the cost of clean energy equipment also change, right?
+
+28
+00:01:40,140 --> 00:01:43,819
+So in a world, we're reducing our,
+
+29
+00:01:43,920 --> 00:01:47,140
+in this world, we're reducing our dependence
+
+30
+00:01:47,140 --> 00:01:49,280
+on fossil fuel, but at the same time,
+
+31
+00:01:49,299 --> 00:01:51,859
+we're becoming more dependent on new supplies,
+
+32
+00:01:51,859 --> 00:01:57,700
+supply chain on new materials. So energy security today is no longer about what
+
+33
+00:01:57,700 --> 00:02:02,540
+fossil fuel is about, also about minerals, manufacturing and global supply chains.
+
+34
+00:02:02,819 --> 00:02:09,530
+This is one of the biggest change in today's energy market. So far we talked
+
+35
+00:02:09,530 --> 00:02:14,090
+about fuel use and critical minerals, but now let's look at another important
+
+36
+00:02:14,090 --> 00:02:19,490
+change. The global environment for energy transition is also changing. In the past
+
+37
+00:02:19,490 --> 00:02:24,270
+Many countries believe that clean energy would grow through international corporations.
+
+38
+00:02:24,750 --> 00:02:32,530
+Countries can trade very easily across borders, technology spreads quickly, and many governments work together on climate policies.
+
+39
+00:02:33,030 --> 00:02:36,210
+Today, the picture is becoming much more complicated.
+
+40
+00:02:36,669 --> 00:02:42,729
+The chart on the left shows that tariffs on clean energy products are increasing in many markets.
+
+41
+00:02:42,729 --> 00:02:50,610
+Government are paying much more attention to domestic production, supply chain security and industrial policies.
+
+42
+00:02:50,949 --> 00:02:57,870
+This can improve energy security, but it can also increase the cost and reduce international trade.
+
+43
+00:02:58,539 --> 00:03:00,979
+The chart on the right tells a similar story.
+
+44
+00:03:01,360 --> 00:03:06,439
+Although countries today, they are still meet every year at the COP climate conference,
+
+45
+00:03:06,620 --> 00:03:10,800
+but progress, real progress, is slower and more difficult.
+
+46
+00:03:10,800 --> 00:03:16,240
+The goal remains ambitious, but turning this goal into action is becoming more challenging.
+
+47
+00:03:16,719 --> 00:03:19,300
+So the message from this slide is very simple.
+
+48
+00:03:19,620 --> 00:03:25,319
+Global cooperation is still very important, but today every country is paying much greater
+
+49
+00:03:25,319 --> 00:03:30,180
+attention on its own energy security, its own industry, and its own supply chain.
+
+50
+00:03:30,460 --> 00:03:35,080
+That means the energy transition is becoming not only a technology challenge, but also
+
+51
+00:03:35,080 --> 00:03:36,879
+a trade and policy challenge.
+
+52
+00:03:36,879 --> 00:03:51,990
+So now we've put all these together. The energy market is now changing only one way. Three big changes, biggest changes are happening at the same time.
+
+53
+00:03:52,250 --> 00:03:59,409
+First, the power supply is changing. As you can see in the chart on the left, we can see that the renewables grow very, very quickly.
+
+54
+00:03:59,669 --> 00:04:08,129
+This is our forecast or our analysis about how the global energy system will change in the future.
+
+55
+00:04:08,129 --> 00:04:18,910
+And we used a least cost model to track or to have a look about how the future energy
+
+56
+00:04:18,910 --> 00:04:20,089
+world works.
+
+57
+00:04:20,189 --> 00:04:24,589
+What is the cheapest way to supply the growing power demand around the world.
+
+58
+00:04:24,790 --> 00:04:28,149
+And we can see that the renewable energy is growing very quickly.
+
+59
+00:04:28,350 --> 00:04:31,790
+Wind and solar are becoming a much larger part of the electricity system.
+
+60
+00:04:31,970 --> 00:04:37,310
+This is changing how electricity is produced and how the power prices are going.
+
+61
+00:04:37,310 --> 00:04:43,329
+Second, on the chart on the right, we can see that electricity demand is also changing.
+
+62
+00:04:43,589 --> 00:04:48,069
+AI, this is the PJM. PJM is a US local power market.
+
+63
+00:04:48,660 --> 00:04:52,300
+So AI is changing new type of electricity demand.
+
+64
+00:04:52,519 --> 00:04:55,779
+The customers require a large amount of power.
+
+65
+00:04:56,060 --> 00:05:00,120
+They need it very quickly and they need very reliable electricity.
+
+66
+00:05:00,120 --> 00:05:05,639
+electricity and third for third and finally the external environment is also
+
+67
+00:05:05,639 --> 00:05:10,839
+changing we've discussed in previous slides geopolitical risk trade policy
+
+68
+00:05:10,839 --> 00:05:15,199
+and supply chain concerns are becoming much more important so today
+
+69
+00:05:15,199 --> 00:05:19,939
+power systems are facing three challenges at the same time supply is
+
+70
+00:05:19,939 --> 00:05:24,899
+changing demand is changing and also the world around the power system is
+
+71
+00:05:24,899 --> 00:05:29,040
+also changing very fast this is different from ten years ago when we
+
+72
+00:05:29,040 --> 00:05:31,660
+we only talk about technology breakthrough,
+
+73
+00:05:31,939 --> 00:05:33,220
+we talk about cost reduction.
+
+74
+00:05:33,620 --> 00:05:35,879
+But today we need to combine a lot of things together.
+
+75
+00:05:36,079 --> 00:05:37,779
+It's not only about the supply side,
+
+76
+00:05:39,199 --> 00:05:43,620
+it's both sides plus the geopolitical challenges
+
+77
+00:05:43,620 --> 00:05:44,360
+that we face.
+
+78
+00:05:44,660 --> 00:05:52,709
+And we have, so when we combine all these together
+
+79
+00:05:52,709 --> 00:05:55,449
+you can see a very easy example, right?
+
+80
+00:05:55,649 --> 00:05:58,930
+The example here, we see geopolitical risk,
+
+81
+00:05:59,069 --> 00:06:01,610
+we see the changes in global trade,
+
+82
+00:06:01,610 --> 00:06:06,449
+and we have seen more renewable energy and when this is when we see new demands
+
+83
+00:06:06,449 --> 00:06:10,889
+from AI and data centers now we combine all this together what does all this
+
+84
+00:06:10,889 --> 00:06:14,949
+mean for the power market for many years the main question for power market is very
+
+85
+00:06:14,949 --> 00:06:19,970
+simple do we have enough electricity for the power market today the question is
+
+86
+00:06:19,970 --> 00:06:25,550
+no longer enough we are also asking what kind of electricity that we need it's a
+
+87
+00:06:25,550 --> 00:06:30,490
+very important question because we think we think electricity are the same they
+
+88
+00:06:30,490 --> 00:06:33,970
+They follow the same standard in your nation,
+
+89
+00:06:34,250 --> 00:06:37,670
+but we are now talking about more renewable sources
+
+90
+00:06:38,310 --> 00:06:41,930
+that are changing the landscape of the power system.
+
+91
+00:06:42,290 --> 00:06:45,310
+However, at the same time, the demand profile
+
+92
+00:06:45,310 --> 00:06:47,170
+is also changing very, very fast.
+
+93
+00:06:47,449 --> 00:06:50,110
+So we're asking, do we need electricity in the daytime
+
+94
+00:06:50,490 --> 00:06:51,709
+or during the night time?
+
+95
+00:06:51,829 --> 00:06:54,990
+Do we need electricity in one location or another?
+
+96
+00:06:55,170 --> 00:06:58,170
+And do we need electricity that can respond in second
+
+97
+00:06:58,170 --> 00:07:04,259
+it or can it wait for several hours. So how much of this we pay, how much we
+
+98
+00:07:04,259 --> 00:07:08,920
+should pay for reliability, flexibility, and low carbon transition. These are all
+
+99
+00:07:08,920 --> 00:07:13,579
+the new challenges and questions we have to face, right. So the
+
+100
+00:07:13,579 --> 00:07:17,680
+figure on the left shows Europe is still thinking carefully about future gas
+
+101
+00:07:17,680 --> 00:07:24,540
+supply and energy security. You can see that that is the brown line, dotted
+
+102
+00:07:24,540 --> 00:07:29,519
+line that shows how the power yield target is, but actually the market is trading for
+
+103
+00:07:29,519 --> 00:07:36,139
+another thing. They are thinking about the black line, which is the actual demand that
+
+104
+00:07:36,139 --> 00:07:42,000
+they are trading today. So this shows a very different story. So Europe is concerned about
+
+105
+00:07:42,000 --> 00:07:50,079
+security. On the chart, on the ratio of the power system, tomorrow, in about 10 years,
+
+106
+00:07:50,079 --> 00:07:56,980
+20 years, we are seeing more renewable, much more renewable in our energy system, and flexibility
+
+107
+00:07:56,980 --> 00:08:02,699
+becomes very important, or as important as energy supply itself.
+
+108
+00:08:03,199 --> 00:08:07,540
+So in the future, simply producing more electricity will not be enough.
+
+109
+00:08:07,639 --> 00:08:11,399
+The real challenge is to deliver electricity at the right time.
+
+110
+00:08:12,189 --> 00:08:16,269
+That means the market must begin to value much more energy alone.
+
+111
+00:08:16,269 --> 00:08:21,569
+It must value capacity, flexibility, location, and resilience.
+
+112
+00:08:22,089 --> 00:08:24,949
+This is the main message of today's presentation.
+
+113
+00:08:26,430 --> 00:08:31,079
+So in the first part of this presentation, I'd like to focus on one question.
+
+114
+00:08:31,339 --> 00:08:35,000
+What are the new forces that are changing the global markets?
+
+115
+00:08:35,279 --> 00:08:39,440
+For many years, people believed that energy transition was mainly about technology.
+
+116
+00:08:39,840 --> 00:08:42,799
+If solar panels get cheaper, the market will grow.
+
+117
+00:08:42,899 --> 00:08:46,240
+If battery becomes better, renewable energy could be added.
+
+118
+00:08:46,240 --> 00:08:48,940
+But today, the picture is much more complex.
+
+119
+00:08:49,179 --> 00:08:53,440
+The technology is still very important, but it is no longer the only driver, right?
+
+120
+00:08:53,559 --> 00:08:58,940
+So energy security become more important, geopolitics is changing, investmentization,
+
+121
+00:08:59,279 --> 00:09:01,919
+trade policy are also changing the supply chains.
+
+122
+00:09:03,429 --> 00:09:11,870
+So we first look at how much is the investment, sorry for this chart, there's some like, we
+
+123
+00:09:11,870 --> 00:09:13,889
+We changed a different platform to show my slides.
+
+124
+00:09:14,129 --> 00:09:16,769
+But basically, this is an investment.
+
+125
+00:09:16,950 --> 00:09:20,169
+The different bars shows different parts
+
+126
+00:09:20,169 --> 00:09:21,990
+of the investment.
+
+127
+00:09:22,250 --> 00:09:24,009
+This blue bar are the renewables.
+
+128
+00:09:24,269 --> 00:09:26,970
+And the purple bar you can see in the middle
+
+129
+00:09:26,970 --> 00:09:28,990
+is for transport for electric vehicles.
+
+130
+00:09:29,309 --> 00:09:32,710
+And the pink bar on the top is green investment.
+
+131
+00:09:33,049 --> 00:09:35,789
+So basically, this is a major global energy transition
+
+132
+00:09:35,789 --> 00:09:37,090
+investment every year.
+
+133
+00:09:37,090 --> 00:09:39,350
+We see it is growing very, very fast.
+
+134
+00:09:40,850 --> 00:09:49,450
+And the investment is growing despite the geopolitical tensions, higher interest rate and slower economic growth in some regions.
+
+135
+00:09:50,200 --> 00:09:57,340
+People are still investing in clean energy, but this tells us the long-term direction of energy transition is still happening, has not changed.
+
+136
+00:09:57,659 --> 00:10:01,820
+Clean energy has become the main destination for new energy investment around the world.
+
+137
+00:10:01,899 --> 00:10:06,259
+This is not only happening in China, in the US, in Europe, it's everywhere in the world.
+
+138
+00:10:06,259 --> 00:10:10,600
+but there is a second message that it's very equally important so more
+
+139
+00:10:10,600 --> 00:10:15,279
+investments that's not automatic automatically solves all the problems
+
+140
+00:10:15,279 --> 00:10:19,840
+building more wind farms solar is not only this only part of the equation
+
+141
+00:10:19,840 --> 00:10:24,379
+right so a reliable energy system also needs transmission network energy
+
+142
+00:10:24,379 --> 00:10:28,360
+storage flexible power plant digital technology and stronger electric
+
+143
+00:10:28,360 --> 00:10:34,789
+electricity market with all these with all this support investment adding more
+
+144
+00:10:34,789 --> 00:10:38,750
+renewable energy alone cannot deliver a reliable and affordable power system.
+
+145
+00:10:39,070 --> 00:10:44,830
+So today, success should not be measured only by how much money is invested, we should also
+
+146
+00:10:44,830 --> 00:10:49,649
+ask whether the investment is improving the performance of the whole energy system.
+
+147
+00:10:49,809 --> 00:10:55,889
+That is becoming a new challenge for policy makers, investors, and also most of the power
+
+148
+00:10:55,889 --> 00:10:56,330
+companies.
+
+149
+00:10:59,580 --> 00:11:02,639
+Now let's look more at the energy security.
+
+150
+00:11:02,639 --> 00:11:10,559
+This slide shows, like, for two scenarios, I already shared with you that we have, like,
+
+151
+00:11:10,600 --> 00:11:18,220
+our annual longer, long-term horizon of the power system, and we have two scenarios.
+
+152
+00:11:18,440 --> 00:11:18,759
+One...
+
+153
+00:11:18,759 --> 00:11:20,179
+Could you put your mic on?
+
+154
+00:11:20,279 --> 00:11:20,879
+Yeah, okay, sure.
+
+155
+00:11:20,919 --> 00:11:21,679
+Sorry about that.
+
+156
+00:11:22,759 --> 00:11:23,779
+Just a little bit happy.
+
+157
+00:11:24,919 --> 00:11:26,860
+And we have two scenarios.
+
+158
+00:11:27,059 --> 00:11:29,700
+One is called ETS, economic transition scenario.
+
+159
+00:11:29,700 --> 00:11:39,960
+This scenario has an assumption that without new policies, how will the energy system evolve without new policies?
+
+160
+00:11:40,120 --> 00:11:51,279
+Basically, more wind, solar, and battery will be added into the system only because the cost of wind, solar, and energy storage is decreasing.
+
+161
+00:11:51,279 --> 00:11:59,980
+And the other one is called NZS, it's spelled for net zero scenario, it's based on 2050
+
+162
+00:11:59,980 --> 00:12:08,360
+net zero target, that's our target, so basically we set that as the end goal by 2050 and we
+
+163
+00:12:08,360 --> 00:12:12,200
+see how much changes are needed to achieve that goal.
+
+164
+00:12:12,840 --> 00:12:16,419
+So these are the two scenarios.
+
+165
+00:12:16,419 --> 00:12:21,840
+So the first one, we already shared that, the overall message is very clear.
+
+166
+00:12:22,059 --> 00:12:29,759
+So the countries electrify its power system, and many of them can reduce their dependence
+
+167
+00:12:29,759 --> 00:12:32,179
+on important fossil fuels.
+
+168
+00:12:32,379 --> 00:12:36,039
+This is one of the major benefits of the energy transition.
+
+169
+00:12:36,360 --> 00:12:41,799
+However, that does not mean that we are relying less on imports.
+
+170
+00:12:41,799 --> 00:12:48,779
+So we import less fossil fuel, but we import more about the other clean energy equipment
+
+171
+00:12:48,779 --> 00:12:54,919
+and other kind of critical minerals that are very important to the energy transition.
+
+172
+00:12:55,870 --> 00:13:01,289
+So the transition changes what we depend on, it does not remove dependence completely.
+
+173
+00:13:01,690 --> 00:13:06,929
+This is why every country now has its own energy strategy based on its own resources,
+
+174
+00:13:07,029 --> 00:13:08,570
+industry and trade relationship.
+
+175
+00:13:08,570 --> 00:13:12,269
+There is no single solution that has to work for everyone.
+
+176
+00:13:16,720 --> 00:13:18,700
+Now we look at Europe again.
+
+177
+00:13:20,500 --> 00:13:23,299
+So there are two charts on this slide.
+
+178
+00:13:23,379 --> 00:13:27,399
+The chart on the left shows how the gas demand is expected to decline over time.
+
+179
+00:13:27,620 --> 00:13:33,080
+This is because Europe is expanding renewable energy and improving energy efficiency and
+
+180
+00:13:33,080 --> 00:13:35,120
+electrifying more parts of the economy.
+
+181
+00:13:35,379 --> 00:13:37,000
+So the long-term direction is clear.
+
+182
+00:13:37,200 --> 00:13:39,820
+Europe will use less natural gas in the future.
+
+183
+00:13:39,820 --> 00:13:42,799
+However, the chart on the right tells us another important story.
+
+184
+00:13:43,080 --> 00:13:47,220
+Even if demand falls, Europe still needs a secure gas supply.
+
+185
+00:13:47,620 --> 00:13:56,299
+And after, you know, like two or three years ago, the conflict in Europe has made the Russian pipeline much, briefly reduced.
+
+186
+00:13:56,580 --> 00:14:02,879
+You can see that the purple part, this is imports from Russia on the right chart, is almost disappeared right now.
+
+187
+00:14:04,259 --> 00:14:08,480
+And as a result, LNG plays a much bigger role.
+
+188
+00:14:08,480 --> 00:14:10,559
+gas comes from
+
+189
+00:14:10,559 --> 00:14:12,620
+Norway and other suppliers. This has improved
+
+190
+00:14:12,620 --> 00:14:14,419
+the supply delivery, but it has not
+
+191
+00:14:14,419 --> 00:14:16,500
+created a new challenge. Europe
+
+192
+00:14:16,500 --> 00:14:18,279
+now depends more on global
+
+193
+00:14:18,279 --> 00:14:20,639
+LNG market. So that means
+
+194
+00:14:20,639 --> 00:14:22,620
+events in one region can
+
+195
+00:14:22,620 --> 00:14:24,600
+quickly affect gas prices in
+
+196
+00:14:24,600 --> 00:14:26,659
+another region, because LNG trade
+
+197
+00:14:26,659 --> 00:14:28,200
+is not like a pipeline that has
+
+198
+00:14:28,200 --> 00:14:29,919
+a much more low-down market.
+
+199
+00:14:30,460 --> 00:14:32,500
+This reminds us that energy
+
+200
+00:14:32,500 --> 00:14:34,460
+transition does not remove the need of
+
+201
+00:14:34,460 --> 00:14:36,000
+energy security. It's that
+
+202
+00:14:36,000 --> 00:14:42,360
+that, it changes how energy security is managed. Countries need more suppliers, more flexible
+
+203
+00:14:42,360 --> 00:14:46,960
+infrastructure, and better preparation for anti-pollution disruptions. The transition
+
+204
+00:14:46,960 --> 00:14:51,720
+is not only about using less fossil fuels, but also making the remaining energy system
+
+205
+00:14:51,720 --> 00:14:55,980
+more resilient. This is a very important lesson that we have seen from Europe.
+
+206
+00:14:57,409 --> 00:15:04,169
+This chart shows how Europe's oil supply sources have changed. So, this year, the Iran conflict
+
+207
+00:15:04,169 --> 00:15:11,789
+and the trade, the geopolitical situation has really exposed how Europe is, reflect
+
+208
+00:15:11,789 --> 00:15:17,090
+how Europe is exposed to the, its oil demand or supply is exposed to
+
+209
+00:15:17,090 --> 00:15:21,850
+geopolitical risk. So like these oil supply sources have changed. Western
+
+210
+00:15:21,850 --> 00:15:25,629
+Europe has reduced seaborne crude from Russia and increased volume from other
+
+211
+00:15:25,629 --> 00:15:29,570
+suppliers including the United States, several smaller producers. The European
+
+212
+00:15:29,570 --> 00:15:33,090
+European Union has also changed the mix of important oil products.
+
+213
+00:15:33,350 --> 00:15:39,169
+This diversification can improve security, but it may require longer shipping routes,
+
+214
+00:15:39,450 --> 00:15:41,610
+different infrastructure, and higher costs.
+
+215
+00:15:41,990 --> 00:15:46,870
+The fuel shock that is spread beyond the oil market, transport costs rise, industrial input
+
+216
+00:15:46,870 --> 00:15:47,610
+costs rise.
+
+217
+00:15:47,889 --> 00:15:52,929
+In power systems, higher gas or oil length costs can also influence electricity prices
+
+218
+00:15:53,419 --> 00:15:54,610
+and inflation expectations.
+
+219
+00:15:54,610 --> 00:16:01,029
+So fuel security is not only about keeping physical supply available, it is about managing
+
+220
+00:16:01,029 --> 00:16:05,909
+the cost and the economic effects of a major change in the trade flows.
+
+221
+00:16:08,559 --> 00:16:14,639
+So this chart shows Europe's oil consumption by sector in our ETS economic transition scenario.
+
+222
+00:16:15,019 --> 00:16:20,559
+Total oil demand falls strongly over time, mainly because of the spread of electric vehicles
+
+223
+00:16:20,559 --> 00:16:23,539
+and more efficient oil vehicles.
+
+224
+00:16:23,539 --> 00:16:27,600
+The building and some industrial bases have also reduced their oreo demand.
+
+225
+00:16:27,879 --> 00:16:31,860
+However, the decline is not equal across every sector.
+
+226
+00:16:32,480 --> 00:16:37,919
+Aviation, shipping, chemicals, and other hard to electrify activities continue to use oreo
+
+227
+00:16:37,919 --> 00:16:38,360
+for longer.
+
+228
+00:16:38,539 --> 00:16:46,600
+This means Europe may use much less oreo overall, but still has secure supply for the remaining
+
+229
+00:16:46,600 --> 00:16:46,899
+demand.
+
+230
+00:16:47,259 --> 00:16:52,320
+Smaller markets can still be exposed to the price shock if supply is concentrated or difficult
+
+231
+00:16:52,320 --> 00:16:57,240
+to replace. The transition therefore needs both demand reduction and careful
+
+232
+00:16:57,240 --> 00:17:06,259
+management of the fuel system that remains. So energy security now is not
+
+233
+00:17:06,259 --> 00:17:11,380
+only about fossil fuel supply, now it also extends to the grid. We can see
+
+234
+00:17:11,380 --> 00:17:17,299
+on the chart on the left is the physical attack of the
+
+235
+00:17:17,299 --> 00:17:22,200
+substation in the U.S. You can see there's a rising trend in these
+
+236
+00:17:22,200 --> 00:17:27,420
+easier about how many physical attack to that and we'll also see that it's not
+
+237
+00:17:27,420 --> 00:17:33,940
+only about the physical task physical attack is there's also more more cyber
+
+238
+00:17:33,940 --> 00:17:37,599
+and we can see on the next slide as electricity become more important for
+
+239
+00:17:37,599 --> 00:17:42,480
+for the whole economy is not only about the home and buildings is more
+
+240
+00:17:42,480 --> 00:17:47,740
+industrial it's more important for the transport heating right so also the AI
+
+241
+00:17:47,740 --> 00:17:51,900
+data centers so great failure become more conflict utility and government
+
+242
+00:17:51,900 --> 00:17:53,519
+Therefore needs a stronger protection
+
+243
+00:17:54,420 --> 00:18:01,539
+Banker monitoring spare equipment and also clear recovery plan the club of clean power system must also be a resilient system
+
+244
+00:18:01,539 --> 00:18:05,859
+And so we the energy security the horizon of their security has extended
+
+245
+00:18:08,859 --> 00:18:09,539
+so
+
+246
+00:18:10,460 --> 00:18:16,720
+again, sorry about the chart here, but basically this shows like the spending of the
+
+247
+00:18:16,720 --> 00:18:19,160
+the investor-owned utility in California,
+
+248
+00:18:19,460 --> 00:18:23,000
+and also cybersecurity spending back then,
+
+249
+00:18:23,059 --> 00:18:26,240
+like we see the rising trend of this spending, right?
+
+250
+00:18:26,359 --> 00:18:28,619
+So digital technology makes power systems
+
+251
+00:18:28,619 --> 00:18:30,099
+smarter and more efficient.
+
+252
+00:18:30,220 --> 00:18:31,740
+It helps utilities see the network,
+
+253
+00:18:32,000 --> 00:18:35,079
+manage renewable energy, and respond faster to a problem.
+
+254
+00:18:35,380 --> 00:18:37,039
+But every new connected device
+
+255
+00:18:37,039 --> 00:18:38,819
+can also create a new cyber risk.
+
+256
+00:18:39,059 --> 00:18:43,660
+And these days, AI has actually made the cyber attack
+
+257
+00:18:43,660 --> 00:18:51,460
+of all these critical utilities almost automatic is like right now we see I'm
+
+258
+00:18:51,460 --> 00:18:58,180
+not sure if you heard that sorry not like a teenager just using AI can't just
+
+259
+00:18:58,180 --> 00:19:04,960
+just program a high program to just scan all these bottleneck of the system
+
+260
+00:19:04,960 --> 00:19:10,079
+getting inside of the system we see more and more this is not only
+
+261
+00:19:10,079 --> 00:19:14,900
+happening in the U.S. is around the world and this is a new layer of risk that the
+
+262
+00:19:16,339 --> 00:19:24,940
+energy system or especially the power system is facing right now. And we can
+
+263
+00:19:24,940 --> 00:19:29,799
+see like concentrated, this slide show how concentrated many clean energy
+
+264
+00:19:29,799 --> 00:19:35,779
+supply chains are. Like China, China holds a very large share of manufacturing
+
+265
+00:19:35,779 --> 00:19:39,720
+capacity around the world about solar equipment, battery materials,
+
+266
+00:19:39,720 --> 00:19:43,680
+materials, battery cells, wind components, and also electrolyzers.
+
+267
+00:19:43,920 --> 00:19:49,059
+The chart on the right shows how change in trade value of clean energy goods, local product,
+
+268
+00:19:49,480 --> 00:19:53,680
+and production help each technology grow quickly around the world.
+
+269
+00:19:54,039 --> 00:19:58,900
+However, right now the governments aren't giving more weight to security and diversification.
+
+270
+00:19:59,400 --> 00:20:02,599
+They need more local production and more suppliers in different regions.
+
+271
+00:20:02,599 --> 00:20:10,920
+So these are the forces that are changing the power system as a whole.
+
+272
+00:20:11,099 --> 00:20:15,579
+Now we look at the second part of this presentation.
+
+273
+00:20:15,980 --> 00:20:19,140
+We look at the external forces changing the energy market.
+
+274
+00:20:19,480 --> 00:20:22,799
+Now I would like to focus on the power market, electricity market itself.
+
+275
+00:20:23,140 --> 00:20:26,819
+The energy transition is not only about how much we build, what we build,
+
+276
+00:20:26,980 --> 00:20:29,960
+but also how the electricity system works.
+
+277
+00:20:30,279 --> 00:20:33,140
+Wind and solar have very low operating costs.
+
+278
+00:20:33,140 --> 00:20:36,319
+But they are also changing with weather.
+
+279
+00:20:36,539 --> 00:20:43,640
+This is a very critical problem of the power market that we have been running for the past
+
+280
+00:20:43,640 --> 00:20:44,660
+two decades.
+
+281
+00:20:45,019 --> 00:20:49,180
+At the wind and solar, their share growth, power prices, plant operation, investment
+
+282
+00:20:49,180 --> 00:20:51,160
+decision needs also to change.
+
+283
+00:20:51,380 --> 00:20:53,839
+This is a new world that we are facing.
+
+284
+00:20:56,470 --> 00:21:01,130
+Again, we look at this part, so we already understand how the power market will change
+
+285
+00:21:01,130 --> 00:21:06,849
+change in the future and we can see that on the right hand chart the share of coal and
+
+286
+00:21:06,849 --> 00:21:14,769
+gas is decreasing, coal decreasing has a much higher decrease comparing to gas, but again
+
+287
+00:21:14,769 --> 00:21:20,190
+like the overall message is very clear, the fossil fuel is changing very quickly and renewable
+
+288
+00:21:20,190 --> 00:21:27,589
+and also other type of low zero carbon electricity is increasing especially when it's solar.
+
+289
+00:21:27,589 --> 00:21:35,630
+So this creates a new market problem. The system needs more flexible capacity because we don't know. We see this is annual changes
+
+290
+00:21:35,630 --> 00:21:39,269
+But on a daily profile we can see or on an hourly basis
+
+291
+00:21:39,269 --> 00:21:45,750
+We can see the power prices are changing. Oh, not the alternative, when solar at grow-life, the power prices are changing very fast
+
+292
+00:21:46,470 --> 00:21:52,990
+So this creates a new problem. The system needs more flexible capacity even when that capacity is still
+
+293
+00:21:53,410 --> 00:21:54,509
+produced very little
+
+294
+00:21:55,750 --> 00:22:00,670
+You can see this is happening in Europe, in China, in China and also in the U.S.
+
+295
+00:22:00,769 --> 00:22:04,910
+We are building, especially you can see a very clear example in China, we are building
+
+296
+00:22:04,910 --> 00:22:08,750
+renewable wind and solar as long as coal at the same time.
+
+297
+00:22:08,910 --> 00:22:14,049
+So wind and solar will provide more clean production, but we still need more coal to
+
+298
+00:22:14,049 --> 00:22:15,589
+meet the evening peak.
+
+299
+00:22:15,890 --> 00:22:21,329
+We are making a transition, but during this transition we are looking at five years, ten
+
+300
+00:22:21,329 --> 00:22:25,470
+10 years, even 15 years, between here and before battery
+
+301
+00:22:25,470 --> 00:22:28,769
+and renewable and other like clean from capacity crude
+
+302
+00:22:29,390 --> 00:22:31,410
+completely replaced coal.
+
+303
+00:22:31,529 --> 00:22:34,750
+Before that happened, we still need coal to be there
+
+304
+00:22:34,750 --> 00:22:37,569
+and to support the system.
+
+305
+00:22:37,990 --> 00:22:40,130
+And this is the question we face,
+
+306
+00:22:40,269 --> 00:22:44,289
+how we value their contribution
+
+307
+00:22:44,910 --> 00:22:48,970
+as they generate less energy.
+
+308
+00:22:48,970 --> 00:22:54,700
+energy so when a solar often produce at the same time across a large area
+
+309
+00:22:54,700 --> 00:22:58,299
+especially for solar right so when output is high in demand or network
+
+310
+00:22:58,299 --> 00:23:04,619
+capacity limited some renewable will be curtailed it is not only in China you can see
+
+311
+00:23:04,619 --> 00:23:10,240
+it is around the world that we compare 2024 and 2025 we see a rising trend of
+
+312
+00:23:10,240 --> 00:23:15,980
+curtailment this is happening at the same time and on the right time chart we
+
+313
+00:23:15,980 --> 00:23:19,700
+we combine all the different countries major economy together we can see the
+
+314
+00:23:19,700 --> 00:23:24,519
+trend is much clearer right so this is some throughout the year we see the
+
+315
+00:23:24,519 --> 00:23:30,940
+curtailment rate is increasing this is a new feature so in the beginning when the
+
+316
+00:23:30,940 --> 00:23:35,819
+renewable penetration is very low so curtailment seems like a very serious
+
+317
+00:23:35,819 --> 00:23:41,160
+problem but right now as like in China wind solar penetration in terms of
+
+318
+00:23:41,160 --> 00:23:44,299
+of capacity is already more than half of the entire system.
+
+319
+00:23:44,960 --> 00:23:49,079
+When this happens, curtailment is not a problem
+
+320
+00:23:49,079 --> 00:23:52,119
+or it's not something, it's a feature of the new system.
+
+321
+00:23:52,220 --> 00:23:55,519
+We have to think about this problem very carefully.
+
+322
+00:23:56,700 --> 00:24:01,779
+And it is very interesting how each market is described
+
+323
+00:24:01,779 --> 00:24:02,960
+in different markets.
+
+324
+00:24:03,180 --> 00:24:06,480
+So curtailment is not described as one single,
+
+325
+00:24:06,599 --> 00:24:09,759
+simple event or it is the result.
+
+326
+00:24:09,759 --> 00:24:12,819
+But actually, the real picture is much more complex.
+
+327
+00:24:13,099 --> 00:24:19,299
+We have revealed 27 markets and reporting methods of different across them.
+
+328
+00:24:19,319 --> 00:24:24,319
+Some market report only economic curtailment, and others include network limits or system
+
+329
+00:24:24,759 --> 00:24:25,660
+security options.
+
+330
+00:24:26,220 --> 00:24:30,519
+The chart also shows that high investment does not always lead to high curtailment.
+
+331
+00:24:30,700 --> 00:24:38,740
+So it's not like you have more renewable and your curtailment necessarily has to rise.
+
+332
+00:24:38,740 --> 00:24:45,680
+is very complex and other factors face a problem earlier so this means we should
+
+333
+00:24:45,680 --> 00:24:52,019
+be careful when comparing one percentage across the countries so basically we
+
+334
+00:24:52,019 --> 00:24:57,559
+have studied all these different markets and we see some of the markets have low
+
+335
+00:24:57,559 --> 00:25:03,400
+relatively high penetration rate but relatively low curtailment rate and
+
+336
+00:25:03,400 --> 00:25:09,000
+other parts of the world has even like Brazil even very not very high
+
+337
+00:25:09,000 --> 00:25:15,779
+penetration work relatively not very high penetration but curtailment is really serious so
+
+338
+00:25:16,269 --> 00:25:22,099
+so this is because the different power systems like to handle different kind of penetration
+
+339
+00:25:22,569 --> 00:25:26,680
+at early stage the main challenge is building more renewable project but at
+
+340
+00:25:26,680 --> 00:25:32,779
+later time the main challenge is really like to count how much renewable is produced
+
+341
+00:25:32,779 --> 00:25:38,579
+produce and how the system is ready for the output of the wind solar.
+
+342
+00:25:39,079 --> 00:25:41,119
+This changed the investment priority.
+
+343
+00:25:41,720 --> 00:25:48,000
+More generation is still needed, but integration, integrating them, how we absorb the renewable
+
+344
+00:25:48,000 --> 00:25:50,200
+generation is becoming equally important.
+
+345
+00:25:50,640 --> 00:25:56,579
+The next dollar can create more value in the grid, battery, and the flexible load.
+
+346
+00:25:56,700 --> 00:25:59,839
+This is a question that every country is facing.
+
+347
+00:25:59,839 --> 00:26:06,549
+This slide compares wind curtailment with solar curtailment across the market in 2025
+
+348
+00:26:06,549 --> 00:26:10,569
+and also shows the relationship between wind penetration and curtailment.
+
+349
+00:26:10,750 --> 00:26:14,710
+The important point is solar and wind create different operating patterns.
+
+350
+00:26:14,930 --> 00:26:20,809
+So solar output is concentrated in daytime hours and could create a strongly midday supply.
+
+351
+00:26:21,089 --> 00:26:26,190
+Wind can be more seasonal and can remain high for longer hours.
+
+352
+00:26:26,190 --> 00:26:33,829
+So a 4-hour battery may help with a daily solar peak, but it may not solve several days of high wind output.
+
+353
+00:26:34,069 --> 00:26:39,809
+So transmission can help move both types of power, but only if another region needs electricity, right?
+
+354
+00:26:39,910 --> 00:26:49,170
+So we have a lot of ultra-high voltage transmission lines in China, and we think that will help to solve the problem.
+
+355
+00:26:49,170 --> 00:26:58,589
+It could. It did a very great job, but there are still times that when the demand region has unbalanced supply demand,
+
+356
+00:26:58,970 --> 00:27:04,130
+then even building more transmission lines will not solve all the problems.
+
+357
+00:27:05,190 --> 00:27:08,569
+The right integration plan depends on the local mix.
+
+358
+00:27:08,569 --> 00:27:12,829
+right so markets should not only use one standard solution they need to compare
+
+359
+00:27:12,829 --> 00:27:23,910
+they need to have a match flexibility tool and with renewable output also chain reminds us another very
+
+360
+00:27:23,910 --> 00:27:30,069
+important question like before our spreads between low and high power
+
+361
+00:27:30,069 --> 00:27:35,049
+prices in several markets the spread can be large and can also change from year to
+
+362
+00:27:35,049 --> 00:27:39,670
+year this tells us that the value of electricity depends strongly on time and
+
+363
+00:27:39,670 --> 00:27:44,029
+A megawatt produced at a different time of the day
+
+364
+00:27:44,029 --> 00:27:46,250
+has a different value proposition.
+
+365
+00:27:46,769 --> 00:27:49,529
+Every annual prices can hide important difference, right?
+
+366
+00:27:49,650 --> 00:27:52,750
+So when we see the reports from like any company,
+
+367
+00:27:52,849 --> 00:27:54,730
+we always see the annual average prices,
+
+368
+00:27:54,990 --> 00:27:59,029
+but that does not really solve all the questions.
+
+369
+00:27:59,329 --> 00:28:02,490
+For investor, the key question is not only the average price
+
+370
+00:28:02,490 --> 00:28:04,109
+but also the price during the hours
+
+371
+00:28:04,109 --> 00:28:06,710
+when a project generate and consume power, right?
+
+372
+00:28:06,710 --> 00:28:12,549
+so this is if you are a solar power operator so all of your output it happened with the power
+
+373
+00:28:12,549 --> 00:28:18,869
+price is very low that is a question for asset right storage is another is another asset like
+
+374
+00:28:18,869 --> 00:28:26,250
+they they basically do arbitrage they say they they charge when the power price is low and they
+
+375
+00:28:26,250 --> 00:28:31,690
+discharge when power price is high so the uh the the return of the return and the energy uh
+
+376
+00:28:31,690 --> 00:28:38,390
+energy storage asset is basically we have to see the spread whether the spread is large enough
+
+377
+00:28:38,869 --> 00:28:46,779
+to justify for the investment so australia give us a very clear example of this time specific
+
+378
+00:28:47,420 --> 00:28:53,059
+value so the chart on the left shows the average half hourly power prices during the day you can
+
+379
+00:28:53,059 --> 00:28:57,960
+see very large fluctuation over there prices are often very low around the middle of the day
+
+380
+00:28:57,960 --> 00:29:02,759
+and when the solar output is very high so australia has already had a very high penetration
+
+381
+00:29:02,759 --> 00:29:06,039
+of solar, if you're not very familiar with that.
+
+382
+00:29:06,200 --> 00:29:09,880
+And much higher in the chart on the right shows
+
+383
+00:29:09,880 --> 00:29:12,380
+the negative prices are becoming more common
+
+384
+00:29:12,380 --> 00:29:15,839
+in several parts of the Australian national energy market.
+
+385
+00:29:16,079 --> 00:29:18,900
+So when we designed the current spot market,
+
+386
+00:29:19,119 --> 00:29:23,460
+so basically by the time it was in the 1980s and 90s,
+
+387
+00:29:23,460 --> 00:29:26,500
+and when the system over in the Ethereum was built,
+
+388
+00:29:26,700 --> 00:29:29,779
+by the time most of the power system is fossil based,
+
+389
+00:29:29,920 --> 00:29:32,140
+basically it means like for the generation
+
+390
+00:29:32,140 --> 00:29:33,859
+they have a cost, they have fuel cost.
+
+391
+00:29:33,980 --> 00:29:36,279
+By the time wind and solar was still very pioneering
+
+392
+00:29:36,279 --> 00:29:36,779
+in technology.
+
+393
+00:29:37,079 --> 00:29:39,880
+However, like three, four decades after that,
+
+394
+00:29:40,019 --> 00:29:44,319
+now we see wind and solar are playing a much bigger role
+
+395
+00:29:44,319 --> 00:29:45,079
+in the power system.
+
+396
+00:29:45,440 --> 00:29:46,960
+And during the days they already,
+
+397
+00:29:47,160 --> 00:29:50,220
+like every 15 minutes of the clearing settlement,
+
+398
+00:29:50,619 --> 00:29:55,119
+we can see that there are a lot of like very low cost,
+
+399
+00:29:55,299 --> 00:29:58,960
+marginal cost of solar and wind are entering
+
+400
+00:29:58,960 --> 00:30:04,720
+into the into the power market that has changed the how the power market has changed and settled
+
+401
+00:30:05,900 --> 00:30:10,140
+so there are a signal that supply is greater than demand at the time of places
+
+402
+00:30:10,140 --> 00:30:16,740
+this signal can carry more batteries flex flexibles industry electric vehicle and other
+
+403
+00:30:16,740 --> 00:30:22,480
+loads to consume more however these resources also need clear rules and access to the market
+
+404
+00:30:22,480 --> 00:30:33,980
+So we have to let all these flexible resources to understand how the market will, how to play or how to join this power, very big power market.
+
+405
+00:30:34,160 --> 00:30:40,259
+China like right now is just have a lot of trial for demand response.
+
+406
+00:30:40,619 --> 00:30:49,799
+But then a very key question is how they join and how we aggregate all those resources and make them to join the power market.
+
+407
+00:30:49,799 --> 00:30:57,839
+This is a very critical question to China and also to the rest part of the world and globally we are seeing more changes in this view.
+
+408
+00:30:58,759 --> 00:31:00,779
+It's already here for this chart.
+
+409
+00:31:01,079 --> 00:31:08,940
+But basically this look at Brazil and shows flexibility is not only one single survey.
+
+410
+00:31:09,059 --> 00:31:15,440
+Some problems last only some seconds, like a sudden change in frequency.
+
+411
+00:31:15,680 --> 00:31:18,559
+Factory and fast demand response can help there.
+
+412
+00:31:18,559 --> 00:31:25,579
+Other problems last for several hours, such as like evening peak during when the sun, the solar output is fall.
+
+413
+00:31:25,839 --> 00:31:31,240
+So better time, storage, tidal, and also flexible generation can help.
+
+414
+00:31:31,480 --> 00:31:39,299
+Seasonal difference can last for several weeks and months, but these require much more reservoirs, fuel supply, and longer duration storage.
+
+415
+00:31:39,500 --> 00:31:42,839
+Or it's a stronger interconnection. This shows that
+
+416
+00:31:44,039 --> 00:31:47,779
+so different flexibility, different kind of
+
+417
+00:31:47,779 --> 00:31:51,759
+of demand response are needed for different applications.
+
+418
+00:31:52,299 --> 00:31:59,980
+So again, I will skip this, but this is another example
+
+419
+00:31:59,980 --> 00:32:02,759
+for like, which is I want to show with you
+
+420
+00:32:02,759 --> 00:32:04,420
+like we need different technology,
+
+421
+00:32:04,559 --> 00:32:06,400
+different time scale technology
+
+422
+00:32:06,730 --> 00:32:08,880
+to solve different time scale of the problem.
+
+423
+00:32:09,200 --> 00:32:10,839
+This is an example of Spain and Portugal,
+
+424
+00:32:11,339 --> 00:32:13,640
+but then this is the message is saying that
+
+425
+00:32:13,640 --> 00:32:18,559
+what we have shown and explained clearly about Brazil.
+
+426
+00:32:18,559 --> 00:32:24,240
+bill. So now we look back to Australia. Now Australia offers a clear, an early
+
+427
+00:32:24,240 --> 00:32:28,140
+view of the challenges and opportunities that other markets may face later. The chart
+
+428
+00:32:28,140 --> 00:32:33,420
+shows monthly electricity generation in the national energy market. Coal still
+
+429
+00:32:33,420 --> 00:32:38,200
+provides a very large share of the bulk of the generation. But rooftop
+
+430
+00:32:38,200 --> 00:32:44,519
+solar, utility solar, and wind energy has grown very strongly. Renewable output can
+
+431
+00:32:44,519 --> 00:32:48,839
+reach a very high share in some months. At the same time, the same system must
+
+432
+00:32:48,839 --> 00:32:53,700
+manage a lot of changes across the day and across the seasons, right? This creates
+
+433
+00:32:53,700 --> 00:32:59,079
+pressure on coal power plants, network, and market prices. And one very critical
+
+434
+00:32:59,079 --> 00:33:04,839
+question for Australia is that it is retiring its coal fleet and how to
+
+435
+00:33:04,839 --> 00:33:10,160
+solve or how to replace the coal. We have some 2-hour, 4-hour batteries that
+
+436
+00:33:10,160 --> 00:33:14,740
+could solve some of the problem, but for the longer horizon then we need
+
+437
+00:33:14,740 --> 00:33:19,859
+like long duration of storage that is a new question for them and you know like
+
+438
+00:33:19,859 --> 00:33:24,500
+for a energy storage investment two hours is often if you are just
+
+439
+00:33:24,500 --> 00:33:31,240
+arbitrage but any configuration longer than two hours is just they have a
+
+440
+00:33:31,240 --> 00:33:40,180
+they face rising pressure to get their investment just by the extra two
+
+441
+00:33:40,180 --> 00:33:46,680
+So that means like we need more, market rule has to be changed to supplement, to support
+
+442
+00:33:46,680 --> 00:33:53,680
+the longer duration of the energy storage system and that has, like the change, it's
+
+443
+00:33:53,680 --> 00:33:58,640
+not only about the capacity payment, it's about the whole design, design.
+
+444
+00:33:59,299 --> 00:34:05,200
+So Australian experience shows that high renewable penetration is technically possible, but require
+
+445
+00:34:05,200 --> 00:34:07,539
+require continuous change in system operation,
+
+446
+00:34:07,880 --> 00:34:10,860
+investment planning, connection rules, and market designs.
+
+447
+00:34:13,960 --> 00:34:15,920
+These charts show how monthly wind
+
+448
+00:34:15,920 --> 00:34:17,039
+containment solves Australia.
+
+449
+00:34:17,940 --> 00:34:21,099
+The many blue lines are individual wind projects,
+
+450
+00:34:21,320 --> 00:34:23,679
+while the black line shows the broader trend.
+
+451
+00:34:24,079 --> 00:34:26,360
+Containment changes greatly from month to month,
+
+452
+00:34:26,400 --> 00:34:27,820
+and from project to project.
+
+453
+00:34:28,159 --> 00:34:31,039
+It is often higher when wind output is strong,
+
+454
+00:34:31,219 --> 00:34:33,320
+demand is low, and transmission is limited.
+
+455
+00:34:33,320 --> 00:34:38,119
+The trend also arises as more renewable capacity enters the market of the system.
+
+456
+00:34:38,320 --> 00:34:43,920
+For a project owner, this means that the install capacity is not the same as delivered energy.
+
+457
+00:34:45,670 --> 00:34:50,150
+Location, connection strength, and operating rules can strongly affect revenue.
+
+458
+00:34:50,309 --> 00:34:56,449
+For the system, curtailment is a sign that integration investment is needed, so better
+
+459
+00:34:56,449 --> 00:35:02,070
+transmission storage, flexible demand, and coordinate connection planning to
+
+460
+00:35:02,070 --> 00:35:11,960
+help use more of the available clean electricity. This chart shows the
+
+461
+00:35:11,960 --> 00:35:15,960
+frequency control and service in the Australian market, though these
+
+462
+00:35:15,960 --> 00:35:20,400
+services keep the system stable when supply and demand changes quickly.
+
+463
+00:35:20,400 --> 00:35:27,960
+quickly in the back in 2021 you can see like coal black coal and the the very uh high part of coal
+
+464
+00:35:27,960 --> 00:35:33,079
+they still provide a large proportion of the frequency regulation service on the secondary
+
+465
+00:35:33,079 --> 00:35:39,860
+service market and but however you see like in the in the later later more recent years the battery
+
+466
+00:35:39,860 --> 00:35:45,500
+the pink part pink bar increases quickly and the black part just decreases very quickly right so
+
+467
+00:35:45,500 --> 00:35:53,820
+So batteries have a much higher role in terms of the Australian service market because batteries
+
+468
+00:35:53,820 --> 00:35:58,679
+can respond very fast and more accurately comparing to coal power plants.
+
+469
+00:35:59,440 --> 00:36:03,159
+This is a really changed scenario.
+
+470
+00:36:03,619 --> 00:36:09,519
+However, I want to say for Australian market in the beginning, batteries has a very high
+
+471
+00:36:09,519 --> 00:36:14,699
+revenue from the Australian service market and a lot more investors start to build batteries
+
+472
+00:36:14,699 --> 00:36:22,000
+to join this for this service market. However, the market is quickly
+
+473
+00:36:22,000 --> 00:36:27,980
+crowding because the demand for that service is limited and if you build too
+
+474
+00:36:27,980 --> 00:36:31,559
+much of a battery in that system, then every battery
+
+475
+00:36:32,260 --> 00:36:39,760
+storage unit are less and then that is why the storage assets in the
+
+476
+00:36:39,760 --> 00:36:48,079
+the Australian market has started to look at the arbitrage market and that is, but again
+
+477
+00:36:48,079 --> 00:36:54,960
+like the more demand, the more supply for the market, the less of everyone could arbitrage
+
+478
+00:36:54,960 --> 00:37:01,239
+and that creates the third problem like how we, when the coal power plants are becoming
+
+479
+00:37:01,239 --> 00:37:08,340
+less and there is how we support, how we support the investor or how the market should encourage
+
+480
+00:37:08,340 --> 00:37:14,019
+solve the missing money problem right so we have the before they made the
+
+481
+00:37:14,019 --> 00:37:17,960
+decision they think that they okay the return is good but actually has more
+
+482
+00:37:17,960 --> 00:37:23,380
+investor in entering into the market than the in the return for the 100
+
+483
+00:37:23,380 --> 00:37:30,079
+storage asset coming last this is a very critical problem that all the world like not only
+
+484
+00:37:30,079 --> 00:37:34,679
+Australia but also in Europe in the US and now in China are have to think about
+
+485
+00:37:34,679 --> 00:37:42,730
+This chart shows monthly frequency batteries, surveys for batteries in South Australia.
+
+486
+00:37:43,190 --> 00:37:48,329
+The black line moves sharply and with very high values in some periods and very low values
+
+487
+00:37:48,329 --> 00:37:48,789
+in others.
+
+488
+00:37:49,130 --> 00:37:53,150
+This is normal for a survey that is needed mostly during the system stress.
+
+489
+00:37:53,469 --> 00:37:59,489
+But when there are few batteries, a strong need for fast response, price is very high.
+
+490
+00:37:59,610 --> 00:38:04,210
+As more battery enters, as I've described, like a commutation pushes the price down,
+
+491
+00:38:04,210 --> 00:38:07,849
+and new events can then create a shorter price back again.
+
+492
+00:38:08,050 --> 00:38:13,230
+The lesson for investors is that historical revenue cannot simply be repeated in the future.
+
+493
+00:38:13,349 --> 00:38:15,909
+The lesson for market designers is also important.
+
+494
+00:38:16,130 --> 00:38:20,010
+Prices should reward real system value, not the fixed technology.
+
+495
+00:38:20,510 --> 00:38:25,369
+Factories should earn more when their response is scarce and useful,
+
+496
+00:38:25,530 --> 00:38:28,010
+and less when the service already well supplied.
+
+497
+00:38:30,429 --> 00:38:33,150
+Okay, so now we move to the third part of this presentation.
+
+498
+00:38:33,150 --> 00:38:37,349
+So we have so far we focus mainly on changes in power supply now
+
+499
+00:38:37,349 --> 00:38:44,690
+We turn to demand. For many years electricity demand in advanced economy grew very slowly or even declined
+
+500
+00:38:44,690 --> 00:38:49,010
+Data center and artificial intelligence are changing this picture
+
+501
+00:38:49,010 --> 00:38:57,610
+A single large data center can use much electricity as a small city and many projects want connection within only a few years
+
+502
+00:38:58,650 --> 00:39:00,269
+They also need very high reliability
+
+503
+00:39:00,269 --> 00:39:06,690
+Viability so basically ideas are creating new power demand, which is not the power that demand is different
+
+504
+00:39:06,690 --> 00:39:10,849
+It is like how they require the power they needed very large amount
+
+505
+00:39:10,849 --> 00:39:14,190
+They need it very quickly and they need you very reliably
+
+506
+00:39:14,190 --> 00:39:22,030
+So this has create a very shortage of power supply in both in the US and also in Europe
+
+507
+00:39:22,030 --> 00:39:25,230
+Right. So this create new opportunity for power companies
+
+508
+00:39:25,230 --> 00:39:29,409
+is reliable to a renewable developer and also of storage developers that we look
+
+509
+00:39:29,409 --> 00:39:34,889
+at what happened the chart on the left show the global electricity man expected
+
+510
+00:39:34,889 --> 00:39:40,190
+to grow strongly through 2035 you can see there are two big changes one is
+
+511
+00:39:40,190 --> 00:39:47,909
+there on the right bar right right high is data centers and also as the green
+
+512
+00:39:47,909 --> 00:39:53,550
+degrees back the electric vehicles right so buildings industry and also others
+
+513
+00:39:53,550 --> 00:39:59,369
+are growing, but the data centers are the main drivers for this growth.
+
+514
+00:39:59,769 --> 00:40:06,030
+You can see that these are really the main drivers of the overall power demand for the
+
+515
+00:40:06,550 --> 00:40:08,329
+world in the next 25 years.
+
+516
+00:40:09,460 --> 00:40:15,019
+The chart on the right shows very large connection queues in several US markets.
+
+517
+00:40:15,179 --> 00:40:20,679
+This is like when you want to build a new data center in any power market in the US,
+
+518
+00:40:20,739 --> 00:40:22,000
+you have to apply for that.
+
+519
+00:40:22,000 --> 00:40:26,760
+you have to apply for public sense and but here you can see the first one is an article is uh
+
+520
+00:40:26,760 --> 00:40:33,599
+it's a texas there is a very long queue of uh power markets that are waiting for the uh
+
+521
+00:40:33,599 --> 00:40:40,780
+the grid uh the system to to be uh to improve their building and it's a very very large program
+
+522
+00:40:42,309 --> 00:40:48,989
+so utility need better forecasts clear clear connection rules and a way to separate many
+
+523
+00:40:48,989 --> 00:40:50,969
+very mature project from early ideas.
+
+524
+00:40:51,210 --> 00:40:54,030
+So not all of these Qs are real projects,
+
+525
+00:40:54,190 --> 00:40:57,349
+you know, like power projects is only one prerequisite
+
+526
+00:40:57,349 --> 00:40:58,349
+that they can build.
+
+527
+00:40:58,550 --> 00:41:02,170
+They also need to secure land, like AI,
+
+528
+00:41:02,409 --> 00:41:06,050
+like data center, like internet connections,
+
+529
+00:41:06,170 --> 00:41:07,429
+and also other things.
+
+530
+00:41:07,789 --> 00:41:11,210
+But, so not all the application here
+
+531
+00:41:11,210 --> 00:41:12,690
+will be real life, finally.
+
+532
+00:41:12,929 --> 00:41:15,949
+So this has created a very big challenge
+
+533
+00:41:15,949 --> 00:41:17,730
+for the utility operator over there.
+
+534
+00:41:17,730 --> 00:41:21,750
+they have to identify which one of them is more likely or how many of them are
+
+535
+00:41:21,750 --> 00:41:28,230
+likely to be realized in the future and they need to if they coordinate
+
+536
+00:41:28,230 --> 00:41:33,130
+less then probably they will face a shortage of power supply in the
+
+537
+00:41:33,130 --> 00:41:38,369
+overall power system but if they coordinate too much or they plan for too much
+
+538
+00:41:38,369 --> 00:41:42,110
+they approve all of this then they're gonna invest a lot more unnecessary
+
+539
+00:41:42,110 --> 00:41:53,699
+or infrastructure and the users will pay much higher for that. So this is a really big problem for the operator right now.
+
+540
+00:41:53,840 --> 00:41:58,360
+This is the challenge that the data center has created. So for a data center,
+
+541
+00:41:58,400 --> 00:42:02,780
+actual electricity can be more important than the average power prices.
+
+542
+00:42:03,579 --> 00:42:08,300
+And sorry, when I say AI data center created a new party band, I forgot to mention that.
+
+543
+00:42:08,300 --> 00:42:15,500
+So for other heavy energy-intensive industries like steel, aluminum, power prices are a very
+
+544
+00:42:15,500 --> 00:42:17,800
+big component of their daily operation.
+
+545
+00:42:18,059 --> 00:42:22,320
+However, this is not the same thing for data centers.
+
+546
+00:42:22,400 --> 00:42:28,360
+Data centers, comparing to how much they pay for the AI chips, data center power prices
+
+547
+00:42:28,360 --> 00:42:30,960
+are a much smaller fraction of their operating revenues.
+
+548
+00:42:31,219 --> 00:42:38,329
+Also comparing to the features computation for the latest model, power prices are not
+
+549
+00:42:38,329 --> 00:42:45,010
+very big price so they they want like a large reliable uh power in a quick way and they want
+
+550
+00:42:45,010 --> 00:42:51,170
+they're willing to pay pay high right so this is um this is the new situation that the data center
+
+551
+00:42:51,170 --> 00:42:59,190
+has also created so before a grid can manage large laws you must define what a large load is we can
+
+552
+00:42:59,190 --> 00:43:05,070
+see like for a different part of in the u.s then there is some like different local utility have a
+
+553
+00:43:05,070 --> 00:43:11,969
+different standards of these large loads so most of them regard a data center within 25 to 100
+
+554
+00:43:11,969 --> 00:43:19,630
+megawatt as a as large load but some some larger someone someone's threshold are lower these
+
+555
+00:43:19,630 --> 00:43:24,389
+differences matter a project may face very different studies timelines technical requirements
+
+556
+00:43:24,389 --> 00:43:29,849
+depending on location so clear definition and can improve planning and reduce uncertainty
+
+557
+00:43:29,849 --> 00:43:36,530
+certainty for both utilities and customers the rules should also consider more about more than
+
+558
+00:43:36,530 --> 00:43:42,329
+science a low speed for growth location operating pattern ability to disconnect and reduce demand
+
+559
+00:43:42,329 --> 00:43:49,230
+can be equally very important so ai data center likely they they are they are very large and
+
+560
+00:43:49,230 --> 00:43:55,510
+sometimes their demand could fluctuate right so especially for the training training ai training
+
+561
+00:43:55,510 --> 00:44:01,050
+data center so for the inquiring so for like when we use chat dbt or use
+
+562
+00:44:02,869 --> 00:44:09,670
+anthropic when we send a request for them to to generate some some problem
+
+563
+00:44:09,670 --> 00:44:15,969
+and they give us an answer the demand is relatively stable across the day but
+
+564
+00:44:15,969 --> 00:44:19,010
+when for training so when they are training the next generation of the
+
+565
+00:44:19,010 --> 00:44:23,650
+model the power demand could be very concentrated and can can really be
+
+566
+00:44:23,650 --> 00:44:31,119
+shifted so that has so the ability for a data center to change this demand
+
+567
+00:44:31,119 --> 00:44:35,900
+profile crawling to the whole power system has to be identified and we have
+
+568
+00:44:35,900 --> 00:44:41,059
+today I don't have the time to show you but we have a very detailed report to
+
+569
+00:44:41,059 --> 00:44:46,480
+closely look at how the ability of the data center different type of data center not only AI data center
+
+570
+00:44:46,480 --> 00:44:51,440
+there are also other kind of AI data centers how they can respond to this
+
+571
+00:44:51,440 --> 00:44:53,159
+is that it's also very important in the questions.
+
+572
+00:44:55,190 --> 00:44:57,210
+So this chart shows large flow,
+
+573
+00:44:57,289 --> 00:44:58,610
+right through events in ERCO.
+
+574
+00:44:58,909 --> 00:45:00,269
+Right through is just basically
+
+575
+00:45:00,269 --> 00:45:02,630
+when the power system has some problems
+
+576
+00:45:02,630 --> 00:45:05,989
+and then the data center has to use its own resources
+
+577
+00:45:05,989 --> 00:45:07,869
+to go through that very challenging,
+
+578
+00:45:08,309 --> 00:45:11,530
+maybe a few seconds, maybe a few minutes of activities.
+
+579
+00:45:11,949 --> 00:45:12,909
+So during these events,
+
+580
+00:45:13,090 --> 00:45:15,070
+hundreds of megawatts of low sunlight stop
+
+581
+00:45:15,070 --> 00:45:15,989
+using green power,
+
+582
+00:45:16,110 --> 00:45:19,010
+and when some facility continues through this disturbance,
+
+583
+00:45:19,010 --> 00:45:25,409
+A sudden loss of demand can't be as difficult as a sudden loss of the generation.
+
+584
+00:45:26,190 --> 00:45:32,090
+The system frequency can move very quickly, and the other generators must chain up to
+
+585
+00:45:32,090 --> 00:45:32,989
+restore the balance.
+
+586
+00:45:33,210 --> 00:45:38,650
+As the data center becomes larger, one customer can have a very high system-level effect.
+
+587
+00:45:38,949 --> 00:45:46,349
+So before data center, like the other industrial or commercial applications, if some demand
+
+588
+00:45:46,349 --> 00:45:52,110
+dropped like this is only a small change for the system the overall system has a
+
+589
+00:45:52,110 --> 00:45:57,369
+lot higher ability has enough sufficient ability to handle that sudden change of
+
+590
+00:45:57,369 --> 00:46:01,269
+demand however a data center right now we are seeing several hundreds of
+
+591
+00:46:01,269 --> 00:46:06,590
+megawatt or gigawatt size of data center when that size of demand has
+
+592
+00:46:06,590 --> 00:46:13,170
+changed and the system has to have faced a much challenging situation to
+
+593
+00:46:13,170 --> 00:46:19,739
+handle that variation so reliability depends on how this facility could behave during the few
+
+594
+00:46:19,739 --> 00:46:25,360
+seconds when the grid is and it's right so this is also very quite important um this is also the
+
+595
+00:46:25,360 --> 00:46:32,559
+change on that data that i brought to the energy system so the south southwest pool are powerful
+
+596
+00:46:32,559 --> 00:46:38,000
+in australia so this queue for large load has grown very quickly uh in the u.s has changed
+
+597
+00:46:38,000 --> 00:46:44,320
+very quickly requested capacity reached very high level in some years however the sign sign service
+
+598
+00:46:44,320 --> 00:46:49,019
+screen so basically the things that I realize remain much smaller. The gap is
+
+599
+00:46:49,019 --> 00:46:53,519
+very important. It shows strong interest but also shows that many projects are
+
+600
+00:46:53,519 --> 00:46:59,360
+either uncertain or not yet ready. If you tilt your plan for every request, they may
+
+601
+00:46:59,360 --> 00:47:03,079
+build too much infrastructure. If they ignore the queue, as I said before, they
+
+602
+00:47:03,440 --> 00:47:07,360
+may build too little and delay real projects. The answer is better queue
+
+603
+00:47:07,360 --> 00:47:12,500
+management. Projects should provide stronger financial commitment, clear
+
+604
+00:47:12,500 --> 00:47:15,400
+clear development milestone and more accurate operating information.
+
+605
+00:47:16,019 --> 00:47:19,199
+So grid planners also need regular updates.
+
+606
+00:47:19,539 --> 00:47:25,500
+The goal is not to stop new large flows, it is to identify which projects are serious
+
+607
+00:47:25,500 --> 00:47:28,260
+and connect them in a fair and efficient way.
+
+608
+00:47:31,860 --> 00:47:33,000
+And this chart is very interesting.
+
+609
+00:47:33,159 --> 00:47:39,539
+So the left chart shows very different data center load forecast across PGM substations.
+
+610
+00:47:39,920 --> 00:47:44,860
+The south has a strong expected growth, the west grows more steadily, and the east remains
+
+611
+00:47:44,860 --> 00:47:45,579
+means much smaller.
+
+612
+00:47:45,739 --> 00:47:49,300
+The chart on the right shows a large project pipeline,
+
+613
+00:47:49,440 --> 00:47:51,280
+but projects are at different stages,
+
+614
+00:47:51,480 --> 00:47:53,900
+like they are live or ever construction
+
+615
+00:47:53,900 --> 00:47:55,219
+or committed or still early.
+
+616
+00:47:55,460 --> 00:47:58,139
+This means that the main rate is not only high demand,
+
+617
+00:47:58,400 --> 00:48:00,619
+it is the forecast error, right?
+
+618
+00:48:00,780 --> 00:48:03,219
+Some projects may arrive earlier than expected,
+
+619
+00:48:03,480 --> 00:48:05,400
+while others may be built later.
+
+620
+00:48:05,599 --> 00:48:07,659
+So if the forecast is too low,
+
+621
+00:48:07,780 --> 00:48:09,780
+then the region may face reliability problems.
+
+622
+00:48:10,199 --> 00:48:11,280
+If it's too high,
+
+623
+00:48:11,280 --> 00:48:17,480
+customer may pay for unused infrastructure planners need transparent data stage and probability
+
+624
+00:48:17,480 --> 00:48:19,139
+and frequency of broadcast updates.
+
+625
+00:48:19,400 --> 00:48:27,139
+These are mainly like, I think it's like this only happening in an ideal world, like right
+
+626
+00:48:27,139 --> 00:48:33,940
+now we are seeing like people are still arguing whether this is a bubble for the AI, like
+
+627
+00:48:33,940 --> 00:48:37,679
+like we treat this stage of the development,
+
+628
+00:48:38,519 --> 00:48:40,320
+where we would probably compare this
+
+629
+00:48:40,739 --> 00:48:42,579
+with what happened in 2000, right?
+
+630
+00:48:42,659 --> 00:48:43,960
+So the dot-com bubble.
+
+631
+00:48:44,539 --> 00:48:46,780
+And clearly, some of the application,
+
+632
+00:48:47,019 --> 00:48:48,500
+the investment has been inflated,
+
+633
+00:48:48,539 --> 00:48:49,980
+but then we don't really understand
+
+634
+00:48:49,980 --> 00:48:56,239
+when the internet giant like Google and Meta,
+
+635
+00:48:56,239 --> 00:48:59,960
+when their cash flow is more under pressure
+
+636
+00:48:59,960 --> 00:49:04,880
+pressure to continue to advance into this new infrastructure.
+
+637
+00:49:05,260 --> 00:49:09,119
+So basically, some of these strong demand for data center,
+
+638
+00:49:09,260 --> 00:49:10,340
+they may not be realized.
+
+639
+00:49:11,420 --> 00:49:13,320
+I'm not saying like, I'm not trying
+
+640
+00:49:13,320 --> 00:49:15,079
+to forecast whether this will happen
+
+641
+00:49:15,079 --> 00:49:16,380
+or when this will happen.
+
+642
+00:49:16,719 --> 00:49:19,539
+But we're just like, if you are a grid planner,
+
+643
+00:49:19,639 --> 00:49:22,300
+then you'll face a lot of uncertainty in this world.
+
+644
+00:49:22,440 --> 00:49:25,059
+Like a lot of the very long queues
+
+645
+00:49:25,059 --> 00:49:27,360
+that you see in your application lines,
+
+646
+00:49:27,539 --> 00:49:29,000
+they may not turn realized.
+
+647
+00:49:29,000 --> 00:49:34,739
+You know that not all of them will come alive, but you have to plan accordingly, and then
+
+648
+00:49:34,739 --> 00:49:38,179
+you have no clue about how the whole industry is changing.
+
+649
+00:49:38,460 --> 00:49:40,480
+This is a very serious problem.
+
+650
+00:49:40,940 --> 00:49:46,320
+Another thing I want to share with you is that in the U.S., the U.S. and China are the
+
+651
+00:49:46,320 --> 00:49:54,320
+largest AI developing markets, but in the U.S. especially, we see that the power demand
+
+652
+00:49:54,320 --> 00:49:59,800
+the U.S. is very strong and comparing to its historical average is strong in these
+
+653
+00:49:59,800 --> 00:50:05,340
+years, but not all this power demand happened averagely across the nation. It
+
+654
+00:50:05,340 --> 00:50:10,300
+happened only in a few markets. So basically the data center has
+
+655
+00:50:10,300 --> 00:50:14,480
+concentrated in a few areas. This is because like local infrastructure
+
+656
+00:50:14,480 --> 00:50:19,440
+and local personnel has been not really concentrated. So the new data center
+
+657
+00:50:19,440 --> 00:50:22,119
+are likely to concentrate in the worldwide areas,
+
+658
+00:50:22,219 --> 00:50:24,320
+like in Beijing or like in China,
+
+659
+00:50:24,360 --> 00:50:28,300
+like AI applications are likely to either expand
+
+660
+00:50:28,300 --> 00:50:31,320
+in the demand center like in Beijing or in Shanghai
+
+661
+00:50:31,320 --> 00:50:34,679
+or in Guangdong or like in the national data hubs
+
+662
+00:50:34,679 --> 00:50:35,780
+that China has identified.
+
+663
+00:50:36,059 --> 00:50:39,400
+But again, like the new power demands that are created
+
+664
+00:50:40,099 --> 00:50:43,320
+or that are rising in the future are likely to concentrate
+
+665
+00:50:43,320 --> 00:50:44,440
+in the field market.
+
+666
+00:50:44,639 --> 00:50:48,500
+That has triggered, like it create even greater problem
+
+667
+00:50:48,500 --> 00:50:55,480
+problem for the local grid operator because you see tremendous power demand growth in
+
+668
+00:50:55,480 --> 00:50:56,619
+your own markets.
+
+669
+00:50:58,380 --> 00:51:02,519
+So PDM has used demand response for many years.
+
+670
+00:51:02,719 --> 00:51:08,619
+This chart shows committed demand response capacity by delivery by year and by program
+
+671
+00:51:08,619 --> 00:51:08,940
+time.
+
+672
+00:51:09,280 --> 00:51:14,400
+Total participation has remained meaningful, but the mix of the program has changed.
+
+673
+00:51:14,760 --> 00:51:19,440
+Demand response can reduce low during the few hours when the system is under the most
+
+674
+00:51:19,440 --> 00:51:24,239
+pressure. This can lower peak cost and reduce need of extra generation. Data
+
+675
+00:51:24,239 --> 00:51:28,079
+center could become an important new source of these response because they
+
+676
+00:51:28,079 --> 00:51:32,539
+have backup power, they have battery, they have cooling system, and they can
+
+677
+00:51:33,050 --> 00:51:38,400
+sometimes move their mobile computing tasks. However, their actual
+
+678
+00:51:38,400 --> 00:51:43,059
+participation remains very very limited. To create it, market rules must offer
+
+679
+00:51:43,059 --> 00:51:47,900
+clear, valuable, simple management and enough notice. Operators must also understand
+
+680
+00:51:47,900 --> 00:51:50,639
+which part of the data center can reduce the demand safely.
+
+681
+00:51:51,820 --> 00:51:55,559
+So we're seeing this new challenges for the data center
+
+682
+00:51:55,559 --> 00:51:56,639
+and also for the grid operator.
+
+683
+00:51:57,099 --> 00:52:00,159
+So this chart compares the nominate demand supply,
+
+684
+00:52:00,400 --> 00:52:03,440
+demand response capacity by business segment PGM
+
+685
+00:52:03,860 --> 00:52:06,059
+from 2025 to 2026.
+
+686
+00:52:06,500 --> 00:52:07,900
+Industrial manufacturing customer
+
+687
+00:52:07,900 --> 00:52:09,380
+provided by far the largest amount.
+
+688
+00:52:09,539 --> 00:52:13,440
+You can see the very long bar at the bottom.
+
+689
+00:52:13,699 --> 00:52:16,659
+Now this is small compared with their data center
+
+690
+00:52:16,659 --> 00:52:23,739
+only a part of a very very tiny tiny amount of the demand response this this
+
+691
+00:52:23,739 --> 00:52:28,800
+is much smaller comparing to these own capacity so data center operators will
+
+692
+00:52:28,800 --> 00:52:33,820
+protect reliability very carefully so they may be cautious about reading some
+
+693
+00:52:33,820 --> 00:52:37,880
+law but not every activity but by the same level for urgency and some
+
+694
+00:52:37,880 --> 00:52:42,760
+computing tasks can bait move to another location to use to an energy for for a
+
+695
+00:52:42,760 --> 00:52:50,239
+short time. So again like the method is like we need to study this as the AI data center
+
+696
+00:52:50,239 --> 00:52:59,769
+become a much important source of the demand. Okay, part four. I know you have been tired
+
+697
+00:52:59,769 --> 00:53:05,530
+of part four classes. We see how the power market, how the market should respond. So
+
+698
+00:53:05,530 --> 00:53:12,329
+we have now seen three major changes. So energy security and renewable energy and data center
+
+699
+00:53:12,329 --> 00:53:17,449
+changing the supply demand policy and everything. The goal is to simply, the
+
+700
+00:53:17,449 --> 00:53:28,139
+power market reform must respond to all problems. Markets must need to reward energy
+
+701
+00:53:28,139 --> 00:53:32,039
+when it's needed, capacity when the system is tight, and flexibility when
+
+702
+00:53:32,039 --> 00:53:36,119
+conditions are changing, and reliability when unexpected events occur. They must also
+
+703
+00:53:36,119 --> 00:53:40,320
+support the clean energy transition without hiding real system costs. In this
+
+704
+00:53:40,320 --> 00:53:47,860
+section, we'll discuss several of these new changes. So future markets need to
+
+705
+00:53:47,860 --> 00:53:52,300
+recognize five different sources of value. First is energy, producing energy when
+
+706
+00:53:52,300 --> 00:53:57,219
+customers need it. Second one is capacity, being available during the time period.
+
+707
+00:53:57,519 --> 00:54:01,800
+The third is flexibility, changing output or demand quickly. Fourth is location,
+
+708
+00:54:02,239 --> 00:54:07,000
+providing power to support when the grid needs it. The fifth is a
+
+709
+00:54:07,000 --> 00:54:12,360
+clean, resilient network of resources. No single market tool can perceive all
+
+710
+00:54:12,360 --> 00:54:18,960
+these five forces together so we need not only a single market design or tools we need a combination
+
+711
+00:54:18,960 --> 00:54:27,070
+of them and we need a different combination for different markets so first of all we we you know
+
+712
+00:54:27,070 --> 00:54:32,909
+it seems like right now like more markets are accepting the small market so if you follow
+
+713
+00:54:32,909 --> 00:54:37,489
+china's latest remind me the past two years in china's the small market has suspended much
+
+714
+00:54:37,489 --> 00:54:43,570
+much better combination but small problem as well power prices could indicate how when the power
+
+715
+00:54:43,570 --> 00:54:51,880
+should be produced what the power price is high during during the day but it is um you can see
+
+716
+00:54:51,880 --> 00:54:58,880
+that the power price fluctuate or changes very quickly the low price and the high price also
+
+717
+00:54:58,880 --> 00:55:04,920
+across the year it has changed differently but so the basic design principle is simple right so
+
+718
+00:55:04,920 --> 00:55:08,760
+so enterprises should get dispatched within a day.
+
+719
+00:55:08,960 --> 00:55:12,400
+But while capacity payment is also needed
+
+720
+00:55:12,400 --> 00:55:14,360
+to support reliability supply in the future,
+
+721
+00:55:14,440 --> 00:55:17,300
+so these are two different, very different market design.
+
+722
+00:55:17,719 --> 00:55:19,400
+The two signals should work together
+
+723
+00:55:19,400 --> 00:55:21,639
+and should not remove the value of flexibility
+
+724
+00:55:21,639 --> 00:55:23,940
+and efficient risk management.
+
+725
+00:55:29,369 --> 00:55:31,570
+Left chart, but like basically many countries
+
+726
+00:55:31,570 --> 00:55:33,650
+expanding capacity mechanism,
+
+727
+00:55:34,510 --> 00:55:38,570
+but their cost and design are very, very rapidly.
+
+728
+00:55:38,570 --> 00:55:43,670
+The chart on the left compares the value of capacity payment with average annual generation.
+
+729
+00:55:43,949 --> 00:55:48,130
+Some markets pay much more than others for each energy produced.
+
+730
+00:55:48,409 --> 00:55:56,659
+Basically, the current, the traditional capacity market is, um, um, yearly in many markets
+
+731
+00:55:56,659 --> 00:56:02,179
+pay much more to, to coal and, or, or gas, they probably pay much more than that.
+
+732
+00:56:02,260 --> 00:56:07,360
+If it's not designed properly, then they will pay much more to the, to the generation, but
+
+733
+00:56:07,360 --> 00:56:13,360
+But some markets pay more than this, and the chart on the right shows that most concentrated
+
+734
+00:56:13,360 --> 00:56:18,599
+capacity has historically come from existing plants, although new built capacity is increasing
+
+735
+00:56:18,599 --> 00:56:20,320
+in some recent options.
+
+736
+00:56:20,559 --> 00:56:26,360
+This creates important questions on customers paying for the capacity they need, or new
+
+737
+00:56:30,110 --> 00:56:35,690
+flexible and low carbon resources are able to compete fairly with coal and gas.
+
+738
+00:56:35,690 --> 00:56:38,869
+does this mechanism support the right location and performance?
+
+739
+00:56:39,289 --> 00:56:43,269
+The good capacity market should buy a clear reliable product,
+
+740
+00:56:43,510 --> 00:56:46,530
+allow technology competition, set strong delivery rules,
+
+741
+00:56:46,690 --> 00:56:50,269
+and avoid keeping the inefficient asset for longer than needed.
+
+742
+00:56:50,889 --> 00:56:54,550
+These are all the new questions that the policy makers are facing.
+
+743
+00:56:54,989 --> 00:56:59,690
+Long-term contracts can reduce financing risk for low energy products.
+
+744
+00:57:00,269 --> 00:57:04,349
+The chart on the left shows strong growth in the corporate procurement,
+
+745
+00:57:04,349 --> 00:57:10,449
+a purchase agreement through PPA through 2004, followed by some decline in 2005.
+
+746
+00:57:11,409 --> 00:57:20,210
+These contracts give a protect for more stable revenue and give a buyer more predictable
+
+747
+00:57:20,210 --> 00:57:20,889
+energy cost.
+
+748
+00:57:21,449 --> 00:57:26,869
+The chart on the right shows how European Guaranty of Energy, the GEO, have moved sharply
+
+749
+00:57:26,869 --> 00:57:30,570
+in price and then failed to very low levels.
+
+750
+00:57:30,570 --> 00:57:35,449
+These are the other tools, like market tools, that can support long-term
+
+751
+00:57:35,449 --> 00:57:40,409
+investment for renewable or for the whole power system. This reminds us that the
+
+752
+00:57:40,409 --> 00:57:44,190
+environment certificate alone may not provide stable investment support. Long-term
+
+753
+00:57:44,190 --> 00:57:50,309
+contracts, and they do. This is a very effective tool to guarantee for long
+
+754
+00:57:50,309 --> 00:57:57,179
+long-term, like long commitment for the investment. The best contract
+
+755
+00:57:57,179 --> 00:58:01,960
+to reduce uncertainty and risk while keeping incentive for efficient operation and useful
+
+756
+00:58:01,960 --> 00:58:10,119
+investment because PPAs also like long-term or even CFDs either through price negotiation
+
+757
+00:58:11,880 --> 00:58:20,590
+or like auctions could significantly reduce the cost of the future supply and this is about China
+
+758
+00:58:20,590 --> 00:58:27,230
+has already shared with you China has been adding a lot more wind and solar in the system so by the
+
+759
+00:58:27,230 --> 00:58:29,409
+the first half of this year, we have more solar,
+
+760
+00:58:29,469 --> 00:58:32,409
+more renewable comparing to coal.
+
+761
+00:58:32,869 --> 00:58:35,909
+Lately, in this year, even solar itself
+
+762
+00:58:36,369 --> 00:58:38,190
+has a higher capacity comparing to coal.
+
+763
+00:58:38,449 --> 00:58:40,550
+And on the right-hand chart, you can see
+
+764
+00:58:40,550 --> 00:58:43,010
+that the penetration of treated power.
+
+765
+00:58:43,250 --> 00:58:47,010
+Treated power means like the power that is actually
+
+766
+00:58:47,010 --> 00:58:50,690
+treated in the market either through a long-term contract
+
+767
+00:58:51,349 --> 00:58:54,250
+or through a small market, they're rising very quickly.
+
+768
+00:58:54,250 --> 00:59:00,889
+And last year, 2005, China has managed to make all the wind and solar to sell in the
+
+769
+00:59:01,369 --> 00:59:01,849
+market.
+
+770
+00:59:02,050 --> 00:59:04,369
+Before that, they are shielded from the market.
+
+771
+00:59:04,710 --> 00:59:07,809
+Mostly it was the coal that has entered the power market.
+
+772
+00:59:07,989 --> 00:59:11,030
+But last year, they have put wind and solar into the market.
+
+773
+00:59:11,230 --> 00:59:22,519
+It has, of course, increased the share of the trade volume, but also, it has some changes
+
+774
+00:59:22,519 --> 00:59:30,639
+changes the return expectation for wind and solar and also change the investment pattern.
+
+775
+00:59:35,179 --> 00:59:41,099
+So APAC economies have very different resources, market structure, and stages of development.
+
+776
+00:59:41,559 --> 00:59:46,059
+Japan's long-term decarbonization auction is shown on the left, support different technology
+
+777
+00:59:46,059 --> 00:59:48,820
+and has very different big success.
+
+778
+00:59:49,460 --> 00:59:54,019
+The chart on the right shows that four-hour battery in Italy and Greece depend on different
+
+779
+00:59:54,019 --> 00:59:57,840
+revenue sources including capacity payment arbitrage and storage support
+
+780
+00:59:57,840 --> 01:00:02,820
+these examples show why one market template will not work everywhere
+
+781
+01:00:02,820 --> 01:00:06,980
+however common principle are possible rules should be transparent service
+
+782
+01:00:06,980 --> 01:00:12,639
+should be clearly defined technology should compete when possible investors
+
+783
+01:00:12,639 --> 01:00:17,340
+should receive stable signal but they should also face performance requirement
+
+784
+01:00:17,340 --> 01:00:21,880
+constant risk should be shared fairly impact cooperation can focus on these
+
+785
+01:00:21,880 --> 01:00:26,900
+principles share and learn I think this is a very good chance for us to present
+
+786
+01:00:26,900 --> 01:00:31,340
+these findings to you but also a great chance for all of you to communicate
+
+787
+01:00:31,340 --> 01:00:37,579
+like how this could accelerate to enhance energy security and also accelerate the
+
+788
+01:00:37,579 --> 01:00:45,949
+clean transition. Now let's move to the final message of this presentation
+
+789
+01:00:45,949 --> 01:00:50,230
+the global energy transition is continuing but is entering more
+
+790
+01:00:50,230 --> 01:00:51,110
+more difficult stages.
+
+791
+01:00:51,590 --> 01:00:53,210
+Geopolitical risk, trade barrier,
+
+792
+01:00:53,409 --> 01:00:54,630
+physical and cyber attacks,
+
+793
+01:00:54,829 --> 01:00:56,750
+are making energy security more important.
+
+794
+01:00:57,070 --> 01:00:58,329
+At the same time, more than solar
+
+795
+01:00:58,329 --> 01:00:59,510
+are changing power prices
+
+796
+01:00:59,510 --> 01:01:02,750
+and creating a greater need for flexibility.
+
+797
+01:01:03,289 --> 01:01:05,590
+Data centers are bringing new demand to the markets
+
+798
+01:01:05,590 --> 01:01:06,909
+and must value more,
+
+799
+01:01:08,670 --> 01:01:11,449
+but also uncertainty and sustainability risk.
+
+800
+01:01:11,809 --> 01:01:14,510
+These changes will all point to one conclusion.
+
+801
+01:01:15,110 --> 01:01:17,869
+Future power market must value more than
+
+802
+01:01:17,869 --> 01:01:23,070
+value more than energy alone they must reward capacity, flexibility, location,
+
+803
+01:01:23,389 --> 01:01:28,369
+reliability, resilience, and the clean attribute. The right answer will differ
+
+804
+01:01:28,369 --> 01:01:31,909
+across the countries but the goal is the same, a power system that is clean,
+
+805
+01:01:31,989 --> 01:01:37,920
+affordable, secure, and ready to change. So we talked about a lot about energy
+
+806
+01:01:37,920 --> 01:01:42,860
+security, the cost, the supply chain security, but I also remind you that
+
+807
+01:01:42,860 --> 01:01:49,880
+climate, physical impacts will get even worse. It is still a threat that we can
+
+808
+01:01:49,880 --> 01:01:53,900
+hide to see, we can blind our eyes and say okay this is not a problem, this is not the
+
+809
+01:01:53,900 --> 01:01:58,420
+immediate risk, but this is a risk that we cannot avoid. This chart shows long-term
+
+810
+01:01:58,420 --> 01:02:02,880
+rise in annual global climate change. The exact amount changes from year to year,
+
+811
+01:02:03,000 --> 01:02:07,059
+but the direction is very clear. Physical climate change are becoming
+
+812
+01:02:07,059 --> 01:02:12,340
+larger and more expensive. Heat, floods, storms, drought, and wildfire can damage power
+
+813
+01:02:12,340 --> 01:02:14,000
+power plants, network, fuel supply,
+
+814
+01:02:14,139 --> 01:02:16,139
+building and transport system.
+
+815
+01:02:16,780 --> 01:02:18,900
+You can see it like in Europe and the US,
+
+816
+01:02:19,119 --> 01:02:24,300
+a very big reason to support the like rooftop solar
+
+817
+01:02:24,300 --> 01:02:26,239
+and battery, whole battery systems
+
+818
+01:02:26,239 --> 01:02:28,440
+like the reliability issues.
+
+819
+01:02:28,780 --> 01:02:31,039
+Although they, for a lot of the market
+
+820
+01:02:31,039 --> 01:02:33,739
+and with these natural disaster disruptive
+
+821
+01:02:34,420 --> 01:02:37,840
+normal power supply, the time to restore the service
+
+822
+01:02:37,840 --> 01:02:39,480
+is quite long and unpredicted.
+
+823
+01:02:39,699 --> 01:02:41,500
+So that is why a lot of the European
+
+824
+01:02:41,500 --> 01:02:45,400
+and also U.S., and also in APEC countries,
+
+825
+01:02:45,559 --> 01:02:47,099
+a lot of the customers are building
+
+826
+01:02:47,099 --> 01:02:48,940
+their own power supply system.
+
+827
+01:02:49,300 --> 01:02:52,000
+So we see the real challenge that they face,
+
+828
+01:02:52,000 --> 01:02:54,619
+and this is real, and they can also increase
+
+829
+01:02:54,619 --> 01:02:56,059
+in electricity amount of time,
+
+830
+01:02:57,000 --> 01:03:00,949
+especially during this extreme heat wave.
+
+831
+01:03:01,369 --> 01:03:02,849
+Like China has a prediction,
+
+832
+01:03:03,070 --> 01:03:05,210
+like according to our previous experience,
+
+833
+01:03:05,449 --> 01:03:09,750
+every one degree peak, like a high temperature increase
+
+834
+01:03:09,750 --> 01:03:15,809
+In the summer, we will create 40 or 50 gigawatt peak load every day, so that's a very high
+
+835
+01:03:15,809 --> 01:03:16,030
+demand.
+
+836
+01:03:16,409 --> 01:03:21,849
+So we don't know when this, how much the power and the electricity demand will rise
+
+837
+01:03:21,849 --> 01:03:28,289
+according to the very extreme web dependence, so the system operator will need a higher
+
+838
+01:03:28,289 --> 01:03:34,389
+margin of the capacity to be able to support, and that means a lot more investment, and
+
+839
+01:03:34,389 --> 01:03:36,849
+that means the customer, everyone will pay a lot more.
+
+840
+01:03:36,849 --> 01:03:43,289
+And also something very ironic, like to prepare for this,
+
+841
+01:03:43,309 --> 01:03:44,929
+you're only the backup power in China
+
+842
+01:03:44,929 --> 01:03:46,769
+or in other parts of the world, fossil fuel.
+
+843
+01:03:47,010 --> 01:03:51,090
+Like during the hot summer, you see this loop, right?
+
+844
+01:03:51,230 --> 01:03:54,489
+So because of the hot weather, we use more air condition,
+
+845
+01:03:54,690 --> 01:03:57,050
+we use more power, and we use more coal power.
+
+846
+01:03:57,269 --> 01:04:00,650
+We burn more coal, and there's more carbon dioxide,
+
+847
+01:04:00,650 --> 01:04:03,889
+and that creates even more unpredictable weather patterns.
+
+848
+01:04:04,030 --> 01:04:05,869
+So we need to break this loop eventually,
+
+849
+01:04:05,869 --> 01:04:10,889
+and that needs a combination not only about technology breakthrough but also
+
+850
+01:04:10,889 --> 01:04:19,230
+like all these changes that I have shared with you earlier. So planning should
+
+851
+01:04:19,230 --> 01:04:22,969
+include stronger equipment, better location choices, and more emergency
+
+852
+01:04:22,969 --> 01:04:32,039
+supply, faster recovery, and clear climate risk information. And the energy
+
+853
+01:04:32,039 --> 01:04:35,579
+transition is already receiving a very large amount of investment but the
+
+854
+01:04:35,579 --> 01:04:40,179
+current spending is still below than the level and that we sought to achieve
+
+855
+01:04:40,179 --> 01:04:47,639
+Paris agreement. The chart on the left shows how about 2.3 trillion
+
+856
+01:04:47,639 --> 01:04:51,760
+dollars of investment in 2025. In the ETF economic transition scenario,
+
+857
+01:04:51,940 --> 01:04:58,099
+annual investment need to rise about to 3.1 trillion dollars from 2026 to 2030 and
+
+858
+01:04:58,099 --> 01:05:03,840
+increase roughly one-third. It then rises again to about 3.7 trillion dollars from
+
+859
+01:05:03,840 --> 01:05:05,500
+from 2031 to 2035.
+
+860
+01:05:06,420 --> 01:05:08,840
+Then, as you ask, net zero scenario,
+
+861
+01:05:08,980 --> 01:05:10,920
+the scenario that you achieve Paris Agreement
+
+862
+01:05:10,920 --> 01:05:11,800
+require even more.
+
+863
+01:05:12,019 --> 01:05:14,440
+The key question is not only how to spend more,
+
+864
+01:05:14,500 --> 01:05:18,289
+it's also how to lower the total system cost.
+
+865
+01:05:18,750 --> 01:05:20,469
+Economy that combine cheap generation
+
+866
+01:05:20,789 --> 01:05:22,929
+with efficient grid, flexibility, finance,
+
+867
+01:05:23,150 --> 01:05:23,909
+and good market design,
+
+868
+01:05:24,150 --> 01:05:26,429
+will have the strongest competitive advantage.
+
+869
+01:05:26,750 --> 01:05:29,070
+And like, we have been doing this exercise
+
+870
+01:05:29,070 --> 01:05:30,489
+for more than a decade,
+
+871
+01:05:30,650 --> 01:05:33,070
+and we see like, every year we see like,
+
+872
+01:05:33,070 --> 01:05:37,010
+there's a closing time window for to achieve Paris agreement but we see like
+
+873
+01:05:37,010 --> 01:05:43,449
+the investment is not enough so far so to create new changes but at the same
+
+874
+01:05:43,449 --> 01:05:48,190
+time we're seeing more trade barrier geopolitical issues and that also this
+
+875
+01:05:48,190 --> 01:05:54,090
+is also not very good loop for all the economies of people the nation every
+
+876
+01:05:54,090 --> 01:05:59,670
+nations are playing more interest or focus on their own energy security their
+
+877
+01:05:59,670 --> 01:06:05,570
+supply chain security that actually create more challenges that won't solve
+
+878
+01:06:05,570 --> 01:06:09,670
+this global problem that we face together and this is also a real
+
+879
+01:06:09,670 --> 01:06:16,610
+challenge that we face. So this slide compares investment in energy supply with
+
+880
+01:06:16,610 --> 01:06:23,230
+energy demand. Supply side investment is larger and includes
+
+881
+01:06:23,230 --> 01:06:27,170
+renewable energy, grid storage, nuclear, carbon capture, hydrogen and other
+
+882
+01:06:27,170 --> 01:06:32,630
+infrastructure. But demand is also very close to one trillion dollars. It
+
+883
+01:06:32,630 --> 01:06:36,469
+includes transport efficient building, clean heating, and clean
+
+884
+01:06:36,469 --> 01:06:39,949
+industry. This matters because the transition cannot succeed by changing
+
+885
+01:06:39,949 --> 01:06:44,929
+supply and loan. If demand remains inefficient and inflexible, the system will need more
+
+886
+01:06:44,929 --> 01:06:50,690
+generation, more network. We can see that, like, electric vehicle is a very good
+
+887
+01:06:50,690 --> 01:06:55,610
+example. Like, we see the rise of electric vehicles in China. I'm not sure
+
+888
+01:06:55,610 --> 01:07:01,690
+how you travel from the airport or train station to hotel if you take a taxi very likely you are
+
+889
+01:07:01,690 --> 01:07:07,050
+getting into like vehicles the adoption electric vehicle in china is very quick it's not only i
+
+890
+01:07:07,050 --> 01:07:10,610
+want to say it's not only about subsidy the chinese government has provided it's also
+
+891
+01:07:10,610 --> 01:07:16,690
+about the supply like the automakers there china has already encouraged new new commerce to the
+
+892
+01:07:16,690 --> 01:07:24,429
+auto maker for the industry and you can see new brands are emerging very fast they're bringing
+
+893
+01:07:24,429 --> 01:07:29,429
+more than 1,000 models last year to an electrical model to the market. This is
+
+894
+01:07:29,429 --> 01:07:34,530
+really changing the game. In the US and Europe and other parts of the APAC
+
+895
+01:07:34,530 --> 01:07:39,429
+country, I think the automakers are still very limited, at least the incumbent. And these
+
+896
+01:07:39,429 --> 01:07:43,849
+traditional incumbent automakers, they are very slow to rank. They have their own
+
+897
+01:07:43,849 --> 01:07:49,489
+struggle to promote their own electrical models. They have the ability to build, to
+
+898
+01:07:49,489 --> 01:07:53,590
+promote, but actually that will change their own existing very cash
+
+899
+01:07:53,590 --> 01:07:59,369
+cash call of your gasoline cars I think are so that is a problem so this is a
+
+900
+01:07:59,369 --> 01:08:03,710
+very clear example like if we want to electrify the transport quickly then
+
+901
+01:08:03,710 --> 01:08:09,670
+they need to to the market market design the industry policy is very important
+
+902
+01:08:09,670 --> 01:08:20,500
+and like to add this at this presentation with a small image again
+
+903
+01:08:20,500 --> 01:08:25,579
+yeah so uncertain time we need to look at our feet and the horizon looking at
+
+904
+01:08:25,579 --> 01:08:31,380
+a fee means managing today's rates, fee shocks, grid congestion, cyber threat, connection queues,
+
+905
+01:08:31,420 --> 01:08:36,539
+and price volatility. Looking at the horizon means continuing toward a cleaner, more secure,
+
+906
+01:08:36,680 --> 01:08:41,260
+and more efficient energy system. We should not depend on one forecast, one technology,
+
+907
+01:08:41,359 --> 01:08:47,640
+or one market tool. Optionality has its own value. A diverse mix of supply, flexible demand,
+
+908
+01:08:47,880 --> 01:08:53,720
+storage network, and contract give the system more ways to respond and more conditions to change.
+
+909
+01:08:53,720 --> 01:08:57,180
+The future will not only follow my straight line,
+
+910
+01:08:57,319 --> 01:08:59,579
+the best strategy is to keep moving forward
+
+911
+01:08:59,579 --> 01:09:01,319
+while preserving enough flexibility
+
+912
+01:09:01,319 --> 01:09:02,439
+to choose a better path.
+
+913
+01:09:02,699 --> 01:09:05,619
+All right, my presentation is just done.
+
+914
+01:09:05,659 --> 01:09:06,680
+I'm here, thank you all.
+
+915
+01:09:10,760 --> 01:09:11,279
+Thanks.
+
+916
+01:09:11,340 --> 01:09:12,319
+We still got time.
+
+917
+01:09:13,100 --> 01:09:14,380
+Anybody have a question?
+
+918
+01:09:14,619 --> 01:09:18,800
+You can raise your hand for this, for Dr. Ko.
+
+919
+01:09:20,279 --> 01:09:20,539
+Question?
+
+920
+01:09:22,220 --> 01:09:23,659
+Okay, no question.
+
+921
+01:09:23,899 --> 01:09:27,359
+Ladies and gentlemen, this concludes our morning sessions.
+
+922
+01:09:27,359 --> 01:09:29,319
+we appreciate the
+
+923
+01:09:29,319 --> 01:09:31,159
+excellent lecture delivered by
+
+924
+01:09:31,159 --> 01:09:33,279
+Dr. Ke Nan Nan. My name is
+
+925
+01:09:33,279 --> 01:09:35,380
+Ray, the class advisor of
+
+926
+01:09:35,380 --> 01:09:37,279
+this training program. If you have
+
+927
+01:09:37,279 --> 01:09:38,619
+any assistance in the
+
