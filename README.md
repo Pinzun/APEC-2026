@@ -119,7 +119,5 @@ Cada archivo procesado genera cuatro outputs en `data/processed/<nombre>/`:
 ---
 
 ## Notas
-
-- Las grabaciones corresponden al 15 de agosto de 2026. Varios audios de una misma lecture se grabaron en partes debido a interrupciones; el match entre archivos y lectures se realizó por análisis de contenido cruzado con las PPT.
 - `data/raw/` está excluido de git por tamaño. Las transcripciones procesadas en `data/processed/` sí están versionadas.
 - Las PPT originales están en `data/ppt/` en formato ZIP (las distribuyó la organización como archivos compuestos de imágenes + texto extraído por slide).
